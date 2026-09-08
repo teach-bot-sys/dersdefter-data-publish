@@ -30,3 +30,25 @@ Bu repo artık iki katmanla düşünülmeli:
 python3 scripts/publish/build_public.py
 python3 scripts/audit/validate_public.py
 ```
+
+## XLSX yıllık plan yayını
+
+Yeni dönem XLSX arşivi, eski `public/plans/` dosyalarını silmeden versioned JSON olarak yayımlanır:
+
+```bash
+python3 -m pip install -r requirements.txt
+python3 scripts/import/import_yearly_plan_xlsx.py \
+  --source '/Users/fatihkorkmaz/Desktop/2026-2027 yıllık planı' \
+  --period 2026-2027 \
+  --expected-plans 1696 \
+  --expected-rows 69555
+python3 scripts/audit/validate_public.py \
+  --period 2026-2027 \
+  --expected-plans 1696 \
+  --expected-rows 69555 \
+  --check-xlsx
+```
+
+- `archive/<dönem>/xlsx/<id>.xlsx`: SHA-256 manifestli kaynak arşiv
+- `public/years/<dönem>/`: uygulamanın dönem bazlı JSON yayını
+- `public/index.json`: eski uygulamalar için güncel dönem giriş noktası

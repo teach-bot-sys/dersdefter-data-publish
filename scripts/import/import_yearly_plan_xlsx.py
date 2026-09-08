@@ -442,7 +442,10 @@ def run_import(source_root: Path, period: str, expected_plans: int, expected_row
 
         index_entries.sort(key=lambda item: (0 if item["sinif"] == "Hazırlık" else int(item["sinif"]), item["ders"], item["id"]))
         manifest_entries.sort(key=lambda item: item["id"])
-        generated_at = datetime.now(timezone.utc).isoformat()
+        generated_at = datetime.fromtimestamp(
+            max(path.stat().st_mtime for path in workbooks),
+            timezone.utc,
+        ).isoformat()
         index_payload = {
             "surum": 2,
             "egitim_yili": period,

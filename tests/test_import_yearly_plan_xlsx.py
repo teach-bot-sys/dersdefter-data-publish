@@ -100,6 +100,27 @@ class ImportYearlyPlanTests(unittest.TestCase):
             with self.assertRaisesRegex(MODULE.ImportValidationError, "XLSX açılamadı"):
                 MODULE.import_workbook(path, root, "2026-2027")
 
+    def test_unchanged_source_is_idempotent(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "source"
+            source.mkdir()
+            create_workbook(source / "plan.xlsx")
+            old_root = MODULE.REPO_ROOT
+            try:
+                MODULE.REPO_ROOT = root / "repo"
+                MODULE.PUBLIC_DIR = MODULE.REPO_ROOT / "public"
+                MODULE.ARCHIVE_DIR = MODULE.REPO_ROOT / "archive"
+                MODULE.run_import(source, "2026-2027", 1, 1)
+                first = (MODULE.PUBLIC_DIR / "years" / "2026-2027" / "index.json").read_bytes()
+                MODULE.run_import(source, "2026-2027", 1, 1)
+                second = (MODULE.PUBLIC_DIR / "years" / "2026-2027" / "index.json").read_bytes()
+                self.assertEqual(first, second)
+            finally:
+                MODULE.REPO_ROOT = old_root
+                MODULE.PUBLIC_DIR = old_root / "public"
+                MODULE.ARCHIVE_DIR = old_root / "archive"
+
 
 if __name__ == "__main__":
     unittest.main()

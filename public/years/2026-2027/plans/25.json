@@ -1,0 +1,750 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Matematik (Mesem)",
+  "grup": "Kültür Dersleri",
+  "brans": "Matematik",
+  "sistem": "Maarif",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/matematik/25/matematik-mesem-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "a: Doğrusal referans fonksiyonun nitel özelliklerini (tanım kümesi, görüntü kümesi, işareti, artanlığı-azalanlığı, maksimum-minimum noktaları, sıfırları, bire birliği) matematiksel temsilleri kullanarak belirler.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "b: Doğrusal referans fonksiyonun nitel özellikleri ile matematiksel temsilleri arasında ki ilişkileri belirler.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Doğrusal referans fonksiyonu grafik veya cebirsel temsili üzerinde yapılan işlemler le diğer doğrusal fonksiyonlara dönüştürür.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ç: Doğrusal referans fonksiyon ile elde ettiği doğrusal fonksiyonların grafik ve cebirsel temsilleri arasındaki ilişkiyi ifade eder.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "d: Doğrusal referans fonksiyonun nitel özelliklerinden hareketle diğer doğrusal fonksi yonların nitel özelliklerine ilişkin varsayımlarda bulunur.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "e: Varsayımlarına dayalı olarak doğrusal fonksiyonların nitel özelliklerine ilişkin örün tüleri (cebirsel, sayısal veya grafiksel) geneller.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "f: Genellemelerinin varsayımlarını karşılayıp karşılamadığını kontrol eder.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "g: Genellemelerinden elde ettiği önermeleri uygun sözel veya sembolik dil ile sunar.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ğ: Elde ettiği önermelerin gerçek yaşam bağlamındaki kullanışlılığını değerlendirir.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "h: Önermelerini grafiksel olarak doğrular veya cebirsel olarak ispatlar.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.1.Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğ rusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ı: İşe koştuğu doğrulama veya ispat yöntemlerinin farklı durumlardaki kullanışlılığını değerlendirir.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "a: Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyon ile g(x) = ± |x| f onksiyonu arasındaki ve gerçek sayılarda tanımlı bir h doğrusal fonksiyonu ile k (x) = ± |h(x)| ± c (c ∈ℝ) şeklinde tanımlı mutlak değer fonksiyonu arasındaki cebirsel ve grafiksel benzerlikleri, farklılıkları gözlemler.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "b: Gözlemlerinden yola çıkarak gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun nitel özelliklerini tespit eder.",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Okul Temelli Planlama",
+      "KONU": "Okul Temelli Planlama",
+      "KAZANIM": "Okul Temelli Planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Okul Temelli Planlama",
+        "Okul Temelli Planlama": "Okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb. çalışmaları kapsamaktadır. Çalışmalar için ayrılan süre eğitim-öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "NİCELİKLER VE DEĞİŞİMLER",
+      "KONU": "Gerçek Sayılarda Tanımlı Doğrusal Fonksiyonlar ve Mutlak Değer Fonksiyonlarının Nitel Özellikleri, Doğrusal Fonksiyonlarla İfade Edilen Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.11.1.2.\nDoğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikler içeren problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.2.\nİş Birliği\nSDB3.2.\nEsneklik",
+      "OB": "OB2.\nDijital Okuryazarlık\nOB3.\nFinansal Okuryazarlık\n0B7.\nVeri Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Tespit ettiği nitel özelliklerinden hareketle gerçek sayılarda f(x) = ± |ax ± b| ± c (a, b, c ∈ ℝ, a ≠ 0) şeklinde tanımlı mutlak değer fonksiyonunun parçalı gösterimine yönelik çıkarımlarda bulunur. 51 ORTAÖĞRETİM MATEMATİK DERSİ ÖĞRETİM PROGRAMI",
+        "Alan Becerileri": "MAB1.\nMatematiksel Muhakeme\nMAB2.\nMatematiksel Problem Çözme",
+        "Kavramsal Beceriler": "KB2.16.3.\nAnalojik Akıl Yürütme",
+        "Değerler": "D16.\nSorumluluk\nD17.\nTasarruf\nD20.\nYardımseverlik",
+        "Ölçme": "Öğrenme çıktıları; çalışma kâğıdı, açık uçlu sorular, araştırma ödevi, performans görevi ve proje ödevi ile değerlendirilebilir. Öğrencilerden grafik temsili verilen bir doğrusal fonksiyona uygulanabilen dönüşümlerin sonuçlarını içeren bir performans görevi hazırlamaları istenebilir . Hazırlanan performans görevi, analitik dereceli puanlama anahtarı ile değerlendirilebilir. Çalışma kâğıdı kullanılarak öğrencilerin doğrusal fonksiyonların nitel özellikleriyle mate matiksel temsilleri arasında kurulan ilişkilere yönelik matematiksel doğrulama yapmaları istenebilir . Çalışma kâğıdında ortaya çıkan sonuçlar, analitik dereceli puanlama anahtarı kullanılarak değerlendirebilir. Öğrencilere gerçek yaşam durumlarında mutlak değer fonksiyonu ile modellenebilen ör neklerin belirlenmesine yönelik bir araştırma ödevi verilebilir . Verilen araştırma ödevi, içe rik ve sunum süreçlerini içeren derecelendirme ölçeğiyle değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmayı gerektiren gerçek yaşam problemlerinde öğrencilerin problemi matematiksel temsillere dönüştüre bilmelerini, uygun çözüm stratejileri oluşturabilmelerini, çözümlerini kontrol edip yansıta bilmelerini değerlendirmek amacıyla öğrencilere performans görevi verilebilir. Bu perfor mans görevi, analitik dereceli puanlama anahtarı kullanılarak değerlendirilebilir. Doğrusal fonksiyonlarla ifade edilebilen denklem ve eşitsizlikleri kullanmak amacıyla öğrencilere gerçek yaşam problemlerinden yola çıkarak olası tüm çözüm stratejilerini incelemelerini, çözüme ulaşan stratejiyi genelleyebilmelerini, elde edilen sonuçları de ğerlendirerek matematiksel modelleme yapabilmelerini sağlamaya yönelik proje ödevi verilebilir . Bu ödevin değerlendirilmesinde projeyi hazırlama, içerik ve sunum süreçlerini de içeren derecelendirme ölçeği hazırlanabilir.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için strateji oluşturur.\ne)\nBelirlediği stratejiyi kullanarak problemi çözer.\nf)\nElde ettiği çözümü uygun yöntemleri seçerek doğrular.\ng)\nProblemin olası çözüm stratejilerini gözden geçirir.\nğ)\nProblemin olası çözüm stratejilerine dayalı olarak çıkarımlar yapar.\nh)\nÇıkarımlarının geçerliliğini sözel, cebirsel ve grafiksel argümanlarla değerlendirir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "a: İki kategorik değişkenli veriye dayalı, istatistiksel araştırma gerektiren gerçek ya şam durumlarını belirler.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "b: Bağlam içerisinde iki kategorik değişken arasındaki ilişkililiğe odaklanan araştırma soruları oluşturur.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: İki kategorik değişkenli veri toplamak/elde etmek için plan yapar.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ç: İki kategorik değişkenli verileri toplayarak/elde ederek analize hazırlar.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "d: Araştırma sorusu bağlamında toplanan/elde edilen iki kategorik değişkenli verileri analiz etmek için görselleştirme ve/veya özetleme (toplam satır veya sütunlardaki göreli sıklıkları gösteren iki yönlü tablo, koşullu göreli sıklıkları gösteren sütun gra fikleri, koşullu göreli sıklıklar gibi) araçlarından uygun olanı seçer.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "e: Araştırma sorusu bağlamında toplanan/elde edilen verileri belirlediği araçlarla ana liz eder.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "f: İki kategorik değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan hareketle elde edilen bulguları yorumlayarak sonuç çıkarır.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.1.İki kategorik değişkenli veri ile çalışabilme ve iki kategorik değişken arasında ki ilişkililiğe dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "g: İki kategorik değişkenli veri dağılımlarına dayalı istatistiksel araştırmadan hareket le elde edilen sonuçları araştırma sorusu bağlamında değerlendirir.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.2.Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "a: Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.2.Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "b: Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.2.Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.2.Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "İki Kategorik Değişkenin İlişkililiğini İçeren İstatistiksel Problemi Oluşturma, Verileri Topla ma ve Analize Hazır Hâle Getirme, Bulgulara Ulaşma ve Bulguları Yorumlama, İstatistiksel Görsel, Özet, Sonuç, Yorum, Çıkarım veya Tahminleri Değerlendirme",
+      "KAZANIM": "MAT.11.2.2.Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "c: Başkaları tarafından oluşturulan iki kategorik değişkenli verilerin ilişkililiğine dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder.",
+        "Alan Becerileri": "MAB4.\nVeri ile Çalışma ve Veriye Dayalı Karar Verme",
+        "Kavramsal Beceriler": "KB2.18.\nTartışma",
+        "Değerler": "D5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD14.\nSaygı\nD17.\nTasarruf",
+        "Ölçme": "e)\nÖğrenme çıktıları; çalışma kâğıdı, kontrol listesi, performans görevi ile değerlendirilebilir. Öğrencilere iki kategorik değişken arasındaki ilişkililiğe odaklanan istatistiksel araştırma sürecinin bütününü değerlendirmeye yönelik bir performans görevi verilebilir. Performans görevi, analitik veya bütüncül dereceli puanlama anahtarı ile değerlendirilebilir. Performans görevinin sonunda öğrencilerle elde ettikleri sonuçların benzerlik ve farklılıklarının nedenle ri üzerine sınıf içi tartışma yapılabilir. Öğrencilerin gruplarla yaptıkları sınıf içi tartışma etkin likleri, akran ve grup değerlendirme formları ile değerlendirilebilir. ÖĞRENME-ÖĞRETME YAŞANTILAR"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Okul Temelli Planlama",
+      "KONU": "Okul Temelli Planlama",
+      "KAZANIM": "Okul Temelli Planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Okul Temelli Planlama",
+        "Okul Temelli Planlama": "Okul temelli planlama; zümre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem, sosyal etkinlikler, proje çalışmaları, yerel çalışmalar, okuma çalışmaları vb. çalışmaları kapsamaktadır. Çalışmalar için ayrılan süre eğitim-öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

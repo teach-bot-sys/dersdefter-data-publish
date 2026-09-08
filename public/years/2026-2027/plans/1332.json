@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Coğrafi Bilgi Sistemleri",
+  "grup": "Meslek Dersleri",
+  "brans": "Harita Tapu Kadastro",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/harita-tapu-kadastro/1332/cografi-bilgi-sistemleri-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Oluşturma",
+      "KONU": "1. Coğrafi bilgi sistemi",
+      "KAZANIM": "Kuralına uygun olarak coğrafi bilgi sistemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nCoğrafi bilgi sistemi açıklanır.\n•\nGünlük yaşantımızda coğrafi bilgi sisteminin yeri, örnekler verilerek açıklanır.\n•\nKonumsal bilgi sistemleri örnekleyerek açıklanır.\n•\nKonumsal olmayan bilgi sistemleri örnekleyerek açıklanır.\n•\nCoğrafi bilgi sistemini uygulama şekillerine göre sınıflandırılmasını açıklanır.\n•\nCoğrafi bilgi sisteminin bileşenleri, bölümleri açıklanır.\n•\nTeknik tercihler, personel örnekleyerek açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Coğrafi bilgi sistemini açıklama\n2. Veri planlamasını açıklama\n3. Veri Toplama Yöntemini açıklama\n4. Veri Tabanı ve Coğrafi Bilgi Sistemi Yazılımını açıklama\n5. Bilgi Girişini açıklama\n6. Rapor-Analiz Oluşturma",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Oluşturma",
+      "KONU": "2. Veri Planlaması / 3. Veri Toplama Yöntemi / 4. Veri Tabanı ve Coğrafi Bilgi Sistemi Yazılımı",
+      "KAZANIM": "Veri planlama işlemlerini GIS standartlarına uygun olarak açıklar.\nVeri toplama yöntemlerini GIS standartlarına uygun olarak açıklar.\nVeri tabanı ve coğrafi bilgi sistemi yazılımını GIS standartlarına uygun olarak açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nCoğrafi verileri örnekleyerek açıklanır.\n•\nGrafik bilgi ve grafik olmayan(tanımsal, sözel)bilgileri açıklanır.\n•\nCoğrafi veri elementleri örnekleyerek açıklanır.\n•\nVeri modelleri örnekleyerek açıklanır.\n•\nCoğrafi verilerin bilgisayarda gösteriminin önemi açıklanır.\n•\nVeri tabanı kavramları örnekler vererek açıklanır.\n•\nYazılım ürünleri günümüz teknolojisine uygun olarak açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Coğrafi bilgi sistemini açıklama\n2. Veri planlamasını açıklama\n3. Veri Toplama Yöntemini açıklama\n4. Veri Tabanı ve Coğrafi Bilgi Sistemi Yazılımını açıklama\n5. Bilgi Girişini açıklama\n6. Rapor-Analiz Oluşturma"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Oluşturma",
+      "KONU": "4. Veri Tabanı ve Coğrafi Bilgi Sistemi Yazılımı / 5. Bilgi Girişi / 6. Rapor-Analiz Oluşturma",
+      "KAZANIM": "Veri tabanı ve coğrafi bilgi sistemi yazılımını GIS standartlarına uygun olarak açıklar.\nBilgi girişi faaliyetlerini GIS standartlarına uygun olarak açıklar.\nRapor-analiz oluşturma uygulamalarını GIS standartlarına uygun olarak açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nCoğrafi bilgi sistemlerinde donanım günümüz teknolojisine uygun olarak açıklanır.\n•\nCoğrafi bilgi sistemlerinde veri tasarımının önemi açıklanır.\n•\nVeri güncelleme planlamasının önemi açıklanır.\n•\nBilgi sunumu ve harita tasarımı açıklanır.\n•\nÇıktı üretim araçları örnekleyerek açıklanır.\n•\nVeri depolama ve toplama üniteleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Coğrafi bilgi sistemini açıklama\n2. Veri planlamasını açıklama\n3. Veri Toplama Yöntemini açıklama\n4. Veri Tabanı ve Coğrafi Bilgi Sistemi Yazılımını açıklama\n5. Bilgi Girişini açıklama\n6. Rapor-Analiz Oluşturma",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Ana Menüler",
+      "KONU": "1. Program Ekranı",
+      "KAZANIM": "GIS programlarını kullanarak program ekranını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAraçlar çubuğundaki ikonlar uygulamalı olarak açıklanır.\n•\nÇizim çubuğundaki ikonlar uygulamalı olarak açıklanır.\n•\nKatmanlar uygulamalı olarak açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Program ekranı ayarlama\n2. Proje menülerini kullanma",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Ana Menüler",
+      "KONU": "2. Proje Menüleri",
+      "KAZANIM": "GIS programlarını kullanarak program menülerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYeni tablo açma uygulaması yaptırılır.\n•\nYeni proje açma uygulaması yaptırılır.\n•\nAktif proje kapatma uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Program ekranı ayarlama\n2. Proje menülerini kullanma",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Ana Menüler",
+      "KONU": "2. Proje Menüleri",
+      "KAZANIM": "GIS programlarını kullanarak program menülerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKaydetme işlemi yaptırılır.\n•\nFarklı kaydetme işlemi yaptırılır.\n•\nProje olarak kaydetme işlemi uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Program ekranı ayarlama\n2. Proje menülerini kullanma"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Görüntüleme",
+      "KONU": "1. Tablo Açma / 2. Raster Veri Görüntüleme / 3. Proje Açma ve Kaydetme",
+      "KAZANIM": "GIS programlarını kullanarak tablo açma işlemini uygular.\nGIS programlarını kullanarak raster veriyi ekranda görüntüleme işlemini yapar.\nGIS programlarını kullanarak proje açma ve kaydetme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGIS programları hakkında genel açıklama yapılır.\n•\nTablosu açma ile ilgili uygulama yaptırılır.\n•\nDosya menüsünden aç ikonu seçtirilir.\n•\nDosya türü, raster image seçeneği işaretlendirilir.\n•\nDosya adı seçilerek açtırılır.\n•\nDosya türü, workspace (*wor; *.mws) seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. GIS programlarında tablo açma\n2. Raster veri görüntüleme\n3. Proje açma ve kaydetme\n4. Yeni harita penceresi açma\n5. Veri sayfası penceresi açma\n6. Projeksiyon ayarı yapma",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Görüntüleme",
+      "KONU": "3. Proje Açma ve Kaydetme / 4. Yeni Harita Penceresi Açma",
+      "KAZANIM": "GIS programlarını kullanarak proje açma ve kaydetme işlemini yapar.\nGIS programlarını kullanarak yeni harita penceresi açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDosya adı seçilerek proje açtırılır.\n•\nDosya menüsünden proje olarak kaydet ikonunu seçtirilir.\n•\nDosya türü, workspace (*wor) olarak seçtirilir.\n•\nDosya adı yazılarak kaydettirilir.\n•\nHarita penceresi kapattırılır.\n•\nDosya menüsünden yeni tablo seçtirilir.\n•\nAçılan yeni tablodan “yeni harita penceresi aç” altındaki aktif olan tik kaldırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. GIS programlarında tablo açma\n2. Raster veri görüntüleme\n3. Proje açma ve kaydetme\n4. Yeni harita penceresi açma\n5. Veri sayfası penceresi açma\n6. Projeksiyon ayarı yapma",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Görüntüleme",
+      "KONU": "4. Yeni Harita Penceresi Açma",
+      "KAZANIM": "GIS programlarını kullanarak yeni harita penceresi açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYeni tabloda“aktif haritaya katman olarak ekle”yazan yere tik işareti eklenir.\n•\nOluştur seçilir.\n•\n“Yeni tablo yapısı” penceresi açılır.\n•\nKolon ekle seçtirilir.\n•\nKolon Bilgisi için adı, tipi, genişliği oluşturulur.\n•\nDosya adı yazdırılır.\n•\nKonum yeri belirlenerek kaydedilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. GIS programlarında tablo açma\n2. Raster veri görüntüleme\n3. Proje açma ve kaydetme\n4. Yeni harita penceresi açma\n5. Veri sayfası penceresi açma\n6. Projeksiyon ayarı yapma",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Veri Görüntüleme",
+      "KONU": "5. Veri Sayfası Penceresi Açma / 6. Projeksiyonu Ayarlama",
+      "KAZANIM": "GIS programlarını kullanarak veri sayfası penceresi açar.\nGIS programlarını kullanarak projeksiyon veri sayfası penceresi açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPencere menüsünden yeni veri sayfası penceresi seçtirilir.\n•\nVeri sayfası penceresinden yeni kayıt yaptırılır.\n•\nVeri sayfası penceresinden kolonlar seçtirilir.\n•\nTürkiye’de kullanılan projeksiyon tiplerini açıklar.\n•\nMeridyen ve dilim kavramlarını açıklar.\n•\nBulunduğu yere göre GIS programlarını kullanarak Meridyen ve dilim aralığını uygulamalı olarak seçer.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. GIS programlarında tablo açma\n2. Raster veri görüntüleme\n3. Proje açma ve kaydetme\n4. Yeni harita penceresi açma\n5. Veri sayfası penceresi açma\n6. Projeksiyon ayarı yapma",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Harita Penceresi",
+      "KONU": "1. Ölçek Değiştirme / 2. Katman görüntüleme / 3. Yaklaşma ve uzaklaşma",
+      "KAZANIM": "GIS programlarını kullanarak ölçek değiştirme işlemini yapar.\nGIS programlarını kullanarak katman görüntüleme işlemini yapar.\nGIS programlarını kullanarak yaklaşma ve uzaklaşma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\n“Ölçek değiştir” diyaloğu uygulattırılır.\n•\nÖlçek değiştirmek için ilgili butonlar kullandırılır.\n•\nHarita menüsünden tüm katmanı görüntüleme seçtirilir.\n•\nKatman kontrolünden tamamını görüntülemek istenen katmanın üzerinde sağ klik yaparakkatman kontrolü seçtirilir.\n•\n“Tüm katmanı göster”seçtirilir.\n•\nAraç çubuğundan yaklaş butonunu seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Ölçek değiştirme\n2. Katman görüntüleme\n3. Yaklaşma ve uzaklaşma\n4. Seçme ve kaydırma\n5. Ölçek çubuğunu oluşturma\n6. Kuzey okunu yerleştirme",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Harita Penceresi",
+      "KONU": "3. Yaklaşma ve uzaklaşma",
+      "KAZANIM": "GIS programlarını kullanarak yaklaşma ve uzaklaşma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYaklaşmak istediği alanın üzerinde yaklaş butonu seçtirilir.\n•\nYaklaş butonunu kullanarak bir dikdörtgen çerçeve oluşturulur.\n•\nAraç çubuğundan yaklaş butonunu seçtirilir.\n•\nAraç çubuğundan uzaklaş butonuseçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Ölçek değiştirme\n2. Katman görüntüleme\n3. Yaklaşma ve uzaklaşma\n4. Seçme ve kaydırma\n5. Ölçek çubuğunu oluşturma\n6. Kuzey okunu yerleştirme",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Harita Penceresi",
+      "KONU": "3. Yaklaşma ve uzaklaşma / 4. Seçme ve Kaydırma",
+      "KAZANIM": "GIS programlarını kullanarak yaklaşma ve uzaklaşma işlemini yapar.\nGIS programlarını kullanarak seçme ve kaydırma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUzaklaşmak istediği alanın üzerinde uzaklaş butonu seçtirilir.\n•\nUzaklaş butonunu kullanarak bir dikdörtgen çerçeve oluşturur.\n•\nSeçme işlemleri ile ilgili uygulamalar yaptırılır.\n•\nUzaklaşma işlemleri ile ilgili uygulamalar yaptırılır.\n•\nAraç çubuğundan seç butonunu seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Ölçek değiştirme\n2. Katman görüntüleme\n3. Yaklaşma ve uzaklaşma\n4. Seçme ve kaydırma\n5. Ölçek çubuğunu oluşturma\n6. Kuzey okunu yerleştirme",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Harita Penceresi",
+      "KONU": "4. Seçme ve Kaydırma",
+      "KAZANIM": "GIS programlarını kullanarak seçme ve kaydırma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHarita üzerinde imleç hareket ettirilir.\n•\nAraç çubuğu üzerinde kaydır butonuseçtirilir.\n•\nHarita üzerinde herhangi bir yeri tıklamayla tutulur, imleç herhangi bir yöne çektirilir.\n•\nMouse butonu serbest bıraktırılır.\n•\nHarita yeni konumunda yeniden çizdirilir.\n•\nKaydırma işlemleri ile ilgili uygulamalaryaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Ölçek değiştirme\n2. Katman görüntüleme\n3. Yaklaşma ve uzaklaşma\n4. Seçme ve kaydırma\n5. Ölçek çubuğunu oluşturma\n6. Kuzey okunu yerleştirme"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Harita Penceresi",
+      "KONU": "4. Seçme ve Kaydırma / 5. Ölçek Çubuğu",
+      "KAZANIM": "GIS programlarını kullanarak seçme ve kaydırma işlemini yapar.\nGIS programlarını kullanarak ölçek çubuğu ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSeçme işlemleri ile ilgili uygulamalar yaptırılır.\n•\nHarita penceresinden “ölçek çubuğu oluştur”seçtirilir.\n•\n“Ölçek oluştur” tablosundan konum seçtirilerek devam tıklanır.\n•\nÖlçek çubuğunun boyutlandırılması yaptırılır.\n•\nÖlçek çubuğunun tipi oluşturulur.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Ölçek değiştirme\n2. Katman görüntüleme\n3. Yaklaşma ve uzaklaşma\n4. Seçme ve kaydırma\n5. Ölçek çubuğunu oluşturma\n6. Kuzey okunu yerleştirme"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Harita Penceresi",
+      "KONU": "6. Kuzey Oku",
+      "KAZANIM": "GIS programlarını kullanarak kuzey oku ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAraçlar menüsünden araç yöneticisi seçtirilir.\n•\nAraç yöneticisinden Nort Arrow araçları aktif duruma getirilir.\n•\nKuzey işareti aracını kullanarak, kuzey işaretini yerleştireceği köşeseçtirilir.\n•\nAraçlar, araç çubuğunda yer alan kuzey işareti düğmesi ile bir dikdörtgen çizdirilir.\n•\nKuzey oku işareti dikdörtgen içine yerleştirmesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Ölçek değiştirme\n2. Katman görüntüleme\n3. Yaklaşma ve uzaklaşma\n4. Seçme ve kaydırma\n5. Ölçek çubuğunu oluşturma\n6. Kuzey okunu yerleştirme",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Katmanlar ve Harita",
+      "KONU": "1. Katman Kontrolü Kullanımı / 2. Bilgi Aracı Kullanımı",
+      "KAZANIM": "GIS programlarını katman kontrolü ile ilgili işlemleri yapar.\nGIS programlarını kullanarak bilgi aracı kullanımı ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatman kontrolündeki işaret kutuları açıklanır.\n•\nKatmanları görünmez yapmak için işaret kutusundaki kutu içindeki işareti kaldırılır.\n•\nKatmandaki objeleri değiştirmek için çizilebilir işaret kutusu aktif hale getirilir.\n•\nKatmanı seçilebilir yapmak için seçilebilir işaret kutusu aktif duruma getirilir.\n•\nKatman üzerinde otomatik olarak etiket koymak için etiket işaret kutusu işaretlenir.\n•\nBilgi aracı kullanımı ile ilgili gerekli açıklamalar yapılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Katman kontrolünü kullanma\n2. Bilgi aracını kullanma\n3. Katman görünüm ayarlarını yapma\n4. Katman görünüşünü ayarlama"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Katmanlar ve Harita",
+      "KONU": "2. Bilgi Aracı Kullanımı / 3. Katman Görünüm Ayarları",
+      "KAZANIM": "GIS programlarını kullanarak bilgi aracı kullanımı ile ilgili işlemleri yapar.\nGIS programlarını kullanarak katman görünüm ayarları ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBilgi aracı butonuseçtirilir.\n•\nBilgi penceresinde ilgili tablo seçtirilir.\n•\nMevcut verileri tabloya kayıt ettirilir.\n•\nHarita menüsünden katman kontrolü seçtirilir.\n•\nKatman görünümü seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Katman kontrolünü kullanma\n2. Bilgi aracını kullanma\n3. Katman görünüm ayarlarını yapma\n4. Katman görünüşünü ayarlama"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Katmanlar ve Harita",
+      "KONU": "3. Katman Görünüm Ayarları / 4. Katman Görünüşü",
+      "KAZANIM": "GIS programlarını kullanarak katman görünüm ayarları ile ilgili işlemleri yapar.\nGIS programlarını kullanarak katman görünüşünü değiştirme ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatman “bu aralıkta görünsün” kutususeçtirilir.\n•\nÜst mesafe için 1000 değerini girer.\n•\nKatman özellikleri diyalogunu kapatmak için tamam düğmesiseçtirilir.\n•\nHarita menüsünden katman kontrolüseçtirilir.\n•\nKatmanın kalıcı stilini geçersiz kılmak için yeni nesne çizim stili kutusu seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Katman kontrolünü kullanma\n2. Bilgi aracını kullanma\n3. Katman görünüm ayarlarını yapma\n4. Katman görünüşünü ayarlama"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Katmanlar ve Harita",
+      "KONU": "4. Katman Görünüşü",
+      "KAZANIM": "GIS programlarını kullanarak katman görünüşünü değiştirme ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlan stili butonu seçtirilir.\n•\nDolgu grubundan ön kutusu seçtirilir.\n•\nRenk paletinden yeni renk seçerek tamam butonu seçtirilir.\n•\nGörünüm seçeneklerini onaylamak için tamam butonu seçtirilir.\n•\nKatman özellikleri diyalogunu kapatmak için tamam butonuseçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Katman kontrolünü kullanma\n2. Bilgi aracını kullanma\n3. Katman görünüm ayarlarını yapma\n4. Katman görünüşünü ayarlama"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Seçim İşlemleri",
+      "KONU": "1. İstatistiksel İşlemler",
+      "KAZANIM": "GIS programlarını kullanarak istatistiksel işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİstatistiksel işlemler açıklanır.\n•\nİstatistiksel verilerin girişi için istatistik butonuseçtirilir.\n•\nVeri girişi yaptırılır",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstatistiksel işlemleri yapma\n2. Seçim işlemlerini yapma",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Seçim İşlemleri",
+      "KONU": "1. İstatistiksel İşlemler / 2. Seçme İşlemleri",
+      "KAZANIM": "GIS programlarını kullanarak istatistiksel işlemleri yapar.\nGIS programlarını kullanarak seçme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSeçme işlemleri yaptırılır.\n•\nHarita menüsünden katman kontrolüseçtirilir.\n•\nYerleşim tablosunun seçilebilir durumda olduğu kontrol edilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstatistiksel işlemleri yapma\n2. Seçim işlemlerini yapma",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Seçim İşlemleri",
+      "KONU": "2. Seçme İşlemleri",
+      "KAZANIM": "GIS programlarını kullanarak seçme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYerleşim tablosunun seçilebilir durumda olduğu kontrol edilir.\n•\nYerleşim tablosunda yer alan noktalara tıklanır.\n•\ntuşuna tıklayarak daha fazla kayıt seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstatistiksel işlemleri yapma\n2. Seçim işlemlerini yapma",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Etiketleme İşlemleri",
+      "KONU": "1. Tüm Nesneleri Otomatik Etiketleme / 2. Klikleyerek etiketleme",
+      "KAZANIM": "GIS programlarını kullanarak tüm nesneleri otomatik etiketleme işlemlerini yapar.\nGIS programlarını kullanarak klikleyerek etiketleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHarita menüsünden katman kontrolüseçtirilir.\n•\nOtomatik etiket kutususeçtirilir.\n•\nKatman özellikleri penceresinden etiket görünümüseçtirilir.\n•\nEtiketleme işlemleri ile ilgili uygulamalar yaptırılır.\n•\nDosya menüsü açtırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm nesneleri otomatik etiketleme\n2. Klikleyerek düzenleme\n3. Etiketleri düzenleme\n4. Etiketleri silme\n5. Etiketleri kaydetme",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Etiketleme İşlemleri",
+      "KONU": "2. Klikleyerek etiketleme / 3. Etiketleri Düzenleme",
+      "KAZANIM": "GIS programlarını kullanarak klikleyerek etiketleme işlemlerini yapar.\nGIS programlarını kullanarak etiketleri düzenleme ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\n“Aç” seçtirilir, dosya türü: Workspace seçtirilir.\n•\nDosyayı seçtirilir ve “Aç” seçtirilir.\n•\nEtiket aracı ile harita üzerinde yavaşça gezinti yaptırılır\n•\nObjeler ile ilgili bilgiler ekranda göründüğünde klikleyerek etiketleme işlemi ile ilgili uygulamalar yaptırılır.\n•\nAna araç çubuğundan seç butonuseçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm nesneleri otomatik etiketleme\n2. Klikleyerek düzenleme\n3. Etiketleri düzenleme\n4. Etiketleri silme\n5. Etiketleri kaydetme",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etiketleme İşlemleri",
+      "KONU": "3. Etiketleri Düzenleme",
+      "KAZANIM": "GIS programlarını kullanarak etiketleri düzenleme ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEtikete tıklayıp bırakmadan etiketin olmasını istediği yere sürüklenmesi yaptırılır.\n•\nSeç aracı ile etiketin üzerine çift tıklanarak etiket stili ekranda görünmesi yaptırılır\n•\nYazı sitili, renk, boyut ayarlaması yaptırılır.\n•\nDosya, proje olarak kaydet komutu ile değişiklikler kalıcı olarak saklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm nesneleri otomatik etiketleme\n2. Klikleyerek düzenleme\n3. Etiketleri düzenleme\n4. Etiketleri silme\n5. Etiketleri kaydetme",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etiketleme İşlemleri",
+      "KONU": "3. Etiketleri Düzenleme / 4. Etiketleri silme",
+      "KAZANIM": "GIS programlarını kullanarak etiketleri düzenleme ile ilgili işlemleri yapar.\nGIS programlarını kullanarak etiketleri silme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEtiketleri düzenleme ile ilgili uygulamaları yaptırılır.\n•\nEtiketleri seç aracı ile seçtirilir.\n•\nKlavyeden delete tuşuna bastırılır.\n•\nDüzen menüsünden silseçtirilir.\n•\nÇizim aracı çubuğu görünmüyorsa, seçenekler menüsünden araç çubuklarıseçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm nesneleri otomatik etiketleme\n2. Klikleyerek düzenleme\n3. Etiketleri düzenleme\n4. Etiketleri silme\n5. Etiketleri kaydetme",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etiketleme İşlemleri",
+      "KONU": "4. Etiketleri silme / 5. Etiketleri kaydetme",
+      "KAZANIM": "GIS programlarını kullanarak etiketleri silme işlemlerini yapar.\nGIS programlarını kullanarak etiketleri kaydetme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEtiketleri silme ile ilgili uygulamalar yaptırılır.\n•\nDosya menüsünden proje olarak kaydetseçtirilir.\n•\nBenim _Etiketlerim yazarak kaydet seçtirilir.\n•\nEtiketleri kaydetme ile ilgili uygulamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm nesneleri otomatik etiketleme\n2. Klikleyerek düzenleme\n3. Etiketleri düzenleme\n4. Etiketleri silme\n5. Etiketleri kaydetme",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Tablo Yapısını İzleme Değiştirme (Kolon Güncelleme)",
+      "KONU": "1. Tablo adını değiştirme / 2. Tablo yapısını değiştirme",
+      "KAZANIM": "GIS programlarını kullanarak tablo adını değiştirme işlemini yapar.\nGIS programlarını kullanarak tablo yapısını değiştirme ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAdı değiştirilecek tablolar açtırılır.\n•\nKatman kontrolünden harita isimlerinin bulunduğu başlığa sağ tıklanır.\n•\n“İsim değiştir”seçtirilir ve yeni isim yazdırılır.\n•\nTablo adını değiştirme işlemi ile ilgili uygulamalar yaptırılır.\n•\nTablo yapısını değiştirmenin önemi üzerinde gerekli açıklamalar yapılır.\n•\nTablo menüsünden yapı seçeneğiseçtirilir.\n•\n“Tablo yapısını izle değiştir”tıklanarak gerekli işlemler yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tablo adını değiştirme\n2. Tablo yapısını değiştirme\n3. Kolonu değiştirme\n4. Uzunluk hesabı yapma\n5. Alan hesabı yapma"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Tablo Yapısını İzleme Değiştirme (Kolon Güncelleme)",
+      "KONU": "2. Tablo yapısını değiştirme / 3. Kolonu değiştirme",
+      "KAZANIM": "GIS programlarını kullanarak tablo yapısını değiştirme ile ilgili işlemleri yapar.\nGIS programlarını kullanarak kolonu değiştirme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTablo yapısını değiştirme işlemi ile ilgili uygulamalar yaptırılır.\n•\nDosya menüsünden “tüm dosyaları kapat”seçtirilir.\n•\nDosya menüsünden “aç”seçtirilir.\n•\nDosya türü kutusundan Workspace’i seçilerek gerekli dosya açtırılır.\n•\nTablo menüsünden “ bilgileri değiştir” seçtirilir.\n•\nTablodan “temp” seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tablo adını değiştirme\n2. Tablo yapısını değiştirme\n3. Kolonu değiştirme\n4. Uzunluk hesabı yapma\n5. Alan hesabı yapma",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Tablo Yapısını İzleme Değiştirme (Kolon Güncelleme)",
+      "KONU": "3. Kolonu değiştirme / 4. Uzunluk hesabı",
+      "KAZANIM": "GIS programlarını kullanarak kolonu değiştirme işlemlerini yapar.\nGIS programlarını kullanarak uzunluk hesabı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDeğiştirilecek kolonseçtirilir.\n•\nDeğerin alınacağı tablodan “temp” seçtirilir.\n•\nDeğer kısmına ‘’’’yazarak tamam tıklanır.\n•\nKolonu değiştirme işlemi ile ilgili uygulamalar yaptırılır.\n•\nUzunluğu hesaplanacak dosya açtırılır.\n•\nTablo menüsünden yapı ikonunu seçerek “tablo yapısını izle değiştir”seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tablo adını değiştirme\n2. Tablo yapısını değiştirme\n3. Kolonu değiştirme\n4. Uzunluk hesabı yapma\n5. Alan hesabı yapma",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Tablo Yapısını İzleme Değiştirme (Kolon Güncelleme)",
+      "KONU": "4. Uzunluk hesabı / 5. Alan hesabı",
+      "KAZANIM": "GIS programlarını kullanarak uzunluk hesabı işlemlerini yapar.\nGIS programlarını kullanarak alan hesabı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\n“Tablo yapısını izle değiştir” altındaki“Yol_Uzunluğu” adında tam sayı formatında bir kolon oluşturulur.\n•\nTablo menüsünden kolondaki bilgileri değiştiren ayarlamalar yaptırılır.\n•\nUzunluk hesabı işlemi ile ilgili uygulamalar yaptırılır.\n•\nAlan hesabı için tablo menüsünden yapı ikonuseçtirilir.\n•\n“Tablo yapısını izle değiştir” kısmından projeksiyon butonu seçtirilir.\n•\nProjeksiyon: Bulunduğumuz konuma göre",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tablo adını değiştirme\n2. Tablo yapısını değiştirme\n3. Kolonu değiştirme\n4. Uzunluk hesabı yapma\n5. Alan hesabı yapma",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Tablo Yapısını İzleme Değiştirme (Kolon Güncelleme)",
+      "KONU": "5. Alan hesabı",
+      "KAZANIM": "GIS programlarını kullanarak alan hesabı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGK Central Meridian seçtirilir.\n•\nArea fonksiyonu kullanılır.\n•\nAlanı hesaplanacak dosyaseçtirilir.\n•\nTablo menüsünden yapıdan “tablo yapısını izle değiştir”ile bir kolon oluşturulur.\n•\nTablo menüsünden kolondaki bilgileri değiştirten ayarlamalar yaptırılır.\n•\nAlan hesabı işlemi ile ilgili uygulamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tablo adını değiştirme\n2. Tablo yapısını değiştirme\n3. Kolonu değiştirme\n4. Uzunluk hesabı yapma\n5. Alan hesabı yapma"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Çıktı Penceresi",
+      "KONU": "1. Çıktı Hazırlama",
+      "KAZANIM": "GIS programlarını kullanarak çıktı hazırlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDosya menüsünden sayfa ayarıseçtirilir.\n•\nÇıktı göndereceği cihazseçtirilir.\n•\nYön grubundan yatayseçtirilir ve tamam tıklanır.\n•\nÇıktı hazırlama ile ilgili uygulamalar yaptırılır..",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çıktı hazırlama\n2. Haritadan direkt çıktı alma\n3. Çıktı penceresini kullanma\n4. Ölçekli çıktı alma\n5. Çerçeveyi taşıma\n6. Çerçeve büyüklüğünü değiştirme\n7. Çıktı penceresine yazı ekleme"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Çıktı Penceresi",
+      "KONU": "2. Haritadan Direkt Çıktı Alma / 3. Çıktı Penceresini Kullanma",
+      "KAZANIM": "GIS programlarını kullanarak haritadan direk çıktı alma ile ilgili işlemleri yapar.\nGIS programlarını kullanarak ölçekli çıktı alma ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDosya menüsünden “yazdır” seçtirilerek tamam tıklanır.\n•\nÇıktı alma ile ilgili uygulamalar yaptırılır.\n•\nPencere menüsünden yeni çıktı penceresiseçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çıktı hazırlama\n2. Haritadan direkt çıktı alma\n3. Çıktı penceresini kullanma\n4. Ölçekli çıktı alma\n5. Çerçeveyi taşıma\n6. Çerçeve büyüklüğünü değiştirme\n7. Çıktı penceresine yazı ekleme"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Çıktı Penceresi",
+      "KONU": "3. Çıktı Penceresini Kullanma / 4. Ölçekli Çıktı Alma",
+      "KAZANIM": "GIS programlarını kullanarak ölçekli çıktı alma ile ilgili işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAçılan yeni çıktı penceresi diyalogundan “boş bir sayfa aç”seçtirilir ve tamam tıklanır.\n•\nYeni çıktı penceresine aktarılan görüntünün üzerine çift tıklayarak çerçeve nesnesi diyaloğu açtırılır.\n•\nHaritanın genişlik ve yükseklik ayarları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Öğretim Teknikleri": "Ortam: Bilgi teknolojileri ortamı ve sınıf\nDonanım: Bilgisayar, mesleki paket program, veri tabanı programı, ihtiyaç analizleri, coğrafi veriler, haritalar, grafik ve grafik olmayan bilgiler, öznitelik bilgileri, etkileşimli tahta /projeksiyon",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çıktı hazırlama\n2. Haritadan direkt çıktı alma\n3. Çıktı penceresini kullanma\n4. Ölçekli çıktı alma\n5. Çerçeveyi taşıma\n6. Çerçeve büyüklüğünü değiştirme\n7. Çıktı penceresine yazı ekleme"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

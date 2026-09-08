@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Klinik Laboratuvar Cihazlari Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Biyomedikal Cihaz Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/biyomedikal-cihaz-teknolojileri/1135/klinik-laboratuvar-cihazlari-atolyesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "14",
+      "ÜNİTE": "Santrifüj Cihazları",
+      "KONU": "Santrifüj Cihazının Montajı ve Kullanımı",
+      "KAZANIM": "Santrifüj cihazının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Santrifüj cihazının kurulacağı ortam şartları belirlerlenir\nSantrifüj cihazının elektriksel özellikleri açıklanır.\nSantrifüj cihazının montajında dikkat edilecek hususlar açıklanır.\nCihazın montajı yapılır ve montaj yapımından sonra cihaz kullanılır.\nSantrifüj cihazı denge ayarı (imbalance) yapılır.\nTeslim tutanağı hazırlanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cihazın bağlanacağı şebeke hattının uygunluğunu kontrol etmek\nOrtamın fiziksel büyüklüklerini gerekli ölçü aletleri ile ölçerek, montajın yapılacağı uygun yeri tespit etmek\nCihazın yüzey dengesini su terazisi ile kontrol etmek\nSantrifüj cihazının montajını yapmak\nSantrifüj cihazına tüpleri dengeli bir şekilde yerleştirmek.\nTeslim tutanağı hazırlamak\nSantrifüj cihazının sigortasını kontrol etmek.\nSantrifüj cihazının açma-kapama anahtarını kontrol etmek.\nBesleme kartının devre şemasını takip ederek, çıkış noktalarını tespit etmek.\nBesleme kartı çıkış gerilimlerini ölçerek arıza tespitinde bulunmak.\nArızalı besleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nKapak kontrol switch'ini AVOmetre ile ölçerek kontrol etmek.\nAnakartı yenisi ile değiştirmek\nTuş takımını yenisi ile değiştirmek.\nGösterge kartını yenisi ile değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\nSensörleri yenisi ile değiştirmek.\nMotorun sağlamlık kontrolünü yapmak.\nArızalı motoru değiştirmek.\nMotor kontrol kartının çıkış gerilimlerini ölçmek.\nArızalı motor kartını değiştirmek.\nCihazı test etmek.\nSantrifüj cihazının haznelerini temizlemek.\nCihaz kalibrasyonu yapmak\nKalibrasyon sertifikasında bulunması gereken bilgileri listelenir.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "14",
+      "ÜNİTE": "Santrifüj Cihazları",
+      "KONU": "Santrifüj Cihazının Besleme Ünitesi Arızaları / Santrifüj Cihazının Elektronik Kontrol Kartı Arızaları",
+      "KAZANIM": "Santrifüj cihazının besleme ünitesinin arızasını giderir.\nSantrifüj cihazının elektronik kontrol kartlarının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Santrifüj cihazı anakart besleme ünitesi kontrol edilir\nSantrifüj cihazının motor besleme ünitesi çalıştırılır\nSantrifüj cihazının besleme ünitesinin arızalar sıralanır.\nArıza bilgi formu düzenlenir\nSantrifüj cihazının elektronik kontrol kartları yapıları açıklanır.\nSantrifüj cihazı kapak kontrol ünitesinin çalışması tarif edilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cihazın bağlanacağı şebeke hattının uygunluğunu kontrol etmek\nOrtamın fiziksel büyüklüklerini gerekli ölçü aletleri ile ölçerek, montajın yapılacağı uygun yeri tespit etmek\nCihazın yüzey dengesini su terazisi ile kontrol etmek\nSantrifüj cihazının montajını yapmak\nSantrifüj cihazına tüpleri dengeli bir şekilde yerleştirmek.\nTeslim tutanağı hazırlamak\nSantrifüj cihazının sigortasını kontrol etmek.\nSantrifüj cihazının açma-kapama anahtarını kontrol etmek.\nBesleme kartının devre şemasını takip ederek, çıkış noktalarını tespit etmek.\nBesleme kartı çıkış gerilimlerini ölçerek arıza tespitinde bulunmak.\nArızalı besleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nKapak kontrol switch'ini AVOmetre ile ölçerek kontrol etmek.\nAnakartı yenisi ile değiştirmek\nTuş takımını yenisi ile değiştirmek.\nGösterge kartını yenisi ile değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\nSensörleri yenisi ile değiştirmek.\nMotorun sağlamlık kontrolünü yapmak.\nArızalı motoru değiştirmek.\nMotor kontrol kartının çıkış gerilimlerini ölçmek.\nArızalı motor kartını değiştirmek.\nCihazı test etmek.\nSantrifüj cihazının haznelerini temizlemek.\nCihaz kalibrasyonu yapmak\nKalibrasyon sertifikasında bulunması gereken bilgileri listelenir."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "14",
+      "ÜNİTE": "Santrifüj Cihazları",
+      "KONU": "Santrifüj Cihazının Elektronik Kontrol Kartı Arızaları / Santrifüj Cihazının Motor Arızaları",
+      "KAZANIM": "Santrifüj cihazının elektronik kontrol kartlarının arızasını giderir.\nSantrifüj cihazının motor arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Geri dönüt için kullanılan sensörler açıklanır.\nSantrifüj cihazının elektronik kontrol kartlarının arızalar sıralanır.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nMotor çeşitleri listelenir.\nSantrifüj cihazlarında kullanılan motorun yapısı incelenir\nSantrifüj cihazının motor arızaları sıralanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cihazın bağlanacağı şebeke hattının uygunluğunu kontrol etmek\nOrtamın fiziksel büyüklüklerini gerekli ölçü aletleri ile ölçerek, montajın yapılacağı uygun yeri tespit etmek\nCihazın yüzey dengesini su terazisi ile kontrol etmek\nSantrifüj cihazının montajını yapmak\nSantrifüj cihazına tüpleri dengeli bir şekilde yerleştirmek.\nTeslim tutanağı hazırlamak\nSantrifüj cihazının sigortasını kontrol etmek.\nSantrifüj cihazının açma-kapama anahtarını kontrol etmek.\nBesleme kartının devre şemasını takip ederek, çıkış noktalarını tespit etmek.\nBesleme kartı çıkış gerilimlerini ölçerek arıza tespitinde bulunmak.\nArızalı besleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nKapak kontrol switch'ini AVOmetre ile ölçerek kontrol etmek.\nAnakartı yenisi ile değiştirmek\nTuş takımını yenisi ile değiştirmek.\nGösterge kartını yenisi ile değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\nSensörleri yenisi ile değiştirmek.\nMotorun sağlamlık kontrolünü yapmak.\nArızalı motoru değiştirmek.\nMotor kontrol kartının çıkış gerilimlerini ölçmek.\nArızalı motor kartını değiştirmek.\nCihazı test etmek.\nSantrifüj cihazının haznelerini temizlemek.\nCihaz kalibrasyonu yapmak\nKalibrasyon sertifikasında bulunması gereken bilgileri listelenir.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Santrifüj Cihazları / Manyetik Karıştırıcı Cihazları",
+      "KONU": "Santrifüj Cihazının Motor Arızaları / Santrifüj Cihazının Bakımı ve Fonksiyon Testi / Santrifüj Cihazının Kalibrasyonu / Manyetik Karıştırıcı Cihazının Montajı ve Kullanımı / Manyetik Karıştırıcı Cihazının Besleme Ünitesi Arızaları",
+      "KAZANIM": "Santrifüj cihazının motor arızasını giderir.\nSantrifüj cihazının bakımını ve fonksiyon testini yapar.\nSantrifüj cihazının kalibrasyonunu yapar.\nManyetik karıştırıcı cihazının montajını yapar ve kullanır.\nManyetik karıştırıcı cihazının besleme ünitesinin arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bilgi formunda bulunması gereken bilgiler listelenir.\nBakım talimatları sırasıyla yapılır.\nCihazın fonksiyon testi yapılır.\nSantrifüj cihazı kalibrasyonu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazlarında kullanılan aksesuarların montajı yapılır.\nManyetik karıştırıcı cihazının blok diyagramı ve çalışması tarif edilir.\nManyetik karıştırıcı cihazının kurulacağı ortam şartlar açıklanır.\nCihaz kurulumu yapılır.\nKurulumdan sonra cihaz kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nManyetik karıştırıcı cihazının besleme devresinde kullanılan elektronik elemanların tanıtılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cihazın bağlanacağı şebeke hattının uygunluğunu kontrol etmek\nOrtamın fiziksel büyüklüklerini gerekli ölçü aletleri ile ölçerek, montajın yapılacağı uygun yeri tespit etmek\nCihazın yüzey dengesini su terazisi ile kontrol etmek\nSantrifüj cihazının montajını yapmak\nSantrifüj cihazına tüpleri dengeli bir şekilde yerleştirmek.\nTeslim tutanağı hazırlamak\nSantrifüj cihazının sigortasını kontrol etmek.\nSantrifüj cihazının açma-kapama anahtarını kontrol etmek.\nBesleme kartının devre şemasını takip ederek, çıkış noktalarını tespit etmek.\nBesleme kartı çıkış gerilimlerini ölçerek arıza tespitinde bulunmak.\nArızalı besleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nKapak kontrol switch'ini AVOmetre ile ölçerek kontrol etmek.\nAnakartı yenisi ile değiştirmek\nTuş takımını yenisi ile değiştirmek.\nGösterge kartını yenisi ile değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\nSensörleri yenisi ile değiştirmek.\nMotorun sağlamlık kontrolünü yapmak.\nArızalı motoru değiştirmek.\nMotor kontrol kartının çıkış gerilimlerini ölçmek.\nArızalı motor kartını değiştirmek.\nCihazı test etmek.\nSantrifüj cihazının haznelerini temizlemek.\nCihaz kalibrasyonu yapmak\nKalibrasyon sertifikasında bulunması gereken bilgileri listelenir.\nManyetik karıştırıcı cihazının kurulacağı ortamın fiziki özelliklerinin kontrolünü açıklamak\nCihazdaki etikete bakarak cihaza uygun besleme yapımını açıklamak.\nTeslim tutanağındaki maddeler listelenir.\nManyetik karıştırıcı cihazının besleme devresinde kullanılan elektronik elemanların tanıtılır.\nDoğrultma,filtre,regüle devrelerinin çalışması tarif edilir\nBesleme ünitesinin arızası tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının anakart ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının ısı kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının motor kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nIsıtıcıların kontrolü için kullanılan elemanların çalışma prensipleri izah edilir.\nManyetik karıştırıcı cihazlarında kullanılan motor çeşitleri tanıtılır.\nDC motor arızası tespit edilir ve giderilir.\nManyetik karıştırıcı cihazlarında ısıtıcı tablanın arızası tespit edilir ve arızası giderilir.\nIsıtıcı tablada kullanılan malzemeler listelenir ve özellikleri açıklanır.\nBakım talimatları açıklanır.\nBakım tutanağında bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının fonksiyon testi yapılır.\nKalibrasyon yapılırken kullanılacak kalibratörler tarif edilir.\nManyetik karıştırıcı cihazının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Manyetik Karıştırıcı Cihazları",
+      "KONU": "Manyetik Karıştırıcı Cihazının Besleme Ünitesi Arızaları / Manyetik Karıştırıcı Cihazının Elektronik Kontrol Kartı Arızaları",
+      "KAZANIM": "Manyetik karıştırıcı cihazının besleme ünitesinin arızasını giderir.\nManyetik karıştırıcı cihazının elektronik kontrol kartlarının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğrultma,filtre,regüle devrelerinin çalışması tarif edilir\nBesleme ünitesinin arızası tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının anakart ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının ısı kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının motor kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nIsıtıcıların kontrolü için kullanılan elemanların çalışma prensipleri izah edilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Manyetik karıştırıcı cihazının kurulacağı ortamın fiziki özelliklerinin kontrolünü açıklamak\nCihazdaki etikete bakarak cihaza uygun besleme yapımını açıklamak.\nTeslim tutanağındaki maddeler listelenir.\nManyetik karıştırıcı cihazının besleme devresinde kullanılan elektronik elemanların tanıtılır.\nDoğrultma,filtre,regüle devrelerinin çalışması tarif edilir\nBesleme ünitesinin arızası tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının anakart ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının ısı kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının motor kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nIsıtıcıların kontrolü için kullanılan elemanların çalışma prensipleri izah edilir.\nManyetik karıştırıcı cihazlarında kullanılan motor çeşitleri tanıtılır.\nDC motor arızası tespit edilir ve giderilir.\nManyetik karıştırıcı cihazlarında ısıtıcı tablanın arızası tespit edilir ve arızası giderilir.\nIsıtıcı tablada kullanılan malzemeler listelenir ve özellikleri açıklanır.\nBakım talimatları açıklanır.\nBakım tutanağında bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının fonksiyon testi yapılır.\nKalibrasyon yapılırken kullanılacak kalibratörler tarif edilir.\nManyetik karıştırıcı cihazının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Manyetik Karıştırıcı Cihazları",
+      "KONU": "Manyetik Karıştırıcı Cihazının Elektronik Kontrol Kartı Arızaları / Manyetik Karıştırıcı Cihazının Motor Arızaları / Manyetik Karıştırıcı Cihazında Isıtıcı Tabla Arızaları",
+      "KAZANIM": "Manyetik karıştırıcı cihazının elektronik kontrol kartlarının arızasını giderir.\nManyetik karıştırıcı cihazının motor arızasını giderir.\nManyetik karıştırıcı cihazında ısıtıcı tabla arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bilgi formunda bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazlarında kullanılan motor çeşitleri tanıtılır.\nDC motor arızası tespit edilir ve giderilir.\nManyetik karıştırıcı cihazlarında ısıtıcı tablanın arızası tespit edilir ve arızası giderilir.\nIsıtıcı tablada kullanılan malzemeler listelenir ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Manyetik karıştırıcı cihazının kurulacağı ortamın fiziki özelliklerinin kontrolünü açıklamak\nCihazdaki etikete bakarak cihaza uygun besleme yapımını açıklamak.\nTeslim tutanağındaki maddeler listelenir.\nManyetik karıştırıcı cihazının besleme devresinde kullanılan elektronik elemanların tanıtılır.\nDoğrultma,filtre,regüle devrelerinin çalışması tarif edilir\nBesleme ünitesinin arızası tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının anakart ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının ısı kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının motor kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nIsıtıcıların kontrolü için kullanılan elemanların çalışma prensipleri izah edilir.\nManyetik karıştırıcı cihazlarında kullanılan motor çeşitleri tanıtılır.\nDC motor arızası tespit edilir ve giderilir.\nManyetik karıştırıcı cihazlarında ısıtıcı tablanın arızası tespit edilir ve arızası giderilir.\nIsıtıcı tablada kullanılan malzemeler listelenir ve özellikleri açıklanır.\nBakım talimatları açıklanır.\nBakım tutanağında bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının fonksiyon testi yapılır.\nKalibrasyon yapılırken kullanılacak kalibratörler tarif edilir.\nManyetik karıştırıcı cihazının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Manyetik Karıştırıcı Cihazları / Benmari Cihazları",
+      "KONU": "Manyetik Karıştırıcı Cihazının Fonksiyon Testi / Manyetik Karıştırıcı Cihazının Kalibrasyonu / Benmari Cihazlarının Montajı ve Kullanımı",
+      "KAZANIM": "Manyetik karıştırıcı cihazının fonksiyon testini yapar.\nManyetik karıştırıcı cihazının kalibrasyonunu yapar.\nBenmari cihazlarının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım talimatları açıklanır.\nBakım tutanağında bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının fonksiyon testi yapılır.\nKalibrasyon yapılırken kullanılacak kalibratörler tarif edilir.\nManyetik karıştırıcı cihazının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nBenmari cihazının blok diyagramı ve çalışması tarif edilir.\nBenmari cihazının kurulacağı ortam şartları listelenir.\nBenmari cihazının elektriksel özellikleri açıklanır.\nMontajı yapar ve montajdan sonra cihazı kullanılır.\nTeslim tutanağındaki maddeler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Manyetik karıştırıcı cihazının kurulacağı ortamın fiziki özelliklerinin kontrolünü açıklamak\nCihazdaki etikete bakarak cihaza uygun besleme yapımını açıklamak.\nTeslim tutanağındaki maddeler listelenir.\nManyetik karıştırıcı cihazının besleme devresinde kullanılan elektronik elemanların tanıtılır.\nDoğrultma,filtre,regüle devrelerinin çalışması tarif edilir\nBesleme ünitesinin arızası tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının anakart ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının ısı kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nManyetik karıştırıcı cihazının motor kontrol ünitesinin arızası tespit edilir ve arıza giderilir.\nIsıtıcıların kontrolü için kullanılan elemanların çalışma prensipleri izah edilir.\nManyetik karıştırıcı cihazlarında kullanılan motor çeşitleri tanıtılır.\nDC motor arızası tespit edilir ve giderilir.\nManyetik karıştırıcı cihazlarında ısıtıcı tablanın arızası tespit edilir ve arızası giderilir.\nIsıtıcı tablada kullanılan malzemeler listelenir ve özellikleri açıklanır.\nBakım talimatları açıklanır.\nBakım tutanağında bulunması gereken bilgiler listelenir.\nManyetik karıştırıcı cihazının fonksiyon testi yapılır.\nKalibrasyon yapılırken kullanılacak kalibratörler tarif edilir.\nManyetik karıştırıcı cihazının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nBenmari cihazının blok diyagramı ve çalışması tarif edilir.\nBenmari cihazının kurulacağı ortam şartları listelenir.\nBenmari cihazının elektriksel özellikleri açıklanır.\nMontajı yapar ve montajdan sonra cihazı kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nBenmari cihazı anakart besleme ünitesinin çalışması tarif edilir.\nBenmari cihazının anakart besleme ve motor besleme ünitesinde oluşabilecek arızalar tespit edilir ve arızaları giderilir.\nArıza bilgi formu düzenlenir.\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin çalışması tarif edilir\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin arızası tespit edilir ve arıza giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nBenmari cihazlarının ısıtıcı yapısı tarif edilir ve cihaz arızası tespit edilerek giderilir.\nBenmari cihazlarının bakım talimatlarına göre bakımı yapılır.\nBenmari cihazlarının fonksiyon testi yapılır\nBenmari cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Benmari Cihazları",
+      "KONU": "Benmari Cihazlarının Besleme Arızaları / Benmari Cihazlarının Elektronik Kontrol Kartının Arızaları",
+      "KAZANIM": "Benmari cihazlarının besleme ünitesi arızasını giderir.\nBenmari cihazlarının elektronik kontrol kartlarının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Benmari cihazı anakart besleme ünitesinin çalışması tarif edilir.\nBenmari cihazının anakart besleme ve motor besleme ünitesinde oluşabilecek arızalar tespit edilir ve arızaları giderilir.\nArıza bilgi formu düzenlenir.\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin çalışması tarif edilir",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Benmari cihazının blok diyagramı ve çalışması tarif edilir.\nBenmari cihazının kurulacağı ortam şartları listelenir.\nBenmari cihazının elektriksel özellikleri açıklanır.\nMontajı yapar ve montajdan sonra cihazı kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nBenmari cihazı anakart besleme ünitesinin çalışması tarif edilir.\nBenmari cihazının anakart besleme ve motor besleme ünitesinde oluşabilecek arızalar tespit edilir ve arızaları giderilir.\nArıza bilgi formu düzenlenir.\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin çalışması tarif edilir\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin arızası tespit edilir ve arıza giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nBenmari cihazlarının ısıtıcı yapısı tarif edilir ve cihaz arızası tespit edilerek giderilir.\nBenmari cihazlarının bakım talimatlarına göre bakımı yapılır.\nBenmari cihazlarının fonksiyon testi yapılır\nBenmari cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Benmari Cihazları",
+      "KONU": "Benmari Cihazlarının Elektronik Kontrol Kartının Arızaları / Benmari Cihazlarının Motor Arızaları",
+      "KAZANIM": "Benmari cihazlarının elektronik kontrol kartlarının arızasını giderir.\nBenmari cihazlarının ısıtıcı arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Benmari cihazı anakart,motor kontrol,gösterge ünitesinin arızası tespit edilir ve arıza giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nBenmari cihazlarının ısıtıcı yapısı tarif edilir ve cihaz arızası tespit edilerek giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Benmari cihazının blok diyagramı ve çalışması tarif edilir.\nBenmari cihazının kurulacağı ortam şartları listelenir.\nBenmari cihazının elektriksel özellikleri açıklanır.\nMontajı yapar ve montajdan sonra cihazı kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nBenmari cihazı anakart besleme ünitesinin çalışması tarif edilir.\nBenmari cihazının anakart besleme ve motor besleme ünitesinde oluşabilecek arızalar tespit edilir ve arızaları giderilir.\nArıza bilgi formu düzenlenir.\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin çalışması tarif edilir\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin arızası tespit edilir ve arıza giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nBenmari cihazlarının ısıtıcı yapısı tarif edilir ve cihaz arızası tespit edilerek giderilir.\nBenmari cihazlarının bakım talimatlarına göre bakımı yapılır.\nBenmari cihazlarının fonksiyon testi yapılır\nBenmari cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Benmari Cihazları / Su Distile Cihazlarında Arızalar",
+      "KONU": "Benmari Cihazlarının Bakım ve Fonksiyon Testi / Benmari Cihazlarının Kalibrasyon Testi / 1. Su Distile Cihazlarının Montajı ve Kullanımı",
+      "KAZANIM": "Benmari cihazlarının bakımını ve fonksiyon testini yapar.\nBenmari cihazlarının kalibrasyonunu yapar.\nSu distile cihazlarının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Benmari cihazlarının bakım talimatlarına göre bakımı yapılır.\nBenmari cihazlarının fonksiyon testi yapılır\nBenmari cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.\nSu distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Benmari cihazının blok diyagramı ve çalışması tarif edilir.\nBenmari cihazının kurulacağı ortam şartları listelenir.\nBenmari cihazının elektriksel özellikleri açıklanır.\nMontajı yapar ve montajdan sonra cihazı kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nBenmari cihazı anakart besleme ünitesinin çalışması tarif edilir.\nBenmari cihazının anakart besleme ve motor besleme ünitesinde oluşabilecek arızalar tespit edilir ve arızaları giderilir.\nArıza bilgi formu düzenlenir.\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin çalışması tarif edilir\nBenmari cihazı anakart,motor kontrol,gösterge ünitesinin arızası tespit edilir ve arıza giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nBenmari cihazlarının ısıtıcı yapısı tarif edilir ve cihaz arızası tespit edilerek giderilir.\nBenmari cihazlarının bakım talimatlarına göre bakımı yapılır.\nBenmari cihazlarının fonksiyon testi yapılır\nBenmari cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.\n● Su distile cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek.\n● Su distile cihazının montajını yapmak.\n● Gerekli elektriksel ölçümleri yapmak.\n● Teslim tutanağı hazırlamak.\n● Besleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\n● Besleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\n● Besleme kartını yenisi ile değiştirmek.\n● Arıza bilgi formu hazırlamak.\n● Lambaların sağlamlık kontrolünü yapmak.\n● Sensörlerin arıza kontrolünü yapmak.\n● Arızalı kartı yenisi ile değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Rezistans direncini ölçmek.\n● Isıtıcı gerilimini ölçmek.\n● Arızalı ısıtıcıyı değiştirmek.\n● Servis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\n● Uygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu sağlamak.\n● Su distile cihazlarının fonksiyon testini yapmak.\n● Yıllık bakım çizelgesi düzenlemek\n● Kalibrasyon için gerekli ölçümleri yapmak\n● Kalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar",
+      "KONU": "2. Su Distile Cihazlarının Besleme Ünitesinin Arızaları / 3. Su Distile Cihazlarının Elektronik Kontrol Kartlarının Arızaları",
+      "KAZANIM": "Su distile cihazlarının besleme ünitesinin arızasını giderir.\nSu distile cihazlarının elektronik kontrol kartlarının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Su distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "● Su distile cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek.\n● Su distile cihazının montajını yapmak.\n● Gerekli elektriksel ölçümleri yapmak.\n● Teslim tutanağı hazırlamak.\n● Besleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\n● Besleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\n● Besleme kartını yenisi ile değiştirmek.\n● Arıza bilgi formu hazırlamak.\n● Lambaların sağlamlık kontrolünü yapmak.\n● Sensörlerin arıza kontrolünü yapmak.\n● Arızalı kartı yenisi ile değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Rezistans direncini ölçmek.\n● Isıtıcı gerilimini ölçmek.\n● Arızalı ısıtıcıyı değiştirmek.\n● Servis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\n● Uygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu sağlamak.\n● Su distile cihazlarının fonksiyon testini yapmak.\n● Yıllık bakım çizelgesi düzenlemek\n● Kalibrasyon için gerekli ölçümleri yapmak\n● Kalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar",
+      "KONU": "3. Su Distile Cihazlarının Elektronik Kontrol Kartlarının Arızaları / 4. Su Distile Cihazlarının Isıtıcı Arızaları",
+      "KAZANIM": "Su distile cihazlarının elektronik kontrol kartlarının arızasını giderir.\nSu distile cihazlarının ısıtıcı arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.\nSu distile cihazlarının ısıtıcı arızası giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "● Su distile cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek.\n● Su distile cihazının montajını yapmak.\n● Gerekli elektriksel ölçümleri yapmak.\n● Teslim tutanağı hazırlamak.\n● Besleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\n● Besleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\n● Besleme kartını yenisi ile değiştirmek.\n● Arıza bilgi formu hazırlamak.\n● Lambaların sağlamlık kontrolünü yapmak.\n● Sensörlerin arıza kontrolünü yapmak.\n● Arızalı kartı yenisi ile değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Rezistans direncini ölçmek.\n● Isıtıcı gerilimini ölçmek.\n● Arızalı ısıtıcıyı değiştirmek.\n● Servis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\n● Uygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu sağlamak.\n● Su distile cihazlarının fonksiyon testini yapmak.\n● Yıllık bakım çizelgesi düzenlemek\n● Kalibrasyon için gerekli ölçümleri yapmak\n● Kalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar / Su Distile Cihazlarında Arızalar",
+      "KONU": "5. Su Distile Cihazlarının Bakımı ve Fonksiyon Testi / 6. Su Distile Cihazlarının Kalibrasyonu / Su Distile Cihazlarının Montajı ve Kullanımı",
+      "KAZANIM": "Su distile cihazlarının bakımını ve fonksiyon testin yapar.\nSu distile cihazlarının kalibrasyonunu yapar.\nSu distile cihazlarının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Su distile cihazlarının bakımı ve fonksiyon testi yapılır.\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.\nSu distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "● Su distile cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek.\n● Su distile cihazının montajını yapmak.\n● Gerekli elektriksel ölçümleri yapmak.\n● Teslim tutanağı hazırlamak.\n● Besleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\n● Besleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\n● Besleme kartını yenisi ile değiştirmek.\n● Arıza bilgi formu hazırlamak.\n● Lambaların sağlamlık kontrolünü yapmak.\n● Sensörlerin arıza kontrolünü yapmak.\n● Arızalı kartı yenisi ile değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Rezistans direncini ölçmek.\n● Isıtıcı gerilimini ölçmek.\n● Arızalı ısıtıcıyı değiştirmek.\n● Servis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\n● Uygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu sağlamak.\n● Su distile cihazlarının fonksiyon testini yapmak.\n● Yıllık bakım çizelgesi düzenlemek\n● Kalibrasyon için gerekli ölçümleri yapmak\n● Kalibrasyon sertifikası düzenlemek.\nSu distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nSu distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.\nSu distile cihazlarının ısıtıcı arızası giderilir.\nSu distile cihazlarının bakımı ve fonksiyon testi yapılır.\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar",
+      "KONU": "Su Distile Cihazlarının Montajı ve Kullanımı / Su Distile Cihazlarının Besleme Ünitesinin Arızaları",
+      "KAZANIM": "Su distile cihazlarının montajını yapar ve kullanır.\nSu distile cihazlarının besleme ünitesinin arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Teslim tutanağında bulunması gereken bilgiler listelenir.\nSu distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Su distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nSu distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.\nSu distile cihazlarının ısıtıcı arızası giderilir.\nSu distile cihazlarının bakımı ve fonksiyon testi yapılır.\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar",
+      "KONU": "Su Distile Cihazlarının Elektronik Kontrol Kartlarının Arızaları / Su Distile Cihazlarının Isıtıcı Arızaları",
+      "KAZANIM": "Su distile cihazlarının elektronik kontrol kartlarının arızasını giderir.\nSu distile cihazlarının ısıtıcı arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Su distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Su distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nSu distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.\nSu distile cihazlarının ısıtıcı arızası giderilir.\nSu distile cihazlarının bakımı ve fonksiyon testi yapılır.\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar",
+      "KONU": "Su Distile Cihazlarının Isıtıcı Arızaları / Su Distile Cihazlarının Bakımı ve Fonksiyon Testi",
+      "KAZANIM": "Su distile cihazlarının ısıtıcı arızasını giderir.\nSu distile cihazlarının bakımını ve fonksiyon testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Su distile cihazlarının ısıtıcı arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazlarının bakımı ve fonksiyon testi yapılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Su distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nSu distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.\nSu distile cihazlarının ısıtıcı arızası giderilir.\nSu distile cihazlarının bakımı ve fonksiyon testi yapılır.\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "Su Distile Cihazlarında Arızalar / Koagulometre Cihazlarında Arızalar",
+      "KONU": "Su Distile Cihazlarının Bakımı ve Fonksiyon Testi / Su Distile Cihazlarının Kalibrasyonu / Koagulometre Cihazının Montajı ve Kullanımı",
+      "KAZANIM": "Su distile cihazlarının bakımını ve fonksiyon testini yapar.\nSu distile cihazlarının kalibrasyonunu yapar.\nKoagulometre cihazının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.\nKoagulometre cihazında kullanılan aksesuarlar listelenir.\nKoagulometre cihazının blok diyagramı ve çalışması açıklanır.\nKoagulometre cihazının kurulacağı ortam şartlar açıklanır.\nKoagulometre cihazının elektriksel özellikleri açıklanır.\nKoagulometre cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Su distile cihazlarının blok diyagramı ve çalışması tarif edilir.\nSu distile cihazlarının kurulacağı ortam şartları açıklanır.\nSu distile cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nSu distile cihazlarının besleme ünitesinin arızası tespit edilir ve arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSu distile cihazındaki elektronik kontrol kartının çalışması açıklanır.\nSu distile cihazlarının kontrol lambaları ve sensörlerinin çalışması açıklanır.\nSu distile cihazlarında kullanılan ısıtıcıların çalışması tarif edilir.\nSu distile cihazlarının ısıtıcı arızası giderilir.\nSu distile cihazlarının bakımı ve fonksiyon testi yapılır.\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nSu distile cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.\nKoagulometre cihazında kullanılan aksesuarlar listelenir.\nKoagulometre cihazının blok diyagramı ve çalışması açıklanır.\nKoagulometre cihazının kurulacağı ortam şartları açıklanır.\nKoagulometre cihazının elektriksel özellikleri açıklanır.\nKoagulometre cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nKoagulometre cihazlarında besleme ünitesinin arızası giderilir\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nKoagulometre cihazındaki anakart ünitesinin birimlerinin,Isı kontrollü sensörlerinin,Merkezi işlem biriminin (CPU) arızaları giderilir.\nCihazdaki DC motor arızaları giderilir.\nTermal yazıcılarda oluşabilecek arızlar sıralanır.\nStep motor ve sürücü devrelerindeki arızalar giderilir.\nKoagulometre cihazlarında bakım yapılır.\nUygun temizlik maddeleri ile sterilizasyonu yapılır.\nYıllık bakım çizelgesine göre bakımı yapılır.\nKoagulometre cihazının kalibrasyonu yapılır.\nKalibrasyon sertifikası düzenlenir."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "Koagulometre Cihazlarında Arızalar",
+      "KONU": "Koagulometre Cihazının Montajı ve Kullanımı / Koagulometre Cihazlarında Besleme Ünitesi Arızası / Koagulometre Cihazlarında Elektronik Kontrol Kart Arızaları",
+      "KAZANIM": "Koagulometre cihazının montajını yapar ve kullanır.\nKoagulometre cihazlarında besleme ünitesinin arızasını giderir.\nKoagulometre cihazlarında elektronik kontrol kartları arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Teslim tutanağındaki maddeler listelenir.\nKoagulometre cihazlarında besleme ünitesinin arızası giderilir\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nKoagulometre cihazındaki anakart ünitesinin birimlerinin, Isı kontrollü sensörlerinin, Merkezi işlem biriminin (CPU) arızaları giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazında kullanılan aksesuarlar listelenir.\nKoagulometre cihazının blok diyagramı ve çalışması açıklanır.\nKoagulometre cihazının kurulacağı ortam şartları açıklanır.\nKoagulometre cihazının elektriksel özellikleri açıklanır.\nKoagulometre cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nKoagulometre cihazlarında besleme ünitesinin arızası giderilir\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nKoagulometre cihazındaki anakart ünitesinin birimlerinin,Isı kontrollü sensörlerinin,Merkezi işlem biriminin (CPU) arızaları giderilir.\nCihazdaki DC motor arızaları giderilir.\nTermal yazıcılarda oluşabilecek arızlar sıralanır.\nStep motor ve sürücü devrelerindeki arızalar giderilir.\nKoagulometre cihazlarında bakım yapılır.\nUygun temizlik maddeleri ile sterilizasyonu yapılır.\nYıllık bakım çizelgesine göre bakımı yapılır.\nKoagulometre cihazının kalibrasyonu yapılır.\nKalibrasyon sertifikası düzenlenir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "Koagulometre Cihazlarında Arızalar",
+      "KONU": "Koagulometre Cihazlarında Motor Arızaları / Koagulometre Cihazlarında Yazıcı Arızaları",
+      "KAZANIM": "Koagulometre cihazlarında motor arızasını giderir.\nKoagulometre cihazlarında yazıcı arızası giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Cihazdaki DC motor arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nTermal yazıcılarda oluşabilecek arızlar sıralanır.\nStep motor ve sürücü devrelerindeki arızalar giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazında kullanılan aksesuarlar listelenir.\nKoagulometre cihazının blok diyagramı ve çalışması açıklanır.\nKoagulometre cihazının kurulacağı ortam şartları açıklanır.\nKoagulometre cihazının elektriksel özellikleri açıklanır.\nKoagulometre cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nKoagulometre cihazlarında besleme ünitesinin arızası giderilir\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nKoagulometre cihazındaki anakart ünitesinin birimlerinin,Isı kontrollü sensörlerinin,Merkezi işlem biriminin (CPU) arızaları giderilir.\nCihazdaki DC motor arızaları giderilir.\nTermal yazıcılarda oluşabilecek arızlar sıralanır.\nStep motor ve sürücü devrelerindeki arızalar giderilir.\nKoagulometre cihazlarında bakım yapılır.\nUygun temizlik maddeleri ile sterilizasyonu yapılır.\nYıllık bakım çizelgesine göre bakımı yapılır.\nKoagulometre cihazının kalibrasyonu yapılır.\nKalibrasyon sertifikası düzenlenir."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "Koagulometre Cihazlarında Arızalar / Mikroskop Cihazlarında Arızalar",
+      "KONU": "Koagulometre Cihazlarında Bakım ve Fonksiyon Testi / Koagulometre Cihazlarında Kalibrasyon / Mikroskop Cihazlarının Montajı ve Kullanımı",
+      "KAZANIM": "Koagulometre cihazlarında bakım ve fonksiyon testi yapar.\nKoagulometre cihazlarında kalibrasyon yapar.\nMikroskop cihazlarının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Koagulometre cihazlarında bakım yapılır.\nUygun temizlik maddeleri ile sterilizasyonu yapılır.\nYıllık bakım çizelgesine göre bakımı yapılır.\nKoagulometre cihazının kalibrasyonu yapılır.\nKalibrasyon sertifikası düzenlenir.\nMikroskop cihazlarının blok diyagramı ve çalışması tarif edilir.\nMikroskop cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazında kullanılan aksesuarlar listelenir.\nKoagulometre cihazının blok diyagramı ve çalışması açıklanır.\nKoagulometre cihazının kurulacağı ortam şartları açıklanır.\nKoagulometre cihazının elektriksel özellikleri açıklanır.\nKoagulometre cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağındaki maddeler listelenir.\nKoagulometre cihazlarında besleme ünitesinin arızası giderilir\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nKoagulometre cihazındaki anakart ünitesinin birimlerinin,Isı kontrollü sensörlerinin,Merkezi işlem biriminin (CPU) arızaları giderilir.\nCihazdaki DC motor arızaları giderilir.\nTermal yazıcılarda oluşabilecek arızlar sıralanır.\nStep motor ve sürücü devrelerindeki arızalar giderilir.\nKoagulometre cihazlarında bakım yapılır.\nUygun temizlik maddeleri ile sterilizasyonu yapılır.\nYıllık bakım çizelgesine göre bakımı yapılır.\nKoagulometre cihazının kalibrasyonu yapılır.\nKalibrasyon sertifikası düzenlenir.\nMikroskop cihazlarının blok diyagramı ve çalışması tarif edilir.\nMikroskop cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir.\nMikroskop cihazlarının aydınlatma lambası besleme ünitesinin arızasını giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nMikroskop cihazlarında aydınlatma lambası değiştirilirken dikkat edilecek hususlar sıralanır ve lamba değişimi yapılır.\nMikroskop cihazlarındaki mekanik aksam arızalar giderilir.\nArıza bilgi formu düzenlenir.\nMikroskop cihazlarının bakımı, talimatlara göre yapılır ve cihazın fonksiyon testi yapılır\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "Mikroskop Cihazlarında Arızalar",
+      "KONU": "Mikroskop Cihazlarında Aydınlatma Lambası / Mikroskop Cihazlarında Aydınlatma Lambasının Besleme Ünitesinin Arızaları",
+      "KAZANIM": "Mikroskop cihazlarında aydınlatma lambasını değiştirir.\nMikroskop cihazlarında aydınlatma lambası besleme ünitesinin arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroskop cihazlarında aydınlatma lambası değiştirilirken dikkat edilecek hususlar sıralanır ve lamba değişimi yapılır.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nMikroskop cihazlarının aydınlatma lambası besleme ünitesinin arızasını giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikroskop cihazlarının blok diyagramı ve çalışması tarif edilir.\nMikroskop cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir.\nMikroskop cihazlarının aydınlatma lambası besleme ünitesinin arızasını giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nMikroskop cihazlarında aydınlatma lambası değiştirilirken dikkat edilecek hususlar sıralanır ve lamba değişimi yapılır.\nMikroskop cihazlarındaki mekanik aksam arızalar giderilir.\nArıza bilgi formu düzenlenir.\nMikroskop cihazlarının bakımı, talimatlara göre yapılır ve cihazın fonksiyon testi yapılır\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "Mikroskop Cihazlarında Arızalar / Kan Gazları Cihazlarında Arızalar",
+      "KONU": "Mikroskop Cihazlarında Mekanik Aksam Arızaları / Mikroskop Cihazlarının Bakımı ve Fonksiyon Testi / Kan Gazları Cihazının Montajı ve Kullanımı",
+      "KAZANIM": "Mikroskop cihazlarında mekanik aksam arızalarını giderir.\nMikroskop cihazlarının bakımını ve fonksiyon testini yapar.\nKan gazları cihazının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroskop cihazlarındaki mekanik aksam arızalar giderilir.\nArıza bilgi formu düzenlenir.\nMikroskop cihazlarının bakımı, talimatlara göre yapılır ve cihazın fonksiyon testi yapılır\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nKan gazları cihazında kullanılan aksesuarlar listelenir.\nKan gazları cihazının blok diyagramı ve çalışması açıklanır.\nKan gazları cihazının elektriksel özellikleri açıklanır.\nElektriksel güvenlik analizörünün görevi tarif edilir.\nKan gazları cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikroskop cihazlarının blok diyagramı ve çalışması tarif edilir.\nMikroskop cihazlarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir.\nMikroskop cihazlarının aydınlatma lambası besleme ünitesinin arızasını giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nMikroskop cihazlarında aydınlatma lambası değiştirilirken dikkat edilecek hususlar sıralanır ve lamba değişimi yapılır.\nMikroskop cihazlarındaki mekanik aksam arızalar giderilir.\nArıza bilgi formu düzenlenir.\nMikroskop cihazlarının bakımı, talimatlara göre yapılır ve cihazın fonksiyon testi yapılır\nYıllık bakım çizelgesinde bulunması gereken bilgiler listelenir.\nKan gazları cihazında kullanılan aksesuarlar listelenir.\nKan gazları cihazının blok diyagramı ve çalışması açıklanır.\nKan gazları cihazının elektriksel özellikleri açıklanır.\nElektriksel güvenlik analizörünün görevi tarif edilir.\nKan gazları cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir\nKan gazları cihazının besleme ünitesinin arızaları sıralanır.\nBesleme devresi birimlerinin çıkış sinyalleri kontrol edilir.\nArıza bilgi formu düzenlenir.\nKan gazları cihazındaki anakart,merkezi işlem ünitesi,Sıcaklık kontrol ünitesi arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nCihazın sensör ve elektrot arızaları giderilir.\nArıza bilgi formu düzenlenir.\nYazıcı arızaları giderilir.\nPompa mekanizmalarında oluşacak arızaları listeler.\nPompa ve motor arızaları giderilir\nArıza bilgi formunu düzenlenir.\nKan gazları cihazlarında arıza kodu ve cihaz yazılımı ile ilgili arızalar giderilir.\nKan gazları cihazlarında bakım ve fonksiyon testi yapılır.\nKan gazları cihazlarında kalibrasyon yapılır\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "Kan Gazları Cihazlarında Arızalar",
+      "KONU": "Kan Gazları Cihazının Montajı ve Kullanımı / Kan Gazları Cihazlarında Besleme Ünitesi Arızaları / Kan Gazları Cihazlarında Elektronik Kontrol Kartı Arızaları",
+      "KAZANIM": "Kan gazları cihazının montajını yapar ve kullanır.\nKan gazları cihazlarında besleme ünitesinin arızasını giderir.\nKan gazları cihazlarında elektronik kontrol kartlarının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Teslim tutanağı düzenlenir\nKan gazları cihazının besleme ünitesinin arızaları sıralanır.\nBesleme devresi birimlerinin çıkış sinyalleri kontrol edilir.\nArıza bilgi formu düzenlenir.\nKan gazları cihazındaki anakart, merkezi işlem ünitesi, Sıcaklık kontrol ünitesi arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazında kullanılan aksesuarlar listelenir.\nKan gazları cihazının blok diyagramı ve çalışması açıklanır.\nKan gazları cihazının elektriksel özellikleri açıklanır.\nElektriksel güvenlik analizörünün görevi tarif edilir.\nKan gazları cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir\nKan gazları cihazının besleme ünitesinin arızaları sıralanır.\nBesleme devresi birimlerinin çıkış sinyalleri kontrol edilir.\nArıza bilgi formu düzenlenir.\nKan gazları cihazındaki anakart,merkezi işlem ünitesi,Sıcaklık kontrol ünitesi arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nCihazın sensör ve elektrot arızaları giderilir.\nArıza bilgi formu düzenlenir.\nYazıcı arızaları giderilir.\nPompa mekanizmalarında oluşacak arızaları listeler.\nPompa ve motor arızaları giderilir\nArıza bilgi formunu düzenlenir.\nKan gazları cihazlarında arıza kodu ve cihaz yazılımı ile ilgili arızalar giderilir.\nKan gazları cihazlarında bakım ve fonksiyon testi yapılır.\nKan gazları cihazlarında kalibrasyon yapılır\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "Kan Gazları Cihazlarında Arızalar",
+      "KONU": "Kan Gazları Cihazlarında Sensör ve Elektrot Arızaları / Kan Gazları Cihazlarında Yazıcı Arızaları / Kan Gazları Cihazlarında Pompa ve Motor Arızalarını",
+      "KAZANIM": "Kan gazları cihazlarında sensör ve elektrot arızalarını giderir.\nKan gazları cihazlarında yazıcı arızasını giderir.\nKan gazları cihazlarında pompa ve motor arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Cihazın sensör ve elektrot arızaları giderilir.\nArıza bilgi formu düzenlenir.\nYazıcı arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nPompa mekanizmalarında oluşacak arızaları listeler.\nPompa ve motor arızaları giderilir",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazında kullanılan aksesuarlar listelenir.\nKan gazları cihazının blok diyagramı ve çalışması açıklanır.\nKan gazları cihazının elektriksel özellikleri açıklanır.\nElektriksel güvenlik analizörünün görevi tarif edilir.\nKan gazları cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir\nKan gazları cihazının besleme ünitesinin arızaları sıralanır.\nBesleme devresi birimlerinin çıkış sinyalleri kontrol edilir.\nArıza bilgi formu düzenlenir.\nKan gazları cihazındaki anakart,merkezi işlem ünitesi,Sıcaklık kontrol ünitesi arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nCihazın sensör ve elektrot arızaları giderilir.\nArıza bilgi formu düzenlenir.\nYazıcı arızaları giderilir.\nPompa mekanizmalarında oluşacak arızaları listeler.\nPompa ve motor arızaları giderilir\nArıza bilgi formunu düzenlenir.\nKan gazları cihazlarında arıza kodu ve cihaz yazılımı ile ilgili arızalar giderilir.\nKan gazları cihazlarında bakım ve fonksiyon testi yapılır.\nKan gazları cihazlarında kalibrasyon yapılır\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "Kan Gazları Cihazlarında Arızalar / Kan Saklama Dolaplarında Arızalar",
+      "KONU": "Kan Gazları Cihazlarında Pompa ve Motor Arızalarını / Kan Gazları Cihazlarında Arıza Kodu, Cihaz Yazılımı İle İlgili Arızaları / Kan Gazları Cihazlarında Bakım ve Fonksiyon Testi / Kan Gazları Cihazlarında Kalibrasyon / Kan Saklama Dolaplarının Montajı ve Kullanımı / Soğutma Gazı Kaçak Kontrolü",
+      "KAZANIM": "Kan gazları cihazlarında pompa ve motor arızalarını giderir.\nKan gazları cihazlarında arıza kodu ve cihaz yazılımı ile ilgili arızaları giderir.\nKan gazları cihazlarında bakım ve fonksiyon testi yapar.\nKan gazları cihazlarında kalibrasyon yapar.\nKan saklama dolaplarının montajını yapar ve kullanır.\nSoğutma gazı kaçak kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bilgi formunu düzenlenir.\nKan gazları cihazlarında arıza kodu ve cihaz yazılımı ile ilgili arızalar giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nKan gazları cihazlarında bakım ve fonksiyon testi yapılır.\nKan gazları cihazlarında kalibrasyon yapılır\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nKan saklama dolaplarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nGaz verme işleminde dikkat edilmesi gereken hususlar listelenir.\nGaz kaçaklarının tespiti için kimyasal kullanımı yapılır.\nManometre kullanımı tarif edilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazında kullanılan aksesuarlar listelenir.\nKan gazları cihazının blok diyagramı ve çalışması açıklanır.\nKan gazları cihazının elektriksel özellikleri açıklanır.\nElektriksel güvenlik analizörünün görevi tarif edilir.\nKan gazları cihazının montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağı düzenlenir\nKan gazları cihazının besleme ünitesinin arızaları sıralanır.\nBesleme devresi birimlerinin çıkış sinyalleri kontrol edilir.\nArıza bilgi formu düzenlenir.\nKan gazları cihazındaki anakart,merkezi işlem ünitesi,Sıcaklık kontrol ünitesi arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nCihazın sensör ve elektrot arızaları giderilir.\nArıza bilgi formu düzenlenir.\nYazıcı arızaları giderilir.\nPompa mekanizmalarında oluşacak arızaları listeler.\nPompa ve motor arızaları giderilir\nArıza bilgi formunu düzenlenir.\nKan gazları cihazlarında arıza kodu ve cihaz yazılımı ile ilgili arızalar giderilir.\nKan gazları cihazlarında bakım ve fonksiyon testi yapılır.\nKan gazları cihazlarında kalibrasyon yapılır\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nKan saklama dolaplarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nGaz verme işleminde dikkat edilmesi gereken hususlar listelenir.\nGaz kaçaklarının tespiti için kimyasal kullanımı yapılır.\nManometre kullanımı tarif edilir.\nGaz vakumlama seti ile gramajında sisteme gaz verilir\nBorularda oluşabilecek arızalar giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSoğutma sistemi arızalarını giderilir.\nElektronik kontrol kartlarda oluşacak muhtemel arızalar sıralanır ve arıza giderme yöntemleri açıklanır.\nKan saklama dolabındaki ısı kayıt sisteminde oluşacak arızalar giderilir.\nDairesel kaydedici arızaları giderilir.\nKan saklama dolaplarının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "Kan Saklama Dolaplarında Arızalar",
+      "KONU": "Gaz Vakumlama Seti İle Gramajında Sisteme Gaz Verme / Borulara ve Eklem Yerlerine Gümüş Kaynağı Yapma / Soğutma Sistemi Arızaları / Elektronik Kontrol Kartı Arızaları",
+      "KAZANIM": "Gaz vakumlama seti ile gramajında sisteme gaz verir.\nBorulara ve eklem yerlerine gümüş kaynağı yapar.\nSoğutma sistemi arızalarını giderir.\nElektronik kontrol kartı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gaz vakumlama seti ile gramajında sisteme gaz verilir\nBorularda oluşabilecek arızalar giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSoğutma sistemi arızalarını giderilir.\nElektronik kontrol kartlarda oluşacak muhtemel arızalar sıralanır ve arıza giderme yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan saklama dolaplarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nGaz verme işleminde dikkat edilmesi gereken hususlar listelenir.\nGaz kaçaklarının tespiti için kimyasal kullanımı yapılır.\nManometre kullanımı tarif edilir.\nGaz vakumlama seti ile gramajında sisteme gaz verilir\nBorularda oluşabilecek arızalar giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSoğutma sistemi arızalarını giderilir.\nElektronik kontrol kartlarda oluşacak muhtemel arızalar sıralanır ve arıza giderme yöntemleri açıklanır.\nKan saklama dolabındaki ısı kayıt sisteminde oluşacak arızalar giderilir.\nDairesel kaydedici arızaları giderilir.\nKan saklama dolaplarının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "Kan Saklama Dolaplarında Arızalar / Kuru Hava Sterilizatör Cihazlarında Arızalar",
+      "KONU": "Elektronik Kontrol Kartı Arızaları / Isı Kayıt Modülü Arızaları / Kan Saklama Dolaplarının Kalibrasyonu / Kuru Hava Sterilizatör Cihazlarındaki Elektronik Kontrol Kartının Arızaları / Kuru Hava Sterilizatör Cihazlarındaki Isıtıcı Arızaları.",
+      "KAZANIM": "Elektronik kontrol kartı arızalarını giderir.\nIsı kayıt modül arızalarını giderir.\nKan saklama dolaplarının kalibrasyonunu yapar.\nKuru Hava Sterilizatör cihazlarındaki elektronik kontrol kartının arızalarını giderir.\nKuru Hava Sterilizatör cihazlarındaki ısıtıcı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bilgi formunda bulunması gereken bilgiler listelenir.\nKan saklama dolabındaki ısı kayıt sisteminde oluşacak arızalar giderilir.\nDairesel kaydedici arızaları giderilir.\nKan saklama dolaplarının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nKuru hava sterilizatör cihazı merkezi işlem ünitesi,zamanlayıcı ünitesi,sıcaklık kontrol ünitesi tarif edilir ve arızası tespit edilip giderilir.\nSıcaklık ve zamanlayıcı gösterge ünitesi arıza tespit yapılıp giderilir.\nKuru hava sterilizatör cihazlarında kullanılan ısıtıcı arızaları tespit edilip arıza giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan saklama dolaplarının montajını yapılır.\nMontaj yapımından sonra cihaz kullanılır.\nTeslim tutanağında bulunması gereken bilgiler listelenir.\nGaz verme işleminde dikkat edilmesi gereken hususlar listelenir.\nGaz kaçaklarının tespiti için kimyasal kullanımı yapılır.\nManometre kullanımı tarif edilir.\nGaz vakumlama seti ile gramajında sisteme gaz verilir\nBorularda oluşabilecek arızalar giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSoğutma sistemi arızalarını giderilir.\nElektronik kontrol kartlarda oluşacak muhtemel arızalar sıralanır ve arıza giderme yöntemleri açıklanır.\nKan saklama dolabındaki ısı kayıt sisteminde oluşacak arızalar giderilir.\nDairesel kaydedici arızaları giderilir.\nKan saklama dolaplarının kalibrasyonunu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nKuru hava sterilizatör cihazı elektronik kontrol kartının devre şemasını yorumlamak\nAnakartı değiştirmek.\nGösterge ünitesini değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\n7 segmentdisplay devre uygulamaları yapmak.\nRezistans sağlamlık kontrolü yapmak.\nRezistans değişimi yapmak.\nRöle anahtarlamalı devre uygulamaları yapmak.\nArıza bilgi formu düzenlemek.\nBakım tutanağında bulunması gereken bilgileri listelemek.\nKuru hava sterilizatör cihazının bakımında dikkat edilecek hususları açıklamak.\nKuru hava sterilizatör cihazını test etmek.\nİndikatör bandı kullanarak testin uygunluğunu belirlemek.\nIsıl kalibratör kullanarak testin uygunluğunu belirlemek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "Kuru Hava Sterilizatör Cihazlarında Arızalar",
+      "KONU": "Kuru Hava Sterilizatör Cihazlarındaki Isıtıcı Arızaları. / Kuru Hava Sterilizatör Cihazlarının Bakımı ve Fonksiyon Testi.",
+      "KAZANIM": "Kuru Hava Sterilizatör cihazlarındaki ısıtıcı arızalarını giderir.\nKuru Hava Sterilizatör cihazlarının bakımını ve fonksiyon testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Isıtıcı yol verme kontaktörü ve kontaktör arızaları giderilir.\nArıza bilgi formunda olması gereken bilgileri listelenir.\nKuru hava sterilizatör cihazının fonksiyon testi yapılır.\nKuru hava sterilizatör cihazının bakımı yapılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kuru hava sterilizatör cihazı elektronik kontrol kartının devre şemasını yorumlamak\nAnakartı değiştirmek.\nGösterge ünitesini değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\n7 segmentdisplay devre uygulamaları yapmak.\nRezistans sağlamlık kontrolü yapmak.\nRezistans değişimi yapmak.\nRöle anahtarlamalı devre uygulamaları yapmak.\nArıza bilgi formu düzenlemek.\nBakım tutanağında bulunması gereken bilgileri listelemek.\nKuru hava sterilizatör cihazının bakımında dikkat edilecek hususları açıklamak.\nKuru hava sterilizatör cihazını test etmek.\nİndikatör bandı kullanarak testin uygunluğunu belirlemek.\nIsıl kalibratör kullanarak testin uygunluğunu belirlemek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "Kuru Hava Sterilizatör Cihazlarında Arızalar / Otoklav Cihazlarında Elektronik Arızalar",
+      "KONU": "Kuru Hava Sterilizatör Cihazlarının Bakımı ve Fonksiyon Testi. / Kuru Hava Sterilizatör Cihazlarının Kalibrasyonu / Otoklav Cihazının Montajı ve Kullanımı",
+      "KAZANIM": "Kuru Hava Sterilizatör cihazlarının bakımını ve fonksiyon testini yapar.\nKuru Hava Sterilizatör cihazlarının kalibrasyonunu yapar.\nOtoklav cihazının montajını yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım tutanağında bulunması gereken bilgiler listelenir.\nKuru Hava Sterilizatör cihazlarının kalibrasyonunu yapılır.\nKalibrasyon sertifikası düzenlenir.\nOtoklav cihazının blok diyagramı ve çalışması tarif edilir.\nOtoklav cihazlarının kurulacağı ortam şartları listelenir.\nOtoklav cihazının elektriksel özellikleri tarif edilir.\nOtoklav cihazı montaj talimatlarına göre cihazın montajı yapılır.\nMontaj yapımından sonra cihaz kullanılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kuru hava sterilizatör cihazı elektronik kontrol kartının devre şemasını yorumlamak\nAnakartı değiştirmek.\nGösterge ünitesini değiştirmek.\nZamanlayıcı devre uygulamaları yapmak.\n7 segmentdisplay devre uygulamaları yapmak.\nRezistans sağlamlık kontrolü yapmak.\nRezistans değişimi yapmak.\nRöle anahtarlamalı devre uygulamaları yapmak.\nArıza bilgi formu düzenlemek.\nBakım tutanağında bulunması gereken bilgileri listelemek.\nKuru hava sterilizatör cihazının bakımında dikkat edilecek hususları açıklamak.\nKuru hava sterilizatör cihazını test etmek.\nİndikatör bandı kullanarak testin uygunluğunu belirlemek.\nIsıl kalibratör kullanarak testin uygunluğunu belirlemek.\nKalibrasyon sertifikası düzenlemek.\nOtoklav cihazı elektriksel şemasını okumak.\nCihazın bağlanacağı şebekenin uygunluğunu avometre ile kontrol etmek.\nOtoklav cihazını test etmek.\nCihaz kontrol ürünlerini kullanarak test'in uygunluğunu belirlemek.\nTeslim tutanağı düzenlemek.\nAnakart devre şeması okumak.\nAnakart üzerinde gerilim ölçümü yapmak.\nTuş takımı değişimi yapmak.\nZaman gösterge kartını değiştirmek.\nSıcaklık gösterge kartı değiştirmek.\nAnakartı değiştirmek.\nArıza bilgi formu düzenlemek.\nRezistans sağlamlık kontrolü yapmak.\nRezistans değişimi yapmak.\nKontaktör veya röle kontrolü yapmak\nSteril kabin sıcaklık sensörünü değiştirmek.\nIsı sensörü(Termokupl) sağlamlık kontrolü yapmak.\nSu seviye sensörü sağlamlık kontrolü yapmak.\nBuhar kazanı sıcaklık sensörünü değiştirmek.\nSu seviye sensörünü değiştirmek.\nManometre değişimi yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Otoklav Cihazlarında Elektronik Arızalar",
+      "KONU": "Otoklav Cihazının Montajı ve Kullanımı / Otoklav Cihazları Elektronik Kontrol Kartının Arızaları. / Otoklav Cihazları Isıtıcı Arızaları.",
+      "KAZANIM": "Otoklav cihazının montajını yapar ve kullanır.\nOtoklav cihazları elektronik kontrol kartının arızalarını giderir.\nOtoklav cihazları ısıtıcı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Teslim tutanağında bulunması gereken bilgiler listelenir.\nOtoklav cihazları merkezi işlem ünitesi,zamanlayıcı ünitesi,sıcaklık kontrol ünitesi tarif edilir ve muhtemel arızalar giderilir.\nSıcaklık ve zamanlayıcı gösterge ünitesi arızası giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nOtoklav cihazlarında kullanılan ısıtıcıların arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoklav cihazı elektriksel şemasını okumak.\nCihazın bağlanacağı şebekenin uygunluğunu avometre ile kontrol etmek.\nOtoklav cihazını test etmek.\nCihaz kontrol ürünlerini kullanarak test'in uygunluğunu belirlemek.\nTeslim tutanağı düzenlemek.\nAnakart devre şeması okumak.\nAnakart üzerinde gerilim ölçümü yapmak.\nTuş takımı değişimi yapmak.\nZaman gösterge kartını değiştirmek.\nSıcaklık gösterge kartı değiştirmek.\nAnakartı değiştirmek.\nArıza bilgi formu düzenlemek.\nRezistans sağlamlık kontrolü yapmak.\nRezistans değişimi yapmak.\nKontaktör veya röle kontrolü yapmak\nSteril kabin sıcaklık sensörünü değiştirmek.\nIsı sensörü(Termokupl) sağlamlık kontrolü yapmak.\nSu seviye sensörü sağlamlık kontrolü yapmak.\nBuhar kazanı sıcaklık sensörünü değiştirmek.\nSu seviye sensörünü değiştirmek.\nManometre değişimi yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Otoklav Cihazlarında Elektronik Arızalar / Otoklav Cihazlarında Elektromekanik Arızalar",
+      "KONU": "Otoklav Cihazları Isıtıcı Arızaları. / Otoklav Cihazları Sensör Arızaları. / 1. Otoklav Cihazlarında Kapak Sistemi / 2. Otoklav Cihazlarında Selenoid Valfler",
+      "KAZANIM": "Otoklav cihazları ısıtıcı arızalarını giderir.\nOtoklav cihazları sensör arızalarını giderir.\nOtoklav cihazlarında kapak sisteminin arızasını giderir.\nOtoklav cihazlarında selenoid valflerin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kontaktör arızaları giderilir.\nArıza bilgi formunda bulunması gereken bilgiler açıklanır.\nSensör arızaları tespit edilir ve giderilir.\nSensörlerin sağlamlık kontrolleri yapılır.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nOtoklav cihazları kapak sisteminde muhtemel arızalar tespit edilir ve giderilir.\nSelenoid valflerin muhtemel arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoklav cihazı elektriksel şemasını okumak.\nCihazın bağlanacağı şebekenin uygunluğunu avometre ile kontrol etmek.\nOtoklav cihazını test etmek.\nCihaz kontrol ürünlerini kullanarak test'in uygunluğunu belirlemek.\nTeslim tutanağı düzenlemek.\nAnakart devre şeması okumak.\nAnakart üzerinde gerilim ölçümü yapmak.\nTuş takımı değişimi yapmak.\nZaman gösterge kartını değiştirmek.\nSıcaklık gösterge kartı değiştirmek.\nAnakartı değiştirmek.\nArıza bilgi formu düzenlemek.\nRezistans sağlamlık kontrolü yapmak.\nRezistans değişimi yapmak.\nKontaktör veya röle kontrolü yapmak\nSteril kabin sıcaklık sensörünü değiştirmek.\nIsı sensörü(Termokupl) sağlamlık kontrolü yapmak.\nSu seviye sensörü sağlamlık kontrolü yapmak.\nBuhar kazanı sıcaklık sensörünü değiştirmek.\nSu seviye sensörünü değiştirmek.\nManometre değişimi yapmak.\n● Kapak contasını değiştirmek.\n● Kapak kilit sistemini değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Selenoid valflerin sağlamlık kontrolünü yapmak.\n● Selenoid valflerin değişimini yapmak.\n● Cihazın bakım talimatlarına göre bakımını ve fonksiyon testini yapmak.\n● Bakım formu düzenlemek.\n● Termometre ile sıcaklık kalibrasyonunu yapmak.\n● Kronometre kullanarak zamanlayıcı kalibrasyonunu yapmak.\n● Basınç kalibrasyonu yapmak.\n● Kalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Otoklav Cihazlarında Elektromekanik Arızalar",
+      "KONU": "2. Otoklav Cihazlarında Selenoid Valfler / 3. Otoklav Cihazlarının Bakımı ve Fonksiyon Testi.",
+      "KAZANIM": "Otoklav cihazlarında selenoid valflerin arızalarını giderir.\nOtoklav cihazlarının bakımını ve fonksiyon testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Selenoid valflerin sağlamlık kontrolü yapılır.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nOtoklav cihazlarının bakımını ve fonksiyon testi yapılır",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "● Kapak contasını değiştirmek.\n● Kapak kilit sistemini değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Selenoid valflerin sağlamlık kontrolünü yapmak.\n● Selenoid valflerin değişimini yapmak.\n● Cihazın bakım talimatlarına göre bakımını ve fonksiyon testini yapmak.\n● Bakım formu düzenlemek.\n● Termometre ile sıcaklık kalibrasyonunu yapmak.\n● Kronometre kullanarak zamanlayıcı kalibrasyonunu yapmak.\n● Basınç kalibrasyonu yapmak.\n● Kalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Otoklav Cihazlarında Elektromekanik Arızalar / Otoklav Cihazlarında Elektromekanik Arızalar",
+      "KONU": "3. Otoklav Cihazlarının Bakımı ve Fonksiyon Testi. / 4. Otoklav Cihazlarının Kalibrasyonu / Otoklav Cihazlarında Kapak Sistemi / Otoklav Cihazlarında Selenoid Valfler",
+      "KAZANIM": "Otoklav cihazlarının bakımını ve fonksiyon testini yapar.\nOtoklav cihazlarının kalibrasyonunu yapar\nOtoklav cihazlarında kapak sisteminin arızasını giderir.\nOtoklav cihazlarında selenoid valflerin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım formunda bulunması gereken bilgiler listelenir.\nSıcaklık,zamanlayıcı,basınç kalibrasyonu tarif edilir ve yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nOtoklav cihazları kapak sisteminde muhtemel arızalar tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSelenoid valflerin muhtemel arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "● Kapak contasını değiştirmek.\n● Kapak kilit sistemini değiştirmek.\n● Arıza bilgi formu düzenlemek.\n● Selenoid valflerin sağlamlık kontrolünü yapmak.\n● Selenoid valflerin değişimini yapmak.\n● Cihazın bakım talimatlarına göre bakımını ve fonksiyon testini yapmak.\n● Bakım formu düzenlemek.\n● Termometre ile sıcaklık kalibrasyonunu yapmak.\n● Kronometre kullanarak zamanlayıcı kalibrasyonunu yapmak.\n● Basınç kalibrasyonu yapmak.\n● Kalibrasyon sertifikası düzenlemek.\nOtoklav cihazları kapak sisteminde muhtemel arızalar tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSelenoid valflerin muhtemel arızaları tespit edilir ve giderilir.\nSelenoid valflerin sağlamlık kontrolü yapılır.\nOtoklav cihazlarının bakımını ve fonksiyon testi yapılır.\nBakım formunda bulunması gereken bilgiler listelenir.\nSıcaklık,zamanlayıcı,basınç kalibrasyonu tarif edilir ve yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Otoklav Cihazlarında Elektromekanik Arızalar",
+      "KONU": "Otoklav Cihazlarında Selenoid Valfler / Otoklav Cihazlarının Bakımı ve Fonksiyon Testi.",
+      "KAZANIM": "Otoklav cihazlarında selenoid valflerin arızalarını giderir.\nOtoklav cihazlarının bakımını ve fonksiyon testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Selenoid valflerin sağlamlık kontrolü yapılır.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nOtoklav cihazlarının bakımını ve fonksiyon testi yapılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoklav cihazları kapak sisteminde muhtemel arızalar tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSelenoid valflerin muhtemel arızaları tespit edilir ve giderilir.\nSelenoid valflerin sağlamlık kontrolü yapılır.\nOtoklav cihazlarının bakımını ve fonksiyon testi yapılır.\nBakım formunda bulunması gereken bilgiler listelenir.\nSıcaklık,zamanlayıcı,basınç kalibrasyonu tarif edilir ve yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "14",
+      "ÜNİTE": "Otoklav Cihazlarında Elektromekanik Arızalar / Analiz Cihazlarında Okuma Yöntemi Sistem Arızaları",
+      "KONU": "Otoklav Cihazlarının Bakımı ve Fonksiyon Testi. / Otoklav Cihazlarının Kalibrasyonu / Okuma Ünitesi Arızaları / Cihaz Kaynaklı Arızalar",
+      "KAZANIM": "Otoklav cihazlarının bakımını ve fonksiyon testini yapar.\nOtoklav cihazlarının kalibrasyonunu yapar\nOkuma ünitesi arızalarını tespit eder.\nCihaz kaynaklı arızaları giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım formunda bulunması gereken bilgiler listelenir.\nSıcaklık,zamanlayıcı,basınç kalibrasyonu tarif edilir ve yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nOkuma ünitesinde boş okuma (Blank Test) ölçümleri açıklanır.\nKaranlık okuma (Dark Count) ölçümü (Hormon Cihazlarında) yapılır.\nPMT arızaları ve PMT değişimi (Hormon Cihazlarında) tarif edilir.\nLamba Işık değerinin ölçülmesi ve lamba değişimi yapılır.\nOptik ünitelerin temizliği yapılır\nKüvet temizliği kontrolü ve değişimi yapılır.\nCihazda kontaminasyon olması ve dekontaminasyon işlemi açıklanır.\nSıvı (Fludik) sistemde meydana gelen hava kabarcıklarından kaynaklı arızalar giderilir.\nPipetleme hataları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoklav cihazları kapak sisteminde muhtemel arızalar tespit edilir ve giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.\nSelenoid valflerin muhtemel arızaları tespit edilir ve giderilir.\nSelenoid valflerin sağlamlık kontrolü yapılır.\nOtoklav cihazlarının bakımını ve fonksiyon testi yapılır.\nBakım formunda bulunması gereken bilgiler listelenir.\nSıcaklık,zamanlayıcı,basınç kalibrasyonu tarif edilir ve yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.\nOkuma ünitesinde boş okuma (Blank Test) ölçümleri yapmak\nKaranlık okuma (Dark Count) ölçümü (Hormon Cihazlarında) yapmak.\nPMT arızalarını gidermek\nLamba Işık değerinin ölçümünü yapmak ve lamba değişimi yapmak\nOptik ünitelerin temizliği yapmak\nKüvet temizliği kontrolünü ve değişimini yapmak\nSıvı (Fludik) sistemde meydana gelen hava kabarcıklarını gidermek.\nPipetleme hatalarını tespit etmek.\nKarıştırma (Mixing) hatalarını tespit etmek.\nYıkama sisteminde meydana gelen hataları gidermek.\nReaktiflerin LOT kaynaklı hatalarını tespit etmek.\nSarflarda meydana gelen problemleri gidermek.\nDistile su kaynaklı problemleri gidermek.\nNumune almada yapılan hataları gidermek\nSerum ayırmada yapılan hataları tespit etmek\nNumune tüplerinden kaynaklı hataları gidermek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "14",
+      "ÜNİTE": "Analiz Cihazlarında Okuma Yöntemi Sistem Arızaları",
+      "KONU": "Cihaz Kaynaklı Arızalar / Reaktif ve Sarflardan Kaynaklı Diğer Arızalar / Pireanalitik Hatalar (Cihaz Öncesi Yapılan Hatalar)",
+      "KAZANIM": "Cihaz kaynaklı arızaları giderir.\nReaktif ve sarflardan kaynaklı diğer arızaları tespit eder.\nPireanalitik hataları (cihaz öncesi yapılan hatalar) giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Karıştırma (Mixing) hataları tarif edilir.\nOkumaya etki eden besleme voltaj hataları giderilir.\nDedektör Reaktiflerin LOT kaynaklı hatalar giderilir\nReaktiflerde soğuk zincirin kırılması ve saklama koşullarında meydana gelen sorunlar açıklanır.\nSarflarda meydana gelen problemler giderilir\nDistile su kaynaklı problemler açıklanır.\nNumune almada yapılan hatalar tespit edilir.\nSerum ayırmada yapılan hatalar giderilir.\nNumune tüplerinden kaynaklı hatalar giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar ve hasta dışı uygulama cihazları atölyesi\nDonanım: Etkileşimli tahta/projeksiyon-bilgisayar, servis el kitabı, santrifüj cihazı, manyetik karıştırıcı, Benmari cihazı Koagulometre cihazı, mikroskop, kan gazı cihazı, otoklav cihazı, Kuru Hava Sterilizatör Cihazı, Su Distile Cihazı, elektriksel güvenlik analizörü, AVO metre, nem ölçer, ısı ölçer, su terazisi, Referans Numune örneği (kalibratör)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Okuma ünitesinde boş okuma (Blank Test) ölçümleri yapmak\nKaranlık okuma (Dark Count) ölçümü (Hormon Cihazlarında) yapmak.\nPMT arızalarını gidermek\nLamba Işık değerinin ölçümünü yapmak ve lamba değişimi yapmak\nOptik ünitelerin temizliği yapmak\nKüvet temizliği kontrolünü ve değişimini yapmak\nSıvı (Fludik) sistemde meydana gelen hava kabarcıklarını gidermek.\nPipetleme hatalarını tespit etmek.\nKarıştırma (Mixing) hatalarını tespit etmek.\nYıkama sisteminde meydana gelen hataları gidermek.\nReaktiflerin LOT kaynaklı hatalarını tespit etmek.\nSarflarda meydana gelen problemleri gidermek.\nDistile su kaynaklı problemleri gidermek.\nNumune almada yapılan hataları gidermek\nSerum ayırmada yapılan hataları tespit etmek\nNumune tüplerinden kaynaklı hataları gidermek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "14",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

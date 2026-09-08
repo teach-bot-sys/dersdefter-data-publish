@@ -1,0 +1,720 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Pano Projeleri Çizimi",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/308/pano-projeleri-cizimi-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programı Menüleri ve Ayarları",
+      "KONU": "Kumanda Çizim Programı Kurulumu ve Çalıştırılması / Kumanda Çizim Programı Çalışma Alanı / Kumanda Çizim Programı Menüleri",
+      "KAZANIM": "Kumanda çizim programının kurulumunu ve çalıştırılmasını açıklar.\nKumanda çizim programı çalışma alanını açıklar.\nKumanda çizim programı menülerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programını kurmak ve çalıştırmak.\nKumanda çizim programı çalışma alanını incelemek.\nKumanda çizim programı menülerini incelemek.\nKumanda çizim programı araç çubuklarını incelemek.\nKumanda çizim programının sayfa ayarlarını yapmak.\nKumanda çizim programında yer alan IEC sembolleri incelemek.\nKumanda çizim programında oluşturulan dosyayı yazdırmak.\nKumanda çizim programında örnek rapor oluşturmak.\nKumanda çizim programında örnek makro oluşturmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programı Menüleri ve Ayarları",
+      "KONU": "Kumanda Çizim Programı Araç Çubukları / Kumanda Çizim Programı Sayfa Ayarları / Kumanda Çizim Programı IEC Sembolleri",
+      "KAZANIM": "Kumanda çizim programı araç çubuklarını açıklar.\nKumanda çizim programının sayfa ayarlarını açıklar.\nKumanda çizim programında yer alan IEC sembollerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programını kurmak ve çalıştırmak.\nKumanda çizim programı çalışma alanını incelemek.\nKumanda çizim programı menülerini incelemek.\nKumanda çizim programı araç çubuklarını incelemek.\nKumanda çizim programının sayfa ayarlarını yapmak.\nKumanda çizim programında yer alan IEC sembolleri incelemek.\nKumanda çizim programında oluşturulan dosyayı yazdırmak.\nKumanda çizim programında örnek rapor oluşturmak.\nKumanda çizim programında örnek makro oluşturmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programı Menüleri ve Ayarları",
+      "KONU": "Kumanda Çizim Programında Dosya Aktarma ve Yazdırma İşlemleri / Kumanda Çizim Programında Rapor Oluşturma İşlemi / Kumanda Çizim Programında Makro İşlemleri",
+      "KAZANIM": "Kumanda çizim programında dosyayı dışa aktarma, dosyayı içe ekleme ve dosyayı yazdırma işlemlerini açıklar.\nKumanda çizim programında rapor oluşturma işlemini açıklar.\nKumanda çizim programında makroların yapılmasını, makro eklenmesini ve malzeme makrolarının oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programını kurmak ve çalıştırmak.\nKumanda çizim programı çalışma alanını incelemek.\nKumanda çizim programı menülerini incelemek.\nKumanda çizim programı araç çubuklarını incelemek.\nKumanda çizim programının sayfa ayarlarını yapmak.\nKumanda çizim programında yer alan IEC sembolleri incelemek.\nKumanda çizim programında oluşturulan dosyayı yazdırmak.\nKumanda çizim programında örnek rapor oluşturmak.\nKumanda çizim programında örnek makro oluşturmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel İşlemler",
+      "KONU": "Proje Oluşturma ve Sayfa Ekleme İşlemleri / Anket Şablonu Oluşturma ve Sayfa Ayarları / Kara Kutu (Black Box)",
+      "KAZANIM": "Proje oluşturmayı ve projeye sayfa ekleme işlemini açıklar.\nAnket şablonunu oluşturmayı ve sayfa ayarlarını açıklar.\nKara kutunun özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programında örnek proje oluşturmak ve sayfa eklemek.\nKumanda çizim programında örnek antet oluşturmak.\nKumanda çizim programında örnek kumanda devresinin malzeme listesini çıkarmak.\nKumanda çizim programında örnek kumanda devresinin içindekiler listesini çıkarmak.\nÖrnek klemens çizelgesi oluşturmak.\nÖrnek kablo çizelgesi oluşturmak.\nÖrnek ölçülendirme işlemini yapmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel İşlemler",
+      "KONU": "Malzeme Listesi Oluşturma / İçindekiler Tablosu Oluşturma",
+      "KAZANIM": "Malzeme listesinin oluşturulmasını açıklar.\nİçindekiler tablosunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programında örnek proje oluşturmak ve sayfa eklemek.\nKumanda çizim programında örnek antet oluşturmak.\nKumanda çizim programında örnek kumanda devresinin malzeme listesini çıkarmak.\nKumanda çizim programında örnek kumanda devresinin içindekiler listesini çıkarmak.\nÖrnek klemens çizelgesi oluşturmak.\nÖrnek kablo çizelgesi oluşturmak.\nÖrnek ölçülendirme işlemini yapmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel İşlemler",
+      "KONU": "Klemens Çizelgesi Oluşturma / Kablo Çizelgesi Oluşturma",
+      "KAZANIM": "Klemens çizelgesinin oluşturulmasını açıklar.\nKablo çizelgesinin oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programında örnek proje oluşturmak ve sayfa eklemek.\nKumanda çizim programında örnek antet oluşturmak.\nKumanda çizim programında örnek kumanda devresinin malzeme listesini çıkarmak.\nKumanda çizim programında örnek kumanda devresinin içindekiler listesini çıkarmak.\nÖrnek klemens çizelgesi oluşturmak.\nÖrnek kablo çizelgesi oluşturmak.\nÖrnek ölçülendirme işlemini yapmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel İşlemler",
+      "KONU": "Şekil Yaratılması ve Nesne Çizimlerinin Yapılması / Ölçülendirme İşlemi",
+      "KAZANIM": "Şekillerin oluşturulmasını ve nesne çizimlerinin yapılmasını açıklar.\nÖlçülendirme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda çizim programında örnek proje oluşturmak ve sayfa eklemek.\nKumanda çizim programında örnek antet oluşturmak.\nKumanda çizim programında örnek kumanda devresinin malzeme listesini çıkarmak.\nKumanda çizim programında örnek kumanda devresinin içindekiler listesini çıkarmak.\nÖrnek klemens çizelgesi oluşturmak.\nÖrnek kablo çizelgesi oluşturmak.\nÖrnek ölçülendirme işlemini yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Aygıt ve Güç Kaynakları Yerleştirme",
+      "KAZANIM": "Çalışma alanına aygıtların ve güç kaynaklarının yerleşimini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Kontaktör Yerleştirme",
+      "KAZANIM": "Çalışma alanına kontaktör yerleşimini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü",
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Aşırı Akım Rölesi Yerleştirme",
+      "KAZANIM": "Çalışma alanına aşırı akım rölesinin yerleşimini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Motorları Yerleştirme",
+      "KAZANIM": "Çalışma alanına motorları yerleştirmeyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Buton ve Sigorta Yerleştirme",
+      "KAZANIM": "Çalışma alanına buton ve sigorta yerleştirmeyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Klemens Yerleştirme ve Numaralandırma",
+      "KAZANIM": "Çalışma alanına klemensleri yerleştirmeyi ve numaralandırmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Kabloları Yerleştirme (Kablolama)",
+      "KAZANIM": "Çalışma alanında elemanlar arası kabloları yerleştirmeyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Kesilme Noktaları ve Ek Yapma İşlemleri",
+      "KAZANIM": "Çalışma alanında bağlantı yapılan iletkenler arası kesilme noktalarını ve ek yapma işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Örnek Devre Uygulaması",
+      "KAZANIM": "Örnek bir kumanda devresinin çizimini programda yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Örnek Devre Uygulaması",
+      "KAZANIM": "Örnek bir kumanda devresinin çizimini programda yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Eleman Yerleşimi ve Kablo Bağlantıları",
+      "KONU": "Örnek Devre Uygulaması",
+      "KAZANIM": "Örnek bir kumanda devresinin çizimini programda yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çalışma alanına örnek aygıt ve güç kaynaklarının yerleşimini yapmak.\nÇalışma alanına örnek kontaktör yerleşimini yapmak.\nÇalışma alanına örnek aşırı akım rölesinin yerleşimini yapmak.\nÇalışma alanına örnek olarak motorları yerleştirmek.\nÇalışma alanına örnek buton ve sigorta yerleştirmek.\nÇalışma alanına klemensleri yerleştirmek ve numaralandırmak.\nÇalışma alanına birkaç eleman yerleştirmek ve elemanlar arası kablo bağlantılarını yapmak.\nÇalışma alanına birkaç eleman yerleştirmek, elemanlar arası kablo bağlantılarını yapmak ve elemanlar arası bağlantıda ekler yapmak.\nÖrnek kumanda tasarımını oluşturmak ve programda çizmek."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü",
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kumanda Çizim Programında Temel Kumanda Devre Çizimleri",
+      "KONU": "PLC Kumanda ve Güç Devre Çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda simülasyon ve çizim programı, PLC, kumanda devre elemanları, hidrolik ve pnömatik devre elemanları, panolar, klemensler, raylar, bağlantı kabloları ve ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun devir yönünün değiştirilerek ileri – geri çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması devresini kumanda çizim programında çizmek.\nBir fazlı asenkron motorun devir yönünün değiştirilmesi devresini kumanda çizim programında çizmek.\nOtomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nİleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresini kumanda çizim programında çizmek.\nÜç fazlı asenkron motorun dinamik frenlemesi devresini kumanda çizim programında çizmek.\nProblem şeklinde kumanda devre pano şemalarını çizmek.\nÇizilen kumanda devresini pano üzerinde kurarak çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Etkinlik Haftası",
+        "Süreç Bileşenleri": "Etkinlik Haftası"
+      }
+    }
+  ]
+}

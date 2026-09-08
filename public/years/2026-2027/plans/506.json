@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Atölye(Yet)",
+  "grup": "Meslek Dersleri",
+  "brans": "Yenilenebilir Enerji Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/yenilenebilir-enerji-teknolojileri/506/atolyeyet-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Santral Alanının Hazırlanması",
+      "KONU": "Saha Ölçümleri Yapma İşlemi",
+      "KAZANIM": "Güneş santralinin topraklama ölçümünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2 ayrı referans noktası belirleyerek her noktada sahanın kot farkının ölçülmesi sağlanmalıdır.\nBelirlenen sahaya en uygun yerlere topraklama yapılması gerekliliği üzerinde durulmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş enerjisi (fotovoltaik) santrali kurulacak alanı belirlemek\nSahada topraklama yapılacak alanlara kazık çakmak\nSahadaki topraklama noktalarında topraklama direncini ölçmek\nSahanın ortalama toprak direncini hesaplamak\nToprak direncine göre ızgara yapmak\nTopraklama hattı bağlantılarını yapmak\nYer altı kablo kanal borularını ve kablolarını döşemek\nYer altı kablo kanalı betonlama işlemlerini yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Santral Alanının Hazırlanması",
+      "KONU": "Saha Topraklama Ağı Kurma İşlemleri",
+      "KAZANIM": "Saha topraklama ağını kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topraklamanın önemi ve topraklama yapılmadığında oluşabilecek sorunlardan bahsedilmelidir.\nBelirlenen noktalara yapılacak ızgaralar mümkünse okulda hazırlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş enerjisi (fotovoltaik) santrali kurulacak alanı belirlemek\nSahada topraklama yapılacak alanlara kazık çakmak\nSahadaki topraklama noktalarında topraklama direncini ölçmek\nSahanın ortalama toprak direncini hesaplamak\nToprak direncine göre ızgara yapmak\nTopraklama hattı bağlantılarını yapmak\nYer altı kablo kanal borularını ve kablolarını döşemek\nYer altı kablo kanalı betonlama işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Santral Alanının Hazırlanması",
+      "KONU": "Saha Topraklama Ağı Kurma İşlemleri",
+      "KAZANIM": "Saha topraklama ağını kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sahadaki tüm topraklama noktalarını işaretleyerek topraklama direncinin ölçülmesi sağlanmalıdır.\nTopraklama noktaları bir proje şeklinde ölçülü bir şekilde çizdirilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş enerjisi (fotovoltaik) santrali kurulacak alanı belirlemek\nSahada topraklama yapılacak alanlara kazık çakmak\nSahadaki topraklama noktalarında topraklama direncini ölçmek\nSahanın ortalama toprak direncini hesaplamak\nToprak direncine göre ızgara yapmak\nTopraklama hattı bağlantılarını yapmak\nYer altı kablo kanal borularını ve kablolarını döşemek\nYer altı kablo kanalı betonlama işlemlerini yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Santral Alanının Hazırlanması",
+      "KONU": "Yer Altı Kablo Sistemini Hazırlama İşlemleri",
+      "KAZANIM": "Yer altı kablo sistemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yer altı kablolarının nereye geleceği ve nasıl yapılacağı öğrenciler ile birlikte planlanmalıdır.\nYer altı kablo döşemesi yapılan yerlere yer altı kablo uyarı şeridi çekilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş enerjisi (fotovoltaik) santrali kurulacak alanı belirlemek\nSahada topraklama yapılacak alanlara kazık çakmak\nSahadaki topraklama noktalarında topraklama direncini ölçmek\nSahanın ortalama toprak direncini hesaplamak\nToprak direncine göre ızgara yapmak\nTopraklama hattı bağlantılarını yapmak\nYer altı kablo kanal borularını ve kablolarını döşemek\nYer altı kablo kanalı betonlama işlemlerini yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Fotovoltaik sistem yön ve açı belirleme işlemleri",
+      "KAZANIM": "Pusula ve açı ölçer ile en iyi ışınım alınan yeri belirleme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Panellerin güneye bakacak şekilde projenin planlanmasına dikkat edilmelidir.\nBölgeye uygun ışınım açısını tespit ederken yakın bölgede kurulan fotovoltaik santrallerdeki panellerin açılarıyla uyumlu olmasına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Metal taşıyıcı(konstrüksiyon) montajı işlemi",
+      "KAZANIM": "Tespit edilen yere temel ankrajı yapılarak belirlenen açıya uygun metal taşıyıcı (konstrüksiyon) montaj işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Beton ile güney yönünün 90 derecede olup olmadığına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Projeye uygun fotovoltaik panellerin montaj işlemleri",
+      "KAZANIM": "Metal taşıyıcı (konstrüksiyon) üzerine belirlenen fotovoltaik panellerin sabitlenmesi işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Konstrüksiyon üzerine gelen panellerin dizilimine dikkat edilmelidir.\nFotovoltaik panellerin konstrüksiyon üzerinde sabitlendiğinden emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Projenin kablo bağlantı işlemleri",
+      "KAZANIM": "Projeye uygun şekilde güneş enerjisi (fotovoltaik) panellerinin seri,paralel bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fotovoltaik panellerin bağlantısını yaparken seri bağlantılarla gerilim yükseleceğinden ara verme durumlarında güvenlik önlemlerinin alınmasına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Projenin kablo bağlantı işlemleri",
+      "KAZANIM": "Projeye uygun şekilde güneş enerjisi (fotovoltaik) panellerinin seri,paralel bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fotovoltaik panellerin bağlantısının projeye ve kullanılacak eviriciye (invertere) uygun olup olmadığına dikkat edilmelidir.\nParalel bağlantısı yapılan fotovoltaik panellerin birbiri üzerinden akım geçirmemesine dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Projenin kablo bağlantı işlemleri",
+      "KAZANIM": "Projeye uygun şekilde güneş enerjisi (fotovoltaik) panellerinin seri,paralel bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantı yapılırken panellerin yapılarını bozabilecek bir kısa devre olmamasına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Fotovoltaik sistemin topraklama bağlantısı işlemleri",
+      "KAZANIM": "Metal taşıyıcı (konstrüksiyon), güneş enerjisi (fotovoltaik) panellerini topraklar ve diğer tüm topraklama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm topraklamaların birbirine bağlı olduğundan emin olunmalıdır.\nTopraklama dirençleri dikkatli bir şekilde ölçülmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Panel Sistemleri Kurulumu",
+      "KONU": "Fotovoltaik sistemin topraklama bağlantısı işlemleri",
+      "KAZANIM": "Metal taşıyıcı (konstrüksiyon), güneş enerjisi (fotovoltaik) panellerini topraklar ve diğer tüm topraklama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygun topraklama direnci sağlanamadığı takdirde topraklama işlemi baştan yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kurulum yapılacak santral gücüne göre malzemeleri belirleyerek proje oluşturmak\nKurulacak santral için uygun ışınım açısını belirlemek\nBelirlenen güneş enerjisi (fotovoltaik) santral sahasının betonlama işlemlerini yapmak\nBelirlenen yere metal taşıyıcının (konstrüksiyon) montajını yapmak\nFotovoltaik panellerin konstrüksiyon üzerine montajını yapmak\nFotovoltaik panellerin kablolarına uygun konnektörleri bağlamak\nProjeye uygun şekilde fotovoltaik panellerin seri, paralel bağlantı gruplaması yapmak\nProjeye uygun şekilde kablo kanallarının montajını yapmak\nMetal taşıyıcı (konstrüksiyon) topraklama bağlantısını yapmak\nFotovoltaik panellerin topraklama bağlantısını yapmak\nTopraklama ünitesini saha topraklamasına bağlamak\nSahanın ve fotovoltaik panellerin topraklama direncini ölçerek kontrol etmek",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Santralinin Elektrik-Elektronik Montajı Yapımı",
+      "KONU": "Güç ünitesi montaj işlemleri",
+      "KAZANIM": "Evirici (inverter), kesici, parafudr ve pano topraklama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlanacak eviricinin (inverterin) gücünün dikkatli bir şekilde hesaplandığına bakılmalıdır.\nEviricinin (inverterin) kumanda panosunun kablo bağlantılarına dikkat edilmelidir.\nEviriciye (invertere) yapılan bağlantıların sağlamlığı kontrol edilmelidir.\nEvirici (inverter) kumanda panosunun her türlü hava şartına uygun olup olmadığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen sahaya evirici (inverter) montajı yapmak\nFotovoltaik panel grubundan gelen gruplandırılmış kabloları uygun soketle evirici ile (invertere) bağlantılarını yapmak\nEvirici (inverter), kesici, parafudr ve pano topraklamalarını yapmak\nProjede var ise akü grubu bağlantılarını yapmak\nProjede var ise şarj regülatörü montaj ve bağlantısını yapmak\nHaberleşme kutusu (web box) ve algılayıcı kutusu (sensor box) montajlarını yapmak\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapmak\nTevzi panolar arası geçiş bağlantılarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapmak\nÜniteler ile tevzi panoları arasına projede belirtilen özellikteki veri kablolarının bağlantılarını yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Santralinin Elektrik-Elektronik Montajı Yapımı",
+      "KONU": "Tevzi(aktarım) pano montaj işlemleri",
+      "KAZANIM": "Tevzi panosunun bara, kesici ve topraklama bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantı yapılmadan önce hatta enerji olup olmadığı kontrol edilmelidir.\nTevzi panolarına numara vererek bağlantıların kontrolü sağlanmalıdır.\nBara bağlantılarının sağlamlığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen sahaya evirici (inverter) montajı yapmak\nFotovoltaik panel grubundan gelen gruplandırılmış kabloları uygun soketle evirici ile (invertere) bağlantılarını yapmak\nEvirici (inverter), kesici, parafudr ve pano topraklamalarını yapmak\nProjede var ise akü grubu bağlantılarını yapmak\nProjede var ise şarj regülatörü montaj ve bağlantısını yapmak\nHaberleşme kutusu (web box) ve algılayıcı kutusu (sensor box) montajlarını yapmak\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapmak\nTevzi panolar arası geçiş bağlantılarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapmak\nÜniteler ile tevzi panoları arasına projede belirtilen özellikteki veri kablolarının bağlantılarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Santralinin Elektrik-Elektronik Montajı Yapımı",
+      "KONU": "Tevzi(aktarım) pano montaj işlemleri / AG/OG panolarının montaj işlemleri",
+      "KAZANIM": "Tevzi panosunun bara, kesici ve topraklama bağlantısını yapar.\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kesicinin sisteme göre uygun olup olmadığını kontrol ediniz.\nYapılan bağlantılardaki kabloların gevşek olmadığı kontrol edilmelidir.\nMesnet izolatörleri bağlantısı kontrol edilmelidir.\nBara bağlantılarında gevşek bir bağlantı olmadığından emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen sahaya evirici (inverter) montajı yapmak\nFotovoltaik panel grubundan gelen gruplandırılmış kabloları uygun soketle evirici ile (invertere) bağlantılarını yapmak\nEvirici (inverter), kesici, parafudr ve pano topraklamalarını yapmak\nProjede var ise akü grubu bağlantılarını yapmak\nProjede var ise şarj regülatörü montaj ve bağlantısını yapmak\nHaberleşme kutusu (web box) ve algılayıcı kutusu (sensor box) montajlarını yapmak\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapmak\nTevzi panolar arası geçiş bağlantılarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapmak\nÜniteler ile tevzi panoları arasına projede belirtilen özellikteki veri kablolarının bağlantılarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Santralinin Elektrik-Elektronik Montajı Yapımı",
+      "KONU": "AG/OG panolarının montaj işlemleri / Güç kablolarını döşeme işlemleri",
+      "KAZANIM": "Panolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapar.\nTevzi panolar arası geçiş kablolarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topraklama bağlantısı kontrol edilmelidir.\nGüç kablolarının bağlantıları kontrol edilmelidir.\nGüç kablolarının kesitleri ölçülerek kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen sahaya evirici (inverter) montajı yapmak\nFotovoltaik panel grubundan gelen gruplandırılmış kabloları uygun soketle evirici ile (invertere) bağlantılarını yapmak\nEvirici (inverter), kesici, parafudr ve pano topraklamalarını yapmak\nProjede var ise akü grubu bağlantılarını yapmak\nProjede var ise şarj regülatörü montaj ve bağlantısını yapmak\nHaberleşme kutusu (web box) ve algılayıcı kutusu (sensor box) montajlarını yapmak\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapmak\nTevzi panolar arası geçiş bağlantılarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapmak\nÜniteler ile tevzi panoları arasına projede belirtilen özellikteki veri kablolarının bağlantılarını yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Santralinin Elektrik-Elektronik Montajı Yapımı",
+      "KONU": "Veri kablolarını döşeme işlemleri / Güneş enerjisi (fotovoltaik) panel grubunu eviciriye(inverter) bağlama işlemleri",
+      "KAZANIM": "Üniteler ile tevzi pano arasına projede belirtilen veri kablolarının bağlantısını yapar.\nGüneş enerjisi (fotovoltaik) panel grubundan gelen her kabloya etiket yapıştırarak kabloları uygun soketle eviriciye (invertere) bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri kablolarının testlerinin yapılmasına dikkat edilmelidir.\nDoğru veri kablosunun kullanılıp kullanılmadığı kontrol edilmelidir.\nPanellerin bağlantısı yapılmadan önce voltmetre ile enerji gelip gelmediği kontrol edilmelidir.\nPanellerin bağlantısı yapılırken oluşabilecek arklara karşı önlem alınmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen sahaya evirici (inverter) montajı yapmak\nFotovoltaik panel grubundan gelen gruplandırılmış kabloları uygun soketle evirici ile (invertere) bağlantılarını yapmak\nEvirici (inverter), kesici, parafudr ve pano topraklamalarını yapmak\nProjede var ise akü grubu bağlantılarını yapmak\nProjede var ise şarj regülatörü montaj ve bağlantısını yapmak\nHaberleşme kutusu (web box) ve algılayıcı kutusu (sensor box) montajlarını yapmak\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapmak\nTevzi panolar arası geçiş bağlantılarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapmak\nÜniteler ile tevzi panoları arasına projede belirtilen özellikteki veri kablolarının bağlantılarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Güneş Enerjisi (Fotovoltaik) Santralinin Elektrik-Elektronik Montajı Yapımı",
+      "KONU": "Güneş enerjisi (fotovoltaik) panel grubunu eviciriye(inverter) bağlama işlemleri",
+      "KAZANIM": "Güneş enerjisi (fotovoltaik) panel grubundan gelen her kabloya etiket yapıştırarak kabloları uygun soketle eviriciye (invertere) bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paneller bağlanırken oluşacak arklardan sistemin zarar görmemesi için önlemler alınmalıdır.\nPanellerin projeye uygun bağlantısının yapılmasına dikkat edilmelidir.\nYanlış bağlantı yapılıp yapılmadığı kontrol edilerek var ise kablolamanın yeniden yapılması sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen sahaya evirici (inverter) montajı yapmak\nFotovoltaik panel grubundan gelen gruplandırılmış kabloları uygun soketle evirici ile (invertere) bağlantılarını yapmak\nEvirici (inverter), kesici, parafudr ve pano topraklamalarını yapmak\nProjede var ise akü grubu bağlantılarını yapmak\nProjede var ise şarj regülatörü montaj ve bağlantısını yapmak\nHaberleşme kutusu (web box) ve algılayıcı kutusu (sensor box) montajlarını yapmak\nPanolara mesnet izolatörlerinin, bağlantı baralarının montajını ve topraklama bağlantısını yapmak\nTevzi panolar arası geçiş bağlantılarını ve tevzi pano ile AG panosu arasındaki bağlantıları yapmak\nÜniteler ile tevzi panoları arasına projede belirtilen özellikteki veri kablolarının bağlantılarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Şebeke ve Veri Bağlantısının Kontrolü ve Test Üretimi",
+      "KONU": "Şebeke kontrolü işlemleri / Eviriciyi(inverter) devreye alma işlemi",
+      "KAZANIM": "Güç kontrol kartını kontrol ederek güç kabinlerini devreye alma işlemini yapar.\nEviriciyi (inverteri) devreye alma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güç kontrol kartı kontrol edilmeli herhangi bir toz vb. var ise temizlenerek işlem yapılmalıdır.\nGüç kabinleri devreye alındığı ilk anlarda izlenerek herhangi bir olumsuz durum yaşanıp yaşanmadığı kontrol edilmelidir.\nEviriciyi devreye almadan önce tüm güvenlik önlemlerinin alındığından emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji santrali güç kontrolü yapmak\nDepolama ünitelerinin (akü grubu) kontrolünü yapmak\nEvirici (inverter) ayarlarını ve arızalarını kontrol etmek\nEviriciyi test ederek devreye almak\nKesici bağlantı noktalarındaki ölçümleri yaparak gücü kontrol etmek\nSistemin mekanik bağlantılarını kontrol etmek\nEvirici (inverter) verilerini SCADA üzerinden izlemek ve kontrol etmek"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Şebeke ve Veri Bağlantısının Kontrolü ve Test Üretimi",
+      "KONU": "Eviriciyi(inverter) devreye alma işlemi / Veri bağlantı işlemleri",
+      "KAZANIM": "Eviriciyi (inverteri) devreye alma işlemini yapar.\nÜniteler arası veri kablolarını döşeme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eviriciyi devreye aldıktan sonraki ilk anlarda izlenmeli ve oluşabilecek arızaların ilk andaki izlenimle belirli olacağı unutulmamalıdır.\nEvirici devreye alındıktan sonra bağlı bulunan elemanlar kontrol edilmelidir.\nVeri kablolarına etiket verildiğinden emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji santrali güç kontrolü yapmak\nDepolama ünitelerinin (akü grubu) kontrolünü yapmak\nEvirici (inverter) ayarlarını ve arızalarını kontrol etmek\nEviriciyi test ederek devreye almak\nKesici bağlantı noktalarındaki ölçümleri yaparak gücü kontrol etmek\nSistemin mekanik bağlantılarını kontrol etmek\nEvirici (inverter) verilerini SCADA üzerinden izlemek ve kontrol etmek"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Şebeke ve Veri Bağlantısının Kontrolü ve Test Üretimi",
+      "KONU": "Veri bağlantı işlemleri / Güç ve kontrol ünitesinin genel kontrol işlemleri",
+      "KAZANIM": "Üniteler arası veri kablolarını döşeme işlemini yapar.\nKesici bağlantı noktalarındaki gerilim ve akımı ölçerek üretilen gücün kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etiketlenen veri kablolarının bilgisi bir kağıda yazılarak bir nüshası panoda bir nüshası saklanmak üzere ilgili kişilere verilmelidir.\nKesici de ölçüm yaparken yüksek güç barındıran bir koruma elamanı olduğu unutulmamalıdır.\nKesicinin ölçümleri yapılmadan önce tüm güvenlik önlemlerinin alındığından emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji santrali güç kontrolü yapmak\nDepolama ünitelerinin (akü grubu) kontrolünü yapmak\nEvirici (inverter) ayarlarını ve arızalarını kontrol etmek\nEviriciyi test ederek devreye almak\nKesici bağlantı noktalarındaki ölçümleri yaparak gücü kontrol etmek\nSistemin mekanik bağlantılarını kontrol etmek\nEvirici (inverter) verilerini SCADA üzerinden izlemek ve kontrol etmek",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Şebeke ve Veri Bağlantısının Kontrolü ve Test Üretimi",
+      "KONU": "Güç ve kontrol ünitesinin genel kontrol işlemleri / Hareketli güneş enerjisi (fotovoltaik) panel sisteminin mekanik kontrol işlemleri",
+      "KAZANIM": "Kesici bağlantı noktalarındaki gerilim ve akımı ölçerek üretilen gücün kontrolünü yapar.\nHareketli sistemdeki rulmanlar, bağlantı noktalarındaki kabloları, pistonların bağlantı pimleri ve ankraj bağlantı cıvatalarının kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kesici ölçümü yapılırken bağlantıları gevşetmemek ya da zarar vermemek gerektiği unutulmamalıdır.\nKontrolü yapılan elemanların arızalı olanları yenisiyle değiştirilmelidir.\nKontrol edilirken bazı elemanların arızalanmadığı fakat aşınıma uğramış olduğu gözlenirse onunla ilgili gerekli önlemlerin ileride daha büyük bir aksaklığa yol açmaması için acilen alınmasına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji santrali güç kontrolü yapmak\nDepolama ünitelerinin (akü grubu) kontrolünü yapmak\nEvirici (inverter) ayarlarını ve arızalarını kontrol etmek\nEviriciyi test ederek devreye almak\nKesici bağlantı noktalarındaki ölçümleri yaparak gücü kontrol etmek\nSistemin mekanik bağlantılarını kontrol etmek\nEvirici (inverter) verilerini SCADA üzerinden izlemek ve kontrol etmek",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Şebeke ve Veri Bağlantısının Kontrolü ve Test Üretimi",
+      "KONU": "Test üretimini yaparak sistemin kontrol işlemleri",
+      "KAZANIM": "Eviricinin (inerveterin) üretimini, ayırıcı ve kesici manevralarını yaparak bu işlemin SCADA üzerinden izleniminin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Evirici üretimi scada üzerinden kontrol edilmelidir.\nScada üzerinden ayırıcı ve kesici manevraları izlenmelidir.\nYapılan izlemelerde malzemelerde ya da sensörlerde herhangi bir problem var ise tespit edilerek düzeltilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji santrali güç kontrolü yapmak\nDepolama ünitelerinin (akü grubu) kontrolünü yapmak\nEvirici (inverter) ayarlarını ve arızalarını kontrol etmek\nEviriciyi test ederek devreye almak\nKesici bağlantı noktalarındaki ölçümleri yaparak gücü kontrol etmek\nSistemin mekanik bağlantılarını kontrol etmek\nEvirici (inverter) verilerini SCADA üzerinden izlemek ve kontrol etmek",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Rüzgâr Türbini Kurulumu",
+      "KONU": "Türbin direği ve gergi tellerinin temel işlemleri",
+      "KAZANIM": "Türbin direğine uygun temeli kazarak betonlama işlemleriyle sabitleme tablasını temele gömme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Türbin direği çukuru hesabının projede kullanılacak direğe uygun olup olmadığı kontrol ettirilmelidir.\nTürbin direğinin çukurunu kazarken tüm güvenlik önlemlerinin alındığından emin olunmalıdır.\nTürbin temeline beton atılmadan önce tüm hazırlıkların yapılmış olmasına dikkat edilmelidir.\nTürbin temel betonu atılırken sürekli su terazisi ile temel kontrolü yapılmalıdır.\nTemel betonu tam olarak donmadan türbini dikme işlemi yapılmamasına dikkat edilmelidir.\nTürbin dikme işlemi aynı hafta içerisinde yapılacak ise betona hızlı dondurucu eklenmesi gerektiği unutulmamalıdır.\nGerekli değilse betona hızlı dondurucu eklenmemesine özen gösterilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Rüzgâr türbin temeli yapmak\nProjeye uygun gergi tellerini hesaplamak ve çukurlarını açmak\nKılavuz direğini tirfora bağlamak\nKanat bağlantılarını yapmak\nTürbin burnu ve kuyruğun bağlantısını yapmak\nTürbinin direğe montajını yapmak\nYıldırımdan koruma elemanının montajını yapmak\nRüzgâr türbini topraklamasını yapmak\nGergi tellerinin bağlantısını yapmak\nTirforla direği kaldırmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Rüzgâr Türbini Kurulumu",
+      "KONU": "Direk ve kılavuz direğin montaj işlemleri / Bağlantı şemasına göre türbini ana direğe bağlama işlemi",
+      "KAZANIM": "Türbin direği ile kılavuz direğin bağlantısını yapar.\nTürbin kablolarını bağlayarak türbin kafasını direğin başına bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kılavuz direğin tam ve sağlam bir şekilde türbin direğine bağlandığından emin olunmalıdır.\nKılavuz direkten geçen halat hesaplanmalıdır.\nKılavuz direği tirfora bağlama yöntemlerinden en uygun olanı seçilmelidir.\nKılavuz direk kaldırılmadan önce tüm güvenlik önlemlerinin alındığından emin olunmalıdır.\nTürbin kablolarının bağlantıların yapılmadan önce türbin direği içerisinden geçirilmesi unutulmamalıdır.\nTürbin kablolarını ana direğe bağlarken kırılma ya da bozulma olmamasına dikkat edilmelidir.\nTürbine bağlanan kabloların türbin döndüğünde zarar görüp görmediği kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Rüzgâr türbin temeli yapmak\nProjeye uygun gergi tellerini hesaplamak ve çukurlarını açmak\nKılavuz direğini tirfora bağlamak\nKanat bağlantılarını yapmak\nTürbin burnu ve kuyruğun bağlantısını yapmak\nTürbinin direğe montajını yapmak\nYıldırımdan koruma elemanının montajını yapmak\nRüzgâr türbini topraklamasını yapmak\nGergi tellerinin bağlantısını yapmak\nTirforla direği kaldırmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Rüzgâr Türbini Kurulumu",
+      "KONU": "Bağlantı şemasına göre türbini ana direğe bağlama işlemi / Kanatları, gövde ve kuyruğu türbine bağlama işlemi / Yıldırımdan koruma, topraklama, flaşör bağlantı işlemleri",
+      "KAZANIM": "Türbin kablolarını bağlayarak türbin kafasını direğin başına bağlar.\nTürbin kanatlarını, türbinin burnu ve kuyruğunun bağlantısını yapar.\nRüzgâr türbininin yıldırımdan koruma ve topraklama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Türbini ana direğe bağladıktan sonra cıvataların sıkılığı kontrol edilmelidir.\nTürbin kanatlarının bağlantıları kontrol edilmelidir.\nEl ile döndürme yapılarak kanatların bağlantılarının sıkılığı kontrol edilmelidir.\nTürbinde en çabuk yıpranan malzemenin kanatlar olduğu unutulmamalıdır.\nTürbin kuyruğu yekpare değil ise bağlantısının sağlamlığı kontrol edilmelidir.\nTürbin kuyruğunun doğru rüzgâr yönüne döndürme yapıp yapmadığı kontrol edilmelidir.\nYıldırımdan koruma elemanının montajının uygun yere yapıldığından emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Rüzgâr türbin temeli yapmak\nProjeye uygun gergi tellerini hesaplamak ve çukurlarını açmak\nKılavuz direğini tirfora bağlamak\nKanat bağlantılarını yapmak\nTürbin burnu ve kuyruğun bağlantısını yapmak\nTürbinin direğe montajını yapmak\nYıldırımdan koruma elemanının montajını yapmak\nRüzgâr türbini topraklamasını yapmak\nGergi tellerinin bağlantısını yapmak\nTirforla direği kaldırmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Rüzgâr Türbini Kurulumu",
+      "KONU": "Yıldırımdan koruma, topraklama, flaşör bağlantı işlemleri / Direğin kaldırılıp sabitlenmesi işlemi",
+      "KAZANIM": "Rüzgâr türbininin yıldırımdan koruma ve topraklama işlemlerini yapar.\nGergi halatlarını bağlayarak direği dikkatli ve kontrollü bir şekilde kaldırma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topraklama işleminin doğru olup olmadığını kontrol etmek amacıyla toprak direnci ölçülmelidir.\nToprak direnci uygun değilse topraklama işlemi tekrardan gözden geçirilmelidir.\nGergi halatlarının boşluklarının alındığından emin olunmalıdır.\nDirek kaldırılmadan önce tüm iş güvenliği ve sağlığı tedbirlerinin alındığından emin olunmalıdır.\nDirek kaldırılmadan önce gergi tellerinin bağlantıları kontrol edilmelidir.\nDirek kaldırılırken işlemlerin adım adım kontrollü bir şekilde yapılmasına dikkat edilmelidir.\nDirek kaldırılırken tirforun başında bulunan kişiler hariç herkes türbin etki alanı dışından izleme yapabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Rüzgâr türbin temeli yapmak\nProjeye uygun gergi tellerini hesaplamak ve çukurlarını açmak\nKılavuz direğini tirfora bağlamak\nKanat bağlantılarını yapmak\nTürbin burnu ve kuyruğun bağlantısını yapmak\nTürbinin direğe montajını yapmak\nYıldırımdan koruma elemanının montajını yapmak\nRüzgâr türbini topraklamasını yapmak\nGergi tellerinin bağlantısını yapmak\nTirforla direği kaldırmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Güç ve Kontrol Ünitesinin Montajı",
+      "KONU": "Güç ünitesinin montajı işlemleri / Kontrol ünitesinin montajı işlemi",
+      "KAZANIM": "Projeye uygun evirici (inverter) ve akü bağlantısını yapar.\nKontrol ünitesinin montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Evirici bağlantısı yaparken kablolara etiket verildiğinden emin olunmalıdır.\nEvirici bağlantısını yapmadan önce kabloların uygunluğu kontrol edilmelidir.\nAkü bağlantısı yapılmadan önce tüm güvenlik önlemleri alınmalıdır.\nAkü bağlantısı yapılırken oluşabilecek arklara dikkat edilmelidir.\nProjeye uygun şekilde evirici var ise evirici yok ise şarj düzenleyici bağlantısı yaptırılabilir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Akü şarj düzenleyicisinin bağlantısını yapmak\nAkü bağlantısını yapmak\nKontrol ünitesinin montajını yapmak\nEvirici (inverter) bağlantısı yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Alıcı ile Türbin Arasındaki Besleme Hattı Kurulumu",
+      "KONU": "Besleme hattını çekme işlemi",
+      "KAZANIM": "Türbin direği ile alıcı arasındaki besleme hattı kanalına projeye uygun kabloları yerleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Açılan hatta kapatırken güvenlik şeridi çekilmelidir.\nKablo kanalları ve kablolar dikkatli bir şekilde döşenmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alıcı ile türbin arasındaki bağlantıları yapmak\nHat çekilen kanalı kapatmak\nKlemens kutusu ve projeye uygun klemensin kutuya montajını yapmak\nBesleme iletken uçlarına uygun pabuç montajını yapmak\nBesleme iletkenlerinin uygun klemenslere bağlantısını yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Alıcı ile Türbin Arasındaki Besleme Hattı Kurulumu",
+      "KONU": "Kablo kontrol klemens kutusunu monte etme işlemi",
+      "KAZANIM": "Projeye uygun klemens montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Klemens bağlantılarının sağlamlığı kontrol edilmelidir.\nKlemenslerin aşınmamış ya da ark oluşturmayacak şekilde olmasına özen gösterilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alıcı ile türbin arasındaki bağlantıları yapmak\nHat çekilen kanalı kapatmak\nKlemens kutusu ve projeye uygun klemensin kutuya montajını yapmak\nBesleme iletken uçlarına uygun pabuç montajını yapmak\nBesleme iletkenlerinin uygun klemenslere bağlantısını yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Küçük Rüzgâr Türbinlerinin Bakımı",
+      "KONU": "Rüzgâr türbin direğini güvenli bir şekilde indirme ve türbinden ayırma işlemi",
+      "KAZANIM": "Türbin direğini indirerek türbini direkten ayırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Türbini indirmeye başlamadan önce tüm güvenlik önlemlerinin alındığından emin olunmalıdır.\nTürbin indirilmeden önce tirforun başındaki kişi haricindeki herkes türbin etki alanından uzakta olduğundan emin olunmalıdır.\nTürbin indirilmeye başlandığında gergi tellerinin ankrajdan bağlantılarının gevşetildiğinden emin olunmalıdır.\nTürbin indirilirken gergi telleri de adım adım izlenmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türbin direğini bakım için tirforla indirmek\nRüzgâr türbini mekanik parçalarını bakım yapacak şekilde ayırmak\nTürbinin mekanik parçalarının aşınım, arıza durumlarının tespitini ve onarımını yapmak\nRüzgâr türbini elektrik bağlantılarını sökerek ölçü aleti ile kontrolünü yapmak\nZarar görmüş kablo bağlantılarının tamirini yapmak\nTürbinin tüm bağlantılarını yaparak yeniden kaldırmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Küçük Rüzgâr Türbinlerinin Bakımı",
+      "KONU": "Rüzgâr türbin direğini güvenli bir şekilde indirme ve türbinden ayırma işlemi",
+      "KAZANIM": "Türbin direğini indirerek türbini direkten ayırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Türbin indirilirken hızlı hareket edilmemeli adım adım yapılmalıdır.\nTürbin indirme işlemi tam olarak bittiğinden emin olunmadan türbine yaklaşılmamalıdır.\nTürbin tam olarak indirildiğinde öncelikle öğretmenin sahayı kontrol etmesine dikkat edilmelidir.\nTürbini direkten ayırırken türbini taşıyan mekanik elemandan ayrılacağı unutulmamalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türbin direğini bakım için tirforla indirmek\nRüzgâr türbini mekanik parçalarını bakım yapacak şekilde ayırmak\nTürbinin mekanik parçalarının aşınım, arıza durumlarının tespitini ve onarımını yapmak\nRüzgâr türbini elektrik bağlantılarını sökerek ölçü aleti ile kontrolünü yapmak\nZarar görmüş kablo bağlantılarının tamirini yapmak\nTürbinin tüm bağlantılarını yaparak yeniden kaldırmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Küçük Rüzgâr Türbinlerinin Bakımı",
+      "KONU": "Rüzgâr türbini mekanik bakım işlemi / Rüzgâr türbini elektrik bakımı işlemi",
+      "KAZANIM": "Rüzgâr türbininin arızalı parçalarını tespit edip değişmesi gereken parçaları değiştirir.\nRüzgâr türbininin elektrik bağlantılarını elle, gözle ve ölçü aleti ile kontrol ederek zarar görmüş bağlantıları tamir eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mekanik parçaların aşınıma uğrayanları kısa zamanda bozulacak durumda ise değiştirilmesine dikkat edilmelidir.\nTürbinin elektrik bağlantılarını kontrol etmeden önce türbinin dönmeyeceği bir ortamda bulunduğuna dikkat edilmelidir.\nBakım yapılmadan önce hatta enerjinin olup olmadığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türbin direğini bakım için tirforla indirmek\nRüzgâr türbini mekanik parçalarını bakım yapacak şekilde ayırmak\nTürbinin mekanik parçalarının aşınım, arıza durumlarının tespitini ve onarımını yapmak\nRüzgâr türbini elektrik bağlantılarını sökerek ölçü aleti ile kontrolünü yapmak\nZarar görmüş kablo bağlantılarının tamirini yapmak\nTürbinin tüm bağlantılarını yaparak yeniden kaldırmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Hibrit(Güneş-Rüzgâr) Sistem Kurulumu",
+      "KONU": "Hibrit sistemin üzerinde belirlenmiş yere kumanda panosunu bağlama işlemi / Kumanda panosu besleme kablosunu bağlama işlemi / Güneş sehpası üzerinde belirlenmiş yere evirici montaj işlemi",
+      "KAZANIM": "Kumanda panosuna projeye uygun elemanları yerleştirerek bağlantılarını yapar.\nKumanda panosuna besleme kablosunu bağlama işlemini yapar.\nEvirici (inverter) montaj yerini hazırlayarak eviriciyi montaj eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Panoya yerleştirilen elemanların proje uygunluğu kontrol edilmelidir.\nPanoya yerleştirilen elemanların sağlamlığı kontrol edilmelidir.\nPanoya bağlantı kablosu yapılırken enerji olmadığından emin olunmalıdır.\nEvirici montajını yapmadan önce yerin projeye uygunluğu kontrol edilmelidir.\nEvirici montajının yapıldığı yerin sıcaklığına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Projeye uygun kumanda panosunu belirleyerek panoya elemanları yerleştirip gerekli bağlantıları yapmak\nKumanda panosuna besleme kablosunun bağlantısını yapmak\nEvirici (inverter) montaj ve bağlantılarını yapmak\nKumanda panosu ile evirici (inverter) arasındaki bağlantıyı yapmak\nAkülerin projede belirtilen yerlerine yerleştirilmek\nAkülerin seri ve paralel bağlantılarını yapmak\nAküleri test ederek devreye almak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Hibrit(Güneş-Rüzgâr) Sistem Kurulumu",
+      "KONU": "Güneş sehpası üzerinde belirlenmiş yere evirici montaj işlemi / Evirici kumanda panosunun montaj işlemi",
+      "KAZANIM": "Evirici (inverter) montaj yerini hazırlayarak eviriciyi montaj eder.\nKumanda panosu ile evirici (inverter) arasındaki bağlantıyı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eviricinin yüksek sıcaklıklarda fotovoltaik paneller enerji üretse dahi kendini kapatarak enerji üretmeyeceği ya da aküleri beslemeyeceği göz önünde bulundurularak yer seçimi yapıldığından emin olunmalıdır.\nEvirici yerinin sorumlu kişilerin müdahale edebileceği yerler de olması gerektiği unutulmamalıdır.\nEviriciye yapılan bağlantıların tam ve sağlam olmasına dikkat edilmelidir.\nBağlantıların gevşek olmamasına dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Projeye uygun kumanda panosunu belirleyerek panoya elemanları yerleştirip gerekli bağlantıları yapmak\nKumanda panosuna besleme kablosunun bağlantısını yapmak\nEvirici (inverter) montaj ve bağlantılarını yapmak\nKumanda panosu ile evirici (inverter) arasındaki bağlantıyı yapmak\nAkülerin projede belirtilen yerlerine yerleştirilmek\nAkülerin seri ve paralel bağlantılarını yapmak\nAküleri test ederek devreye almak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Hibrit(Güneş-Rüzgâr) Sistem Kurulumu",
+      "KONU": "Evirici kumanda panosunun montaj işlemi / Akü sistemini kurma işlemi",
+      "KAZANIM": "Kumanda panosu ile evirici (inverter) arasındaki bağlantıyı yapar.\nAküleri projeye uygun yerleştirip seri ve paralel bağlantı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantıların etiketli olmasına dikkat edilmelidir.\nBağlantılar yapılırken ark meydana gelebileceği ve buna göre önlem alınması gerekliliği unutulmamalıdır.\nAkülerin bağlantısını yaparken birbiri üzerine yük oluşturmaması bunun için akülerin aynı doluluk ve özellikte olduğuna dikkat edilmesi gerektiği unutulmamalıdır.\nAkülerin bağlantısı yapılırken ark meydana gelebileceği ve buna göre önlem alınması gerekliliği unutulmamalıdır.",
+        "Ortam ve Donanım": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Santral Kurulumu Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görsel, bölge haritaları, fotovoltaik panel, evirici (inverter), şarj regülatörü,metal taşıyıcı (konstrüksiyon), küçük rüzgâr türbin, direk kaldırma aparatı (tirfor) ve iş güvenliği ekipmanları sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Projeye uygun kumanda panosunu belirleyerek panoya elemanları yerleştirip gerekli bağlantıları yapmak\nKumanda panosuna besleme kablosunun bağlantısını yapmak\nEvirici (inverter) montaj ve bağlantılarını yapmak\nKumanda panosu ile evirici (inverter) arasındaki bağlantıyı yapmak\nAkülerin projede belirtilen yerlerine yerleştirilmek\nAkülerin seri ve paralel bağlantılarını yapmak\nAküleri test ederek devreye almak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

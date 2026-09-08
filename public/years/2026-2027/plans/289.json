@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Haberleşme",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/289/haberlesme-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşmenin Temelleri",
+      "KONU": "Haberleşme Sisteminin Temel Kavramları / Sinyaller ve Çeşitleri",
+      "KAZANIM": "Haberleşme sisteminin temel kavramlarını açıklar.\nSinyallerin özelliklerini ve çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Haberleşmenin tanımı yapılır.\nHaberleşme sisteminin özellikleri açıklanır.\nHaberleşme sistemindeki kavramlar açıklanır.\nSinyalin tanımı açıklanır.\nSinyallerin özellikleri grafikler ile açıklanır.\nSinyallerin çeşitleri sıralanır ve tanımları yapılır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sinyallerin grafiklerini çizmek\nVerilen grafiğin sinyalini çıkarmak\nGürültü problemi çözmek\nSinyalin dürtü ve frekans cevabını çıkarmak\nSinyalin bant genişliğini hesaplamak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşmenin Temelleri",
+      "KONU": "İletim Ortamından Kaynaklanan Problemler (Gürültüler) / Sinyallerde Bant Genişliği",
+      "KAZANIM": "İletim ortamından kaynaklanan bozulmalar ve gürültü problemlerini açıklar.\nSinyallerde bant genişliğini örneklerle açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İletim ortamının özellikleri açıklanır.\nİletim ortamından kaynaklanan bozulmalar sıralanır ve grafikler üzerinden açıklanır.\nGürültü formülü açıklanır ve hesaplamaları yapılır.\nSinyalde bant genişliği formüllerle açıklanır ve grafik üzerinden gösterilir.\nBant genişliği hesabı yapılır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sinyallerin grafiklerini çizmek\nVerilen grafiğin sinyalini çıkarmak\nGürültü problemi çözmek\nSinyalin dürtü ve frekans cevabını çıkarmak\nSinyalin bant genişliğini hesaplamak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Haberleşmenin Temelleri ve Elemanları / Analog Modülasyon Çeşitleri",
+      "KAZANIM": "Analog haberleşmede kullanılan elemanların özelliklerini açıklar.\nAnalog modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog haberleşmenin özellikleri açıklanır.\nAnalog haberleşmede kullanılan elemanlar örneklerle açıklanır.\nModülasyon tanımlanır ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Modülasyon Çeşitleri",
+      "KAZANIM": "Analog modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog modülasyonun özellikleri açıklanır.\nAnalog modülasyon çeşitleri sıralanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Modülasyon Çeşitleri",
+      "KAZANIM": "Analog modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Genlik modülasyonun özellikleri açıklanır.\nGenlik modülasyon çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Modülasyon Çeşitleri",
+      "KAZANIM": "Analog modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Açı modülasyonun özellikleri açıklanır.\nAçı modülasyon çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Modülasyon Devreleri",
+      "KAZANIM": "Analog modülasyon devrelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Genlik modülasyonda kullanılan devreler özellikleriyle açıklanır.\nAçı modülasyonda kullanılan devreler özellikleriyle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Demodülasyon Çeşitleri",
+      "KAZANIM": "Analog demodülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Demodülasyon tanımlanır ve özellikleri açıklanır.\nAnalog demodülasyonun özellikleri açıklanır.\nAnalog demodülasyon çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "Analog Demodülasyon Devreleri",
+      "KAZANIM": "Analog demodülasyon devrelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Genlik demodülasyonda kullanılan devreler özellikleriyle açıklanır.\nAçı demodülasyonda kullanılan devreler özellikleriyle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "FM Radyo Alıcı Devresi Yapımı",
+      "KAZANIM": "FM radyo alıcı devresini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "FM radyo alıcı devresi çizilir.\nFM radyo alıcı devre montajı yapılır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "FM Radyo Alıcı Devresi Yapımı / FM Radyo Verici Devresi Yapımı",
+      "KAZANIM": "FM radyo alıcı devresini kurar.\nFM radyo verici devresini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "FM radyo alıcı devresi testi yapılır.\nFM radyo verici devresi çizilir.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Haberleşme",
+      "KONU": "FM Radyo Verici Devresi Yapımı",
+      "KAZANIM": "FM radyo verici devresini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "FM radyo verici devre montajı yapılır.\nFM radyo verici devresi testi yapılır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Analog haberleşme elemanlarını seçmek\nGenlik modülasyon hesabı yapmak\nGenlik modülasyon devresi yapmak\nGenlik demodülasyon devresi yapmak\nAnalog haberleşme problemini hesaplayarak çözmek\nFM radyo alıcı devresini yapmak\nFM radyo verici devresini yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Sayısal Haberleşme",
+      "KONU": "Sayısal Haberleşmenin Temelleri ve Elemanları / Sayısal Modülasyon Çeşitleri",
+      "KAZANIM": "Sayısal haberleşmenin temelleri ve haberleşmede kullanılan elemanların özelliklerini açıklar.\nSayısal modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayısal haberleşmenin özellikleri açıklanır.\nSayısal haberleşmede kullanılan elemanlar örneklerle açıklanır.\nSayısal modülasyonun özellikleri açıklanır.\nTemel bant işaretin spektrumu açıklanır.\nKodlama ve kod çözme işlemini açıklanır.\nTemel bant bilgi iletiminde bit hata oranı grafiklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayısal haberleşme elemanlarını seçmek\nDarbe kod (PCM) modülasyon hesabı yapmak\nDelta modülasyon hesabı yapmak\nDarbe pozisyon (PPM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon hesabı yapmak\nDarbe genlik (PAM) modülasyon hesabı yapmak\nDarbe kod (PCM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon devresi yapmak\nDarbe genişlik (PWM) demodülasyon devresi yapmak\n555 ve 741 ile PWM devresi yapmak\nADC0804 devresini kurmak\nDAC0800 devresini kurmak\nR-2R merdiven DAC'sini kurmak\nSayısal haberleşme problemini hesaplayarak çözmek",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Sayısal Haberleşme",
+      "KONU": "Sayısal Modülasyon Çeşitleri",
+      "KAZANIM": "Sayısal modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayısal modülasyon çeşitleri sıralanır.\nDarbe kod (PCM) modülasyonun özellikleri açıklanır.\nÖrnekleme teoremini örneklerle açıklanır.\nKuantalama işlemi özelliklerle açıklanır.\nKodlama işlemi özelliklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayısal haberleşme elemanlarını seçmek\nDarbe kod (PCM) modülasyon hesabı yapmak\nDelta modülasyon hesabı yapmak\nDarbe pozisyon (PPM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon hesabı yapmak\nDarbe genlik (PAM) modülasyon hesabı yapmak\nDarbe kod (PCM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon devresi yapmak\nDarbe genişlik (PWM) demodülasyon devresi yapmak\n555 ve 741 ile PWM devresi yapmak\nADC0804 devresini kurmak\nDAC0800 devresini kurmak\nR-2R merdiven DAC'sini kurmak\nSayısal haberleşme problemini hesaplayarak çözmek"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Sayısal Haberleşme",
+      "KONU": "Sayısal Modülasyon Çeşitleri",
+      "KAZANIM": "Sayısal modülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Darbe kod (PCM) modülasyon hesabı örnekler üzerinden açıklanır.\nDelta modülasyonun özellikleri açıklanır.\nDelta modülasyon hesabı örnekler üzerinden açıklanır.\nDarbe pozisyon (PPM) modülasyonun özellikleri açıklanır.\nDarbe pozisyon (PPM) modülasyon hesabı örnekler üzerinden açıklanır.\nDarbe genişlik (PWM) modülasyonun özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayısal haberleşme elemanlarını seçmek\nDarbe kod (PCM) modülasyon hesabı yapmak\nDelta modülasyon hesabı yapmak\nDarbe pozisyon (PPM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon hesabı yapmak\nDarbe genlik (PAM) modülasyon hesabı yapmak\nDarbe kod (PCM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon devresi yapmak\nDarbe genişlik (PWM) demodülasyon devresi yapmak\n555 ve 741 ile PWM devresi yapmak\nADC0804 devresini kurmak\nDAC0800 devresini kurmak\nR-2R merdiven DAC'sini kurmak\nSayısal haberleşme problemini hesaplayarak çözmek"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Sayısal Haberleşme",
+      "KONU": "Sayısal Modülasyon Çeşitleri / Sayısal Modülasyon Devreleri",
+      "KAZANIM": "Sayısal modülasyon çeşitlerini ve özelliklerini açıklar.\nSayısal modülasyon devrelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Darbe genişlik (PWM) modülasyon hesabı örnekler üzerinden açıklanır.\nDarbe genlik (PAM) modülasyonun özellikleri açıklanır.\nDarbe genlik (PAM) modülasyon hesabı örnekler üzerinden açıklanır.\nDarbe kod (PCM) modülasyonda kullanılan devreler özellikleriyle açıklanır.\nDelta modülasyonda kullanılan devreler özellikleriyle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayısal haberleşme elemanlarını seçmek\nDarbe kod (PCM) modülasyon hesabı yapmak\nDelta modülasyon hesabı yapmak\nDarbe pozisyon (PPM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon hesabı yapmak\nDarbe genlik (PAM) modülasyon hesabı yapmak\nDarbe kod (PCM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon devresi yapmak\nDarbe genişlik (PWM) demodülasyon devresi yapmak\n555 ve 741 ile PWM devresi yapmak\nADC0804 devresini kurmak\nDAC0800 devresini kurmak\nR-2R merdiven DAC'sini kurmak\nSayısal haberleşme problemini hesaplayarak çözmek",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Sayısal Haberleşme",
+      "KONU": "Sayısal Modülasyon Devreleri / Sayısal Demodülasyon Çeşitleri",
+      "KAZANIM": "Sayısal modülasyon devrelerini açıklar.\nSayısal demodülasyon çeşitlerini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Darbe pozisyon (PPM) modülasyonda kullanılan devreler özellikleriyle açıklanır.\nDarbe genişlik (PWM) modülasyonda kullanılan devreler özellikleriyle açıklanır.\nDarbe genlik (PAM) modülasyonda kullanılan devreler özellikleriyle açıklanır.\nDemodülasyon tanımlanır ve özellikleri açıklanır.\nSayısal demodülasyonun özellikleri açıklanır.\nSayısal demodülasyon çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayısal haberleşme elemanlarını seçmek\nDarbe kod (PCM) modülasyon hesabı yapmak\nDelta modülasyon hesabı yapmak\nDarbe pozisyon (PPM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon hesabı yapmak\nDarbe genlik (PAM) modülasyon hesabı yapmak\nDarbe kod (PCM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon devresi yapmak\nDarbe genişlik (PWM) demodülasyon devresi yapmak\n555 ve 741 ile PWM devresi yapmak\nADC0804 devresini kurmak\nDAC0800 devresini kurmak\nR-2R merdiven DAC'sini kurmak\nSayısal haberleşme problemini hesaplayarak çözmek"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Sayısal Haberleşme",
+      "KONU": "Sayısal Demodülasyon Devreleri",
+      "KAZANIM": "Sayısal demodülasyon devrelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Darbe kod (PCM) demodülasyonda kullanılan devreler özellikleriyle açıklanır.\nDelta demodülasyonda kullanılan devreler özellikleriyle açıklanır.\nDarbe pozisyon (PPM) demodülasyonda kullanılan devreler özellikleriyle açıklanır.\nDarbe genişlik (PWM) demodülasyonda kullanılan devreler özellikleriyle açıklanır.\nDarbe genlik (PAM) demodülasyonda kullanılan devreler özellikleriyle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayısal haberleşme elemanlarını seçmek\nDarbe kod (PCM) modülasyon hesabı yapmak\nDelta modülasyon hesabı yapmak\nDarbe pozisyon (PPM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon hesabı yapmak\nDarbe genlik (PAM) modülasyon hesabı yapmak\nDarbe kod (PCM) modülasyon hesabı yapmak\nDarbe genişlik (PWM) modülasyon devresi yapmak\nDarbe genişlik (PWM) demodülasyon devresi yapmak\n555 ve 741 ile PWM devresi yapmak\nADC0804 devresini kurmak\nDAC0800 devresini kurmak\nR-2R merdiven DAC'sini kurmak\nSayısal haberleşme problemini hesaplayarak çözmek"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "Elektrik Hatlarından Haberleşme Sistemleri (PLC- Power Line Communication)",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik hatlarından haberleşme sisteminin (PLC) özellikleri ve çalışması açıklanır.\nElektrik hatlarından haberleşme sisteminin (PLC) çeşitleri açıklanır.\nElektrik hatlarından haberleşme sisteminin (PLC) kullanım alanları açıklanır.\nElektrik hatlarından haberleşme sisteminin (PLC) bileşenleri açıklanır.\nElektrik hatlarından haberleşme sisteminde (PLC) kullanılan teknikler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC alıcı-verici devrelerini yapmak\nCAT5/6/7 kablo bağlantısını yapmak\nRJ45 kablo bağlantısını yapmak\nKoaksiyel kablo (BNC) bağlantısını yapmak\nReglet (krone) bağlantısını yapmak\nKrone bıçağı ile krone bağlantısını yapmak\nKablo test cihazı ile kablo testini yapmak\nFiberoptik ile haberleşme devresi yapmak\nFiberoptik sonlandırma yapmak\nFiberoptik ekleri yapmak\nFiberoptik bağlantı testi yapmak\nKablosuz haberleşme devresi yapmak\nHaberleşme uydu bakış açısını hesaplamak\nHaberleşme uydu anteni montajı yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "Elektrik Hatlarından Haberleşme Sistemleri (PLC- Power Line Communication)",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik hatlarından haberleşme sisteminin (PLC) avantaj ve dezavantajları açıklanır.\nElektrik ağı üzerinden internet işlemi açıklanır.\nElektrik hatlarından haberleşme sistemindeki (PLC) problemler ve çözümler açıklanır.\nKuranportörün özellikleri açıklanır.\nKuranportörde kullanılan elemanların özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC alıcı-verici devrelerini yapmak\nCAT5/6/7 kablo bağlantısını yapmak\nRJ45 kablo bağlantısını yapmak\nKoaksiyel kablo (BNC) bağlantısını yapmak\nReglet (krone) bağlantısını yapmak\nKrone bıçağı ile krone bağlantısını yapmak\nKablo test cihazı ile kablo testini yapmak\nFiberoptik ile haberleşme devresi yapmak\nFiberoptik sonlandırma yapmak\nFiberoptik ekleri yapmak\nFiberoptik bağlantı testi yapmak\nKablosuz haberleşme devresi yapmak\nHaberleşme uydu bakış açısını hesaplamak\nHaberleşme uydu anteni montajı yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "Elektrik Hatlarından Haberleşme Sistemleri (PLC- Power Line Communication) / Haberleşme Kablo Bağlantısı",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.\nHaberleşme kablo bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik hatlarından haberleşme sisteminin (PLC) AC ve DC'deki etkileri açıklanır.\nElektrik hatlarından haberleşme sistemi (PLC) uygulama devresi açıklanır.\nCAT5, CAT6, CAT7 kabloların özellikleri ve bağlantıları açıklanır.\nRJ45 kablo özelliği ve bağlantısı açıklanır.\nKoaksiyel kablonun (BNC) özelliği ve bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC alıcı-verici devrelerini yapmak\nCAT5/6/7 kablo bağlantısını yapmak\nRJ45 kablo bağlantısını yapmak\nKoaksiyel kablo (BNC) bağlantısını yapmak\nReglet (krone) bağlantısını yapmak\nKrone bıçağı ile krone bağlantısını yapmak\nKablo test cihazı ile kablo testini yapmak\nFiberoptik ile haberleşme devresi yapmak\nFiberoptik sonlandırma yapmak\nFiberoptik ekleri yapmak\nFiberoptik bağlantı testi yapmak\nKablosuz haberleşme devresi yapmak\nHaberleşme uydu bakış açısını hesaplamak\nHaberleşme uydu anteni montajı yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "Haberleşme Kablo Bağlantısı / Fiberoptik Haberleşme Sistemleri",
+      "KAZANIM": "Haberleşme kablo bağlantılarını yapar.\nFiberoptik haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Reglet (krone) bağlantısı açıklanır.\nKrone bıçağı ile krone bağlantısı yapılır.\nKablo test cihazı ile kablo testi yapılır.\nFiberoptik haberleşme sisteminin temel elemanları açıklanır.\nFiberoptik haberleşme sisteminin yapısı ve çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC alıcı-verici devrelerini yapmak\nCAT5/6/7 kablo bağlantısını yapmak\nRJ45 kablo bağlantısını yapmak\nKoaksiyel kablo (BNC) bağlantısını yapmak\nReglet (krone) bağlantısını yapmak\nKrone bıçağı ile krone bağlantısını yapmak\nKablo test cihazı ile kablo testini yapmak\nFiberoptik ile haberleşme devresi yapmak\nFiberoptik sonlandırma yapmak\nFiberoptik ekleri yapmak\nFiberoptik bağlantı testi yapmak\nKablosuz haberleşme devresi yapmak\nHaberleşme uydu bakış açısını hesaplamak\nHaberleşme uydu anteni montajı yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "Fiberoptik Haberleşme Sistemleri / Kablosuz Haberleşme Sistemleri",
+      "KAZANIM": "Fiberoptik haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.\nKablosuz haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fiberoptik bağlantı şekilleri açıklanır.\nFiberoptik bağlantı testi açıklanır.\nFiberoptik sonlandırma işlemi açıklanır.\nÖrnek fiberoptik devresi açıklanır.\nKablosuz haberleşme sistemlerinin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC alıcı-verici devrelerini yapmak\nCAT5/6/7 kablo bağlantısını yapmak\nRJ45 kablo bağlantısını yapmak\nKoaksiyel kablo (BNC) bağlantısını yapmak\nReglet (krone) bağlantısını yapmak\nKrone bıçağı ile krone bağlantısını yapmak\nKablo test cihazı ile kablo testini yapmak\nFiberoptik ile haberleşme devresi yapmak\nFiberoptik sonlandırma yapmak\nFiberoptik ekleri yapmak\nFiberoptik bağlantı testi yapmak\nKablosuz haberleşme devresi yapmak\nHaberleşme uydu bakış açısını hesaplamak\nHaberleşme uydu anteni montajı yapmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "Kablosuz Haberleşme Sistemleri",
+      "KAZANIM": "Kablosuz haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz haberleşme protokolleri ve standartları açıklanır.\nKablosuz haberleşme çeşitleri (Wi-fi, Bluetooth, Zigbee, GSM/GPRS, Radyo RF) açıklanır.\nKablosuz haberleşmenin avantaj ve dezavantajları açıklanır.\nKablosuz ağ yöntemleri açıklanır.\nKablosuz haberleşme devreleri ve bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC alıcı-verici devrelerini yapmak\nCAT5/6/7 kablo bağlantısını yapmak\nRJ45 kablo bağlantısını yapmak\nKoaksiyel kablo (BNC) bağlantısını yapmak\nReglet (krone) bağlantısını yapmak\nKrone bıçağı ile krone bağlantısını yapmak\nKablo test cihazı ile kablo testini yapmak\nFiberoptik ile haberleşme devresi yapmak\nFiberoptik sonlandırma yapmak\nFiberoptik ekleri yapmak\nFiberoptik bağlantı testi yapmak\nKablosuz haberleşme devresi yapmak\nHaberleşme uydu bakış açısını hesaplamak\nHaberleşme uydu anteni montajı yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisat Elemanları / Bina İçi Sistem Odası Kurulumu",
+      "KAZANIM": "Bina içi haberleşme tesisatında kullanılan elemanları açıklar.\nBina içi sistem odasını kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi haberleşme sisteminin özellikleri açıklanır.\nBina içi haberleşme sisteminde kullanılan elemanlar açıklanır.\nBina içi sistem odası tasarlanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Sistem Odası Kurulumu / Bina İçi Haberleşme Tesisat Projeleri",
+      "KAZANIM": "Bina içi sistem odasını kurar.\nBina içi haberleşme tesisatının projelerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi sistem odası kurulur.\nBina içi haberleşme tesisatında kullanılan semboller ve işaretler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisat Projeleri",
+      "KAZANIM": "Bina içi haberleşme tesisatının projelerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi haberleşme tesisatının projesinin çizim aşamaları açıklanır.\nBina içi haberleşme tesisatının projeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisatı Montajı",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi haberleşme tesisatının özellikleri ve kullanılacak malzemeler açıklanır.\nBina içi haberleşme tesisatında kullanılacak kablo, kablo kanalı ve PVC boruları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisatı Montajı",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi haberleşme tesisatında kullanılacak terminal kutusu, terminal bloğu, telefon prizi, telefon fişi ve soketleri açıklanır.\nTelefon santrallerinin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisatı Montajı",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi tesisatının bağlantılarını yapma teknikleri açıklanır.\nBina içi tesisatının montaj yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisatı Montajı / Bina İçi Haberleşme Tesisatı Bakım Onarımı",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar.\nBina içi haberleşme tesisatının arızalarını bulur, bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi tesisatında kullanılan santralin programlama işlemleri açıklanır.\nBina içi tesisatında olabilecek arızalar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "Bina İçi Haberleşme Tesisatı Bakım Onarımı",
+      "KAZANIM": "Bina içi haberleşme tesisatının arızalarını bulur, bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bina içi tesisatında arızaların giderilme yöntemleri açıklanır.\nBina içi tesisatının bakım onarımları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bina içi haberleşme tesisatı sembollerini çizmek\nBina içi sistem odasını kurmak\nBina içi haberleşme tesisatını çizmek\nBina içi terminal kutularının montajını yapmak\nBina içi haberleşme tesisatını projesine uygun montaj yapmak\nTelefon santralini programlamak\nBina ve kat terminal kutularının montajını yapmak\nBina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\nSantral ve çevre birimlerinin montajını yapmak\nYedek güç ünitesinin montajını yapmak\nSantral ve çevre birimlerinin fonksiyonlarını test etmek\nBina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\nBina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Yapıları",
+      "KONU": "Ağ Topolojileri",
+      "KAZANIM": "Ağ topolojilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Haberleşme modeli açıklanır.\nHaberleşme protokolleri açıklanır.\nHaberleşme standartları açıklanır.\nHaberleşme standardizasyon kuruluşları açıklanır.\nAğ gerekliliği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Modem bağlantısı yapmak\nModem ayarları yapmak\nSanal ortamda paket program kullanarak LAN kurmak\nSanal ortamda paket program kullanarak WAN kurmak\nSanal ortamda paket program kullanarak internet bağlantısını ve ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Yapıları",
+      "KONU": "Ağ Topolojileri / IP Üzerinden Ses İletişimi (VoIP)",
+      "KAZANIM": "Ağ topolojilerini açıklar.\nIP üzerinden ses iletişim (VoIP) tekniklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "OSI referans modeli açıklanır.\nLAN, WAN, MAN ağlar açıklanır.\nVoIP ve sisteminin genel yapısı açıklanır.\nBant genişliği ve kodeklerin özellikleri açıklanır.\nKontrol işaretleşme protokolleri (H323, SIP) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Modem bağlantısı yapmak\nModem ayarları yapmak\nSanal ortamda paket program kullanarak LAN kurmak\nSanal ortamda paket program kullanarak WAN kurmak\nSanal ortamda paket program kullanarak internet bağlantısını ve ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Yapıları",
+      "KONU": "IP Üzerinden Ses İletişimi (VoIP) / Ağlar Arası Haberleşme (İnternet)",
+      "KAZANIM": "IP üzerinden ses iletişim (VoIP) tekniklerini açıklar.\nAğlar arası haberleşme (internet) sistemini ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Medya taşıma protokolleri (RTP, RTCP) açıklanır.\nVoIP'de güvenliği açıklanır.\nBağlantısız haberleşmenin özelliği açıklanır.\nIP protokolü (IPV6) açıklanır.\nYönlendirme protokolleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Modem bağlantısı yapmak\nModem ayarları yapmak\nSanal ortamda paket program kullanarak LAN kurmak\nSanal ortamda paket program kullanarak WAN kurmak\nSanal ortamda paket program kullanarak internet bağlantısını ve ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Yapıları",
+      "KONU": "Ağlar Arası Haberleşme (İnternet) / Ağ Kurulum Simülasyon Yazılımı ile Ağ Kurma",
+      "KAZANIM": "Ağlar arası haberleşme (internet) sistemini ve özelliklerini açıklar.\nAğ kurulum simülasyon yazılımı ile ağlar kurar ve testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantıya dayalı taşıma protokol mekanizmaları açıklanır.\nTCP ve UDP sistemleri açıklanır.\nHTTP'nin özelliği açıklanır.\nSimülasyon programı kurulumu yapılır ve ayarlar incelenir.\nSimülasyon program ile ağ kurulum ve testi yapılır.",
+        "Ortam ve Donanım": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Öğretim Teknikleri": "Ortam: Haberleşme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, telefon tesisatı ekipmanları ve kabloları, ankastre kutusu ve elemanları, modülasyon devre elemanları, breadboard, el aletleri, radyo test cihazı, ölçü aletleri, modem, alıcı ve verici devreleri, ağ kabloları, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Modem bağlantısı yapmak\nModem ayarları yapmak\nSanal ortamda paket program kullanarak LAN kurmak\nSanal ortamda paket program kullanarak WAN kurmak\nSanal ortamda paket program kullanarak internet bağlantısını ve ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Kumanda Teknikleri Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/281/kumanda-teknikleri-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Endüstriyel Sensörler / Dijital Çıkışlı Sensörler",
+      "KAZANIM": "Endüstriyel sensörlerin özelliklerini açıklar.\nDijital çıkışlı sensörler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sensörlerin kullanıldıkları yerler açıklanır.\nSensörlerin tipleri (NPN-PNP) bağlantı şekli ile açıklanır.\nSensörlerin çeşitleri (2, 3 veya 4 kablolu) bağlantıları ile açıklanır.\nDijital çıkışlı sensörlerin özellikleri açıklanır.\nEndüktif sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nKapasitif sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nManyetik sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nOptik sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler / Analog Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörler ile devre uygulamaları yapar.\nAnalog çıkışlı sensörler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Renk sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nEnkoderlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nDijital çıkışlı sensörler ile devre bağlantıları yapılır.\nAnalog çıkışlı sensörlerin özellikleri açıklanır.\nSıcaklık sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nBasınç sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nMesafe (ultrasonik ve lazer) sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Analog Çıkışlı Sensörler / Sinyal Çeviriciler",
+      "KAZANIM": "Analog çıkışlı sensörler ile devre uygulamaları yapar.\nSinyal çeviriciler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seviye sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nAnalog çıkışlı sensörler ile devre bağlantıları yapılır.\nSinyal çeviricilerin yapısı açıklanır.\nSinyal çeviricilerin çeşitleri açıklanır.\nSinyal çeviricilerin kullanım alanları sıralanır.\nSinyal çeviricilerin röleli sistemlere göre avantajları açıklanır.\nSinyal çeviriciler ile devre bağlantıları yapılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda Devre Elemanları",
+      "KAZANIM": "Kumanda devre elemanlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorun yapısı ve çeşitleri açıklanır.\nKumanda ve güç devrelerinin malzemeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama yapmak\nAsenkron motor klemensini üçgen bağlama yapmak\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırmak\nAsenkron motoru ideal kesik çalıştırmak\nAsenkron motoru bir yönde sürekli çalıştırmak\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırmak\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirmek\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirmek\nAsenkron motoru paket şalterle devir yönü değiştirmek\nAsenkron motoru zaman ayarlı çalıştırmak\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırmak\nAsenkron motoru motor koruma rölesi ile çalıştırmak\nAsenkron motoru faz sırası rölesi ile çalıştırmak\nAsenkron motoru gerilim koruma rölesi ile çalıştırmak\nAsenkron motoru sağ sol rölesi ile çalıştırmak\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda Devre Elemanları / Kumanda ve Güç Devre Sembolleri Çizimi",
+      "KAZANIM": "Kumanda devre elemanlarını açıklar.\nKumanda ve güç devresi sembollerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda devrelerinde kullanılan kablo çeşitleri açıklanır.\nKumanda ve güç devresinde kullanılan sembol normları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama yapmak\nAsenkron motor klemensini üçgen bağlama yapmak\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırmak\nAsenkron motoru ideal kesik çalıştırmak\nAsenkron motoru bir yönde sürekli çalıştırmak\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırmak\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirmek\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirmek\nAsenkron motoru paket şalterle devir yönü değiştirmek\nAsenkron motoru zaman ayarlı çalıştırmak\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırmak\nAsenkron motoru motor koruma rölesi ile çalıştırmak\nAsenkron motoru faz sırası rölesi ile çalıştırmak\nAsenkron motoru gerilim koruma rölesi ile çalıştırmak\nAsenkron motoru sağ sol rölesi ile çalıştırmak\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda ve Güç Devre Sembolleri Çizimi",
+      "KAZANIM": "Kumanda ve güç devresi sembollerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devresinde kullanılan sembollerin çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama yapmak\nAsenkron motor klemensini üçgen bağlama yapmak\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırmak\nAsenkron motoru ideal kesik çalıştırmak\nAsenkron motoru bir yönde sürekli çalıştırmak\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırmak\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirmek\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirmek\nAsenkron motoru paket şalterle devir yönü değiştirmek\nAsenkron motoru zaman ayarlı çalıştırmak\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırmak\nAsenkron motoru motor koruma rölesi ile çalıştırmak\nAsenkron motoru faz sırası rölesi ile çalıştırmak\nAsenkron motoru gerilim koruma rölesi ile çalıştırmak\nAsenkron motoru sağ sol rölesi ile çalıştırmak\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda ve Güç Devreleri Çizimi",
+      "KAZANIM": "Kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devresinin özellikleri kullanım alanlarıyla açıklanır.\nKumanda ve güç devresinin çizim yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama yapmak\nAsenkron motor klemensini üçgen bağlama yapmak\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırmak\nAsenkron motoru ideal kesik çalıştırmak\nAsenkron motoru bir yönde sürekli çalıştırmak\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırmak\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirmek\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirmek\nAsenkron motoru paket şalterle devir yönü değiştirmek\nAsenkron motoru zaman ayarlı çalıştırmak\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırmak\nAsenkron motoru motor koruma rölesi ile çalıştırmak\nAsenkron motoru faz sırası rölesi ile çalıştırmak\nAsenkron motoru gerilim koruma rölesi ile çalıştırmak\nAsenkron motoru sağ sol rölesi ile çalıştırmak\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda ve Güç Devre Uygulamaları",
+      "KAZANIM": "Kumanda ve güç devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devrelerinin bağlantısı çizime göre yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama yapmak\nAsenkron motor klemensini üçgen bağlama yapmak\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırmak\nAsenkron motoru ideal kesik çalıştırmak\nAsenkron motoru bir yönde sürekli çalıştırmak\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırmak\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirmek\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirmek\nAsenkron motoru paket şalterle devir yönü değiştirmek\nAsenkron motoru zaman ayarlı çalıştırmak\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırmak\nAsenkron motoru motor koruma rölesi ile çalıştırmak\nAsenkron motoru faz sırası rölesi ile çalıştırmak\nAsenkron motoru gerilim koruma rölesi ile çalıştırmak\nAsenkron motoru sağ sol rölesi ile çalıştırmak\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "Asenkron Motorlarda Kalkınma ve Etkileri / Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "Asenkron motorların kalkınmasını ve etkilerini açıklar.\nAsenkron motorlara yol verme yöntemleri uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorların güçlerine göre ilk kalkış anının etkisi açıklanır.\nAsenkron motorlarda ilk kalkış akımının şebekeye etkileri çalışma şeklinde açıklanır ve motora etkileri örneklendirilir.\nAsenkron motorlarda kalkış akımının azaltılması yöntemleri sıralanır.\nAsenkron motorlara yol vermenin önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "Asenkron motorlara yol verme yöntemleri uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorlara yol verme yöntemleri sıralanır.\nAsenkron motorlara yıldız-üçgen yol verme devresi açıklanır.\nAsenkron motorlara sürücüler ile yol verme devresi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "AC Motor Sürücüleri ile Devir Ayarları",
+      "KAZANIM": "AC motor sürücüleri ile devir ayarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans ile asenkron motor devir sayısı değişimi örneklerle hesaplar.\nAsenkron motorların devir sayısı değiştirme yöntemleri sıralanır.\nİnvertörlerin özellikleri açıklanır.\nİnvertörlerin bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "AC Motor Sürücüleri ile Devir Ayarları / Çift Devirli Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "AC motor sürücüleri ile devir ayarını yapar.\nÇift devirli asenkron motorlara yol verme uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorları invertörlerle devir ayarı değiştirme devresi açıklanır.\nÇift devirli asenkron motorların özellikleri ve kullanım alanları açıklanır.\nÇift devirli asenkron motorların klemensi ve bağlantı şekilleri görsellerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "Çift Devirli Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "Çift devirli asenkron motorlara yol verme uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çift devirli asenkron motor çalıştırılması devresi açıklanır.\nÇift devirli asenkron motorlarda yol verme devresi açıklanır.\nÇift devirli asenkron motorlarda devir yönü değiştirme devresi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlarda Frenleme",
+      "KONU": "Frenleme Sistemleri / Balatalı Frenleme Sistemleri",
+      "KAZANIM": "Frenleme sisteminin özelliklerini açıklar.\nÜç fazlı asenkron motora balatalı frenleme sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frenlemenin önemi ve kullanım alanı açıklanır.\nFrenleme sisteminde kullanılan malzemeler ve montaj teknikleri açıklanır.\nBalatalı frenleme devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motorlarda frenleme hesaplamaları yapmak\nÜç fazlı asenkron motoru balatalı frenleme ile durdurulması\nÜç fazlı asenkron motoru dinamik frenleme ile durdurulması\nÜç fazlı ileri geri çalışan asenkron motorun dinamik frenleme ile durdurulması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlarda Frenleme",
+      "KONU": "Dinamik Frenleme Sistemleri",
+      "KAZANIM": "Üç fazlı asenkron motora dinamik frenleme sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dinamik frenleme sisteminin özellikleri açıklanır.\nFrenleme gerilim ve akımının doğru hesapladığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motorlarda frenleme hesaplamaları yapmak\nÜç fazlı asenkron motoru balatalı frenleme ile durdurulması\nÜç fazlı asenkron motoru dinamik frenleme ile durdurulması\nÜç fazlı ileri geri çalışan asenkron motorun dinamik frenleme ile durdurulması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Asenkron Motorlarda Frenleme",
+      "KONU": "Dinamik Frenleme Sistemleri",
+      "KAZANIM": "Üç fazlı asenkron motora dinamik frenleme sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dinamik frenlemede motora uygulanacak gerilim hesabı açıklanır.\nDinamik frenleme devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motorlarda frenleme hesaplamaları yapmak\nÜç fazlı asenkron motoru balatalı frenleme ile durdurulması\nÜç fazlı asenkron motoru dinamik frenleme ile durdurulması\nÜç fazlı ileri geri çalışan asenkron motorun dinamik frenleme ile durdurulması",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Asansör Elektrik Kontrol Panosu ve Montajı",
+      "KONU": "Kontrol Panosu Montaj Hazırlığı / Kumanda Panosu Elemanları Montajı / Kumanda Panosu Kablo Bağlantıları",
+      "KAZANIM": "Kontrol panosunun montaj hazırlığını yapar.\nKumanda panosu elemanlarının montajını yapar.\nKumanda panosunun kablo bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik güç devre şemasının çizilmesi açıklanır. Çizim aşamaları örnek devre ile gösterilir. Şemalar IEC normunda planlanır.\nKontrol şemasının okunma yöntemleri ve uygulanacak adımlar açıklanır. Şemalar IEC normunda planlanır.\nPanoyu montaja hazırlamada izlenecek adımlar açıklanır.\nPanoya yerleştirilecek elemanlar ve yerleşimi örnek üzerinden açıklanır.\nPanoya yerleştirilecek iç taşıyıcı elemanların montaj aşamaları sıralanır.\nPanoya eleman montajı örnekle gösterilir.\nPano elemanlarının etiketleme işlemleri örnek üzerinden açıklanır.\nPanoya yerleştirilecek kabloların özellikleri ve seçimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektrik kontrol panosu şemasını okumak ve çizmek\nKontrol panosu kablo kanalları ve sigorta raylarının kesilmesi ve montajı\nPano elemanlarının ilgili yerlere montajının yapılması\nKablolara yüzük ve pabuç sıkmak. Kaçak akım rölesi, sigortalar ve pako şalter ve bağlantıları ile numaralandırılması\nPanoya cihazların kablo bağlantılarını yapma\nPano test ölçümlerini yapma"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Asansör Elektrik Kontrol Panosu ve Montajı",
+      "KONU": "Kumanda Panosu Kablo Bağlantıları / Kumanda Panosu Testleri",
+      "KAZANIM": "Kumanda panosunun kablo bağlantılarını yapar.\nKumanda panosu testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Panoya yerleştirilecek kablolara pabuç ve yüksük takım işlemleri sıralanır.\nKabloların cihazlara bağlanması işlemleri açıklanır.\nKabı bağı ve spiral ile kabloları gruplama işlemleri sıralanır.\nPano aydınlatması ve havalandırılması açıklanır.\nCihaz ayarlarının yapılması açıklanır.\nİzolasyon testleri açıklanır.\nPano çalışma testleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektrik kontrol panosu şemasını okumak ve çizmek\nKontrol panosu kablo kanalları ve sigorta raylarının kesilmesi ve montajı\nPano elemanlarının ilgili yerlere montajının yapılması\nKablolara yüzük ve pabuç sıkmak. Kaçak akım rölesi, sigortalar ve pako şalter ve bağlantıları ile numaralandırılması\nPanoya cihazların kablo bağlantılarını yapma\nPano test ölçümlerini yapma"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Özellikleri",
+      "KAZANIM": "PLC'nin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'nin tanımı yapılır.\nPLC yapısı ve çalışması açıklanır.\nPLC kullanım alanları sıralanır.\nPLC giriş ve çıkış adreslemeleri açıklanır.\nPLC programının yürütülmesi açıklanır.\nPLC seçiminde dikkat edilecek hususlar sıralanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ve donanımlarını katalogdan seçmek\nPLC besleme bağlantılarını yapmak\nPLC giriş elemanları bağlantılarını yapmak\nPLC çıkış elemanları bağlantılarını yapmak\nVerilen şekle göre giriş elemanlarını PLC devresine bağlamak\nVerilen şekle göre çıkış elemanlarını PLC devresine bağlamak\nVerilen şekle göre giriş ve çıkış elemanlarını PLC devresi uygulamak\nPLC'ye genişleme modülü ekleme uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Giriş Elemanları / PLC Çıkış Elemanları",
+      "KAZANIM": "PLC'nin giriş elemanlarını seçer.\nPLC'nin çıkış elemanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'nin giriş elemanları sıralanır.\nButonların özellikleri ve bağlantıları açıklanır.\nAnahtarların özellikleri ve bağlantıları açıklanır.\nŞalterlerin özellikleri ve bağlantıları açıklanır.\nSensörlerin özellikleri ve bağlantıları açıklanır.\nPLC'nin çıkış elemanları sıralanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ve donanımlarını katalogdan seçmek\nPLC besleme bağlantılarını yapmak\nPLC giriş elemanları bağlantılarını yapmak\nPLC çıkış elemanları bağlantılarını yapmak\nVerilen şekle göre giriş elemanlarını PLC devresine bağlamak\nVerilen şekle göre çıkış elemanlarını PLC devresine bağlamak\nVerilen şekle göre giriş ve çıkış elemanlarını PLC devresi uygulamak\nPLC'ye genişleme modülü ekleme uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Çıkış Elemanları",
+      "KAZANIM": "PLC'nin çıkış elemanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sinyal lambaların özellikleri ve bağlantıları açıklanır.\nSelenoid valflerin özellikleri ve bağlantıları açıklanır.\nRölelerin özellikleri ve bağlantıları açıklanır.\nKontaktörlerin özellikleri ve bağlantıları açıklanır.\nMotorların özellikleri ve bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ve donanımlarını katalogdan seçmek\nPLC besleme bağlantılarını yapmak\nPLC giriş elemanları bağlantılarını yapmak\nPLC çıkış elemanları bağlantılarını yapmak\nVerilen şekle göre giriş elemanlarını PLC devresine bağlamak\nVerilen şekle göre çıkış elemanlarını PLC devresine bağlamak\nVerilen şekle göre giriş ve çıkış elemanlarını PLC devresi uygulamak\nPLC'ye genişleme modülü ekleme uygulaması yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Giriş ve Çıkış Bağlantıları / PLC Donanım ve Ekipmanlarının Seçimi",
+      "KAZANIM": "PLC'nin giriş ve çıkış bağlantılarını yapar.\nPLC donanımlarını ve ekipmanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC devre sembollerinin çizimi açıklanır.\nPLC besleme bağlantısının çizimi açıklanır.\nPLC giriş eleman ve bağlantılarının çizimi açıklanır.\nPLC çıkış eleman ve bağlantılarının çizimi açıklanır.\nPLC giriş ve çıkış bağlantıları açıklanır.\nPLC dijital modülleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ve donanımlarını katalogdan seçmek\nPLC besleme bağlantılarını yapmak\nPLC giriş elemanları bağlantılarını yapmak\nPLC çıkış elemanları bağlantılarını yapmak\nVerilen şekle göre giriş elemanlarını PLC devresine bağlamak\nVerilen şekle göre çıkış elemanlarını PLC devresine bağlamak\nVerilen şekle göre giriş ve çıkış elemanlarını PLC devresi uygulamak\nPLC'ye genişleme modülü ekleme uygulaması yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Donanım ve Ekipmanlarının Seçimi",
+      "KAZANIM": "PLC donanımlarını ve ekipmanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC analog modülleri açıklanır.\nPLC enerji cihaz modülleri açıklanır.\nPLC haberleşme modülleri açıklanır.\nPLC kablo ve ekipmanları açıklanır.\nKatalogdan PLC seçim işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ve donanımlarını katalogdan seçmek\nPLC besleme bağlantılarını yapmak\nPLC giriş elemanları bağlantılarını yapmak\nPLC çıkış elemanları bağlantılarını yapmak\nVerilen şekle göre giriş elemanlarını PLC devresine bağlamak\nVerilen şekle göre çıkış elemanlarını PLC devresine bağlamak\nVerilen şekle göre giriş ve çıkış elemanlarını PLC devresi uygulamak\nPLC'ye genişleme modülü ekleme uygulaması yapmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Teknikleri",
+      "KONU": "PLC Programlama Mantığı ve Yazılım Dili",
+      "KAZANIM": "PLC programlama mantığını ve yazılım dillerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC program işleme mantığı açıklanır.\nPLC program yazılım dilleri açıklanır.\nPLC programlamada hafıza alanları ve adreslemeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC programlama editörünü kurmak\nPLC projesi oluşturmak\nPLC donanım ayarlarını yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Teknikleri",
+      "KONU": "Temel Editör İşlemleri",
+      "KAZANIM": "PLC programda temel editör işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programlama yazılımının kurulumu açıklanır.\nPLC programlama yazılımı menüleri ve araç çubukları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC programlama editörünü kurmak\nPLC projesi oluşturmak\nPLC donanım ayarlarını yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Teknikleri",
+      "KONU": "Temel Editör İşlemleri",
+      "KAZANIM": "PLC programda temel editör işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programlama yazılımı pençelerinin özellikleri kullanımı ile açıklanır.\nPLC programlama yazılımda PLC tipi seçimi açıklanır.\nPLC programlama yazılımında kullanılan program komutları sıralanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC programlama editörünü kurmak\nPLC projesi oluşturmak\nPLC donanım ayarlarını yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Teknikleri",
+      "KONU": "Temel Editör İşlemleri",
+      "KAZANIM": "PLC programda temel editör işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programlama yazılımında donanım ayarları açıklanır.\nPLC ile PC haberleşmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC programlama editörünü kurmak\nPLC projesi oluşturmak\nPLC donanım ayarlarını yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Teknikleri",
+      "KONU": "Temel Editör İşlemleri",
+      "KAZANIM": "PLC programda temel editör işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PC'den PLC'ye program yüklenmesi açıklanır.\nPLC'den PC'ye program aktarılması (yedeklenmesi) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC programlama editörünü kurmak\nPLC projesi oluşturmak\nPLC donanım ayarlarını yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "Frekans İnvertörleri",
+      "KAZANIM": "Frekans invertörlerinin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans invertörlerin özellikleri açıklanır.\nFrekans invertörlerin kullanım amaçları açıklanır.\nFrekans invertörlerin kullanıldığı yerler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini katalogdan yararlanarak incelemek\nFrekans invertörü ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ile motor rampalama uygulaması yapmak\nFrekans invertörü ayarları yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "Frekans İnvertörleri / Frekans İnvertörlerin Bağlantıları ve Ayarları",
+      "KAZANIM": "Frekans invertörlerinin özelliklerini açıklar.\nFrekans invertörlerinin bağlantılarını ve ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans invertörlerin çeşitleri açıklanır.\nFrekans invertörlerin bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini katalogdan yararlanarak incelemek\nFrekans invertörü ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ile motor rampalama uygulaması yapmak\nFrekans invertörü ayarları yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "Frekans İnvertörlerin Bağlantıları ve Ayarları / PLC ile Frekans İnvertörlerin Kontrolü",
+      "KAZANIM": "Frekans invertörlerinin bağlantılarını ve ayarlarını yapar.\nPLC ile frekans invertörlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans invertörlerin temel parametre ayarları açıklanır.\nPLC programı yazılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini katalogdan yararlanarak incelemek\nFrekans invertörü ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ile motor rampalama uygulaması yapmak\nFrekans invertörü ayarları yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "PLC ile Frekans İnvertörlerin Kontrolü",
+      "KAZANIM": "PLC ile frekans invertörlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC bağlantısını yapar.\nPLC ile frekans invertörü kontrolü için gerekli parametre ayarları yapılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini katalogdan yararlanarak incelemek\nFrekans invertörü ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ile motor rampalama uygulaması yapmak\nFrekans invertörü ayarları yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Senkron Motorlara Yol Verme",
+      "KONU": "Senkron Motorların Özellikleri",
+      "KAZANIM": "Senkron motorların özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Senkron motorun yapısı açıklanır.\nSenkron motorun kullanıldığı yerler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Senkron motorun özelliklerini incelemek ve çalıştırmak\nSenkron motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nSenkron motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nSenkron motora direk yol verme\nSenkron motorlara frekans değiştirerek yol verme"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Senkron Motorlara Yol Verme",
+      "KONU": "Senkron Motorların Özellikleri / Senkron Motorların Bağlantıları",
+      "KAZANIM": "Senkron motorların özelliklerini açıklar.\nSenkron motorların bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Senkron motor sürücülerin teknik özellikleri açıklanır.\nSenkron motor kablo bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Senkron motorun özelliklerini incelemek ve çalıştırmak\nSenkron motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nSenkron motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nSenkron motora direk yol verme\nSenkron motorlara frekans değiştirerek yol verme"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Senkron Motorlara Yol Verme",
+      "KONU": "Senkron Motorların Bağlantıları / Senkron motorlara yol verme",
+      "KAZANIM": "Senkron motorların bağlantılarını yapar.\nSenkron motorlara yol verme uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Senkron motor temel parametre ayarları açıklanır.\nSenkron motorlara yol verme uygulaması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Senkron motorun özelliklerini incelemek ve çalıştırmak\nSenkron motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nSenkron motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nSenkron motora direk yol verme\nSenkron motorlara frekans değiştirerek yol verme"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Senkron Motorlara Yol Verme",
+      "KONU": "Senkron motorlara yol verme",
+      "KAZANIM": "Senkron motorlara yol verme uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Senkron motora direk yol verme uygulanır.\nSenkron motorlara frekans değiştirerek yol verme uygulanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda ve Otomasyon Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, senkron motor, sensörler, invertörler, kumanda koruma röleleri, dağıtım panoları, PLC sistemi, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Senkron motorun özelliklerini incelemek ve çalıştırmak\nSenkron motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nSenkron motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nSenkron motora direk yol verme\nSenkron motorlara frekans değiştirerek yol verme"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Dizel Motor Servisi (Mesem Motorla Araçlar)",
+  "grup": "MESEM Dersleri",
+  "brans": "Motorlu Araçlar Teknolojisi (Mesem)",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/motorlu-araclar-teknolojisi-mesem/2015/dizel-motor-servisi-mesem-motorla-araclar-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor yönetim sisteminin yapısını ve elektronik kontrol ünitesine giren bilgileri listeler\nElektronik kontrol ünitesine bilgi veren elemanları sıralar",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hava debimetresinin görevini, yapısal özelliklerini ve kontrollerini açıklar.\nEmme havası sıcaklık sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mutlak basınç sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nGaz pedal konum sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gaz kelebeği konum sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nOksijen (Lamda) sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor soğutma suyu sıcaklık sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nYakıt sıcaklık sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Egzoz geri basınç bildirim ve egzoz sıcaklık sensörleriningörevini, yapısal özelliklerini ve kontrollerini açıklar.\nKick-downsensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Turbo şarj ve basınç sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nDarbe sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor yağı sıcaklık sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nMotor yağ basınç ve seviye sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Krank mili konum sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nKam mili konum sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "1",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "1. Sensörler / 2. Elektronik Kontrol Ünitesi",
+      "KAZANIM": "Sensörleri kontrol ederek değiştirir.\nElektronik kontrol ünitesini (ECU) kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Vuruntu sensörünün görevini, yapısal özelliklerini ve kontrollerini açıklar.\nElektronik kontrol ünitesinin (ECU) bilgi verdiği ve aldığı elemanları listeler.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "2. Elektronik Kontrol Ünitesi",
+      "KAZANIM": "Elektronik kontrol ünitesini (ECU) kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik kontrol ünitesinin çalışma prensibini ve kısımlarını açıklar.\nECU kontrollerini ve arızalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "3. CAN-BUS Merkezi veri hattı",
+      "KAZANIM": "Merkezî veri hattını (CAN-BUS) kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik kontrol üniteleri arasında haberleşme yöntemlerini açıklar.\nCAN-BUS hattının görevini ve yapısal özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "3. CAN-BUS Merkezi veri hattı / 4. Elektromanyetik enjektörler",
+      "KAZANIM": "Merkezî veri hattını (CAN-BUS) kontrol ederek değiştirir.\nElektromanyetik enjektörleri kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAN-BUS hattının arıza ve belirtilerini sıralar.\nEnjektörlerin yapısal özelliklerini ve çalışmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "4. Elektromanyetik enjektörler / 5. Ateşleme bobinleri",
+      "KAZANIM": "Elektromanyetik enjektörleri kontrol ederek değiştirir.\nAteşleme bobinlerini kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enjektörlerin kontrollerini açıklar.\nAteşleme bobinlerinin çeşitlerini ve çalışmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "5. Ateşleme bobinleri / 6. Elektronik gaz kelebeği",
+      "KAZANIM": "Ateşleme bobinlerini kontrol ederek değiştirir.\nElektronik gaz kelebeğini kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ateşleme bobinlerinin kontrollerini açıklar.\nElektronik gaz kelebeğinin çalışmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "6. Elektronik gaz kelebeği",
+      "KAZANIM": "Elektronik gaz kelebeğini kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik gaz kelebeğinin kontrollerini açıklar.\nHız sabitleme sisteminin çalışmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "7. Karbon kanister valfi",
+      "KAZANIM": "Karbon kanister valfini kontrol ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Karbon kanister valfinin çalışmasını açıklar.\nKarbon kanister valfinin kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "1",
+      "ÜNİTE": "Motor Yönetim Sistemleri",
+      "KONU": "8. Rölanti motoru",
+      "KAZANIM": "Rölanti motorunun çalışmasını ve kontrollerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Rölanti motorunun çalışmasını açıklar.\nRölanti motorunun kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diagnostik arıza teşhis cihazını kullanarak arıza teşhisi yapar\n2. Elektriksel bağlantıları doğru şekilde söküp takar\n3. Hava debimetresini kontrol eder ve değiştirir.\n4. Emme havası sıcaklık sensörünü kontrol eder ve değiştirir.\n5. Mutlak basınç sensörünü kontrol eder ve değiştirir.\n6. Gaz pedal konum sensörünün kontrol eder ve değiştirir.\n7. Gaz kelebeği konum sensörünü kontrol eder ve değiştirir.\n8. Oksijen (Lamda) sensörünü kontrol eder ve değiştirir.\n9. Motor soğutma suyu sıcaklık sensörünü kontrol eder ve değiştirir.\n10. Yakıt sıcaklık sensörünü kontrol eder ve değiştirir.\n11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerini kontrol eder ve değiştirir.\n12. Kick-downsensörünü kontrol eder ve değiştirir.\n13. Turbo şarj ve basınç sensörünü kontrol eder ve değiştirir.\n14. Darbe sensörünü kontrol eder ve değiştirir.\n15. Motor yağı sıcaklık sensörünü kontrol eder ve değiştirir.\n16. Motor yağ basınç ve seviye sensörünü kontrol eder ve değiştirir.\n17. Krank mili konum sensörünü kontrol eder ve değiştirir.\n18. Kam mili konum sensörünü kontrol eder ve değiştirir.\n19. Vuruntu sensörünü kontrol eder ve değiştirir\n20. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini (ECU) kontrol eder.\n21. Elektronik Kontrol Ünitesi elektriksel bağlantılarını doğru şekilde söküp takar.\n22. Elektronik Kontrol Ünitesini (ECU) değiştirir.\n23. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n24. CAN-BUS hattını fiziksel kontrollerini yapar.\n25. CAN-BUS hattı üzerindeki sonlandırıcıları kontrol eder.\n26. CAN-BUS hattını değiştirir.\n27. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi yapar.\n28. Enjektörlerin yakıt ve elektriksel bağlantılarını doğru şekilde söküp takar.\n29. Enjektörlerin kontrollerini yapar.\n30. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi yapar.\n31. Ateşleme bobinlerinin bağlantılarını doğru şekilde söküp takar.\n32. Ateşleme bobinlerinin kontrollerini tekniğine uygun yapar.\n33. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisini yapar.\n34. Rölanti motorunun kontrollerini yapar.\n35. Karbon kanister valfinin kontrollerini yapar."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "1. Diagnostik",
+      "KAZANIM": "Diagnostik cihazı ile kontrol ve testleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik kontrol ünitelerinin yapısı ve bilginin işlenmesini açıklar.\nElektronik kontrol üniteleri arasında haberleşme yöntemlerini sıralar.\nCAN-BUS hattının yapısal özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "1. Diagnostik",
+      "KAZANIM": "Diagnostik cihazı ile kontrol ve testleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Diagnostik cihazların çalışma prensibini ve tekniğini açıklar.\nHata anında durum tespitini ve parametrelerin yorumlanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "2. Diagnostik cihazı ile arıza teşhisi",
+      "KAZANIM": "Diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hata kodu okuma, hata giderme-hata silme mantığını açıklar.\nHata çeşitlerini açıklar.\nElektronik olarak kontrol edilen elemanların diagnostik cihazıyla bağımsız olarak çalıştırılmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "2. Diagnostik cihazı ile arıza teşhisi",
+      "KAZANIM": "Diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bölgesel çalıştırma yöntemiyle arıza tespitini açıklar.\nHareketli sensör testini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "1",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "3. Diagnostik cihazı ile kodlama",
+      "KAZANIM": "Diagnostik cihazı ile kodlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Değiştirilen parçaların araca tanıtılmasını açıklar.\nElektronik kontrol ünitesinin yeniden programlanmasını açıklar.\nGüncellenmiş programların yüklenmesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "4. Egzoz emisyon sistemleri",
+      "KAZANIM": "Egzoz emisyon sistemlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Emisyonları tanımlar ve çeşitlerini açıklar.\nBenzinli ve dizel motorlarda egzoz emisyonlarını ve çevreye etkilerini açıklar",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "4. Egzoz emisyon sistemleri / 5. Egzoz emisyon ölçümü",
+      "KAZANIM": "Egzoz emisyon sistemlerinin kontrolünü yapar.\nEgzoz emisyon ölçümü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motorlu araçlardaki egzoz emisyonuna etki eden faktörleri açıklar.\nBenzinli ve dizel motorlu araçlardaki emisyonları düşürmek için kullanılan donanımları açıklar.\nBenzinli ve dizel motorlarda kullanılan egzoz emisyon kontrol cihazlarının özelliklerini ve bakımlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "5. Egzoz emisyon ölçümü",
+      "KAZANIM": "Egzoz emisyon ölçümü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Egzoz emisyon kontrol cihazları ile ölçüm yaparken dikkat edilecek hususları sıralar\nEmisyon değerlerini yorumlar",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "5. Egzoz emisyon ölçümü / 6. Silindir kaçak testi",
+      "KAZANIM": "Egzoz emisyon ölçümü yapar.\nKompresyon ve vakum testi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Emisyonlarla ilgili ulusal ve uluslar arası yasal zorunlulukları açıklar.\nMotor sentesini ve benzinli-dizel motorlarda silindir basıncını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "6. Silindir kaçak testi",
+      "KAZANIM": "Kompresyon ve vakum testi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Silindir kaçak testinin amacını tarif eder\nSilindir kaçak testi cihazının görevini, çalışmasını açıklar\nSilindir kaçak testinin yapılmasını ve sonuçların açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "7. Kompresyon ve vakum testi",
+      "KAZANIM": "Silindir kaçak testi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kompresyon testinin amacını tarif eder\nKompresyon test cihazının görevini ve çalışmasını açıklar",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "7. Kompresyon ve vakum testi",
+      "KAZANIM": "Silindir kaçak testi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kompresyon basınç değerlerinin anlamını açıklar.\nKompresyon testinin yapılışını ve motorda gerçekleşen kompresyonun anlamını açıklar.\nSilindirlere giren yabancı cisimlerin motora oluşturacağı tehlikeleri sıralar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "7. Kompresyon ve vakum testi",
+      "KAZANIM": "Silindir kaçak testi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Emme manifoldu vakumunun anlamını açıklar.\nEmme manifoldu vakumunun ölçülmesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "8. Motor periyodik bakımı",
+      "KAZANIM": "Motorun periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Periyodik bakımın tanımını, önemini ve bakımın türlerini açıklar.\nHava ve yakıt filtresinin bakımını açıklar.\nAteşleme sisteminin bakımını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "8. Motor periyodik bakımı",
+      "KAZANIM": "Motorun periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yakıt sisteminin (Dizel ve Benzinli) bakımını açıklar.\nPozitif Karter Havalandırma sisteminin bakımını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "8. Motor periyodik bakımı",
+      "KAZANIM": "Motorun periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Soğutma sisteminin bakımını açıklar.\nTriger kayışının ve gergi rulmanlarının bakımını açıklar.\nSupap sisteminin bakımını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "8. Motor periyodik bakımı",
+      "KAZANIM": "Motorun periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yakıt buharı önleme sisteminin bakımını açıklar.\nMotor yağı kontrolünü açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "1",
+      "ÜNİTE": "Arıza Teşhisi ve Periyodik Bakım",
+      "KONU": "8. Motor periyodik bakımı",
+      "KAZANIM": "Motorun periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Egzoz boru ve susturucuların kontrolünü açıklar.\nKatalitik konverterin kontrolünü açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lift, Ölçme aletleri, Sensörler, El aletleri ve takımları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Araç üzerindeki test soketlerinin yerini ve standardını belirler.\n2. Diagnostik cihazı ile araç üzerindeki test soketine bağlantı yapar.\n3. Diagnostik cihazı ile araç üzerindeki elektronik kontrol ünitelerine bağlantı yapar.\n4. Diagnostik cihazını kullanarak sistem hatalarını okur.\n5. Parametreleri okuyup yorumlar.\n6. Diagnostik cihazı ile elektronik kontrol ünitesindeki kayıtlı arızaları okur.\n7. Arızaların kalıcı veya geçici olup olmadıklarını tespit eder.\n8. Tespit edilen kalıcı arızaların nerden kaynaklandığı bulup onarır.\n9. Onarım sonrasında hata hafızasını siler.\n10. Elektronik olarak kontrol edilen elemanları diagnostik cihazıyla bağımsız olarak çalıştırır.\n11. Bölgesel çalıştırma yöntemiyle arıza tespiti yapar.\n12. Onarım sırasında değiştirilen parçaları elektronik kontrol ünitesine tanıtır.\n13. Elektronik kontrol ünitesini diagnostik cihazı ile yeniden programlar.\n14. Elektronik kontrol ünitesini güncelleme işlemini yapar.\n15. Katalitik konverter sisteminin kontrolünü yapar.\n16. Dizel partikül filtresinin kontrolünü yapar.\n17. Karter havalandırmanın kontrol ve bakımını yapar.\n18. EGR sisteminin kontrolünü yapar.\n19. Karbon kanister sisteminin kontrolünü yapar.\n20. Adblue (SCR) sisteminin kontrolünü yapar.\n21. Egzoz emisyon kontrol cihazını kullanarak emisyon testi yapar\n22. Emisyontestinin sonuçlarını yorumlayarak arızayı belirler.\n23. Egzoz emisyon kontrol cihazlarının bakımını yapar.\n24. Motoru tekniğine uyarak senteye getirir.\n25. Silindir kaçak test cihazını kullanarak test yapar.\n26. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n27. Marş butonunu araç tesisatına doğru olarak bağlar\n28. Kompresyon test cihazını kullanarak test yapar\n29. Kompresyon testinin sonuçlarını yorumlayarak arızanın yerini belirler.\n30.Emme manifoldu vakumunu ölçümünü yapar.\n31. Emme manifoldu vakumunun ölçüm sonuçlarını yorumlayarak arızanın yerini belirler.\n32. Hava ve yakıt filtresinin bakımını yapar.\n33. Ateşleme sisteminin bakımını tekniğine göre yapar.\n34. Yakıt sisteminin (Dizel ve Benzinli) bakımını kurallara uyarak yapar.\n35. Motor havalandırma (Pozitif Karter Havalandırma) sisteminin bakımını yapar.\n36. Pozitif Karter Havalandırma sisteminin bakımını yapar.\n37. Soğutma sisteminin bakımını emniyetle yapar.\n38. Triger kayışı ve gergi rulmanının bakımını tekniğine göre yapar.\n39. Supap sisteminin bakımını tekniğine uyarak yapar.\n40.Yakıt buharı önleme sisteminin bakımını usulüne göre yapar.\n42. Motor yağının kontrolünü tekniğine uygun yapar.\n42. Egzoz boru ve susturucuların kontrolünü emniyetle yapar.\n43. Katalitik konvertörün kontrolünü yapar."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

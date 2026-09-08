@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Elektrikli Motosikletler (Mesem Motorla Araçlar)",
+  "grup": "MESEM Dersleri",
+  "brans": "Motorlu Araçlar Teknolojisi (Mesem)",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/motorlu-araclar-teknolojisi-mesem/1969/elektrikli-motosikletler-mesem-motorla-araclar-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akımı (DC) açıklar.\nDoğru akımın elde edilmesi açıklar.\nDoğru akımın kullanıldığı yerleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ohm kanununu açıklar.\nOhm kanununu formüllerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\nSeri devre özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kirşof gerilimler kanununu açıklar.\nKirşof gerilimler kanununu ile devre hesaplamalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paralel devre özelliklerini açıklar.\nKirşof akımlar kanunu açıklar.\nKirşof akımlar kanununu ile devre hesaplamalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Karışık devrelerde eşdeğer direnç, kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\nÇevre akımları yöntemi ile devre çözümlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobinin doğru akımda kullanımını, akım davranışını açıklar.\nBobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörün doğru akımda kullanıldığı yerleri, şarj deşarjını ve kapasite hesabını açıklar.\nKondansatörün zaman sabitesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım (DC) devre ölçüm ve hesaplamaları. / 2. Doğru akım kaynağı bağlantıları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım (DC) devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nPolarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar.\nDoğru akım kaynaklarını sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kaynakların seri ve paralel bağlantı şartlarını açıklar.\nKaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\nDoğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pillerin yapısını açıklar.\nPillerin çeşitlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pil iç direncini açıklar.\nPillerde elektromotor kuvvet (EMK) güç ve verimi açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aküleri açıklar.\nAkü çeşitlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları. / 3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım motor bağlantılarını, bağlantı şemasına uygun olarak hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Akü kapasitelerini açıklar.\nDinamoları açıklar.\nElektromanyetizmayı açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motor bağlantılarını, bağlantı şemasına uygun olarak hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\nDoğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motor bağlantılarını, bağlantı şemasına uygun olarak hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\nManyetik alan içerisinde bulunan iletkenin hareketini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motor bağlantılarını, bağlantı şemasına uygun olarak hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorunun çeşitlerini açıklar.\nDoğru akım motorlarının temel çalışma prensibini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motor bağlantılarını, bağlantı şemasına uygun olarak hatasız yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorun devir yönü değişimini açıklar.\nDoğru akım motorunun devir sayısı değişimini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Ohm kanunu ile devre çözümleri yapar.\n2. Kirşof gerilimler kanunu ile seri devre çözümlerini yapar.\n3. Kirşof akımlar kanunu ile paralel devre çözümlerini yapar.\n4. Karışık devre çözümlerini yapar.\n5. Çevre akımları yöntemi ile gözlü devre çözümleri yapar.\n6. Doğru akımda bobinli devre hesaplarını yapar.\n7. Doğru akımda kondansatörlü hesaplarını yapar.\n8. İşe uygun doğru akım kaynağını tespit eder.\n9. Doğru akım kaynakların birbiri ile bağlantı hesaplarını yapar.\n10. Doğru akım kaynakların birbiri ile bağlantılarını yapar.\n11. Doğru akım motorunun güç kaynağına bağlantısını yapar.\n12. Doğru akım motorlarının devir yönünü değiştirir.\n13. Doğru akım motorlarının devir sayısını değiştirir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motor çeşitlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motor çeşitlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarının yapısını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarının yapısını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doru akım motorlarının çalışma prensibini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doru akım motorlarının çalışma prensibini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantı yaparken kullanılan araç gereçleri listeler.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantı yaparken kullanılan araç gereçleri listeler.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantı şemalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bağlantı şemalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarında devir ayar yöntemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarında devir ayar yöntemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarında devir yönü değişimini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarında devir yönü değişimini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarında devir yönü değişimini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım motorlarında devir yönü değişimini açıklar.",
+        "Ortam ve Donanım": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Öğretim Teknikleri": "Ortam: Elektrikli Araçlar Teknolojisi Atölyesi/Laboratuvarı\nDonanım: Akıllı Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Üretici firma talimatları ve araç katalogları, özel aparatlar, Yakıt hücreleri, Avometre, El aletleri",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Kullanılacak araç gereçleri hazırlar.\n2. Doğru akım motor bağlantılarını yapar.\n3. Doğru akım motorlarında devir ayarını yapar.\n4. Doğru akım motorlarında devir yönü değiştirme işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Temel Elektronik (Havacılık Ve Uzay Teknolojisi)",
+  "grup": "Meslek Dersleri",
+  "brans": "Havacılık Ve Uzay Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/havacilik-ve-uzay-teknolojisi/1919/temel-elektronik-havacilik-ve-uzay-teknolojisi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Teorisi",
+      "KONU": "1. Akım / 2. Gerilim",
+      "KAZANIM": "Akım türlerini açıklar.\nGerilim kavramını açıklar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Akım kavramı açıklanır.\nAlternatif Akım açıklanır\nDoğru akım açıklanır.\nGerilim kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Teorisi",
+      "KONU": "3. Akım Ölçme",
+      "KAZANIM": "Ampermetre ile akım ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ampermetre tanıtılır.\nAmpermetre ile akım ölçülür.\nAkım dönüşümleri yapılır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Teorisi",
+      "KONU": "4. Gerilim Ölçme / 5. Direnç Ölçme",
+      "KAZANIM": "Voltmetre ile gerilim ölçer.\nOhmmetre ile direnç ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Voltmetre tanıtılır\nVoltmetre ile gerilim ölçülür.\nVolt dönüşümlerini yaptırır.\nDirenç ve ohm kavramları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Teorisi",
+      "KONU": "5. Direnç Ölçme",
+      "KAZANIM": "Ohmmetre ile direnç ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ohm dönüşümlerini yaptırır.\nOhmmetrenin özelliklerini, çalışmasını, çeşitlerini kavratır.\nOhmmetre ile direnç ölçtürür.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Teorisi",
+      "KONU": "6. Avometre ile Akım-Gerilim-Direnç Ölçme",
+      "KAZANIM": "Avometre ile akım-gerilim-direnç ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Avometrenin özelliklerini, çalışmasını, çeşitlerini kavratır.\nAvometrenin prop bağlantı terminallerinin doğru seçimini yaptırır.\nAvometrenin kademe ve sınıf seçici komitatörünün doğru seçimini yaptırır.\nAvometre ile direnç, gerilim, akım ölçmeleri yaptırır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Teorisi",
+      "KONU": "7. Wattmetre ile Güç Ölçme",
+      "KAZANIM": "Güç ölçümlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İş, güç, enerji tanımlarını kavratarak, ilgili hesaplamaları yaptırır, birimleri dönüştürür.\nWattmetre ve elektrik sayacı bağlantısı yaptırarak, iş ve güç ölçümlerini yaptırır.\nÖlçülen değer ve hesap sonuçlarının karşılaştırılmasını yaptırır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Dirençli Devrelerde Elektrik Kanunları",
+      "KONU": "1. Direnç renk tablosunu doğru kullanarak direnç değeri okuma.",
+      "KAZANIM": "Direnç renk tablosunu doğru kullanarak direnç değeri okur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Direnç, özdirenç kavramlarının tanınması sağlanır.\nDirenç çeşitlerinin ve devreye uygun direnç seçiminin gerçekleştirilmesisağlanır.\nDirenç renk kodlarını tanıtır, renk koduna direnç değeri tespiti yaptırır.\nOhmmetre ile ölçülen çeşitli dirençlerin değerini renk kodlarına göre de tespit ettirir ve karşılaştırma yaptırır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dirençli Devrelerde Elektrik Kanunları",
+      "KONU": "2. Dirençleri bağlama. / 3. Potansiyometreve reosta bağlantılarını yapma.",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak dirençleri bağlar.\nİş sağlığı ve güvenliği tedbirlerini alarak potansiyometre bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seri, paralel, karışık direnç bağlantı özelliklerini kavratır.\nDirençleri seri, paralel, karışık bağlatır.\nDirenç bağlı devrelerde bilinmeyen direnci renk kodu, avometre ve hesap yöntemleri ile tespit ettirerek, sonuçların karşılaştırılmasını sağlar.\nPotansiyometrenin yapı, çeşit, bağlantı, çalışma prensiplerinin kavranmasını sağlar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dirençli Devrelerde Elektrik Kanunları",
+      "KONU": "3. Potansiyometreve reosta bağlantılarını yapma. / 4. Wheastone köprüsü bağlantısını yapma.",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak potansiyometre bağlantılarını yapar.\nİş sağlığı ve güvenliği tedbirlerini alarak Wheatstone Köprüsü devre bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Potansiyometreyi devreye bağlatır, ilgili ölçmeleri yaptırır.\nWheatstone Köprüsünün çeşitlerini, bağlantı şekillerini ve çalışma prensibini açıklar.\nİş güvenliği tedbirlerini alarak Wheatstone Köprüsü devresini kurabilir.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dirençli Devrelerde Elektrik Kanunları",
+      "KONU": "5. Ohm kanunu hesaplamalarını yapma. / 6. Kirşofkanunları hesaplamalarını yapma.",
+      "KAZANIM": "Ohm kanunu hesaplamalarını yapar.\nKirşofkanunları hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Akım, gerilim, direnç tanımlarını tekrarlayarak ohm kanunu tanımını kavratır.\nOhm kanunu deneyini yaptırır.\nDeney ve hesap sonucu elde edilen verileri karşılattırır.\nKirşof akım ve gerilim kanunlarını kavratır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dirençli Devrelerde Elektrik Kanunları",
+      "KONU": "6. Kirşofkanunları hesaplamalarını yapma. / 7. Ohm ve Kirşof kanunları ile ilgili hesaplamaları yapma.",
+      "KAZANIM": "Kirşofkanunları hesaplamalarını yapar.\nOhm ve Kirşof kanunları ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devrelere göre akım ve gerilim kanunlarının formüllerini uygulatır.\nKirşof akım ve gerilim kanunu deneylerini yaptırır.\nDeney ve hesap sonucu elde edilen verileri karşılaştırır.\nSeri, paralel, karışık devre bağlantıları yaptırır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Dirençli Devrelerde Elektrik Kanunları",
+      "KONU": "7. Ohm ve Kirşof kanunları ile ilgili hesaplamaları yapma.",
+      "KAZANIM": "Ohm ve Kirşof kanunları ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ölçü aletleri ile direnç, akım, gerilim ölçümleri yaptırır.\nHesap ve direnç renk kodu yöntemleri ile bilinmeyenlerin tespitini yaptırır.\nDeğişik yöntemlerle bulunan bilinmeyen değerleri karşılaştırır. Sonuçları kontrol ettirir.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Devreye Uygun Kondansatör Kullanma",
+      "KONU": "1. Kondansatör seçme.",
+      "KAZANIM": "Devre özelliklerine uygun kondansatör seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatör ve kapasite kavramlarını tanıtır.\nKondansatör çeşitlerini kavratır.\nKapasite, gerilim değeri ve çeşidine göre kondansatör seçimi yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Devreye Uygun Kondansatör Kullanma",
+      "KONU": "2. Kondansatör bağlantılarını yapma. / 3. Kondansatörleri test etme.",
+      "KAZANIM": "Kondansatör bağlantılarını yapar.\nKondansatörleri test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörlerin seri, paralel, karışık bağlantılarını yapar.\nÖlçü aletleri ile bilinmeyen ölçümlerini yaparak, hesap yoluyla bulunanlarla karşılaştırır.\nSağlam kondansatör özelliklerini açıklar ve sağlamlık testini yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Devreye Uygun Kondansatör Kullanma",
+      "KONU": "3. Kondansatörleri test etme.",
+      "KAZANIM": "Kondansatörleri test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörlerin kısa ve açık devre özelliklerini tanıtır ve ölçer.\nKondansatörlerdeki sızıntı akımını tanıtır ve ölçer.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Devreye Uygun Bobin Kullanma",
+      "KONU": "1. Bobin seçme.",
+      "KAZANIM": "Devre özelliklerine uygun bobini seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobin ve endüktans kavramlarını tanıtır.\nBobin çeşitlerini kavratır.\nEndüktans, gerilim değeri ve çeşidine göre bobin seçimi yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Devreye Uygun Bobin Kullanma",
+      "KONU": "2. Bobin bağlantılarını yapma. / 3. Bobini test etme.",
+      "KAZANIM": "Bobin bağlantılarını yapar.\nİş sağlığı ve güvenliği tedbirlerini alarak bobini test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobinlerin seri, paralel, karışık bağlantılarını yapar.\nÖlçü aletleri ile bilinmeyen ölçümlerini yaparak, hesap yoluyla bulunanlarla karşılaştırır.\nSağlam bobin özelliklerini açıklar ve sağlamlık testini yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Devreye Uygun Bobin Kullanma",
+      "KONU": "3. Bobini test etme.",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak bobini test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobinlerin kısa ve açık devre özelliklerini tanıtır ve ölçer.\nBobinlerdeki sızıntı akımını tanıtır ve ölçer.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "1. Alternatif Akım (AC) Özellikleri ve Elde Edilmesi / 2. Alternatif Akım Bileşenleri ve Vektörel Gösterimleri",
+      "KAZANIM": "Alternatif akımının özelliklerini ve elde edilmesini açıklar.\nAlternatif akım bileşenlerinin vektörel gösterimini yaparak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alternatif akım (AC) tanımlanır.\nAlternatif akım çeşitleri açıklanır.\nAlternatif akımın elde edilmesi açıklanır.\nAlternatif akımın kullanıldığı yerler açıklanır.\nSinüs dalgası (sinüsoidal sinyal) açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "2. Alternatif Akım Bileşenleri ve Vektörel Gösterimleri / 3. Alternatif Akımda Bobinler",
+      "KAZANIM": "Alternatif akım bileşenlerinin vektörel gösterimini yaparak hesaplar.\nAlternatif akımda bobinleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alternatif akım bileşenleri (saykıl, periyot, alternans, frekans, açısal hız, dalga boyu) açıklanır.\nAlternatif akımın değerleri (ani değer, ortalama değer, etkin değer, maksimum değer, tepeden tepeye değer) açıklanır.\nAlternatif akımın faz (sıfır faz, ileri faz ve geri faz) ve faz farkı vektörler ile açıklanır.\nEndüktans ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "3. Alternatif Akımda Bobinler / 4. Alternatif Akımda Kondansatörler",
+      "KAZANIM": "Alternatif akımda bobinleri açıklar.\nAlternatif akımda kondansatörleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AC akımda bobinin gösterdiği özellikler açıklanır.\nBobinin seri ve paralel bağlantıları hesaplanır.\nKapasitans ve özellikleri açıklanır.\nAC akımda kapasitörlerin gösterdiği özellikler açıklanır.\nKondansatörün seri ve paralel bağlantıları hesaplanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "5. Alternatif Akımda Devre Bağlantıları",
+      "KAZANIM": "Alternatif akımda seri, paralel ve karışık devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Empedans ve admitans ilişkisi açıklanır.\n•\nR-L seri devre özellikleri ve hesaplamaları açıklanır.\nR-C seri devre özellikleri ve hesaplamaları açıklanır.\nR-L-C seri devre özellikleri ve hesaplamaları açıklanır.\nR-L paralel devre özellikleri ve hesaplamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "5. Alternatif Akımda Devre Bağlantıları",
+      "KAZANIM": "Alternatif akımda seri, paralel ve karışık devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "R-C paralel devre özellikleri ve hesaplamaları açıklanır.\nR-L-C paralel devre özellikleri ve hesaplamaları açıklanır.\nÜç fazlı sistemlerde yıldız ve üçgen bağlantıları açıklanır.\nÜç fazlı sistemlerde yıldız ve üçgen bağlantı akım ve gerilim hesaplamaları yapılır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "İşlemsel Yükselteçler",
+      "KONU": "1. İşlemsel Yükselteçlerin Özellikleri",
+      "KAZANIM": "İşlemsel yükselteçlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteç yapısı açıklanır.\nİşlemsel yükselteç sembolü açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "İşlemsel Yükselteçler",
+      "KONU": "1. İşlemsel Yükselteçlerin Özellikleri / 2. İşlemsel Yükselteç Devreleri",
+      "KAZANIM": "İşlemsel yükselteçlerin özelliklerini açıklar.\nİşlemsel yükselteç devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteç devre yapısı, çalışması ve çeşitleri açıklanır.\nİşlemsel yükselteç devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Osilatörler ve Filtreler",
+      "KONU": "1. Osilatörler",
+      "KAZANIM": "Osilatör devrelerini yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Osilatörün çalışması açıklanır.\nOsilatörün çeşitleri açıklanır.\nOsilatör devrelerinin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Osilatörler ve Filtreler",
+      "KONU": "2. Darbe Devreleri",
+      "KAZANIM": "Darbe devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kırpıcı devreleri açıklanır.\nKenetleyici devreleri açıklanır.\nTransistörlü darbe devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Osilatörler ve Filtreler",
+      "KONU": "2. Darbe Devreleri / 3. Filtre Devreleri",
+      "KAZANIM": "Darbe devrelerini yapar.\nFiltre devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Entegreli darbe devreleri açıklanır.\nFiltrelerin çalışması açıklanır.\nFiltre devre çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Kablo ve Konnektör Bağlantılarını Yaparak Test Etme",
+      "KONU": "1. Kablo Çeşitleri / 2. Kablo Seçme / 3. Kabloyu Sıyırma",
+      "KAZANIM": "Kullanım alanlarına göre kablo çeşitlerini açıklar.\nKullanım amacına uygun kablo seçer.\nSeçilen kabloları montaja hazır hale getirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablo çeşitlerini sınıflandırır, yapı ve özelliklerini tanıtır.\nKablo seçim kriterlerini açıklanır.\nSeçime yönelik hesaplama yöntemleri açıklanır.\nMontaja hazırlama işlemleri anlatılır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Kablo ve Konnektör Bağlantılarını Yaparak Test Etme",
+      "KONU": "3. Kabloyu Sıyırma / 4. Kablo Sıkıştırma (Crimp)",
+      "KAZANIM": "Seçilen kabloları montaja hazır hale getirir.\nSıkıştırma (Crimp) işlemini yapar..",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablo sıyırma işlemleri için gerekli ekipmanlar tanıtılır.\nKablo Sıyırma işlemini yaptırır.\nSıkıştırma (Crimp) işlem ve aletlerini tanıtır.\nSıkıştırma aletlerinin çalışmasını test eder.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Kablo ve Konnektör Bağlantılarını Yaparak Test Etme",
+      "KONU": "4. Kablo Sıkıştırma (Crimp) / 5. Pin Sökme Takma",
+      "KAZANIM": "Sıkıştırma (Crimp) işlemini yapar..\nİlgili prosedür sayfalarına göre pin sökme takma işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çeşitli pin ve bağlantı malzemeleri kullanarak crimp işlemi yaptırır, test ettirir.\nKablo ve kablo demetlerinde bükme işlemi yaptırarak, test ettirir.\nHava araçlarında kullanılan pin, konektör gibi bağlantı elemanlarını tanıtır, sınıflandırır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Kablo ve Konnektör Bağlantılarını Yaparak Test Etme",
+      "KONU": "5. Pin Sökme Takma / 6. Süreklilik, Yalıtım ve Bağlama (Bonding)",
+      "KAZANIM": "İlgili prosedür sayfalarına göre pin sökme takma işlemlerini yapar.\nSüreklilik, yalıtım ve bağlama (bonding) tekniklerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Konnektörlere pin takma, sökme alet ve yöntemlerini tanıtır.\nKonnektörlere pin takma, sökme işlemini yaptırır.\nKonektörlere kablo lehimleme işlemi yaptırılır.\nKablo donanımları üzerinde yapılan süreklilik, yalıtım, bağlama (bonding) gibi kontrolleri tanıtır.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Kablo ve Konnektör Bağlantılarını Yaparak Test Etme",
+      "KONU": "6. Süreklilik, Yalıtım ve Bağlama (Bonding)",
+      "KAZANIM": "Süreklilik, yalıtım ve bağlama (bonding) tekniklerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik hatlarındaki hasarları ve toleranslarını tanıtır.\nSüreklilik, yalıtım, bonding işlem ve testlerini yapar.\nElektrik hatlarındaki hasarları tespit eder.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Yarı İletkenleri Devreye Bağlama Ve Test Etme",
+      "KONU": "1. Test işlemi yapılan diyotları devreye bağlama.",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak test edilen diyotları devreye bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Diyotların yapısını, çeşitlerini, sembollerini, çalışmasını tanıtır.\nSağlamlık ve bağlantı terminal tespit işlemlerini yapar.\nDiyotların devre bağlantılarını yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Yarı İletkenleri Devreye Bağlama Ve Test Etme",
+      "KONU": "2. Test işlemi yapılan transistörleri devreye bağlama.",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak test edilen transistörleri devreye bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transistörlerin yapısını, çeşitlerini, sembollerini, çalışmasını tanıtır. ( BJT- FET- MOSFET )\nSağlamlık ve bağlantı terminal tespit işlemlerini yapar.\nTransistörlerin devre bağlantılarını yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Yarı İletkenleri Devreye Bağlama Ve Test Etme",
+      "KONU": "3. Çeşitli entegre devreleri çalıştırma.",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak çeşitli entegre devrelerini çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Entegrelerin yapısını, çeşitlerini, sembollerini, çalışmasını tanıtır.\nSağlamlık ve bağlantı terminal tespit işlemlerini yapar.\nEntegrelerin devre bağlantılarını yapar.",
+        "Ortam ve Donanım": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Öğretim Teknikleri": "Ortam:Temel elektrik-elektronik atölyesi\nDonanım:Teknoloji sınıfı, elektrik ölçme aletleri, elektrik devre elemanları, aktif-pasif elektronik devre elemanları, elektrikçi el takımları, lehimleme gereçlerisağlanmalı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

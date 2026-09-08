@@ -1,0 +1,747 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Ağ Sistemleri Ve Anahtarlama",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/1489/ag-sistemleri-ve-anahtarlama-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Ağlara Giriş",
+      "KONU": "1. Ağ sistemi tasarımı / 2. Ağ Topolojileri",
+      "KAZANIM": "İhtiyaca uygun ağ sisteminin tasarımını yapar.\nFiziksel ortama ve ağ çeşidine göre topoloji seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAğ sistemleri açıklanır.\n•\nSeri iletişimin çalışma prensipleri açıklanır.\n•\nParalel iletişimin çalışma prensipleri açıklanır.\n•\nAğ iletişim türü seçtirilir.\n•\nAğ bağlantı tipleri açıklanır.\n•\nAğın fiziksel bağlantı tasarımı yaptırılır.\n•\nAğ topoloji çeşitleri açıklanır.\n•\nAğ topolojilerinin özellikleri açıklanır.\n•\nİhtiyaçlara uygun ağ topolojisini seçtirir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Verilen fiziksel ortama ve çeşidine göre topoloji seçmek.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Yerel Ağ Sistemleri",
+      "KONU": "1. Ağ kablosu hazırlama / 2. Ağ cihazları",
+      "KAZANIM": "Ağ kablosu hazırlar.\nAğ cihazlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBakır ağ kablosu sonlandırma standartlarına göre ağ kablosu hazırlatır.\n•\nKablo test cihazları kullandırtır.\n•\nAğ çeşidi ve fiziksel ortama göre ağ cihazları açıklanır.\n•\nAğa uygun LAN cihazları açıklanır.\n•\nLAN cihazlarının ağdaki görevleri açıklanır.\n•\nDağıtıcıların özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. T568A, T568B ve Cross ağ kablosu hazırlamak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Yerel Ağ Sistemleri",
+      "KONU": "2. Ağ cihazları",
+      "KAZANIM": "Ağ cihazlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnahtarların özellikleri açıklanır.\n•\nYönlendiricilerin özellikleri açıklanır.\n•\nKablosuz erişim noktalarının özellikleri açıklanır.\n•\nModemlerin özellikleri açıklanır.\n•\nAğ çeşidine uygun cihazları seçtirilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. T568A, T568B ve Cross ağ kablosu hazırlamak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Ağ Hizmetleri",
+      "KONU": "1. Ağ Hizmetlerinde İletim katmanı ve port kullanımı",
+      "KAZANIM": "Sistem güvenliği için iletim katmanı portlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİstemci/sunucu ilişkisi açıklanır.\n•\nTCP protokolünün yapısı açıklanır.\n•\nUDP protokolünün yapısı açıklanır.\n•\nPort kavramını açıklanır.\n•\nİyi bilinen port numaraları sıralanır.\n•\nKomut satırı uygulamaları ile portların dinlemesini uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.DNS\nuygulaması yapmak.\n2.FTP\nve TFTP uygulaması yapmak.\n3.HTTP\nve HTTPS uygulaması yapmak.\n4.E-posta protokolleri uygulaması yapmak.\n5.DHCP\nuygulaması yapmak.\n6.TELNET\nuygulaması yapmak.\n7.SSH\nuygulaması yapmak.\n8.SNMP\nuygulaması yapmak. 9.-",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Ağ Hizmetleri",
+      "KONU": "2. Uygulama katmanı protokolleri / 3. Ağ protokolleri",
+      "KAZANIM": "Talimatlara göre uygulama katmanı uygulamalarını kullanır.\nAğ hizmetlerine göre ağ protokolünü yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulama katmanındaki protokolleri simülasyon programı ile uygulatır.\n•\nOSI modeli katmaları açıklanır.\n•\nTCP/IP modeli katmanları açıklanır.\n•\nKullanılacak ağ protokolleri seçtirilir.\n•\nKullanılacak ağ protokolleri açıklanıp uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.DNS\nuygulaması yapmak.\n2.FTP\nve TFTP uygulaması yapmak.\n3.HTTP\nve HTTPS uygulaması yapmak.\n4.E-posta protokolleri uygulaması yapmak.\n5.DHCP\nuygulaması yapmak.\n6.TELNET\nuygulaması yapmak.\n7.SSH\nuygulaması yapmak.\n8.SNMP\nuygulaması yapmak. 9.-",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Ağ Adresleme",
+      "KONU": "1. TCP/IP adres sınıfları",
+      "KAZANIM": "Kullanıcı sayısına göre TCP/IP adres sınıflarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAğ tasarımı üzerinde IPv4 adres yapısını uygulatır.\n•\nAğ tasarımı üzerinde NAT türleri gösterilip yaptırılır.\n•\nAğ tasarımı üzerinde IPv6 adres yapısını açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ipconfig komutunu uygulamak.2. DHCP uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Ağ Adresleme",
+      "KONU": "1. TCP/IP adres sınıfları / 2. TCP/IP adres girişlerini yapma işlemleri",
+      "KAZANIM": "Kullanıcı sayısına göre TCP/IP adres sınıflarını kullanır.\nAğ cihazlarına doğru TCP/IP adres girişini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAğ tasarımı üzerinde IPv4 sınıflarının ağ maskeleri hesaplanır.\n•\nIP adresi atama türleri açıklanır.\n•\nDHCP uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ipconfig komutunu uygulamak.2. DHCP uygulaması yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Ağ Adresleme",
+      "KONU": "2. TCP/IP adres girişlerini yapma işlemleri",
+      "KAZANIM": "Ağ cihazlarına doğru TCP/IP adres girişini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAtanmış IP bilgilerini öğrenmek için kullanılan komutlar açıklanır.\n•\nIP atama türünü seçer.\n•\nCihazlara elle IP adresi atama işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ipconfig komutunu uygulamak.2. DHCP uygulaması yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Alt Ağlar",
+      "KONU": "1. Alt ağ maskesi hesaplama işlemleri",
+      "KAZANIM": "Ağı isteğe uygun alt ağlara ayırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlt ağ kavramı açıklanır.\n•\nAlt ağ oluşturma işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ping komutunu uygulamak.\n2.Ipconfig komutunu uygulamak.\n3.Tracert komutunu uygulamak.\n4.Nbstat komutunu uygulamak.\n5.Netstat komutunu uygulamak.\n6.Arp komutunu uygulamak.\n7.Nslookup komutunu uygulamak.\n8.Ağ test komutunu uygulamak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Alt Ağlar",
+      "KONU": "1. Alt ağ maskesi hesaplama işlemleri",
+      "KAZANIM": "Ağı isteğe uygun alt ağlara ayırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlt ağ maskesi hesaplama işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ping komutunu uygulamak.\n2.Ipconfig komutunu uygulamak.\n3.Tracert komutunu uygulamak.\n4.Nbstat komutunu uygulamak.\n5.Netstat komutunu uygulamak.\n6.Arp komutunu uygulamak.\n7.Nslookup komutunu uygulamak.\n8.Ağ test komutunu uygulamak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Alt Ağlar",
+      "KONU": "1. Alt ağ maskesi hesaplama işlemleri",
+      "KAZANIM": "Ağı isteğe uygun alt ağlara ayırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDeğişken uzunluklu alt ağ maskesi kavramı açıklanır.\n•\nAğın gereklerine göre alt ağları oluşturur.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ping komutunu uygulamak.\n2.Ipconfig komutunu uygulamak.\n3.Tracert komutunu uygulamak.\n4.Nbstat komutunu uygulamak.\n5.Netstat komutunu uygulamak.\n6.Arp komutunu uygulamak.\n7.Nslookup komutunu uygulamak.\n8.Ağ test komutunu uygulamak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Alt Ağlar",
+      "KONU": "1. Alt ağ maskesi hesaplama işlemleri",
+      "KAZANIM": "Ağı isteğe uygun alt ağlara ayırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlt ağ maskesi hesaplanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ping komutunu uygulamak.\n2.Ipconfig komutunu uygulamak.\n3.Tracert komutunu uygulamak.\n4.Nbstat komutunu uygulamak.\n5.Netstat komutunu uygulamak.\n6.Arp komutunu uygulamak.\n7.Nslookup komutunu uygulamak.\n8.Ağ test komutunu uygulamak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Alt Ağlar",
+      "KONU": "2. Komutlarla alt ağların kontrol edilmesi",
+      "KAZANIM": "Alt ağların hatasız çalışmasını komutlarla kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAğ kontrol komutlarını kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Ping komutunu uygulamak.\n2.Ipconfig komutunu uygulamak.\n3.Tracert komutunu uygulamak.\n4.Nbstat komutunu uygulamak.\n5.Netstat komutunu uygulamak.\n6.Arp komutunu uygulamak.\n7.Nslookup komutunu uygulamak.\n8.Ağ test komutunu uygulamak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtarlar",
+      "KONU": "1. Anahtar yazılımının kullanılması",
+      "KAZANIM": "Ağ üzerindeki anahtarların fiziksel kurulumunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnahtarları açıklanır.\n•\nAnahtarların kablo bağlantıları açıklanır.\n•\nEthernet çerçeve yapısı açıklanır.\n•\nMAC adres tablosu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Anahtarın kablo bağlantısı yapmak.\n2. İşe uygun anahtar seçimini yapmak.\n3. Temel anahtar yapılandırmasını yapmak.\n4. Uzak masaüstü yapılandırmasını gerçekleştirmek.\n5. Telnet, SSH ve Console yapılandırmalarını gerçekleştirmek.\n6. DHCP yapısını oluşturmak.\n7. DHCP yapılandırmasını gerçekleştirmek.\n8. Yapılandırmayı kaydetmek.\n9. Yapılandırmayı geri yüklemek.\n1. VLAN tasarımını yapmak.\n2. Anahtarlar üzerinde VLAN oluşturmak.\n3. Trunk yapılandırmasını gerçekleştirmek.\n4. VLAN veritabanını silmek.\n5. VLAN’lar arasında yönlendirme işlemini gerçekleştirmek."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtarlar",
+      "KONU": "1. Anahtar yazılımının kullanılması",
+      "KAZANIM": "Ağ üzerindeki anahtarların fiziksel kurulumunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnahtarların kullanım yerleri yaptırılır.\n•\nBroadcast ve Collision Domain kavramları açıklanır.\n•\nAnahtar türleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Anahtarın kablo bağlantısı yapmak.\n2. İşe uygun anahtar seçimini yapmak.\n3. Temel anahtar yapılandırmasını yapmak.\n4. Uzak masaüstü yapılandırmasını gerçekleştirmek.\n5. Telnet, SSH ve Console yapılandırmalarını gerçekleştirmek.\n6. DHCP yapısını oluşturmak.\n7. DHCP yapılandırmasını gerçekleştirmek.\n8. Yapılandırmayı kaydetmek.\n9. Yapılandırmayı geri yüklemek.\n1. VLAN tasarımını yapmak.\n2. Anahtarlar üzerinde VLAN oluşturmak.\n3. Trunk yapılandırmasını gerçekleştirmek.\n4. VLAN veritabanını silmek.\n5. VLAN’lar arasında yönlendirme işlemini gerçekleştirmek."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtarlar",
+      "KONU": "2. Anahtarın yazılımının yapılandırılması",
+      "KAZANIM": "Komut ara yüzünü kullanarak temel anahtar yapılandırmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnahtar işletim sisteminin amacı açıklanır.\n•\nAnahtar ara yüz yapılandırması açıklanır.\n•\nUzak masaüstü yapılandırması yaptırılır.\n•\nTelnet, SSH ve Console yapılandırması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Anahtarın kablo bağlantısı yapmak.\n2. İşe uygun anahtar seçimini yapmak.\n3. Temel anahtar yapılandırmasını yapmak.\n4. Uzak masaüstü yapılandırmasını gerçekleştirmek.\n5. Telnet, SSH ve Console yapılandırmalarını gerçekleştirmek.\n6. DHCP yapısını oluşturmak.\n7. DHCP yapılandırmasını gerçekleştirmek.\n8. Yapılandırmayı kaydetmek.\n9. Yapılandırmayı geri yüklemek.\n1. VLAN tasarımını yapmak.\n2. Anahtarlar üzerinde VLAN oluşturmak.\n3. Trunk yapılandırmasını gerçekleştirmek.\n4. VLAN veritabanını silmek.\n5. VLAN’lar arasında yönlendirme işlemini gerçekleştirmek.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtarlar",
+      "KONU": "2. Anahtarın yazılımının yapılandırılması",
+      "KAZANIM": "Komut ara yüzünü kullanarak temel anahtar yapılandırmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPort hızı ve Duplex modu yapılandırması açıklanır.\n•\nDHCP yapılandırmasını açıklanır.\n•\nYapılandırmayı kaydet ve geri yükleme işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Anahtarın kablo bağlantısı yapmak.\n2. İşe uygun anahtar seçimini yapmak.\n3. Temel anahtar yapılandırmasını yapmak.\n4. Uzak masaüstü yapılandırmasını gerçekleştirmek.\n5. Telnet, SSH ve Console yapılandırmalarını gerçekleştirmek.\n6. DHCP yapısını oluşturmak.\n7. DHCP yapılandırmasını gerçekleştirmek.\n8. Yapılandırmayı kaydetmek.\n9. Yapılandırmayı geri yüklemek.\n1. VLAN tasarımını yapmak.\n2. Anahtarlar üzerinde VLAN oluşturmak.\n3. Trunk yapılandırmasını gerçekleştirmek.\n4. VLAN veritabanını silmek.\n5. VLAN’lar arasında yönlendirme işlemini gerçekleştirmek."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Sanal Yerel Alan Ağları (VLAN)",
+      "KONU": "1. VLAN Oluşturma",
+      "KAZANIM": "Yönergelere uygun VLAN oluşturma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVLAN kavramı açıklanır.\n•\nVLAN avantajları açıklanır\n•\nVLAN türleri açıklanır.\n•\nVLAN oluşturma işlemini gösterip uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Sanal Yerel Alan Ağları (VLAN)",
+      "KONU": "1. VLAN Oluşturma",
+      "KAZANIM": "Yönergelere uygun VLAN oluşturma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVlan durumları açıklanır.\n•\nAnahtar arayüzlerinin Vlana erişim durumunu uygulatır.\n•\nAnahtarlar arasında trunk yapılandırmasını gösterip uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Sanal Yerel Alan Ağları (VLAN)",
+      "KONU": "1. VLAN Oluşturma",
+      "KAZANIM": "Yönergelere uygun VLAN oluşturma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTrunk arayüzlerde güvenli Vlanlara izin işlemini uygulatır.\n•\nDTP protokolü açıklanır.\n•\nArayüzün varsayılan durumu açıklanır ve dinamik durumlar için arayüzün erişim durumları uygulatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Sanal Yerel Alan Ağları (VLAN)",
+      "KONU": "1. VLAN Oluşturma",
+      "KAZANIM": "Yönergelere uygun VLAN oluşturma işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnahtarı yönetim için Vlanlara ip atamasının gerekliliği ile ilglili uygulama yaptırılır.\n•\nVTP protokolü açıklanır.\n•\nMerkezi bir anahtarla ağdaki diğer anahtarlara Vlan bilgilerinin gönderilmesi uygulamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Sanal Yerel Alan Ağları (VLAN)",
+      "KONU": "1. VLAN Oluşturma / 2. VLAN'lar Arası Yönlendirme",
+      "KAZANIM": "Yönergelere uygun VLAN oluşturma işlemini yapar.\nVLAN’lar arasında yönlendirme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVLAN veritabanının silinmesini gösterip uygulatır.\n•\nVLAN yönlendirme çeşitleri açıklanır.\n•\nVLAN’lar arası yönlendirme işlemini gösterip uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "LAN Yedekliliği",
+      "KONU": "1. Yedeklilik tasarımının yapılması",
+      "KAZANIM": "Anahtar ile yedeklilik tasarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYedeklilik kavramı açıklanır.\n•\nYedeklilik tasarımı açıklanır.\n•\nBroadcast storm kavramı açıklanır.\n•\nSwitching loops kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yedeklilik tasarımını yapmak.\n2. Switching loops’u engelleme işlemleri uygulamak.\n3. Broadcast storm’u engelleme işlemlerini uygulamak.\n4. STP türünü seçmek.\n5. STP yapılandırmasını gerçekleştirmek.\n6. STP güvenliğini sağlamak.\n7. Port kümeleme işlemlerini yapmak.\n8. Ether channel algoritmasını kullanmak.\n1. Üçüncü katman anahtarı kullanmak.\n2. İkinci ve üçüncü katman anahtarları karşılaştırmak.\n3. Üçüncü katman anahtarı yapılandırmak.\n4. Üçüncü katman anahtar zerinde VLAN’lar oluşturmak.\n5. Üçüncü katman anahtar üzerinde yönlendirme işlemlerini yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "LAN Yedekliliği",
+      "KONU": "2. Spanning tree protokolü",
+      "KAZANIM": "Anahtarlama işleminde hataların oluşmaması için spanning tree protokolünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSpanning tree kavramı açıklanır.\n•\nSpanning tree prokolü çalışma prensibi açıklanır.\n•\nSTP türleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yedeklilik tasarımını yapmak.\n2. Switching loops’u engelleme işlemleri uygulamak.\n3. Broadcast storm’u engelleme işlemlerini uygulamak.\n4. STP türünü seçmek.\n5. STP yapılandırmasını gerçekleştirmek.\n6. STP güvenliğini sağlamak.\n7. Port kümeleme işlemlerini yapmak.\n8. Ether channel algoritmasını kullanmak.\n1. Üçüncü katman anahtarı kullanmak.\n2. İkinci ve üçüncü katman anahtarları karşılaştırmak.\n3. Üçüncü katman anahtarı yapılandırmak.\n4. Üçüncü katman anahtar zerinde VLAN’lar oluşturmak.\n5. Üçüncü katman anahtar üzerinde yönlendirme işlemlerini yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "LAN Yedekliliği",
+      "KONU": "2. Spanning tree protokolü / 3. Port kümeleme işlemleri",
+      "KAZANIM": "Anahtarlama işleminde hataların oluşmaması için spanning tree protokolünü kullanır.\nPort kümeleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSTP port türleri açıklanır.\n•\nSTP yapılandırma işlemi yaptırılır.\n•\nSTP güvenliğini sağlama yöntemlerini uygulatır.\n•\nPort kümeleme kavramları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yedeklilik tasarımını yapmak.\n2. Switching loops’u engelleme işlemleri uygulamak.\n3. Broadcast storm’u engelleme işlemlerini uygulamak.\n4. STP türünü seçmek.\n5. STP yapılandırmasını gerçekleştirmek.\n6. STP güvenliğini sağlamak.\n7. Port kümeleme işlemlerini yapmak.\n8. Ether channel algoritmasını kullanmak.\n1. Üçüncü katman anahtarı kullanmak.\n2. İkinci ve üçüncü katman anahtarları karşılaştırmak.\n3. Üçüncü katman anahtarı yapılandırmak.\n4. Üçüncü katman anahtar zerinde VLAN’lar oluşturmak.\n5. Üçüncü katman anahtar üzerinde yönlendirme işlemlerini yapmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "LAN Yedekliliği",
+      "KONU": "3. Port kümeleme işlemleri",
+      "KAZANIM": "Port kümeleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nLACP protokolü yapılandırılması yaptırılır.\n•\nPAgP protokolü yapılandırılması yaptırılır.\n•\nEther channel yapılandırılması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yedeklilik tasarımını yapmak.\n2. Switching loops’u engelleme işlemleri uygulamak.\n3. Broadcast storm’u engelleme işlemlerini uygulamak.\n4. STP türünü seçmek.\n5. STP yapılandırmasını gerçekleştirmek.\n6. STP güvenliğini sağlamak.\n7. Port kümeleme işlemlerini yapmak.\n8. Ether channel algoritmasını kullanmak.\n1. Üçüncü katman anahtarı kullanmak.\n2. İkinci ve üçüncü katman anahtarları karşılaştırmak.\n3. Üçüncü katman anahtarı yapılandırmak.\n4. Üçüncü katman anahtar zerinde VLAN’lar oluşturmak.\n5. Üçüncü katman anahtar üzerinde yönlendirme işlemlerini yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Üçüncü Katman Anahtarlar",
+      "KONU": "1. Üçüncü katman anahtarların kullanılması",
+      "KAZANIM": "Ağdaki üçüncü katman anahtarlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÜçüncü katman anahtarları açıklanır.\n•\nÜçüncü katman anahtarların kullanım amacı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Üçüncü Katman Anahtarlar",
+      "KONU": "1. Üçüncü katman anahtarların kullanılması",
+      "KAZANIM": "Ağdaki üçüncü katman anahtarlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİkinci katman ve üçüncü katman anahtarların farkları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Üçüncü Katman Anahtarlar",
+      "KONU": "2. Üçüncü katman anahtarların yapılandırılması işlemleri",
+      "KAZANIM": "Katman anahtarları yönergelere uygun bir şekilde yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÜçüncü katman anahtarların temel yapılandırma işlemleri açıklanır.\n•\nVLAN oluşturma işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Üçüncü Katman Anahtarlar",
+      "KONU": "2. Üçüncü katman anahtarların yapılandırılması işlemleri",
+      "KAZANIM": "Katman anahtarları yönergelere uygun bir şekilde yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYönlendirme işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtar Güvenliği",
+      "KONU": "1. Anahtar port güvenliğinin sağlanması",
+      "KAZANIM": "Yönergelere uygun olarak anahtar port güvenliğini sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPort güvenliği açıklanır.\n•\nDHCP snooping atakları açıklanır.\n•\nDinamik ARP denetlemesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Port güvenliği sağlamak.\n2. DHCP snooping ataklarını engellemek.\n3. Dinamik ARP denetlemesi yapmak.\n4. IP kaynağını koruma işlemini yapmak.\n5. VLAN atlama ataklarını engellemek.\n6. Erişim denetim yaptırılıri oluşturmak.\n7. Hata izleme komutlarını kullanmak.\n8. Olası hataların çözüm yöntemlerini uygulamak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtar Güvenliği",
+      "KONU": "1. Anahtar port güvenliğinin sağlanması",
+      "KAZANIM": "Yönergelere uygun olarak anahtar port güvenliğini sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nIP kaynağını koruma işlemi açıklanır.\n•\nVLAN atlama işlemini açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Port güvenliği sağlamak.\n2. DHCP snooping ataklarını engellemek.\n3. Dinamik ARP denetlemesi yapmak.\n4. IP kaynağını koruma işlemini yapmak.\n5. VLAN atlama ataklarını engellemek.\n6. Erişim denetim yaptırılıri oluşturmak.\n7. Hata izleme komutlarını kullanmak.\n8. Olası hataların çözüm yöntemlerini uygulamak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Anahtar Güvenliği",
+      "KONU": "2. Hata yönetiminin denetlenmesi",
+      "KAZANIM": "Anahtar üzerinde hata yönetimini denetler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHata izleme komutları açıklanır.\n•\nHatalar karşısında yapılacak işlemler yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Port güvenliği sağlamak.\n2. DHCP snooping ataklarını engellemek.\n3. Dinamik ARP denetlemesi yapmak.\n4. IP kaynağını koruma işlemini yapmak.\n5. VLAN atlama ataklarını engellemek.\n6. Erişim denetim yaptırılıri oluşturmak.\n7. Hata izleme komutlarını kullanmak.\n8. Olası hataların çözüm yöntemlerini uygulamak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Geniş Alan Ağ Sistemleri",
+      "KONU": "1. WAN teknolojileri",
+      "KAZANIM": "Fiziksel şartlara ve kullanım amacına göre WAN teknolojilerini seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nWAN teknolojileri açıklanır.\n•\nWAN cihazları tanımlanır.\n•\nUygun WAN teknolojisi seçilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Modem arayüzünün genel yapılandırmasını yapmak.\n2. Modem arayüzünün kablosuz yapılandırmasını yapmak.\n3. Modem arayüzünün güvenlik kısıtlamaları yapılandırmasını yapmak.\n4. Modem arayüzünün erişim kısıtlamaları yapılandırmasını yapmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Geniş Alan Ağ Sistemleri",
+      "KONU": "1. WAN teknolojileri / 2. WAN cihazlarını kullanma",
+      "KAZANIM": "Fiziksel şartlara ve kullanım amacına göre WAN teknolojilerini seçer.\nCihaz yönergelerine göre WAN cihazlarını kurarak kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nWAN cihazlarının fiziksel bağlantısı yaptırılır.\n•\nADSL modemin kurulumu yaptırılır.\n•\nYönlendiriciler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Modem arayüzünün genel yapılandırmasını yapmak.\n2. Modem arayüzünün kablosuz yapılandırmasını yapmak.\n3. Modem arayüzünün güvenlik kısıtlamaları yapılandırmasını yapmak.\n4. Modem arayüzünün erişim kısıtlamaları yapılandırmasını yapmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Geniş Alan Ağ Sistemleri",
+      "KONU": "2. WAN cihazlarını kullanma",
+      "KAZANIM": "Cihaz yönergelerine göre WAN cihazlarını kurarak kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nADSL modemin yapılandırması yaptırılır.\n•\nWAN cihazlarının yazılımsal bağlantıları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch, Modem",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Modem arayüzünün genel yapılandırmasını yapmak.\n2. Modem arayüzünün kablosuz yapılandırmasını yapmak.\n3. Modem arayüzünün güvenlik kısıtlamaları yapılandırmasını yapmak.\n4. Modem arayüzünün erişim kısıtlamaları yapılandırmasını yapmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

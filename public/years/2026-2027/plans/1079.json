@@ -1,0 +1,751 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Trafik Yönetim Sistemleri",
+  "grup": "Meslek Dersleri",
+  "brans": "Raylı Sistemler Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/rayli-sistemler-teknolojisi/1079/trafik-yonetim-sistemleri-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Trafiği Planları",
+      "KONU": "1. Seyir planı (orer) ve grafikleri",
+      "KAZANIM": "Seyir planını (Orer), müşteri beklentilerini ve tren ilişkilerini göz önünde bulundurarak hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDemiryolunda kullanılan trenleri sınıflandırır.\n•\nSeyir programının sağladığı faydaları söyler.\n•\nOrerlerin tanıtımı ve amacını açıklar.\n•\nOrer çeşitlerini izah eder.\n•\nOrer grafiği çizimini açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Seyir planı (Orer) grafiğinde bulunan buluşma ve öne geçmeleri, tren cinslerinin renk, numaralarını ve grafikte bulunan bilgileri tam ve eksiksiz olarak okumak.\n Seyir cetvelini okumak.\n Trenlerin çeşidine yolun eğimine ve mesafeye göre seyir cetveli hazırlamak.\n Orer grafiğine tren eklemek veya çıkarmak.\n Seferden kaldırılan veya yeni sefere konan trenler ile ilgili işlemleri yapmak.\n Trenleri sefere koymak.\n Trenleri seferden kaldırmak.\n Sefere konan ve kaldırılan trenleri ilgililere duyuruları yapmak.\n Metro ve hafif raylı sistemlerde tren tarifelerini hazırlamak.\n Kalkış-varış tarifelerini okuyup uygulamak.\n Yolcu ve yük durumunu belirlemek.\n Günlük vagon durumunu belirten telgrafları okumak ve yazmak.\n Bölgenin çeken ve çekilen araç durumunu belirlemek.\n Bölgenin yük, yolcu durumuna göre ve müşteri talepleri doğrultusunda işletme planlamasını yapmak.\n Çeken, çekilen araçların, personelin durumuna ve faal lokomotif mevcuduna göre işletme planlamasını yapmak.\n Yolcu trenlerinin tam kapasite ile çalışmasını sağlamak.\n Yolcu kapasitesine göre yolcu trenlerinin vagon sayısını arttırmak veya azaltmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Trafiği Planları",
+      "KONU": "1. Seyir planı (orer) ve grafikleri",
+      "KAZANIM": "Seyir planını (Orer), müşteri beklentilerini ve tren ilişkilerini göz önünde bulundurarak hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTren orerleri için yapılacak hazırlık çalışmalarını açıklar.\n•\nKalkış varış tarifelerinde bulunacak bilgileri sıralar.\n•\nİtinererde (Seyir Cetvelinde) bulunan bilgileri sıralar.\n•\nTren cinslerine göre seyir süresini açıklar.\n•\nSeyir süresine etki eden faktörleri izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Seyir planı (Orer) grafiğinde bulunan buluşma ve öne geçmeleri, tren cinslerinin renk, numaralarını ve grafikte bulunan bilgileri tam ve eksiksiz olarak okumak.\n Seyir cetvelini okumak.\n Trenlerin çeşidine yolun eğimine ve mesafeye göre seyir cetveli hazırlamak.\n Orer grafiğine tren eklemek veya çıkarmak.\n Seferden kaldırılan veya yeni sefere konan trenler ile ilgili işlemleri yapmak.\n Trenleri sefere koymak.\n Trenleri seferden kaldırmak.\n Sefere konan ve kaldırılan trenleri ilgililere duyuruları yapmak.\n Metro ve hafif raylı sistemlerde tren tarifelerini hazırlamak.\n Kalkış-varış tarifelerini okuyup uygulamak.\n Yolcu ve yük durumunu belirlemek.\n Günlük vagon durumunu belirten telgrafları okumak ve yazmak.\n Bölgenin çeken ve çekilen araç durumunu belirlemek.\n Bölgenin yük, yolcu durumuna göre ve müşteri talepleri doğrultusunda işletme planlamasını yapmak.\n Çeken, çekilen araçların, personelin durumuna ve faal lokomotif mevcuduna göre işletme planlamasını yapmak.\n Yolcu trenlerinin tam kapasite ile çalışmasını sağlamak.\n Yolcu kapasitesine göre yolcu trenlerinin vagon sayısını arttırmak veya azaltmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Trafiği Planları",
+      "KONU": "1. Seyir planı (orer) ve grafikleri",
+      "KAZANIM": "Seyir planını (Orer), müşteri beklentilerini ve tren ilişkilerini göz önünde bulundurarak hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBuluşmalar, öne geçmeleri açıklar.\n•\nGrafikte bulunan bilgileri açıklar.\n•\nGrafiklerde kullanılan işaretleri çizerek açıklar.\n•\nOrer ağına tren ilavesini izah eder.\n•\nBilgisayarla orer çizimini anlatır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Seyir planı (Orer) grafiğinde bulunan buluşma ve öne geçmeleri, tren cinslerinin renk, numaralarını ve grafikte bulunan bilgileri tam ve eksiksiz olarak okumak.\n Seyir cetvelini okumak.\n Trenlerin çeşidine yolun eğimine ve mesafeye göre seyir cetveli hazırlamak.\n Orer grafiğine tren eklemek veya çıkarmak.\n Seferden kaldırılan veya yeni sefere konan trenler ile ilgili işlemleri yapmak.\n Trenleri sefere koymak.\n Trenleri seferden kaldırmak.\n Sefere konan ve kaldırılan trenleri ilgililere duyuruları yapmak.\n Metro ve hafif raylı sistemlerde tren tarifelerini hazırlamak.\n Kalkış-varış tarifelerini okuyup uygulamak.\n Yolcu ve yük durumunu belirlemek.\n Günlük vagon durumunu belirten telgrafları okumak ve yazmak.\n Bölgenin çeken ve çekilen araç durumunu belirlemek.\n Bölgenin yük, yolcu durumuna göre ve müşteri talepleri doğrultusunda işletme planlamasını yapmak.\n Çeken, çekilen araçların, personelin durumuna ve faal lokomotif mevcuduna göre işletme planlamasını yapmak.\n Yolcu trenlerinin tam kapasite ile çalışmasını sağlamak.\n Yolcu kapasitesine göre yolcu trenlerinin vagon sayısını arttırmak veya azaltmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Trafiği Planları",
+      "KONU": "1. Seyir planı (orer) ve grafikleri / 2. Yük ve yolcu verilerine göre işletme planlaması",
+      "KAZANIM": "Seyir planını (Orer), müşteri beklentilerini ve tren ilişkilerini göz önünde bulundurarak hazırlar.\nYük ve yolcu verilerine göre işletme planlaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMetro ve hafif raylı sistemlerde tren tarifelerinin hazırlanmasını açıklar.\n•\nYük ve yolcu verilerine göre işletme planlaması yapmayı açıklar.\n•\nGünlük vagon durumunu izah eder.\n•\nYük telgraflarını izah eder.\n•\nİstasyonların vagon girdi çıktı defteri kullanımını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Seyir planı (Orer) grafiğinde bulunan buluşma ve öne geçmeleri, tren cinslerinin renk, numaralarını ve grafikte bulunan bilgileri tam ve eksiksiz olarak okumak.\n Seyir cetvelini okumak.\n Trenlerin çeşidine yolun eğimine ve mesafeye göre seyir cetveli hazırlamak.\n Orer grafiğine tren eklemek veya çıkarmak.\n Seferden kaldırılan veya yeni sefere konan trenler ile ilgili işlemleri yapmak.\n Trenleri sefere koymak.\n Trenleri seferden kaldırmak.\n Sefere konan ve kaldırılan trenleri ilgililere duyuruları yapmak.\n Metro ve hafif raylı sistemlerde tren tarifelerini hazırlamak.\n Kalkış-varış tarifelerini okuyup uygulamak.\n Yolcu ve yük durumunu belirlemek.\n Günlük vagon durumunu belirten telgrafları okumak ve yazmak.\n Bölgenin çeken ve çekilen araç durumunu belirlemek.\n Bölgenin yük, yolcu durumuna göre ve müşteri talepleri doğrultusunda işletme planlamasını yapmak.\n Çeken, çekilen araçların, personelin durumuna ve faal lokomotif mevcuduna göre işletme planlamasını yapmak.\n Yolcu trenlerinin tam kapasite ile çalışmasını sağlamak.\n Yolcu kapasitesine göre yolcu trenlerinin vagon sayısını arttırmak veya azaltmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Trafiği Planları",
+      "KONU": "2. Yük ve yolcu verilerine göre işletme planlaması",
+      "KAZANIM": "Yük ve yolcu verilerine göre işletme planlaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYük ve yolcu vagonları için müşteri talebi alımını açıklar.\n•\nYük, yolcu ve hizmet trenlerinde görevlendirilecek personeli listeler.\n•\nTrende ve trende görevli personelde trafikle ilgili olarak bulunması gereken malzemeleri sıralar.\n•\nBlok tren taşımacılığını açıklar.\n•\nMetro ve hafif raylı sistem işletme planlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Seyir planı (Orer) grafiğinde bulunan buluşma ve öne geçmeleri, tren cinslerinin renk, numaralarını ve grafikte bulunan bilgileri tam ve eksiksiz olarak okumak.\n Seyir cetvelini okumak.\n Trenlerin çeşidine yolun eğimine ve mesafeye göre seyir cetveli hazırlamak.\n Orer grafiğine tren eklemek veya çıkarmak.\n Seferden kaldırılan veya yeni sefere konan trenler ile ilgili işlemleri yapmak.\n Trenleri sefere koymak.\n Trenleri seferden kaldırmak.\n Sefere konan ve kaldırılan trenleri ilgililere duyuruları yapmak.\n Metro ve hafif raylı sistemlerde tren tarifelerini hazırlamak.\n Kalkış-varış tarifelerini okuyup uygulamak.\n Yolcu ve yük durumunu belirlemek.\n Günlük vagon durumunu belirten telgrafları okumak ve yazmak.\n Bölgenin çeken ve çekilen araç durumunu belirlemek.\n Bölgenin yük, yolcu durumuna göre ve müşteri talepleri doğrultusunda işletme planlamasını yapmak.\n Çeken, çekilen araçların, personelin durumuna ve faal lokomotif mevcuduna göre işletme planlamasını yapmak.\n Yolcu trenlerinin tam kapasite ile çalışmasını sağlamak.\n Yolcu kapasitesine göre yolcu trenlerinin vagon sayısını arttırmak veya azaltmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTMİ Sisteminde tren trafiğinin sevk ve idaresini açıklar.\n•\nİstasyonların özelliklerini ifade eder.\n•\nİstasyon sabit tesislerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTrenlerin hareket saatlerini açıklar.\n•\nTrenlerin kabul ve sevk yollarını açıklar.\n•\nSevk emirlerinin verilmesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTrafik kontrolörü grafiklerini açıklar.\n•\nTrenlerin buluşması ve öne geçmesi işlemlerini izah eder.\n•\nTrenlerin hareket ve geliş bildirim işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTMİ Sisteminde olağan dışı durumlarda trafiği yönetimini açıklar.\n•\nOrer dışı durmanın nedenlerini açıklar.\n•\nOrerde duruşun kaldırılmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nŞartlı sevk emri verilişini izah eder.\n•\nTarifeli trenle tarifesiz trenlerin buluşmasını açıklar.\n•\nKapalı istasyonlarda trenlerin trafiğinin sağlanışını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRaylı sistemlerde bakım onarım tren, makine ve araçlarının trafiğini yönetmeyi açıklar.\n•\nİş trenleri ve demiryolu makinelerini sıralar.\n•\nYol araçlarını sevk ve idare etmeye yetkili olanları ve araçların hızlarını izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "1. TMİ (Trafiğin Merkezden İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin merkezden idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYol araçlarından demiryolu hizmetleri dışında yararlanılmasını açıklar.\n•\nVagonet, pompalı vagonet, motorlu vagonetleri ve trafiğini izah eder.\n•\nMotorlu drezinleri ve trafiğini izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "2. TSİ (Trafiğin Sinyallerle İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin sinyallerle idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTSİ Sisteminde tren trafiğinin sevk ve idaresini açıklar.\n•\nTSİ sisteminin özelliklerini sıralar.\n•\nTrafik Kontrolörünü tanımlar, yetki ve sorumluluklarını söyler.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "2. TSİ (Trafiğin Sinyallerle İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin sinyallerle idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTrafik Baş Kontrolörünü tanımlar, yetki ve sorumluluklarını söyler.\n•\nİstasyon kumanda masasının işlevini anlatır.\n•\nTrafik kumanda merkezinin işlevini anlatır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "2. TSİ (Trafiğin Sinyallerle İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin sinyallerle idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSinyali tanımlar ve türlerini söyler.\n•\nBloğu tanımlar.\n•\nTSİ Sisteminde makas türlerini söyler.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "2. TSİ (Trafiğin Sinyallerle İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin sinyallerle idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMakaslar bölgesini (OS) açıklar.\n•\nTSİ sisteminde sinyalleri ve makasları düzenlemeyi açıklar.\n•\nSinyal renk bildirileri ve anlamlarını söyler.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "2. TSİ (Trafiğin Sinyallerle İdaresi) Sistemi",
+      "KAZANIM": "Tren trafiğinin sinyallerle idaresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSinyallerin tekrarlanmasını açıklar.\n•\nDur bildirisi verdiğinde yapılacak işlemleri sıralar.\n•\nSisteme ait makasları açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "2. TSİ (Trafiğin Sinyallerle İdaresi) Sistemi / 3. ETCS Sistemi (Avrupa Tren Kontrol Sistemi)",
+      "KAZANIM": "Tren trafiğinin sinyallerle idaresini yapar.\nETCS sistemi (Avrupa ren Kontrol Sistemi) ile tren trafiğini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTSİ sisteminin uygulandığı bölgelerde yapılması gerekli hızları söyler.\n•\nMetro ve raylı sistemlerde izin verilen hızları söyler.\n•\nECTS sisteminin tanımını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "3. ETCS Sistemi (Avrupa Tren Kontrol Sistemi)",
+      "KAZANIM": "ETCS sistemi (Avrupa ren Kontrol Sistemi) ile tren trafiğini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nERTMS/ETCS’nin özelliklerini açıklar.\n•\nERTMS/ETCS’nin faydalarını açıklar.\n•\nERTMS/ETCS Seviyelerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Trafik İşletim Sistemleri",
+      "KONU": "4. CBTC (İletişim Tabanlı Tren Kontrol Sistemi)",
+      "KAZANIM": "CBTC (İletişim Tabanlı Tren Kontrol Sistemi) ile tren trafiğini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nCBTC sistemi yapısı ve çalışması açıklanır.\n•\nCBTC sisteminin özellikleri açıklanır.\n•\nCBTC tren donanımları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " TMİ sisteminde, tren trafiğini aldığı emirler doğrultusunda yönetmek.\n Trenlerin kabul ve sevk yollarını belirlemek.\n Trenleri istasyonlara kabul ve sevk etmek.\n Trenlerin buluşma ve öne geçmelerini aldığı emirler doğrultusunda gerçekleştirmek.\n Olağan dışı durumlarda tren trafiğini yönetmek.\n Orer dışı durmayı sağlamak.\n Orerdeki duruşun kaldırılmasını sağlamak.\n Şartlı sevki bildirmek.\n Şartlı sevk bildirimini uygulamak.\n Tarifeli trenle tarifesiz trenin buluşmasını sağlamak.\n Kapalı istasyonlarda tren trafiğini düzenlemek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarına bölge zaman çizelgesi hazırlamak.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarının trafiğini yönetmek.\n Raylı sistemlerdeki bakım onarım tren, makine ve araçlarını sefere koymak.\n Sefer sonrası gerekli işlemleri yapmak.\n Trenlerin istasyonlara kabul ve sevk yollarını belirlemek.\n TSİ sisteminde trenlerin buluşma ve öne geçmelerini tespit etmek.\n TSİ sisteminde trenlerin öne geçmelerini tespit etmek.\n TSİ sistemine ait makasları düzenlemek.\n Manevra yaptırmak.\n Makas mekanik kolunu kullanmak.\n Makası esas konumuna getirmek.\n ETCS Sistemine yönelik sunum hazırlar.\n CBTC sistemi yönelik sunum hazırlar.\n Trenlerin güven ve emniyet içerisinde seyrini sağlamak.\n Trenlerin birleştirilmesini kurallarına uygun olarak yapmak.\n Birden fazla hatlarda tren trafiğini uygulamak.\n Anayolda meydana gelen yol ve makine arızalarını kumanda merkezine bildirmek.\n Trenin herhangi bir sebeple bölünmesi gerektiğinde yapılacak işlemleri uygulamak.\n Anayolda veya istasyonda koşum takımı kopması durumunda bağlamak.\n Tampon düşmesi durumunda kumanda merkezine bilgi vermek.\n Kendi treni/vagonu ya da hatta mevcut başka trenin/vagonun kaçması durumunda gerekli işlemleri yapmak.\n Herhangi bir nedenle yol kapanması durumunda (Çığ, heyelan, yol bozulması vb.) kumanda merkezine bilgi vermek.\n Vagon veya makinenin raydan çıkması durumunda kumanda merkezine bilgi vermek.\n Trafiği sağlayan emniyet sistemi ve haberleşme arızalarını kumanda merkezine bildirmek.\n Elektrifikasyon kumanda merkezine bildirmek."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "TMİ ve TSİ Sistemlerindeki Düzensizlikler",
+      "KONU": "1. TMİ ve TSI sisteminde olağan durumlarda trafik düzensizlikleri",
+      "KAZANIM": "TMİ ve TSİ sisteminde trenlerin seyirlerinde oluşan olağan trafik düzensizliklerini giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTrenin seyri sırasında dikkat edilecek hususları açıklar.\n•\nTrenlerin birleştirilmesi işlemlerini izah eder.\n•\nÇok yollu hatlarda tren trafiği açıklar.\n•\nÖzellik arz eden hatlarda tren trafiği açıklar",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "TMİ ve TSİ Sistemlerindeki Düzensizlikler",
+      "KONU": "2. TMİ ve TSI sisteminde olağan dışı durumlarda trafik düzensizlikleri",
+      "KAZANIM": "TMİ ve TSİ sisteminde trenlerin seyirlerinde oluşan olağan dışı trafik düzensizliklerini giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAna yoldaki düzensizlikleri izah eder.\n•\nDemiryolu ağı içerisinde trafiği özellik arz eden kısımlarda gerekli kuralları uygular.\n•\nNormal hızını yapamayan trenleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "TMİ ve TSİ Sistemlerindeki Düzensizlikler",
+      "KONU": "2. TMİ ve TSI sisteminde olağan dışı durumlarda trafik düzensizlikleri",
+      "KAZANIM": "TMİ ve TSİ sisteminde trenlerin seyirlerinde oluşan olağan dışı trafik düzensizliklerini giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnayolda arızalanan trenlerin korunmasını açıklar.\n•\nLokomotif düdüğünün bozulmasında yapılacak işlemleri sıralar.\n•\nGüç durumda kalan ve bölünerek götürülecek trenleri izah eder.\n•\nKoşum takımı kopması ve tampon düşmesinde yapılacak işlemleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "TMİ ve TSİ Sistemlerindeki Düzensizlikler",
+      "KONU": "2. TMİ ve TSI sisteminde olağan dışı durumlarda trafik düzensizlikleri",
+      "KAZANIM": "TMİ ve TSİ sisteminde trenlerin seyirlerinde oluşan olağan dışı trafik düzensizliklerini giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVagon ve tren kaçmasını açıklar.\n•\nTrenlerde ve yol boyunda yangın çıkması durumunda yapılacak işlemleri açıklar.\n•\nYol kapanması durumunda İmdat istenmesini izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "TMİ ve TSİ Sistemlerindeki Düzensizlikler",
+      "KONU": "2. TMİ ve TSI sisteminde olağan dışı durumlarda trafik düzensizlikleri",
+      "KAZANIM": "TMİ ve TSİ sisteminde trenlerin seyirlerinde oluşan olağan dışı trafik düzensizliklerini giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSeyir sırasında yoldan çıkan lokomotif ve vagonlara (Deray) yapılacak işlemleri sıralar.\n•\nHaberleşme ve sinyalizasyon sırasında oluşacak arızaların tren trafiğine etkilerini açıklar.\n•\nElektrifikasyon sisteminde oluşacak arızaların tren trafiğine etkilerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Dizisinin Oluşturulması ve Kontrolü",
+      "KONU": "1. Çeken araçların planlaması",
+      "KAZANIM": "Çeken araçların planlamasını işletme güvenlik talimatlarına uygun bir şekilde yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÇeken araçların planlamasını izah eder.\n•\nÇeken araçları sıralar.\n•\nTrenlerde dingil sayını listeleyerek açıklar.\n•\nTrenin çalışacağı hat kapasitesi ile hat kesimini açıklar.\n•\nÇekilecek tonaj hesabını örneklerle izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yüke göre tren teşkilini yapmak.\n Yüke göre çeken araç talep etmek.\n Trenin cinsine göre personel hazırlamak.\n Yükün tonajına göre rampa olan hat kesimlerinde destek makinesi hazırlamak.\n Metro ve hafif raylı sistemlerde tren dizilerini oluşturmak.\n Vagonların ve soğuk lokomotiflerin trendeki yerlerini tespit etmek ve buna göre alınması gereken güvenlik önlemlerini almak.\n Trene verilecek vagonlarla ilgili sınırlamaları tespit etmek.\n Çekilen araç planlamasını yapmak.\n Tren dizisini işletmenin güvenlik talimatlarına uygun bir şekilde oluşturmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Dizisinin Oluşturulması ve Kontrolü",
+      "KONU": "1. Çeken araçların planlaması / 2. Çekilen araçların planlaması",
+      "KAZANIM": "Çeken araçların planlamasını işletme güvenlik talimatlarına uygun bir şekilde yapar.\nÇekilen araçların planlamasını işletme güvenlik talimatlarına uygun bir şekilde yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nLokomotiflerin trenlerdeki yeri ve konumunu açıklar.\n•\nTrenlere önden arkadan destek verme durumlarını açıklar.\n•\nTrenlerde görevlendirilecek personel sayısını listeleyerek açıklar.\n•\nMetro ve hafif raylı sistemlerde tren dizilerinin oluşturulmasını açıklar.\n•\nÇekilen araçların planlamasını izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yüke göre tren teşkilini yapmak.\n Yüke göre çeken araç talep etmek.\n Trenin cinsine göre personel hazırlamak.\n Yükün tonajına göre rampa olan hat kesimlerinde destek makinesi hazırlamak.\n Metro ve hafif raylı sistemlerde tren dizilerini oluşturmak.\n Vagonların ve soğuk lokomotiflerin trendeki yerlerini tespit etmek ve buna göre alınması gereken güvenlik önlemlerini almak.\n Trene verilecek vagonlarla ilgili sınırlamaları tespit etmek.\n Çekilen araç planlamasını yapmak.\n Tren dizisini işletmenin güvenlik talimatlarına uygun bir şekilde oluşturmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Dizisinin Oluşturulması ve Kontrolü",
+      "KONU": "2. Çekilen araçların planlaması",
+      "KAZANIM": "Çekilen araçların planlamasını işletme güvenlik talimatlarına uygun bir şekilde yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÇekilen araçları sıralar.\n•\nAğır vagon ve soğuk lokomotiflerin trenlerdeki yerini açıklar.\n•\nYolcu vagonlarıyla ağır olmayan yük vagonlarının trenlerdeki yerini açıklar.\n•\nEmniyet ve işaret vagonlarını izah eder.\n•\nTrenlere verilecek vagonlarla ilgili sınırlamaları listeleyerek açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yüke göre tren teşkilini yapmak.\n Yüke göre çeken araç talep etmek.\n Trenin cinsine göre personel hazırlamak.\n Yükün tonajına göre rampa olan hat kesimlerinde destek makinesi hazırlamak.\n Metro ve hafif raylı sistemlerde tren dizilerini oluşturmak.\n Vagonların ve soğuk lokomotiflerin trendeki yerlerini tespit etmek ve buna göre alınması gereken güvenlik önlemlerini almak.\n Trene verilecek vagonlarla ilgili sınırlamaları tespit etmek.\n Çekilen araç planlamasını yapmak.\n Tren dizisini işletmenin güvenlik talimatlarına uygun bir şekilde oluşturmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Tren Dizisinin Oluşturulması ve Kontrolü",
+      "KONU": "2. Çekilen araçların planlaması",
+      "KAZANIM": "Çekilen araçların planlamasını işletme güvenlik talimatlarına uygun bir şekilde yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPatlayıcı, parlayıcı, yanıcı, yakıcı, zehirli ve radyoaktif madde yüklü vagonların trenlerdeki yerini izah eder.\n•\nUzun eşya yüklü vagonların trenlerdeki yerini izah eder.\n•\nTamire gönderilecek vagonların trenlerdeki yerini izah eder\n•\nRaylı sistem bakım onarım makinelerinin trenlerdeki yerini izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yüke göre tren teşkilini yapmak.\n Yüke göre çeken araç talep etmek.\n Trenin cinsine göre personel hazırlamak.\n Yükün tonajına göre rampa olan hat kesimlerinde destek makinesi hazırlamak.\n Metro ve hafif raylı sistemlerde tren dizilerini oluşturmak.\n Vagonların ve soğuk lokomotiflerin trendeki yerlerini tespit etmek ve buna göre alınması gereken güvenlik önlemlerini almak.\n Trene verilecek vagonlarla ilgili sınırlamaları tespit etmek.\n Çekilen araç planlamasını yapmak.\n Tren dizisini işletmenin güvenlik talimatlarına uygun bir şekilde oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "1. Manevraları yönetme",
+      "KAZANIM": "Manevra planlamasını yaparak yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nManevranın tanımını yapar ve çeşitlerini izah eder.\n•\nManevraların yönetimi ve yapılışını açıklar.\n•\nManevralarda yapılması gereken hızı açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "1. Manevraları yönetme / 2. Manevra işlemlerinin kontrolü",
+      "KAZANIM": "Manevra planlamasını yaparak yönetir.\nManevra işlemlerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÇeken – Çekilen araçlar ile D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesi konusunun işlem sırasını açıklar.\n•\nManevra işlemlerini kontrol etme hususunda gereken yöntem ve teknikleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "2. Manevra işlemlerinin kontrolü",
+      "KAZANIM": "Manevra işlemlerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTren teşkil manevralarına ait kuralları açıklar.\n•\nTrenlerin hazırlanmasını izah eder.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "2. Manevra işlemlerinin kontrolü",
+      "KAZANIM": "Manevra işlemlerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGrup ve yön manevralarını izah eder.\n•\nManevralarda frenleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "2. Manevra işlemlerinin kontrolü",
+      "KAZANIM": "Manevra işlemlerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nManevraları özel önlem ve dikkat gerektiren vagonları izah eder.\n•\nMakas hizmetlerini düzenlemeyi açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "2. Manevra işlemlerinin kontrolü",
+      "KAZANIM": "Manevra işlemlerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nManevra yollarının kontrolü ve gözlenmesini açıklar.\n•\nManevralarda işaretlerin görevlilere ulaştırılmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Manevralar",
+      "KONU": "2. Manevra işlemlerinin kontrolü",
+      "KAZANIM": "Manevra işlemlerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nManevra hareketi yapıldıktan sonra alınacak önlemleri sıralar.\n•\nManevra personelinin korunması için yapılması gerekenleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya demiryolu işletmeleri gerçek çalışma ortamı Donanım: Etkileşimli tahta/projeksiyon, TMİ orer grafiği, çizim takımı, bilgisayar, önceki dönemlere ait taşıma verileri, çeken çekilen araç parkı verileri, ilgili tarifeler, istatistik cetvelleri, gerekli formlar, trengraf, istasyon kumanda masası, sinyaller, makaslar, kumanda panosu, telsiz, telefon, CTC kumanda merkezinde bulunan diğer donanımlar, çeken-çekilen araç, taşınacak yük miktarına ilişkin veriler, istasyonun manevra yolları, manevra personeli",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde planlamak.\n Manevraları yönetmek.\n Çeken çekilen araçlar D+J Kuplink (Jeneratör vagonu) ve aydınlatma kablolarının bağlanması ve çözülmesini yapmak.\n Tren teşkil dağıtım manevrasının ilgili yönetmelik hükümlerine uygun bir şekilde yapılıp yapılmadığını kontrol etmek.\n Manevra yöntemini tespit etmek.\n Tren dizisinin oluşturduktan sonra vagonlara ait bilgileri içeren listeyi hazırlamak.\n Manevra personelinde bulunması gereken malzemenin olup olmadığını kontrol etmek.\n Manevra personeli arasında anlaşma sağlanmasını organize etmek.\n Manevrada kullanılacak yolların kullanma sırasını belirlemek.\n Manevra yönetiminin gerçekleştirilmesine nezaret etmek.\n Manevradaki hızı kontrol etmek.\n Manevralarda yeterli fren olup olmadığını kontrol etmek.\n Manevranın yapılacağı kısımlarda makas pozisyonlarını kontrol etmek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

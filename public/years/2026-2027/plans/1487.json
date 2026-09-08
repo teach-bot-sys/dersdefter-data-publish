@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Ağ Sistemleri Ve Yönlendirme",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/1487/ag-sistemleri-ve-yonlendirme-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Ağ Simülasyonu",
+      "KONU": "1. Simülasyon Programının Kullanımı / 2. LAN Simülasyonu İşlemleri",
+      "KAZANIM": "Simülasyon programının temel özelliklerini açıklar.\nDoğru çalışan LAN simülasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Simülasyon programının kurulumu yaptırılır.\nSimülasyon ortamına ağ cihazları yerleştirilir.\nCihazların özellikleri ayarlanır.\nCihazların bağlantıları yaptırılır.\nLAN cihazlarının bağlantıları yaptırılır.\nLAN cihazları yapılandırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Simülasyon programını kurmak\n2. Simülasyon programı üzerinde LAN tasarımı yapmak\n3. Simülasyon programı üzerinde WAN tasarımı yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Ağ Simülasyonu",
+      "KONU": "2. LAN Simülasyonu İşlemleri / 3. WAN Simülasyonu İşlemleri",
+      "KAZANIM": "Doğru çalışan LAN simülasyonunu yapar.\nDoğru çalışan WAN simülasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendirme işlemleri yapılandırılır.\nBağlantı testi yaptırılır.\nWAN cihazlarının bağlantıları yaptırılır.\nWAN cihazları yapılandırılır.\nYönlendirme işlemleri uygulatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Simülasyon programını kurmak\n2. Simülasyon programı üzerinde LAN tasarımı yapmak\n3. Simülasyon programı üzerinde WAN tasarımı yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Kablosuz Ağlar",
+      "KONU": "1. Kablosuz Ağ Standartları ve Bileşenleri",
+      "KAZANIM": "Ağdaki cihaz uyumluluğuna göre ağ standardını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz ağ teknolojileri açıklanır.\nKablosuz ağ standartları listelenir.\nKablosuz ağ standartlarının özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kablosuz bağlantı uygulamasını yapmak\n2. Kablosuz ağ cihazı arayüz yapılandırmasını yapmak\n3. Simülasyon programı üzerinde Wireless WAN tasarımı yapmak\n4. Yapılandırmayı kaydetmek\n5. Yapılandırmayı geri yüklemek",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Kablosuz Ağlar",
+      "KONU": "1. Kablosuz Ağ Standartları ve Bileşenleri",
+      "KAZANIM": "Ağdaki cihaz uyumluluğuna göre ağ standardını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz ağ bileşenlerinin özellikleri açıklanır.\nCihazın kablosuz ağa nasıl bağlandığı açıklanır.\nKablosuz ağda kanalların seçimi yapılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kablosuz bağlantı uygulamasını yapmak\n2. Kablosuz ağ cihazı arayüz yapılandırmasını yapmak\n3. Simülasyon programı üzerinde Wireless WAN tasarımı yapmak\n4. Yapılandırmayı kaydetmek\n5. Yapılandırmayı geri yüklemek",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Kablosuz Ağlar",
+      "KONU": "2. Kişisel Alan Ağları / 3. Kablosuz Ağ Simülasyonu Yapılandırması",
+      "KAZANIM": "Doğru çalışan kişisel alan ağ yapılandırmasını yapar.\nDoğru çalışan kablosuz LAN yapılandırmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kişisel alan ağları listelenir.\nKişisel alan ağları açıklanır.\nKablosuz ağ cihazlarının yapılandırılması işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kablosuz bağlantı uygulamasını yapmak\n2. Kablosuz ağ cihazı arayüz yapılandırmasını yapmak\n3. Simülasyon programı üzerinde Wireless WAN tasarımı yapmak\n4. Yapılandırmayı kaydetmek\n5. Yapılandırmayı geri yüklemek",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Kablosuz Ağlar",
+      "KONU": "3. Kablosuz Ağ Simülasyonu Yapılandırması",
+      "KAZANIM": "Doğru çalışan kablosuz LAN yapılandırmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz ağı kullanacak cihazlar yapılandırılır.\nKablosuz ağ tehditleri açıklanır.\nKablosuz ağın güvenliğinin nasıl sağlanacağı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kablosuz bağlantı uygulamasını yapmak\n2. Kablosuz ağ cihazı arayüz yapılandırmasını yapmak\n3. Simülasyon programı üzerinde Wireless WAN tasarımı yapmak\n4. Yapılandırmayı kaydetmek\n5. Yapılandırmayı geri yüklemek"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Kablosuz Ağlar",
+      "KONU": "3. Kablosuz Ağ Simülasyonu Yapılandırması",
+      "KAZANIM": "Doğru çalışan kablosuz LAN yapılandırmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz ağ sorunları giderilir.\nKablosuz ağ testi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kablosuz bağlantı uygulamasını yapmak\n2. Kablosuz ağ cihazı arayüz yapılandırmasını yapmak\n3. Simülasyon programı üzerinde Wireless WAN tasarımı yapmak\n4. Yapılandırmayı kaydetmek\n5. Yapılandırmayı geri yüklemek",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "1. Yönlendirici Bağlantılarının Yapılması / 2. Yönlendirici Yazılımının Kullanılması",
+      "KAZANIM": "Ağ üzerinde uygun yere yönlendiricinin fiziksel kurulumunu yapar.\nYönlendirici komut arayüzünü kullanarak kullanıcı girişini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendiricinin ethernet, seri ve konsol bağlantıları yaptırılır.\nTerminal programı kullanılarak yönlendiriciye uzaktan bağlantı yaptırılır.\nTerminal programı kullanılarak yönlendiriciye bağlanılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "2. Yönlendirici Yazılımının Kullanılması",
+      "KAZANIM": "Yönlendirici komut arayüzünü kullanarak kullanıcı girişini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanıcı modları arasında geçiş yaptırılır.\nYardım komutları kullanılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "3. Yönlendirici Ayarlarının Yapılması",
+      "KAZANIM": "Yönlendirici komutlarını kullanarak temel yönlendirici tanımlamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendirici modları arasında geçiş yaptırılır.\nYönlendirici adını değiştirme anlatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "3. Yönlendirici Ayarlarının Yapılması",
+      "KAZANIM": "Yönlendirici komutlarını kullanarak temel yönlendirici tanımlamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendirici açılış şifresini oluşturma anlatılır.\nSeri arayüzleri yapılandırma anlatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "3. Yönlendirici Ayarlarının Yapılması",
+      "KAZANIM": "Yönlendirici komutlarını kullanarak temel yönlendirici tanımlamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethernet arayüzleri yapılandırma anlatılır.\nYapılandırma ayarlarını kaydettirme anlatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "4. Konfigürasyon Tanımlarının Yapılması",
+      "KAZANIM": "Yönlendirici komutlarını kullanarak arayüzleri yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arayüz tanımlama ve bağlantı mesajı verme işlemi yaptırılır.\nYönlendiriciye açılış mesajları ekleme anlatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "4. Konfigürasyon Tanımlarının Yapılması",
+      "KAZANIM": "Yönlendirici komutlarını kullanarak arayüzleri yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Host tablosunu düzenleme anlatılır.\nKullanıcı seviyeleri oluşturma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendiriciler",
+      "KONU": "4. Konfigürasyon Tanımlarının Yapılması",
+      "KAZANIM": "Yönlendirici komutlarını kullanarak arayüzleri yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılandırma dosyalarını uzak sunucuya yedekleme açıklanır.\nİşe uygun konfigürasyon tanımlanarak konfigürasyonun doğruluğunun test edilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendiricinin ethernet, seri ve konsol bağlantılarını yapmak\n2. Terminal programını kullanarak yönlendiriciye uzaktan bağlanmak\n3. Kullanıcı modları arasında geçiş yapmak\n4. Yardım komutlarını kullanmak\n5. Yönlendirici modları arasında geçiş yapmak\n6. Yönlendirici adını değiştirmek\n7. Yönlendirici açılış şifrelerini oluşturmak\n8. Seri arayüzleri yapılandırmak\n9. Ethernet arayüzleri yapılandırmak\n10. Yapılandırma ayarlarını kaydetmek\n11. Arayüz tanımlama ve bağlantı mesajı verme işlemini yapmak\n12. Yönlendiriciye açılış mesajları eklemek\n13. Host tablosunu düzenlemek\n14. Kullanıcı seviyelerini oluşturmak\n15. Yapılandırma dosyalarını uzak sunucuya yedeklemek\n16. İşe uygun konfigürasyon tanımlamasının doğruluğunu test etmek"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "KONU": "1. Yönlendirme Protokollerinin Kullanımı",
+      "KAZANIM": "Yönergelere göre yönlendirme protokollerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendirme tabloları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendirme tablolarını kullanmak\n2. Yönlendirme komutlarını kullanmak\n3. Ağa uygun yönlendirme protokolünü kullanmak\n4. Statik yönlendirme işlemini yapmak\n5. NAT yönlendirme işlemini yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "KONU": "1. Yönlendirme Protokollerinin Kullanımı",
+      "KAZANIM": "Yönergelere göre yönlendirme protokollerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendirme komutları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendirme tablolarını kullanmak\n2. Yönlendirme komutlarını kullanmak\n3. Ağa uygun yönlendirme protokolünü kullanmak\n4. Statik yönlendirme işlemini yapmak\n5. NAT yönlendirme işlemini yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "KONU": "2. Yol Tanımlama Protokollerinin Kullanımı",
+      "KAZANIM": "Verilen talimatlara göre yol tanımlama protokollerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Statik yönlendirme işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendirme tablolarını kullanmak\n2. Yönlendirme komutlarını kullanmak\n3. Ağa uygun yönlendirme protokolünü kullanmak\n4. Statik yönlendirme işlemini yapmak\n5. NAT yönlendirme işlemini yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "KONU": "3. Statik Yönlendirme İşlemleri",
+      "KAZANIM": "Ağ adreslemesine göre statik yönlendirme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "“iproute” komutu kullanılarak statik yönlendirme yapılması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendirme tablolarını kullanmak\n2. Yönlendirme komutlarını kullanmak\n3. Ağa uygun yönlendirme protokolünü kullanmak\n4. Statik yönlendirme işlemini yapmak\n5. NAT yönlendirme işlemini yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "KONU": "3. Statik Yönlendirme İşlemleri",
+      "KAZANIM": "Ağ adreslemesine göre statik yönlendirme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "NAT yönlendirme işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yönlendirme tablolarını kullanmak\n2. Yönlendirme komutlarını kullanmak\n3. Ağa uygun yönlendirme protokolünü kullanmak\n4. Statik yönlendirme işlemini yapmak\n5. NAT yönlendirme işlemini yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "1. Dinamik Yönlendirme İşlemleri",
+      "KAZANIM": "İletişim kurallarına göre dinamik yönlendirme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dinamik yönlendirmelerin amacı ve neler yapılabileceği açıklanır.\nDinamik yönlendirme hesaplamalarında kullanılabilecek parametreler açıklanır.\nDinamik yönlendirme tablolarının nasıl oluştuğu kavratılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "1. Dinamik Yönlendirme İşlemleri",
+      "KAZANIM": "İletişim kurallarına göre dinamik yönlendirme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İletişim kurallarına, işleyiş ve davranışlarına göre farklı dinamik yönlendirme protokolleri tanıtılır.\nİç Ağ Geçidi (IGP) ve Dış Ağ Geçidi (EGP) yönlendirme protokolleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "1. Dinamik Yönlendirme İşlemleri / 2. RIP Yönlendirmesinin Yapılandırılması",
+      "KAZANIM": "İletişim kurallarına göre dinamik yönlendirme yapar.\nİstenen yönergelere uygun RIP yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanılan ağa göre doğru dinamik yönlendirme protokolünün seçimi yaptırılır.\nRIP yönlendirme protokolü ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "2. RIP Yönlendirmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun RIP yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "RIP yönlendirmesinin yapılandırılması uygulatılır.\nRIP ve RIPv2 farklılıkları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "2. RIP Yönlendirmesinin Yapılandırılması / 3. OSPF Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun RIP yönlendirmesini yapılandırır.\nİstenen yönergelere uygun OSPF yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yönlendirici arayüzlerinde RIP paketlerinin gönderiminin engellenmesi uygulatılır.\nOSPF yönlendirme protokolü ve özellikleri açıklanır.\nOSPF yönlendirmesinin oluşması için gerçekleşen aşamalar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "3. OSPF Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun OSPF yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "OSPF alanı içinde konumlarına göre yönlendiricilerin çeşitleri açıklanır.\nOSPF yönlendirmesinin yapılandırılması uygulatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "3. OSPF Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun OSPF yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "OSPF rotalarının maliyet hesaplamalarının nasıl yapıldığı açıklanır.\nYayın ağlarında OSPF uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "3. OSPF Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun OSPF yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "OSPF ile yönlendiriciler arasında kimlik doğrulaması yaptırılır.\nFarklı OSPF alanları arasında yönlendirme işlemi uygulatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "4. EİGRP Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun EİGRP yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EIGRP yönlendirme protokolü ve özellikleri açıklanır.\nEIGRP yönlendirmesi için gerekli paket türleri açıklanır.\nEIGRP yönlendirmesinin yapılandırılması uygulanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "4. EİGRP Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun EİGRP yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Farklı uygulamalar ile EIGRP rotalarının maliyetleri hesaplanır ve yönlendiriciler arasında kimlik doğrulama işlemleri yaptırılır.\nOSPF ve EIGRP sistemleri arasında yönlendirme işlemleri gerçekleştirilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "5. BGP Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun BGP yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sınır ağ geçidi protokolü (BGP) ve özellikleri açıklanır.\nBGP mesaj türleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "KONU": "5. BGP Yönlendirilmesinin Yapılandırılması",
+      "KAZANIM": "İstenen yönergelere uygun BGP yönlendirmesini yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "BGP komşuluk türleri ve komşuluk kurma aşamaları açıklanır.\nBGP yapılandırmasının uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Dinamik yönlendirme protokolünü seçmek\n2. Dinamik yönlendirme işlemini yapmak\n3. OSPF Giriş, OSPF Tabloları, Hello Paketi, LSA, LSDB, SPF, Router uygulamalarını yapmak\n4. OSPF Paket Türleri, OSPF Durumları, Network Tipleri, Komşuluk Gereksinim uygulamalarını yapmak\n5. OSPF Konfigürasyonu, Wildcard Mask, Hello Paketi, Route Tablosu uygulamalarını yapmak\n6. OSPF Router ID, DR, BDR, DROTHER uygulamalarını yapmak\n7. OSPF Metrik Hesaplama uygulamasını yapmak\n8. OSPF Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n9. OSPF Authentication uygulamasını yapmak\n10. OSPF Multi Area Konfigürasyonu uygulamasını yapmak\n11. OSPF Load Balance uygulamasını yapmak\n12. EIGRP Paket Türleri, Komşuluk Gereksinim uygulamalarını yapmak\n13. EIGRP Konfigürasyonu, Discontiguous Network, Auto Summary uygulamalarını yapmak\n14. EIGRP Route Tablosu (S, FS, AD, FD, RD) uygulamasını yapmak\n15. EIGRP Metrik Hesaplama uygulamasını yapmak\n16. EIGRP Yük Dengeleme uygulamasını yapmak\n17. EIGRP Hello-Hold Time Konfigürasyonu uygulamasını yapmak\n18. EIGRP Pasif Interface, Default Route Dağıtma uygulamalarını yapmak\n19. EIGRP Authentication uygulamasını yapmak\n20. RIPv2 uygulamasını yapmak\n21. DHCPv6 Yapılandırma uygulamasını yapmak\n22. SLAAC, Stateless, Stateful uygulamalarını yapmak\n23. OSPFv3 Yapılandırma uygulamasını yapmak\n24. IPv6 Default Route uygulamasını yapmak\n25. IPv6 Static Route uygulamasını yapmak\n26. EIGRP For IPv6 uygulamasını yapmak\n27. RIPng uygulamasını yapmak\n28. BGP Yapılandırma uygulamasını yapmak\n29. BGP sorunlarını çözmek",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "WAN Konsepti",
+      "KONU": "1. Point-to-Point Bağlantılar / 2. Erişim Kontrol Listeleri (ACL) / 3. Ağ Güvenliği ve Ağ İzleme",
+      "KAZANIM": "Point-to-Point bağlantılarını yapılandırır.\nErişim kontrol listelerini (ACL) yapılandırır.\nAğ güvenliği ve ağ izlemesi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şube bağlantılarını gösterip uygulatır.\nACL çeşitlerini uygulatır.\nAğ izleme yazılımı kullandırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Point-to-Point bağlantılarını yapılandırmak\n2. Şube bağlantılarını gösterip uygulatmak\n3. Erişim kontrol listelerini (ACL) yapılandırmak\n4. ACL çeşitlerini uygulamak\n5. Ağ güvenliği ve ağ izleme uygulamalarını yapmak\n6. Ağ izleme yazılımı Wireshark kullanmak\n7. Ağ sorunlarını gidermek"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "WAN Konsepti",
+      "KONU": "3. Ağ Güvenliği ve Ağ İzleme",
+      "KAZANIM": "Ağ güvenliği ve ağ izlemesi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servis kalitesi (QoS) açıklanır.\nAğ sorunları giderilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Point-to-Point bağlantılarını yapılandırmak\n2. Şube bağlantılarını gösterip uygulatmak\n3. Erişim kontrol listelerini (ACL) yapılandırmak\n4. ACL çeşitlerini uygulamak\n5. Ağ güvenliği ve ağ izleme uygulamalarını yapmak\n6. Ağ izleme yazılımı Wireshark kullanmak\n7. Ağ sorunlarını gidermek"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Güvenlik Duvarı Teknolojileri",
+      "KONU": "1. IDS / 2. IPS",
+      "KAZANIM": "IDS cihazlarını açıklar.\nIPS cihazlarını yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nIDS cihazları açıklanır.\n•\nIPS cihazları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. IDS güvenlik ayarlarını yapmak\n2. IPS güvenlik ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Güvenlik Duvarı Teknolojileri",
+      "KONU": "2. IPS",
+      "KAZANIM": "IPS cihazlarını yapılandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYönlendiriciye IPS yapılandırılması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, Switch (Anahtar), Router (Yönlendirici), yazıcı ve tarayıcı, simülasyon programı",
+        "Ölçme": "Bu derste öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. IDS güvenlik ayarlarını yapmak\n2. IPS güvenlik ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

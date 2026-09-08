@@ -1,0 +1,720 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Biyo Sinyal İzleme Ve Takip Cihazlari Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Biyomedikal Cihaz Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/biyomedikal-cihaz-teknolojileri/1047/biyo-sinyal-izleme-ve-takip-cihazlari-atolyesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "14",
+      "ÜNİTE": "EEG Cihazı Kurulumu ve Kullanımı / EEG Cihazının Arızaları",
+      "KONU": "EEG'nin yerleşim ve Montajı / EEG Bağlantı, Ayar Ve Sistem Bütünlüğünün Kontrolü / EEG cihazının güç ünitesi ve Junction Box Arızalarını tespit etmek ve giderme / EEG cihazının elektrot ve olası diğer Arızaları",
+      "KAZANIM": "EEG'nin yerleşim ve montajını yapar.\nEEG bağlantı, ayar ve sistem bütünlüğünün kontrolü ile fonksiyon testlerini yapar ve kullanır.\nEEG cihazının güç ünitesi ve junction-box arızalarını giderir.\nEEG cihazının elektrot ve olası diğer arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EEG'nin teknik özellikleri listelenir.\nEEG aparatlarının montajı yapılır.\nEEG fonksiyon testi gerçekleştirilir.\nSimülatör ile EEG işaretleri ölçülür.\nEEG gövdesinde elektrik kaçağı kontrolü yapılır.\nEEG cihazının blok diyagram üzerinde birimleri sıralanır.\nEEG Üniteleri kontrol edilir.\nEEG Güç Ünitesinin çalışması gerçekleştirilir.\nGüç ünitesindeki olası arızalar sıralanır.\nJunction-Box ve arızalar tespit eder ve giderir.\nEEG işaretlerinin bilgisayar yardımıyla analizi yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Photic-lamb'(Işıklı Uyaran)ı yerleştirmek\nJunction-Box bağlantısını yapmak.\nElektrotların bağlantısını yapmak\nEEG'nin montajını yapmak.\nEEG'nin kurulumunu yapmak.\nEEG cihazını kullanmak.\nEEG bağlantıları ve sistem bütünlüğü kontrolünü tarif etmek.\nEKG(Elektrokardiyografi) elektrotlarının EEG ye güvenli bağlantısını yapmak\nEKG elektrotlarının EEG ye güvenli bağlandığını kontrol etmek.\nCihaz yazılımını gerçekleştirmek.\nSimülatör ile EEG işaretlerinin ölçümünü gerçekleştirmek.\nEEG fonksiyon testini yapmak ve cihazı kullanmak\nEEG ünitelerini monte etmek.\nJunction-box fonksiyonlarının bağlantısını yapmak.\nElektrotların sağlamlık testini yapmak.\nBlok diyagram üzerinde belirlenen noktaların gerilimlerini ölçmek.\nEEG işaretlerinin bilgisayar ile analizini yapmak.\nEEG elekktrot bağlantılarını gerçekleştirmek\nPhotic-Lamb lambasını değiştirmek\nUyarıcı Photic-Lamb besleme (inverter) ünitesi arızalarını gidermek\nEEG cihazının yazıcı kağıdını değiştirmek.\nEEG cihazının yazıcı mürekkep haznesini doldurmak\nEEG cihazının yazıcı mürekkep haznesini çıkartıp temizliğini yapmak\nEEG çekiminden sonra elektrot temizliğini yapmak\nPhotic-Lamb temizliğini yapmak.\nPhotic-Lamb'ı yenisi ile değiştirmek\nEEG kalibrasyonunu yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "14",
+      "ÜNİTE": "EEG Cihazının Arızaları",
+      "KONU": "EEG cihazının elektrot ve olası diğer Arızaları / EEG cihazının bakım ve kalibrasyon",
+      "KAZANIM": "EEG cihazının elektrot ve olası diğer arızalarını giderir.\nEEG cihazının bakım ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrot ve olası diğer arızalar tespit edilir ve giderilir.\nEEG elektrot yapıları açıklanır ve incelenir.\nEEG elektrotlarının bağlantı şekilleri açıklanır ve bağlantılar yapılır.\nPhotic-Lamb yapısı ve arızaları tespit edilir ve giderir.\nEEG servis el kitabına göre bakımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "EEG ünitelerini monte etmek.\nJunction-box fonksiyonlarının bağlantısını yapmak.\nElektrotların sağlamlık testini yapmak.\nBlok diyagram üzerinde belirlenen noktaların gerilimlerini ölçmek.\nEEG işaretlerinin bilgisayar ile analizini yapmak.\nEEG elekktrot bağlantılarını gerçekleştirmek\nPhotic-Lamb lambasını değiştirmek\nUyarıcı Photic-Lamb besleme (inverter) ünitesi arızalarını gidermek\nEEG cihazının yazıcı kağıdını değiştirmek.\nEEG cihazının yazıcı mürekkep haznesini doldurmak\nEEG cihazının yazıcı mürekkep haznesini çıkartıp temizliğini yapmak\nEEG çekiminden sonra elektrot temizliğini yapmak\nPhotic-Lamb temizliğini yapmak.\nPhotic-Lamb'ı yenisi ile değiştirmek\nEEG kalibrasyonunu yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "14",
+      "ÜNİTE": "EEG Cihazının Arızaları / Efor EKG Cihazı ve Arızaları",
+      "KONU": "EEG cihazının bakım ve kalibrasyon / Efor EKG sistemi mekanik aksamları,çalışması, kontrolü ve arıza tespiti",
+      "KAZANIM": "EEG cihazının bakım ve kalibrasyonunu yapar.\nEfor EKG cihazı sisteminin mekanik aksamlarını, çalışmasını, kontrolünü ve arıza tespitini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EEG cihazının yazıcı mürekkep haznesinin doldurulmasını gerçekleştirir.\nYazıcının mürekkep haznesi çıkarılır ve temizlenir.\nYazıcı kaleminin teknik özellikleri açıklanır ve incelenir.\nEEG cihazı periyodik bakımı yapılır.\nEEG kalibrasyonu yapılır.\nEfor EKG cihazının yapısı incelenir ve çalışma prensibi kontrol edilir.\nEfor EKG cihazının mekanizmalarının bakımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "EEG ünitelerini monte etmek.\nJunction-box fonksiyonlarının bağlantısını yapmak.\nElektrotların sağlamlık testini yapmak.\nBlok diyagram üzerinde belirlenen noktaların gerilimlerini ölçmek.\nEEG işaretlerinin bilgisayar ile analizini yapmak.\nEEG elekktrot bağlantılarını gerçekleştirmek\nPhotic-Lamb lambasını değiştirmek\nUyarıcı Photic-Lamb besleme (inverter) ünitesi arızalarını gidermek\nEEG cihazının yazıcı kağıdını değiştirmek.\nEEG cihazının yazıcı mürekkep haznesini doldurmak\nEEG cihazının yazıcı mürekkep haznesini çıkartıp temizliğini yapmak\nEEG çekiminden sonra elektrot temizliğini yapmak\nPhotic-Lamb temizliğini yapmak.\nPhotic-Lamb'ı yenisi ile değiştirmek\nEEG kalibrasyonunu yapmak.\nEfor EKG sistemi mekanik aksamları, çalışma mekanizmaların bakımı ve Elektronik kontrol ve konsolların tespitini yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Efor EKG Cihazı ve Arızaları / Holter Cihazı ve Arızaları",
+      "KONU": "Efor EKG sistemi mekanik aksamları,çalışması, kontrolü ve arıza tespiti / Holter cihazının bakımı ve arızaları",
+      "KAZANIM": "Efor EKG cihazı sisteminin mekanik aksamlarını, çalışmasını, kontrolünü ve arıza tespitini yapar.\nHolter cihazı sistem özelliklerini ve ölçme sistemlerini ayırt eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Efor EKG cihazının arıza tespiti yapılır ve giderilir.\nEfor EKG cihazının kullanımı gerçekleştirir.\nHolter cihazının mekanizmaların bakımı yapılır.\nHolter cihazının arıza tespiti yapılır ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Efor EKG sistemi mekanik aksamları, çalışma mekanizmaların bakımı ve Elektronik kontrol ve konsolların tespitini yapmak\nHolter ünitelerini kurmak\nHolter ünitelerinin bakımını yapmak\nÖlçme işlemi yaparak muhtemel arızaları tespit etmek",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Holter Cihazı ve Arızaları",
+      "KONU": "Holter cihazının bakımı ve arızaları",
+      "KAZANIM": "Holter cihazı sistem özelliklerini ve ölçme sistemlerini ayırt eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Holter cihazı bakımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Holter ünitelerini kurmak\nHolter ünitelerinin bakımını yapmak\nÖlçme işlemi yaparak muhtemel arızaları tespit etmek",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "Holter Cihazı ve Arızaları / EMG-ENG Cihazı Kurulumu ve Kullanımı",
+      "KONU": "Bilgisayar kaydı ve yazılım desteği aparatları / Kas-Sinir (EMG-ENG) sinyal izleyicileri ve ölçme sistemlerini / EMG-ENG'nin yerleşim ve montajı",
+      "KAZANIM": "Holter cihazı bilgisayar kaydını açıklar.\nKas-sinir sinyal izleyicileri ve ölçme sistemlerini ayırt eder.\nEMG (ENG)'nin yerleşim ve montajını yaparak kullanıma hazır hale getirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Holter bilgisayar kaydı gerçekleştirilir.\nEMG işaretlerini ölçer.\nENG işaretlerinin ölçer.\nEMG cihazının nakli yapılarak ve yerleştirilir.\nEMG-ENG'nin teknik özellikleri açıklanır ve incelenir.\nEMG-ENG'nin aparatları sıralanır.\nEMG-ENG kurulumu ve montajı yapılır.\nFiziki ortamın EMG-ENG cihazlarına etkisi açıklanır ve kontrol edilir.\nEMG-ENG cihazlarının kurulum alanı özellikleri ve güvenli nakil işlemleri gerçekleştirilir.\nEMG-ENG montajı yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Holter ünitelerini kurmak\nHolter ünitelerinin bakımını yapmak\nÖlçme işlemi yaparak muhtemel arızaları tespit etmek\nEMG işaretinin ölçümlerini yapmak\nENG işaretinin ölçümlerini yapmak.\nEMG-ENG nin aparatlarını takmak.\nEMG-ENG kurulumu ve montajını yapmak.\nEMG-ENG cihazlarının kurulum alanı özellikleri ve güvenli nakil işlemlerini gerçekleştirmek\nEMG-ENG cihazlarının elektriksel güvenliği ve topraklamasını yapmak.\nEMG-ENG cihazını kullanmak.\nEMG-ENG bağlantılarını ve sistem bütünlüğü kontrolünü gerçekleştirmek.\nEnerji kablosunu bağlamak.\nHarici cihaz bağlantısını gerçekleştirmek.\nElektrot bağlantısını gerçekleştirmek.\nFiziksel-Elektriksel uyarıcı bağlantısını gerçekleştirmek\nYazılımı kullanmak\nEMG-ENG fonksiyon testini gerçekleştirmek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "14",
+      "ÜNİTE": "EMG-ENG Cihazı Kurulumu ve Kullanımı / EMG-ENG Cihazı Arızaları",
+      "KONU": "EMG-ENG'nin yerleşim ve montajı / EMG-ENG bağlantı, ayar ve sistem bütünlüğünün kontrolü ve kullanımı / EMG Cihazı besleme ünitesi arızaları",
+      "KAZANIM": "EMG (ENG)'nin yerleşim ve montajını yaparak kullanıma hazır hale getirir.\nEMG-ENG bağlantı, ayar ve sistem bütünlüğü kontrolü ve fonksiyon testlerini yapar ve kullanır.\nEMG cihazı besleme ünitesi arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EMG-ENG cihazlarının elektriksel güvenlik ve topraklama kontrolü yapılır.\nEMG-ENG cihazı kaçak akım kontrolü yapılır.\nEnerji kablosu ve sistemin güç bağlantısı yapılır.\nHarici cihaz bağlantısı yapılır.\nElektrot bağlantısı yapılır.\nFiziksel-Elektriksel uyarıcı bağlantısı yapılır.\nYazılımına ait özellikler kontrol edilir..\nEMG-ENG fonksiyon testi yapılır.\nEMG-ENG simülatörü kullanır.\nEMG-ENG üniteleri sıralanır.\nEMG-ENG güç-besleme ünitesi ve arızaları tespit edilir ve giderilir.\nİzoleli güç kaynağı yapısı ve çalışması izah edilir.\nJunction- Box ve arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "EMG işaretinin ölçümlerini yapmak\nENG işaretinin ölçümlerini yapmak.\nEMG-ENG nin aparatlarını takmak.\nEMG-ENG kurulumu ve montajını yapmak.\nEMG-ENG cihazlarının kurulum alanı özellikleri ve güvenli nakil işlemlerini gerçekleştirmek\nEMG-ENG cihazlarının elektriksel güvenliği ve topraklamasını yapmak.\nEMG-ENG cihazını kullanmak.\nEMG-ENG bağlantılarını ve sistem bütünlüğü kontrolünü gerçekleştirmek.\nEnerji kablosunu bağlamak.\nHarici cihaz bağlantısını gerçekleştirmek.\nElektrot bağlantısını gerçekleştirmek.\nFiziksel-Elektriksel uyarıcı bağlantısını gerçekleştirmek\nYazılımı kullanmak\nEMG-ENG fonksiyon testini gerçekleştirmek.\nEMG(ENG) cihazı besleme ünitesi devre şeması üzerinde gerilim ölçme noktalarında gerilim ölçümü yapmak\nİzoleli güç kaynağı uygulaması yapmak\nEMG-ENG işaretlerinin bilgisayar yardımıyla analizini yapmak\nElektrotların sağlamlık kontrolünü yapmak\nEMG-ENG elektrotlarının bağlantılarını gerçekleştirmek.\nEMG arızalarını tespit etmek\nEMG arızalarını gidermek\nEMG-ENG servis el kitabı bakım talimatlarını uygulamak.\nEMG-ENG cihazları periyodik bakımını yapmak.\nEMG-ENG kalibrasyonunu yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "EMG-ENG Cihazı Arızaları",
+      "KONU": "EMG-ENG cihazlarının elektrot ve olası diğer arızaları",
+      "KAZANIM": "EMG-ENG cihazlarının elektrot ve olası diğer arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EMG-ENG işaretlerinin bilgisayar yardımıyla analizi yapılır.\nEMG karakteristiği açıklanır.\nElektrot ve olası diğer arızaları tespit edilir ve giderilir.\nEMG arızaları ve giderme yöntemleri açıklanır ve arızaları giderilir..",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "EMG(ENG) cihazı besleme ünitesi devre şeması üzerinde gerilim ölçme noktalarında gerilim ölçümü yapmak\nİzoleli güç kaynağı uygulaması yapmak\nEMG-ENG işaretlerinin bilgisayar yardımıyla analizini yapmak\nElektrotların sağlamlık kontrolünü yapmak\nEMG-ENG elektrotlarının bağlantılarını gerçekleştirmek.\nEMG arızalarını tespit etmek\nEMG arızalarını gidermek\nEMG-ENG servis el kitabı bakım talimatlarını uygulamak.\nEMG-ENG cihazları periyodik bakımını yapmak.\nEMG-ENG kalibrasyonunu yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "EMG-ENG Cihazı Arızaları / EKT(Elektrokonvülsif) Cihazı Arızaları",
+      "KONU": "EMG-ENG cihazlarının bakım ve kalibrasyonu / EKT (Elektrokonvülsif) cihazı ölçümleri / EKT (Elektrokonvülsif) cihazı besleme katı arızaları",
+      "KAZANIM": "EMG-ENG cihazlarının bakım ve kalibrasyonunu yapar.\nEKT (Elektrokonvülsif) cihazı ölçümlerini yapar.\nEKT (Elektrokonvülsif) cihazı besleme katı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EMG-ENG servis el kitabı bakım talimatları açıklanır ve bakımı yapılır.\nEMG-ENG cihazları periyodik bakımı yapılır.\nEMG-ENG kalibrasyonu yapılır.\nEKT (Elektrokonvülsif) cihazı mekanik aksamları açıklanır.\nEKT (Elektrokonvülsif) cihazı kurulumunu yapar.\nEKT (Elektrokonvülsif) cihazı şekli ve yapısı anlatılır.\nEKT (Elektrokonvülsif) cihazı mekanizmalarının bakımı yapılır.\nEKT Cihazı besleme katı arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "EMG(ENG) cihazı besleme ünitesi devre şeması üzerinde gerilim ölçme noktalarında gerilim ölçümü yapmak\nİzoleli güç kaynağı uygulaması yapmak\nEMG-ENG işaretlerinin bilgisayar yardımıyla analizini yapmak\nElektrotların sağlamlık kontrolünü yapmak\nEMG-ENG elektrotlarının bağlantılarını gerçekleştirmek.\nEMG arızalarını tespit etmek\nEMG arızalarını gidermek\nEMG-ENG servis el kitabı bakım talimatlarını uygulamak.\nEMG-ENG cihazları periyodik bakımını yapmak.\nEMG-ENG kalibrasyonunu yapmak.\nEKT (Elektrokonvülsif) cihazı aparatlarındaki ölçümleri yapmak\nEKT (Elektrokonvülsif) cihazı besleme katı arızalarını tespit etmek\nEKT (Elektrokonvülsif) cihazı aparatlarındakini rastgele arızalarla tespit etmek",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "EKT(Elektrokonvülsif) Cihazı Arızaları / Uyku Bozukluğu Teşhis Cihazları",
+      "KONU": "EKT (Elektrokonvülsif) cihazı aparatlarındaki rastgele arızalar / Uyku bozuklukları Cihazlarının(PSG-Polisomnografi Cihazı) kurulumu ve ölçüm yöntemleri / Uyku bozuklukları teşhis cihazlarının (PSG-Polisomnografi Cihazı) arızaları",
+      "KAZANIM": "EKT (Elektrokonvülsif) cihazı aparatlarındaki rastgele arızaları giderir.\nUyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirerek ölçüm yöntemlerini ayırt eder.\nUyku bozuklukları teşhis cihazlarının arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKT cihazı rastgele arızalarının tespiti açıklanır ve arıza giderilir.\nEKT Besleme-güç ünitesi ve arızaları tespit edilir ve giderilir.\nAna PCB, LCD ünitesi ve diğer ünite arızaları sıralanır.\nEKT Fonksiyon testleri ve ayarları yapılır.\nUyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirilir.\nUyku bozuklukları teşhis cihazları çalışması ve özellikleri incelenir\nUyku bozuklukları teşhis cihazlarının(PSG-Polisomnografi Cihazı) kullanım alanları ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "EKT (Elektrokonvülsif) cihazı aparatlarındaki ölçümleri yapmak\nEKT (Elektrokonvülsif) cihazı besleme katı arızalarını tespit etmek\nEKT (Elektrokonvülsif) cihazı aparatlarındakini rastgele arızalarla tespit etmek\nUyku bozuklukları teşhis yöntemlerini ayırt etmek.\nUyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirmek\nUyku bozuklukları teşhis cihazlarını kullanmak\nGüç ünitesinde ölçüm yaparak arıza tespitinde bulunmak\nKontrol ünitesinde ölçüm yaparak arıza tespitinde bulunmak.\nKontrol ünitesini yenisi ile değiştirmek.\nPC bağlantı arızalarını gidermek.\nArıza bilgi formu düzenlemek.\nServis el kitabında ki bakım talimatlarını uygulamak\nÖmürlü elemanların değişimini gerçekleştirmek\nCihaz kalibrasyonu gerçekleştirmek.\nFonksiyon testlerini gerçekleştirmek.\nKalibrasyon sertifikası hazırlamak ve cihazı kullanmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "14",
+      "ÜNİTE": "Uyku Bozukluğu Teşhis Cihazları",
+      "KONU": "Uyku bozuklukları teşhis cihazlarının (PSG-Polisomnografi Cihazı) arızaları",
+      "KAZANIM": "Uyku bozuklukları teşhis cihazlarının arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uyku bozuklukları teşhis cihazlarının olası arızaları tespit edilir ve giderilir.\nYazılımdan kaynaklanan hataları sıralanır ve hatalar giderilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Uyku bozuklukları teşhis yöntemlerini ayırt etmek.\nUyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirmek\nUyku bozuklukları teşhis cihazlarını kullanmak\nGüç ünitesinde ölçüm yaparak arıza tespitinde bulunmak\nKontrol ünitesinde ölçüm yaparak arıza tespitinde bulunmak.\nKontrol ünitesini yenisi ile değiştirmek.\nPC bağlantı arızalarını gidermek.\nArıza bilgi formu düzenlemek.\nServis el kitabında ki bakım talimatlarını uygulamak\nÖmürlü elemanların değişimini gerçekleştirmek\nCihaz kalibrasyonu gerçekleştirmek.\nFonksiyon testlerini gerçekleştirmek.\nKalibrasyon sertifikası hazırlamak ve cihazı kullanmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "14",
+      "ÜNİTE": "Uyku Bozukluğu Teşhis Cihazları / Nörolojik-Psikolojik Bozuklukları Teşhis Cihazları",
+      "KONU": "Uyku Bozuklukları teşhis cihazlarının(PSG-Polisomnografi Cihazı) bakımı ve kalibrasyonunu / Nörolojik-Psikolojik bozuklukları teşhis edici cihazların kurulumu ve ölçüm yöntemleri / Nörolojik-Psikolojik bozuklukları teşhis edici cihazların arızaları",
+      "KAZANIM": "Uyku bozuklukları teşhis cihazlarının bakımını ve kalibrasyonunu yapar ve cihazı kullanır\nNörolojik-psikolojik bozuklukları teşhis edici cihazların kurulum ölçüm yöntemlerini ayırt eder.\nNörolojik-psikolojik bozuklukları teşhis edici cihazların arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servis el kitabına göre bakım yapılır.\nUyku bozuklukları tedavi cihazı kalibrasyonları yapılır.\nKalibrasyon sertifikası düzenlenir.\nNörolojik-psikolojik bozuklukları teşhis edici cihazların kurulumunu yapar.\nCihaza ait ölçme parametreleri kontrol edilir.\nNörolojik-psikolojik bozuklukları tedavi edici manyetik simülatör cihazı ve arızaları tespit edilir ve giderilir.\nManyetik simülatör cihazı kullanım alanları açıklanır.\nManyetik simülatör cihazı çeşitleri açıklanır.\nManyetik simülatör cihazı teknik özellikleri izah edilir.\nManyetik simülatör cihazı aparatları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Uyku bozuklukları teşhis yöntemlerini ayırt etmek.\nUyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirmek\nUyku bozuklukları teşhis cihazlarını kullanmak\nGüç ünitesinde ölçüm yaparak arıza tespitinde bulunmak\nKontrol ünitesinde ölçüm yaparak arıza tespitinde bulunmak.\nKontrol ünitesini yenisi ile değiştirmek.\nPC bağlantı arızalarını gidermek.\nArıza bilgi formu düzenlemek.\nServis el kitabında ki bakım talimatlarını uygulamak\nÖmürlü elemanların değişimini gerçekleştirmek\nCihaz kalibrasyonu gerçekleştirmek.\nFonksiyon testlerini gerçekleştirmek.\nKalibrasyon sertifikası hazırlamak ve cihazı kullanmak.\nNörolojik-psikolojik bozuklukları teşhis yöntemlerini ayırt etmek\nNörolojik-psikolojik bozuklukları ölçme düzeneklerini açıklamak\nİstenen cihazı seçmek\nCihaza ait ölçme parametrelerini ayarlamak.\nNörolojik-psikolojik bozuklukları tedavi edici EKT cihazı ve arızalarını tamir etmek.\nEKT( Elektro Konvulsif Terapi)) cihazı kullanım alanını düzenlemek.\nEKT Besleme-güç ünitesi ve arızalarını arızalarını gidermek\nAna PCB, LCD ünitesi ve diğer ünite arızalarını arıza gidermek.\nEKT Fonksiyon testleri ve ayarlarını yapmak.\nNörolojik-Psikolojik bozuklukları tedavi edici manyetik simülatör cihazı ve arızalarını tamir eder.\nManyetik simülatör cihazı kullanım alanlarını düzenlemek.\nManyetik simülatör cihazı aparatlarını ayırt etmek.\nManyetik simülatör cihazı besleme-güç ünitesi ve arızalarını gidermek\nManyetik simülatör cihazı fonksiyon testlerini ve ayarlarını yapmak\nÖmürlü elemanların değişimini gerçekleştirmek\nSimulator İle kalibrasyonu gerçekleştirmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "14",
+      "ÜNİTE": "Nörolojik-Psikolojik Bozuklukları Teşhis Cihazları / EKG’yi Kullanıma Hazırlama ve Kullanımı",
+      "KONU": "Nörolojik-Psikolojik bozuklukları teşhis edici cihazların arızaları / Nörolojik-Psikolojik bozuklukları teşhis edici cihazların bakımı ve kalibrasyonu ve kullanımı / 1. EKG’nin dış birimlerinin kontrolün / 2. EKG bağlantı, ayar ve sistem bütünlüğü kontrolü",
+      "KAZANIM": "Nörolojik-psikolojik bozuklukları teşhis edici cihazların arızalarını giderir.\nNörolojik-psikolojik bozuklukları teşhis edici cihazların bakımını ve kalibrasyonunu yapar ve kullanır.\nEKG’nin dış birimlerinin kontrolünü yapar.\nEKG bağlantı, ayar ve sistem bütünlüğü kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Manyetik simülatör cihazı besleme-güç ünitesi ve arızaları tespit edilir ve giderilir\nManyetik simülatör cihazı fonksiyon testleri ve ayarları yapılır.\nNörolojik-psikolojik bozuklukları tedavi cihazlarının bakım ve kalibrasyonu yapılır.\nÖmürlü elemanlar kontrol edilir.\nSimulator İle Kalibrasyonu yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir ve cihaz kullanılır.\nEKG cihazının dış birimler kontrol edilir.\nEKG cihazında kullanılan aparatlar kontrol edilir.\nHasta kablolarının kullanır.\nKablo sembolleri ve renklerini açıklar.\nEKG harici ekipmanları kontrol edilir.\nEKG harici elemanlarının bağlantı şekilleri ve iletişim yöntemlerini gerçekleştirir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Nörolojik-psikolojik bozuklukları teşhis yöntemlerini ayırt etmek\nNörolojik-psikolojik bozuklukları ölçme düzeneklerini açıklamak\nİstenen cihazı seçmek\nCihaza ait ölçme parametrelerini ayarlamak.\nNörolojik-psikolojik bozuklukları tedavi edici EKT cihazı ve arızalarını tamir etmek.\nEKT( Elektro Konvulsif Terapi)) cihazı kullanım alanını düzenlemek.\nEKT Besleme-güç ünitesi ve arızalarını arızalarını gidermek\nAna PCB, LCD ünitesi ve diğer ünite arızalarını arıza gidermek.\nEKT Fonksiyon testleri ve ayarlarını yapmak.\nNörolojik-Psikolojik bozuklukları tedavi edici manyetik simülatör cihazı ve arızalarını tamir eder.\nManyetik simülatör cihazı kullanım alanlarını düzenlemek.\nManyetik simülatör cihazı aparatlarını ayırt etmek.\nManyetik simülatör cihazı besleme-güç ünitesi ve arızalarını gidermek\nManyetik simülatör cihazı fonksiyon testlerini ve ayarlarını yapmak\nÖmürlü elemanların değişimini gerçekleştirmek\nSimulator İle kalibrasyonu gerçekleştirmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "14",
+      "ÜNİTE": "EKG’yi Kullanıma Hazırlama ve Kullanımı / EKG Montajı",
+      "KONU": "3. EKG’nin fonksiyonel testi ve kalibrasyonu ve kullanımı / EKG cihazının nakli ve kurulumu / EKG cihazlarının elektriksel güvenlik testlerini yapmak.",
+      "KAZANIM": "EKG’nin fonksiyonel testini ve kalibrasyonunu yapar ve kullanır.\nEKG cihazının naklini ve kurulumunu yapar.\nEKG cihazlarının elektriksel güvenlik testlerini yaparak gerekli tedbirleri alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG fonksiyon testi yapılır\nManuel ve otomatik fonksiyon kontrolü yapılır.\nEKG simülatörü ile fonksiyon kontrolü açıklanır ve gerçekleştirilir.\nEKG cihazlarında kalibrasyonu yapılan parametreler açıklanır ve kalibrasyon yapılır.\nKalibrasyon sertifikası hazırlanır.\nEKG cihazının aparatları kontrol edilir.\nEKG cihazlarının kurulumunu yapar.\nTeslim tutanağı hazırlanır..\nEKG Cihazı çalıştırır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Cihazının bulunacağı ortamın nem, sıcaklık ve manyetik gürültüsü ölçülerek montaja uygun olan yer tespitini yapmak\nEKG cihazını dengeleyerek taşıma sehpasına vidaları ile sabitlemek.\nEKG cihazının aparatlarının montajını yapmak.\nEKG cihazını çalıştırarak test etmek\nTeslim tutanağı düzenlemek\nEş potansiyelli topraklama yapmak.\nAC gücü keserek DC pil voltajı ile cihazın çalışmasını test etmek.\nBatarya şarj ünitesini kullanarak bataryayı şarj etmek.\nBatarya değişimini yapmak\nEKG cihazı ile simülatör arasındaki bağlantıyı gerçekleştirmek.\nEKG simülatöründen çeşitli parametreleri ayarlayarak değişimleri EKG cihazında görüntülemek.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "EKG Montajı / EKG LCD Ekran, Elektrot ve Rastgele Arızaları",
+      "KONU": "EKG cihazlarının elektriksel güvenlik testlerini yapmak. / EKG yazıcısı / 1. EKG cihazı LCD ekran lead ve soket arızaları",
+      "KAZANIM": "EKG cihazlarının elektriksel güvenlik testlerini yaparak gerekli tedbirleri alır.\nEKG yazıcısını çalıştırır.\nEKG cihazı LCD ekran lead ve soket arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG Cihazlarında kaçak akım kontrolü yapılır.\nEş potansiyel topraklama kontrolü yapılır.\nEKG yazıcısında kağıt değişimi yapılır ve test çıktısı alınır.\nLCD ekran sürücü devresinin arızaları tespit edilir ve giderilir..\nEKG lead ve soket arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Cihazının bulunacağı ortamın nem, sıcaklık ve manyetik gürültüsü ölçülerek montaja uygun olan yer tespitini yapmak\nEKG cihazını dengeleyerek taşıma sehpasına vidaları ile sabitlemek.\nEKG cihazının aparatlarının montajını yapmak.\nEKG cihazını çalıştırarak test etmek\nTeslim tutanağı düzenlemek\nEş potansiyelli topraklama yapmak.\nAC gücü keserek DC pil voltajı ile cihazın çalışmasını test etmek.\nBatarya şarj ünitesini kullanarak bataryayı şarj etmek.\nBatarya değişimini yapmak\nEKG cihazı ile simülatör arasındaki bağlantıyı gerçekleştirmek.\nEKG simülatöründen çeşitli parametreleri ayarlayarak değişimleri EKG cihazında görüntülemek.\nKalibrasyon sertifikası düzenlemek.\n● LCD ekranın besleme gerilimini ölçerek kontrol etmek. ● defa LCD ekran kablo ve soketlerinin sağlamlık kontrolünü yapmak.\n● Hasta kablolarını AVOmetre ile ölçerek sağlamlık kontrollerini yapmak.\n● LCD ekran sürücü devresi üzerinde arıza tespitinde bulunmak.\n● Arızalı LCD ekranı yenisi ile değiştirmek\n● Arızalı soketi yenisi ile değiştirmek\n● Arıza bilgi formu düzenler.\n● EKG elektrotlarının sağlamlık kontrolü yapmak.\n● EKG simülatörü ile elektrot kontrolü yapmak.\n● EKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\n● Arıza bilgi formu düzenlemek.\n● EKG elektrotlarının sağlamlık kontrolü yapmak.\n● EKG simülatörü ile elektrot kontrolü yapmak.\n● EKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\n● Arıza bilgi formu düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "EKG LCD Ekran, Elektrot ve Rastgele Arızaları",
+      "KONU": "2. EKG cihazı elektrot ve rastgele arızaları",
+      "KAZANIM": "EKG cihazı elektrot ve rastgele arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG cihazında kullanılan elektrotların arızaları tespit edilir ve giderilir.\nEKG genel arıza çeşitleri tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "● LCD ekranın besleme gerilimini ölçerek kontrol etmek. ● defa LCD ekran kablo ve soketlerinin sağlamlık kontrolünü yapmak.\n● Hasta kablolarını AVOmetre ile ölçerek sağlamlık kontrollerini yapmak.\n● LCD ekran sürücü devresi üzerinde arıza tespitinde bulunmak.\n● Arızalı LCD ekranı yenisi ile değiştirmek\n● Arızalı soketi yenisi ile değiştirmek\n● Arıza bilgi formu düzenler.\n● EKG elektrotlarının sağlamlık kontrolü yapmak.\n● EKG simülatörü ile elektrot kontrolü yapmak.\n● EKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\n● Arıza bilgi formu düzenlemek.\n● EKG elektrotlarının sağlamlık kontrolü yapmak.\n● EKG simülatörü ile elektrot kontrolü yapmak.\n● EKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\n● Arıza bilgi formu düzenlemek.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "EKG LCD Ekran, Elektrot ve Rastgele Arızaları / EKG'yi Kullanıma Hazırlama ve Kullanımı",
+      "KONU": "2. EKG cihazı elektrot ve rastgele arızaları / EKG'nin dış birimlerinin kontrolün / EKG bağlantı, ayar ve sistem bütünlüğü kontrolü",
+      "KAZANIM": "EKG cihazı elektrot ve rastgele arızalarını giderir.\nEKG'nin dış birimlerinin kontrolünü yapar.\nEKG bağlantı, ayar ve sistem bütünlüğü kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG ölçüm hataları tespit edilir.\nArıza bilgi formu hazırlanır.\nEKG cihazının dış birimler kontrol edilir.\nEKG cihazında kullanılan aparatlar kontrol edilir.\nHasta kablolarının kullanır.\nKablo sembolleri ve renklerini açıklar.\nEKG harici ekipmanları kontrol edilir.\nEKG harici elemanlarının bağlantı şekilleri ve iletişim yöntemlerini gerçekleştirir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "● LCD ekranın besleme gerilimini ölçerek kontrol etmek. ● defa LCD ekran kablo ve soketlerinin sağlamlık kontrolünü yapmak.\n● Hasta kablolarını AVOmetre ile ölçerek sağlamlık kontrollerini yapmak.\n● LCD ekran sürücü devresi üzerinde arıza tespitinde bulunmak.\n● Arızalı LCD ekranı yenisi ile değiştirmek\n● Arızalı soketi yenisi ile değiştirmek\n● Arıza bilgi formu düzenler.\n● EKG elektrotlarının sağlamlık kontrolü yapmak.\n● EKG simülatörü ile elektrot kontrolü yapmak.\n● EKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\n● Arıza bilgi formu düzenlemek.\n● EKG elektrotlarının sağlamlık kontrolü yapmak.\n● EKG simülatörü ile elektrot kontrolü yapmak.\n● EKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\n● Arıza bilgi formu düzenlemek.\nÖlçüm yaparak elektrotları kontrol etmek.\nTuşların sağlamlığının fiziksel kontrolünü yapmak.\nBataryanın sağlamlık kontrolünü yapmak\nEmme (vakum) elektrot lastiklerinin sağlamlıklarını kontrol etmek\nHasta kablosunun bağlantısını yapmak.\nHarici ekipmanların bağlantılarını yapmak.\nEKG gövdesinde elektrik kaçağı kontrolü yapmak\nZamana göre doğru kayıt yapılıp yapılmadığını kontrol etmek.\nEKG cihazı ile simülatör arasındaki bağlantıyı gerçekleştirmek.\nEKG simülatöründen çeşitli parametreleri ayarlayarak değişimleri EKG cihazında görüntülemek.\nKalibrasyon sertifikası düzenlemek ve cihazı kullanmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "EKG'yi Kullanıma Hazırlama ve Kullanımı / EKG Besleme, Sinyal İşleme ve Diğer Ünite Arızaları",
+      "KONU": "EKG'nin fonksiyonel testi ve kalibrasyonu ve kullanımı / 1. EKG cihazı AC ve DC besleme ünitelerinin arızaları / 2. Elektrokardiyografi ölçüm düzenekleri / 3. EKG sinyal yükselteç katı arızaları ve diğer ünite arızaları",
+      "KAZANIM": "EKG'nin fonksiyonel testini ve kalibrasyonunu yapar ve kullanır.\nEKG cihazı AC ve DC besleme ünitelerinin arızalarını giderir.\nKalp-dolaşım sisteminin özellikleri ve elektrokardiyografi ölçüm düzeneklerini ayırt eder.\nEKG sinyal yükselteç katı ve diğer ünite arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG fonksiyon testi yapılır\nManuel ve otomatik fonksiyon kontrolü yapılır.\nEKG simülatörü ile fonksiyon kontrolü açıklanır ve gerçekleştirilir.\nEKG cihazlarında kalibrasyonu yapılan parametreler açıklanır ve kalibrasyon yapılır.\nKalibrasyon sertifikası hazırlanır.\nGüç ünitesinin birimlerinin kontrolü yapılır ve arızaları giderilir\nSimetrik gerilim kontrolü yapılır ve arızalar giderilir.\nArıza bilgi formu hazırlanır.\nEKG işaretlerinin parametrelerini ayırt eder.\nKalp sinyallerini algılama metotları açıklanır.\nEKG iç yapısında ve blok diyagramındaki arızalar tespit edilir ve giderilir.\nEKG cihazı yükselteç katındaki arızalar tespit edilir ve giderilir.\nSağ bacak sürücü devresi ve blok diyagramındaki arızalar tespit edilir ve giderilir.\nMikroişlemcili EKG düzeni kurulur.\nArıza bilgi formu hazırlanır..",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Ölçüm yaparak elektrotları kontrol etmek.\nTuşların sağlamlığının fiziksel kontrolünü yapmak.\nBataryanın sağlamlık kontrolünü yapmak\nEmme (vakum) elektrot lastiklerinin sağlamlıklarını kontrol etmek\nHasta kablosunun bağlantısını yapmak.\nHarici ekipmanların bağlantılarını yapmak.\nEKG gövdesinde elektrik kaçağı kontrolü yapmak\nZamana göre doğru kayıt yapılıp yapılmadığını kontrol etmek.\nEKG cihazı ile simülatör arasındaki bağlantıyı gerçekleştirmek.\nEKG simülatöründen çeşitli parametreleri ayarlayarak değişimleri EKG cihazında görüntülemek.\nKalibrasyon sertifikası düzenlemek ve cihazı kullanmak\n● Besleme kartı üzerindeki birimleri ayırt etmek\n● Besleme kartı üzerindeki birimlerin çıkışlarını AVOmetre ile ölçerek, arıza tespitinde bulunmak.\n● Besleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\n● Besleme kartını yenisi ile değiştirmek.\n● Simetrik gerilim oluşturarak gerekli ölçümleri yapmak.\n● Arızalı aküyü yenisi ile değiştirmek.\n● Akü şarj ünitesini kontrol etmek.\n● Arıza bilgi formu hazırlamak.\n● EKG işaretini çizip, parametreleri şekil üzerinde belirtmek.\n● Kalp sinyallerinin ölçüm düzeneklerini ayırt etmek.\n● Yükselteç katındaki elemanların sağlamlık kontrolünü yapmak\n● Elektronik kart üzerinde iletkenlik kontrolü yapmak\n● Arızalı elemanı yenisi ile değiştirmek\n● Sinyal yükselteç katını yenisi ile değiştirmek\n● Arıza bilgi formu hazırlamak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "14",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "EKG LCD Ekran, Elektrot ve Rastgele Arızaları",
+      "KONU": "EKG cihazı LCD ekran lead ve soket arızaları / EKG cihazı elektrot ve rastgele arızaları",
+      "KAZANIM": "EKG cihazı LCD ekran lead ve soket arızalarını giderir.\nEKG cihazı elektrot ve rastgele arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "LCD ekran sürücü devresinin arızaları tespit edilir ve giderilir..\nEKG lead ve soket arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.\nEKG cihazında kullanılan elektrotların arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "LCD ekranın besleme gerilimini ölçerek kontrol etmek.\nLCD ekran kablo ve soketlerinin sağlamlık kontrolünü yapmak.\nHasta kablolarını AVOmetre ile ölçerek sağlamlık kontrollerini yapmak.\nLCD ekran sürücü devresi üzerinde arıza tespitinde bulunmak.\nArızalı LCD ekranı yenisi ile değiştirmek\nArızalı soketi yenisi ile değiştirmek\nArıza bilgi formu düzenler.\nEKG elektrotlarının sağlamlık kontrolü yapmak.\nEKG simülatörü ile elektrot kontrolü yapmak.\nEKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\nArıza bilgi formu düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "EKG LCD Ekran, Elektrot ve Rastgele Arızaları / EKG Bakımı ve Yazıcı Arızaları",
+      "KONU": "EKG cihazı elektrot ve rastgele arızaları / 1. EKG yazıcı arızaları",
+      "KAZANIM": "EKG cihazı elektrot ve rastgele arızalarını giderir.\nEKG yazıcı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG genel arıza çeşitleri tespit edilir ve giderilir.\nEKG ölçüm hataları tespit edilir.\nArıza bilgi formu hazırlanır.\nEKG yazıcı mekaniği ve çalışma arızasını giderir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "LCD ekranın besleme gerilimini ölçerek kontrol etmek.\nLCD ekran kablo ve soketlerinin sağlamlık kontrolünü yapmak.\nHasta kablolarını AVOmetre ile ölçerek sağlamlık kontrollerini yapmak.\nLCD ekran sürücü devresi üzerinde arıza tespitinde bulunmak.\nArızalı LCD ekranı yenisi ile değiştirmek\nArızalı soketi yenisi ile değiştirmek\nArıza bilgi formu düzenler.\nEKG elektrotlarının sağlamlık kontrolü yapmak.\nEKG simülatörü ile elektrot kontrolü yapmak.\nEKG cihazında test noktalarını ölçerek arıza tespitinde bulunmak.\nArıza bilgi formu düzenlemek.\n● Termal yazıcı kafasını değiştirmek.\n● Galvanometreli yazıcı kalem ucunu değiştirmek.\n● EKG yazıcı motorunu değiştirmek\n● DC motorun sağlamlık kontrolünü yapar.\n● DC motoru yenisi ile değiştirir.\n● Arıza bilgi formu hazırlar\n● EKG elektrotlarının temizliği yapmak.\n● Bakım formunda bulunan talimatları uygulamak.\n● EKG cihazının periyodik bakım cetveline bakarak bakım tarihlerini belirlemek."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "14",
+      "ÜNİTE": "EKG Bakımı ve Yazıcı Arızaları",
+      "KONU": "2. EKG bakımı",
+      "KAZANIM": "EKG bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG bakımı yapılır.\nEKG temizliği yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "● Termal yazıcı kafasını değiştirmek.\n● Galvanometreli yazıcı kalem ucunu değiştirmek.\n● EKG yazıcı motorunu değiştirmek\n● DC motorun sağlamlık kontrolünü yapar.\n● DC motoru yenisi ile değiştirir.\n● Arıza bilgi formu hazırlar\n● EKG elektrotlarının temizliği yapmak.\n● Bakım formunda bulunan talimatları uygulamak.\n● EKG cihazının periyodik bakım cetveline bakarak bakım tarihlerini belirlemek.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "EKG Bakımı ve Yazıcı Arızaları / EKG Besleme, Sinyal İşleme ve Diğer Ünite Arızaları",
+      "KONU": "2. EKG bakımı / EKG cihazı AC ve DC besleme ünitelerinin arızaları / Elektrokardiyografi ölçüm düzenekleri",
+      "KAZANIM": "EKG bakımını yapar.\nEKG cihazı AC ve DC besleme ünitelerinin arızalarını giderir.\nKalp-dolaşım sisteminin özellikleri ve elektrokardiyografi ölçüm düzeneklerini ayırt eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım çizelgesi hazırlanır.\nGüç ünitesinin birimlerinin kontrolü yapılır ve arızaları giderilir\nSimetrik gerilim kontrolü yapılır ve arızalar giderilir.\nArıza bilgi formu hazırlanır.\nEKG işaretlerinin parametrelerini ayırt eder.\nKalp sinyallerini algılama metotları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "● Termal yazıcı kafasını değiştirmek.\n● Galvanometreli yazıcı kalem ucunu değiştirmek.\n● EKG yazıcı motorunu değiştirmek\n● DC motorun sağlamlık kontrolünü yapar.\n● DC motoru yenisi ile değiştirir.\n● Arıza bilgi formu hazırlar\n● EKG elektrotlarının temizliği yapmak.\n● Bakım formunda bulunan talimatları uygulamak.\n● EKG cihazının periyodik bakım cetveline bakarak bakım tarihlerini belirlemek.\nBesleme kartı üzerindeki birimleri ayırt etmek\nBesleme kartı üzerindeki birimlerin çıkışlarını AVOmetre ile ölçerek, arıza tespitinde bulunmak.\nBesleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\nBesleme kartını yenisi ile değiştirmek.\nSimetrik gerilim oluşturarak gerekli ölçümleri yapmak.\nArızalı aküyü yenisi ile değiştirmek.\nAkü şarj ünitesini kontrol etmek.\nArıza bilgi formu hazırlamak.\nEKG işaretini çizip, parametreleri şekil üzerinde belirtmek.\nKalp sinyallerinin ölçüm düzeneklerini ayırt etmek.\nYükselteç katındaki elemanların sağlamlık kontrolünü yapmak\nElektronik kart üzerinde iletkenlik kontrolü yapmak\nArızalı elemanı yenisi ile değiştirmek\nSinyal yükselteç katını yenisi ile değiştirmek\nArıza bilgi formu hazırlamak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "EKG Besleme, Sinyal İşleme ve Diğer Ünite Arızaları / EKG Bakımı ve Yazıcı Arızaları",
+      "KONU": "EKG sinyal yükselteç katı arızaları ve diğer ünite arızaları / EKG yazıcı arızaları / EKG bakımı",
+      "KAZANIM": "EKG sinyal yükselteç katı ve diğer ünite arızalarını giderir.\nEKG yazıcı arızalarını giderir.\nEKG bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG iç yapısında ve blok diyagramındaki arızalar tespit edilir ve giderilir.\nEKG cihazı yükselteç katındaki arızalar tespit edilir ve giderilir.\nSağ bacak sürücü devresi ve blok diyagramındaki arızalar tespit edilir ve giderilir.\nMikroişlemcili EKG düzeni kurulur.\nArıza bilgi formu hazırlanır..\nEKG yazıcı mekaniği ve çalışma arızasını giderir.\nArıza bilgi formu hazırlanır.\nEKG bakımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Besleme kartı üzerindeki birimleri ayırt etmek\nBesleme kartı üzerindeki birimlerin çıkışlarını AVOmetre ile ölçerek, arıza tespitinde bulunmak.\nBesleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\nBesleme kartını yenisi ile değiştirmek.\nSimetrik gerilim oluşturarak gerekli ölçümleri yapmak.\nArızalı aküyü yenisi ile değiştirmek.\nAkü şarj ünitesini kontrol etmek.\nArıza bilgi formu hazırlamak.\nEKG işaretini çizip, parametreleri şekil üzerinde belirtmek.\nKalp sinyallerinin ölçüm düzeneklerini ayırt etmek.\nYükselteç katındaki elemanların sağlamlık kontrolünü yapmak\nElektronik kart üzerinde iletkenlik kontrolü yapmak\nArızalı elemanı yenisi ile değiştirmek\nSinyal yükselteç katını yenisi ile değiştirmek\nArıza bilgi formu hazırlamak\nTermal yazıcı kafasını değiştirmek.\nGalvanometreli yazıcı kalem ucunu değiştirmek.\nEKG yazıcı motorunu değiştirmek\nDC motorun sağlamlık kontrolünü yapar.\nDC motoru yenisi ile değiştirir.\nArıza bilgi formu hazırlar\nEKG elektrotlarının temizliği yapmak.\nBakım formunda bulunan talimatları uygulamak.\nEKG cihazının periyodik bakım cetveline bakarak bakım tarihlerini belirlemek.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "EKG Bakımı ve Yazıcı Arızaları",
+      "KONU": "EKG bakımı",
+      "KAZANIM": "EKG bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EKG temizliği yapılır.\nBakım çizelgesi hazırlanır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Termal yazıcı kafasını değiştirmek.\nGalvanometreli yazıcı kalem ucunu değiştirmek.\nEKG yazıcı motorunu değiştirmek\nDC motorun sağlamlık kontrolünü yapar.\nDC motoru yenisi ile değiştirir.\nArıza bilgi formu hazırlar\nEKG elektrotlarının temizliği yapmak.\nBakım formunda bulunan talimatları uygulamak.\nEKG cihazının periyodik bakım cetveline bakarak bakım tarihlerini belirlemek.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "14",
+      "ÜNİTE": "EKG İşaretlerini Değerlendiren Diğer Düzenlerin Arızaları",
+      "KONU": "Kardiyotakometre çalışma sistemi / Fetal EKG arızaları",
+      "KAZANIM": "Kardiyotakometre çalışma sistemini ayırt eder.\nFetal EKG arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kardiyotakometrenin yapısı incelenir.\nFetal Monitör Kurulumu gerçekleştirilir.\nFetal Monitör Elektriksel Güvenlik kontrolü yapılır.\nFetal monitör blok yapısı kontrol edilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Farklı kardiyotakometre düzenlerini ayırt etmek\nFarklı kardiyotakometre düzenleri ile ölçümler yapmak\nBakım ve onarım formunu doldurmak\nFetal Monitör-EKG elektrotlarını cihaza bağlayarak elektrot arıza tespiti yapmak.\nFonksiyon testi yapmak\nÖlçme işlemi yaparak muhtemel arızaları tespit etmek.\nMuhtemel arızaları gidermek.\nArıza bilgi formu hazırlamak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "EKG İşaretlerini Değerlendiren Diğer Düzenlerin Arızaları / HBM Kurulumu ve Kullanımı",
+      "KONU": "Fetal EKG arızaları / HBM ile takip edilen parametreler ve özellikleri / HBM ün yerleşim ve montajı",
+      "KAZANIM": "Fetal EKG arızalarını giderir.\nHBM ile takip edilen parametreleri ve özelliklerini ayırt eder.\nHBM'nin yerleşim ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablolu fetal monitör transduser arızaları tespit edilir ve giderilir.\nKablosuz fetal transduser arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.\nHBM ile parametreler takip edilir\nHBM ile takip edilen parametrelerin ölçüm yöntemleri incelenir.\nHBM'nin elektriksel özellikleri kontrol edilir.\nHBM'nin montajı gerçekleştirilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Farklı kardiyotakometre düzenlerini ayırt etmek\nFarklı kardiyotakometre düzenleri ile ölçümler yapmak\nBakım ve onarım formunu doldurmak\nFetal Monitör-EKG elektrotlarını cihaza bağlayarak elektrot arıza tespiti yapmak.\nFonksiyon testi yapmak\nÖlçme işlemi yaparak muhtemel arızaları tespit etmek.\nMuhtemel arızaları gidermek.\nArıza bilgi formu hazırlamak\nHBM ile takip edilen parametreleri ayırt etmek\nNIBP ölçümü yapmak\nEKG ölçümü yapmak\nOksijen saturasyonu ölçümü yapmak\nVücut ısısı ölçümü yapmak\nHBM'ün kurulacağı ortamın fiziki özelliklerini kontrol etmek.\nCihazdaki etikete bakarak cihaza uygun beslemeyi yapmak\nHBM askısını hasta yatağı başucuna, duvara ya da tavana monte etmek\nTeslim tutanağı hazırlamak.\nYalıtım devrelerinin sağlamlık kontrolünü yapmak.\nSızıntı akımlarına karşı elektriksel güvenlik önlemlerini almak\nSistem bütünlüğü kontrolü ve ayarlarını açıklamak\nHasta simülatörü yardımı ile fonksiyon testi yapmak ve kullanmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "HBM Kurulumu ve Kullanımı",
+      "KONU": "HBM ün yerleşim ve montajı / HBM elektriksel güvenlik testleri",
+      "KAZANIM": "HBM'nin yerleşim ve montajını yapar.\nHBM elektriksel güvenlik testlerini yaparak gerekli tedbirleri alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "HBM'nin aparatlarının montajı yapılır.\nTeslim tutanağı hazırlanır.\nHBM'ye enerji uygulanır.\nHBM akım kaçağı kontrolü yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "HBM ile takip edilen parametreleri ayırt etmek\nNIBP ölçümü yapmak\nEKG ölçümü yapmak\nOksijen saturasyonu ölçümü yapmak\nVücut ısısı ölçümü yapmak\nHBM'ün kurulacağı ortamın fiziki özelliklerini kontrol etmek.\nCihazdaki etikete bakarak cihaza uygun beslemeyi yapmak\nHBM askısını hasta yatağı başucuna, duvara ya da tavana monte etmek\nTeslim tutanağı hazırlamak.\nYalıtım devrelerinin sağlamlık kontrolünü yapmak.\nSızıntı akımlarına karşı elektriksel güvenlik önlemlerini almak\nSistem bütünlüğü kontrolü ve ayarlarını açıklamak\nHasta simülatörü yardımı ile fonksiyon testi yapmak ve kullanmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "HBM Kurulumu ve Kullanımı / HBM Giriş Çıkış Üniteleri Arızaları",
+      "KONU": "HBM elektriksel güvenlik testleri / HBM bağlantı, ayar ve sistem bütünlüğü kontrol ile fonksiyon testleri ve kullanımı / HBM besleme-güç ünitesi arızaları / HBM ekran-görüntü arızaları",
+      "KAZANIM": "HBM elektriksel güvenlik testlerini yaparak gerekli tedbirleri alır.\nHBM bağlantı, ayar ve sistem bütünlüğü kontrolü ile fonksiyon testlerini yapar ve kullanır.\nHBM besleme-güç ünitesi arızalarını giderir.\nHBM ekran-görüntü arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eş potansiyelli topraklama kontrolü yapılır.\nHasta ve diğer kablo bağlantıları yapılır.\nHBM fonksiyon testi yapılır.\nHBM ayarları gerçekleştirilir ve cihaz kullanılır.\nHBM'nin besleme ünitesinin arızaları tespit edilir ve giderilir.\nBesleme devresi birimlerinin çıkış sinyalleri takip edilir.\nArıza bilgi formu hazırlanır.\nEkran ve görüntü ayarları yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "HBM ile takip edilen parametreleri ayırt etmek\nNIBP ölçümü yapmak\nEKG ölçümü yapmak\nOksijen saturasyonu ölçümü yapmak\nVücut ısısı ölçümü yapmak\nHBM'ün kurulacağı ortamın fiziki özelliklerini kontrol etmek.\nCihazdaki etikete bakarak cihaza uygun beslemeyi yapmak\nHBM askısını hasta yatağı başucuna, duvara ya da tavana monte etmek\nTeslim tutanağı hazırlamak.\nYalıtım devrelerinin sağlamlık kontrolünü yapmak.\nSızıntı akımlarına karşı elektriksel güvenlik önlemlerini almak\nSistem bütünlüğü kontrolü ve ayarlarını açıklamak\nHasta simülatörü yardımı ile fonksiyon testi yapmak ve kullanmak\nBesleme kartı üzerindeki birimleri ayırt etmek.\nBesleme devresi birimlerinin çıkış sinyallerini çizmek\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\nBesleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\nBesleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nHBM'de kullanılan ışık kaynaklarının sağlamlık kontrollerini yapmak\nDevre şemasından takip ederek arıza tespitinde bulunmak.\nArızalı TFT'yi yenisi ile değiştirir.\nGörüntü için gerekli ekran ayarlarını yapmak\nArıza bilgi formu hazırlamak.\nYazıcı sarf malzemelerini değiştirmek\nArızalı yazıcı modülünü yenisi ile değiştirmek\nArıza bilgi formu hazırlamak\nHBM kayıt ünitesinin devre şemasına bakılarak arıza tespiti yapmak.\nArızalı kart yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "14",
+      "ÜNİTE": "HBM Giriş Çıkış Üniteleri Arızaları",
+      "KONU": "HBM ekran-görüntü arızaları / HBM yazıcı arızaların",
+      "KAZANIM": "HBM ekran-görüntü arızalarını giderir.\nHBM yazıcı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Olası görüntü arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.\nCihazlara özel dâhili yazıcı üniteler arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Besleme kartı üzerindeki birimleri ayırt etmek.\nBesleme devresi birimlerinin çıkış sinyallerini çizmek\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\nBesleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\nBesleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nHBM'de kullanılan ışık kaynaklarının sağlamlık kontrollerini yapmak\nDevre şemasından takip ederek arıza tespitinde bulunmak.\nArızalı TFT'yi yenisi ile değiştirir.\nGörüntü için gerekli ekran ayarlarını yapmak\nArıza bilgi formu hazırlamak.\nYazıcı sarf malzemelerini değiştirmek\nArızalı yazıcı modülünü yenisi ile değiştirmek\nArıza bilgi formu hazırlamak\nHBM kayıt ünitesinin devre şemasına bakılarak arıza tespiti yapmak.\nArızalı kart yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "HBM Giriş Çıkış Üniteleri Arızaları",
+      "KONU": "HBM yazıcı arızaların / HBM kayıt üniteleri arızaları",
+      "KAZANIM": "HBM yazıcı arızalarını giderir.\nHBM kayıt üniteleri arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bilgi formu hazırlanır.\nHBM kayıt ünitesinin arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Besleme kartı üzerindeki birimleri ayırt etmek.\nBesleme devresi birimlerinin çıkış sinyallerini çizmek\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçerek, arıza tespitinde bulunmak.\nBesleme kartı üzerindeki bozuk elektronik elemanları yenisi ile değiştirmek.\nBesleme kartını yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak.\nHBM'de kullanılan ışık kaynaklarının sağlamlık kontrollerini yapmak\nDevre şemasından takip ederek arıza tespitinde bulunmak.\nArızalı TFT'yi yenisi ile değiştirir.\nGörüntü için gerekli ekran ayarlarını yapmak\nArıza bilgi formu hazırlamak.\nYazıcı sarf malzemelerini değiştirmek\nArızalı yazıcı modülünü yenisi ile değiştirmek\nArıza bilgi formu hazırlamak\nHBM kayıt ünitesinin devre şemasına bakılarak arıza tespiti yapmak.\nArızalı kart yenisi ile değiştirmek.\nArıza bilgi formu hazırlamak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "HBM Bakımı ve Onarımı",
+      "KONU": "HBM sistem arızaları / HBM anahtar, soket ve sensör arızaları",
+      "KAZANIM": "HBM sistem arızalarını giderir.\nHBM anahtar, soket ve sensör arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "HBM'ün ünite ve birim arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.\nHBM'de kullanılan sensör arızaları tespit edilir ve giderilir.\nHBM'de kullanılan soket arızaları tespit edilir ve giderilir.\nHBM'nin hata kodları ve nedenler tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Pnömatik ünite üzerinde bulunan NIBP ölçüm modülü ve CO2 ölçüm modülünün sağlamlık kontrollerini yapmak.\nArızalı pompa ve DC motoru yenisi ile değiştirmek.\nPnömatik üniteye işlem sinyalleri gönderen elektronik kartın sağlamlık kontrollerini yapmak.\nAnakart üzerindeki elemanları avometre ile ölçerek, arıza tespitinde bulunmak\nAnakart üzerindeki bozuk elektronik elemanları yenisi ile değiştirir.\nArıza bilgi formu hazırlamak\nHBM'de kullanılan sensörleri listelemek.\nHBM'de kullanılan sensörlerin görev ve yapılarını açıklamak.\nHBM'de kullanılan soketleri sıralamak.\nHBM'ün hata kodlarını ve nedenlerini açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.\nHBM'ün verdiği hata kodlarına göre arıza tespiti yapmak\nArızalı elemanları yenisi ile değiştirmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu sağlamak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonu yapmak\nKalibrasyon sertifikası düzenlemek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "HBM Bakımı ve Onarımı / Solunum Ölçüm Cihazları",
+      "KONU": "HBM bakım ve kalibrasyonu / Solunum sistemi özellikleri ve ölçme sistemleri / Spirometre kurulumu / Spirometre arızaları",
+      "KAZANIM": "HBM bakım ve kalibrasyonunu yapar.\nSolunum sistemi özellikleri ve ölçme sistemlerini ayırt eder.\nSpirometre kurulumunu yapar.\nSpirometre arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım yapılır.\nCihaz temizliği yapılır.\nBakım çizelgesi hazırlanır.\nKalibrasyon yapılır.\nCO2 kalibrasyonu yapılır.\nKalibrasyon sertifikası hazırlanır.\nSolunum ölçme yöntemleri ayırt edilir.\nSpirometrenin montajını gerçekleştirilir.\nTeslim tutanağı hazırlanır.\nSpirometrenin parçaları listelenir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Pnömatik ünite üzerinde bulunan NIBP ölçüm modülü ve CO2 ölçüm modülünün sağlamlık kontrollerini yapmak.\nArızalı pompa ve DC motoru yenisi ile değiştirmek.\nPnömatik üniteye işlem sinyalleri gönderen elektronik kartın sağlamlık kontrollerini yapmak.\nAnakart üzerindeki elemanları avometre ile ölçerek, arıza tespitinde bulunmak\nAnakart üzerindeki bozuk elektronik elemanları yenisi ile değiştirir.\nArıza bilgi formu hazırlamak\nHBM'de kullanılan sensörleri listelemek.\nHBM'de kullanılan sensörlerin görev ve yapılarını açıklamak.\nHBM'de kullanılan soketleri sıralamak.\nHBM'ün hata kodlarını ve nedenlerini açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.\nHBM'ün verdiği hata kodlarına göre arıza tespiti yapmak\nArızalı elemanları yenisi ile değiştirmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu sağlamak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonu yapmak\nKalibrasyon sertifikası düzenlemek\nSolunum sistemindeki birimleri ayırt edecek\nSolunum ölçme yöntemlerine göre uygun cihaz seçimi yapmak.\nSpirometrenin kurulacağı ortamın fiziki özelliklerini kontrol edecek.\nFiziki tespit sonucunda uygun yere spirometrenin montajını yapmak.\nTeslim tutanağı hazırlamak.\nSpirometrenin devre şemasını takip ederek ana kartta arıza takibi yapmak\nLCD ekran ve tuş takımını tespit ederek değiştirmek.\nArıza bilgi formu hazırlamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonu yapmak\nFonksiyon testi yaparak cihazı çalıştırmak.\nKalibrasyon sertifikası düzenlemek ve cihazı kullanmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Solunum Ölçüm Cihazları",
+      "KONU": "Spirometre arızaları / Spirometre bakım ve kalibrasyonu ve kullanımı",
+      "KAZANIM": "Spirometre arızalarını giderir.\nSpirometre bakım ve kalibrasyonunu yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Spirometrenin tipik arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.\nBakım çizelgesi hazırlanır.\nKalibrasyon yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Solunum sistemindeki birimleri ayırt edecek\nSolunum ölçme yöntemlerine göre uygun cihaz seçimi yapmak.\nSpirometrenin kurulacağı ortamın fiziki özelliklerini kontrol edecek.\nFiziki tespit sonucunda uygun yere spirometrenin montajını yapmak.\nTeslim tutanağı hazırlamak.\nSpirometrenin devre şemasını takip ederek ana kartta arıza takibi yapmak\nLCD ekran ve tuş takımını tespit ederek değiştirmek.\nArıza bilgi formu hazırlamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonu yapmak\nFonksiyon testi yaparak cihazı çalıştırmak.\nKalibrasyon sertifikası düzenlemek ve cihazı kullanmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "14",
+      "ÜNİTE": "Solunum Ölçüm Cihazları / Timpanometri Cihazı Arızaları",
+      "KONU": "Spirometre bakım ve kalibrasyonu ve kullanımı / Timpanometri cihazı ölçümleri",
+      "KAZANIM": "Spirometre bakım ve kalibrasyonunu yapar ve kullanır.\nTimpanometri cihazı ölçümlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fonksiyon testi yapılır.\nKalibrasyon sertifikası hazırlanır.\nCihaz kullanılır.\nTimpanometri cihazı ölçümlerini yapar.\nTimpanometri cihazının mekanizmalarının bakımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Solunum sistemindeki birimleri ayırt edecek\nSolunum ölçme yöntemlerine göre uygun cihaz seçimi yapmak.\nSpirometrenin kurulacağı ortamın fiziki özelliklerini kontrol edecek.\nFiziki tespit sonucunda uygun yere spirometrenin montajını yapmak.\nTeslim tutanağı hazırlamak.\nSpirometrenin devre şemasını takip ederek ana kartta arıza takibi yapmak\nLCD ekran ve tuş takımını tespit ederek değiştirmek.\nArıza bilgi formu hazırlamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonu yapmak\nFonksiyon testi yaparak cihazı çalıştırmak.\nKalibrasyon sertifikası düzenlemek ve cihazı kullanmak.\nTimpanometri cihazının aparatlarındaki ölçümleri yapmak\nTimpanometri cihazı tespit etmek\nTimpanometri cihazının rastgele arızalarla tespit etmek ve arıza gidermek"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "14",
+      "ÜNİTE": "Timpanometri Cihazı Arızaları",
+      "KONU": "Timpanometri cihazının besleme katı arızaları",
+      "KAZANIM": "Timpanometri cihazının besleme katı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Timpanometri cihazının arıza tespiti yapılır.\nTimpanometri cihazının besleme katı arızaları tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Timpanometri cihazının aparatlarındaki ölçümleri yapmak\nTimpanometri cihazı tespit etmek\nTimpanometri cihazının rastgele arızalarla tespit etmek ve arıza gidermek"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "14",
+      "ÜNİTE": "Timpanometri Cihazı Arızaları / Odyometri Cihazlarının Bakımı ve Onarımı",
+      "KONU": "Timpanometri cihazının rastgele arızalar / İşitme sistemi özellikleri ve ölçme sistemleri. / Odyometri kurulumu / Odyometri arızaları / Odyometri cihazının bakım ve kalibrasyonu ve kullanımı",
+      "KAZANIM": "Timpanometri cihazının rastgele arızalarını giderir.\nİşitme sistemi özelliklerini ve ölçme sistemlerini ayırt eder.\nOdyometri kurulumunu yapar.\nOdyometri arızalarını giderir.\nOdyometri cihazının bakım ve kalibrasyonunu yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Timpanometri cihazının rastgele arızaları tespit edilir ve giderilir.\nArıza bilgi formu hazırlanır.\nOdyolojik inceleme yapılır.\nOdyometri kurulumu yapar.\nOdyometrik testlerin uygulanma yöntemleri gerçekleştirilir.\nTeslim tutanağı hazırlanır.\nOdyometri cihazının parçaları listelenir.\nOdyometrinin tipik arızaları tespit edilir ve giderilir.\nCihaz bakımı yapılır.\nBakım çizelgesi hazırlanır.\nKalibrasyonun gerekliliği ve çeşitler açıklanır.\nFonksiyon testi yapılır.\nKalibrasyon sertifikası hazırlanır.",
+        "Ortam ve Donanım": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Öğretim Teknikleri": "Ortam: Sınıf ortamı, hastane ortamı, biyo sinyal izleme cihazları atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, vücut atlasları, anatomi ile ilgili bilgisayar programları/uygulamaları, iskelet modeli,biyo sinyal ölçme cihazları, analizörleri ve kalibratörleri, biyo sinyal izleme cihazları deney setleri.",
+        "Temrin Listesi": "Timpanometri cihazının aparatlarındaki ölçümleri yapmak\nTimpanometri cihazı tespit etmek\nTimpanometri cihazının rastgele arızalarla tespit etmek ve arıza gidermek\nİşitme sistemindeki birimleri ayırt etme\nOdyolojik inceleme yöntemlerine göre uygun odyometrik cihaz seçimi yapmak.\nOdyometrik testlerin uygulanma yöntemlerini göz önünde bulundurarak uygun ortam oluşturmak.\nCihazdaki etikete bakarak cihaza uygun beslemeyi yapmak.\nTeslim tutanağı hazırlamak.\nOdyometrinin devre şemasını takip ederek ana kartta arıza takibi yapmak.\nArızalı parçaları tespit ederek değiştirmek\nArıza bilgi formu hazırlamak\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları yapmak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonu yapmak.\nFonksiyon testi yaparak cihazı çalıştırmak.\nKalibrasyon sertifikası düzenlemek ve cihazı kullanmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "14",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

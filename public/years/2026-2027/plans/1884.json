@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Araçlarda Hidrolik Pnömatik Sistemler (Mesem)",
+  "grup": "MESEM Dersleri",
+  "brans": "Motorlu Araçlar Teknolojisi (Mesem)",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/motorlu-araclar-teknolojisi-mesem/1884/araclarda-hidrolik-pnomatik-sistemler-mesem-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "1. Hidrolik",
+      "KAZANIM": "Kütle, kuvvet ve basınç ile ilgili hesapları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik ile ilgili temel terimleri açıklar.\nHidroliğin tanımı, endüstrideki yeri ve önemini açıklar.\nHidrolik sistemlerin üstünlükleri ve olumsuz yönlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "1. Hidrolik / 2. Hidrolik Prensipler",
+      "KAZANIM": "Kütle, kuvvet ve basınç ile ilgili hesapları yapar.\nHidrostatik ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik sistemlerde kullanılan birimleri listeler.\nHidrostatik prensipleri sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "2. Hidrolik Prensipler",
+      "KAZANIM": "Hidrostatik ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrostatik prensipleri açıklar.\nHidrolik basınç yükseltme ile ilgili hesapları yapar\nHidrodinamik prensipleri sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "2. Hidrolik Prensipler / 3. Hidrodinamik Prensipler",
+      "KAZANIM": "Hidrostatik ile ilgili hesaplamaları yapar.\nHidrodinamik ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrodinamik prensipleri açıklar..\nHidrodinamik prensipleri sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "3. Hidrodinamik Prensipler / 4. Hidrolik Akışkanlar ve Yağlar",
+      "KAZANIM": "Hidrodinamik ile ilgili hesaplamaları yapar.\nHidrolik sistemlerde uygun hidrolik yağ seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrodinamik prensipleri açıklar.\nHidrolik yağın görevlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "4. Hidrolik Akışkanlar ve Yağlar / 5. Hidrolik Devrede Kullanılan Semboller",
+      "KAZANIM": "Hidrolik sistemlerde uygun hidrolik yağ seçimi yapar.\nHidrolik sembollerini seçip kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yağlarda aranan özellikleri sıralar.\nHidrolik yağ çeşitlerini açıklar.\nHidrolik devre çiziminde kullanılan hatları açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "5. Hidrolik Devrede Kullanılan Semboller",
+      "KAZANIM": "Hidrolik sembollerini seçip kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik devre elemanlarının sembollerini açıklar.\nHidrolik devre yardımcı devre elemanları sembollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "6. Hidrolik Devreler",
+      "KAZANIM": "Basit hidrolik devre çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik devre çeşitlerini açıklar.\nHidrolik devre üzerindeki hatlar ve devrelerin ana kısımlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Temel hidrolik terimleri sunar.\n2. Hidrolikte kullanılan birimleri dönüştürür.\n3. Hidrolik sistemin avantaj ve dezavantajlarının sunumunu yapar.\n4. Hidrostatik prensipleri sunar.\n5. Pascal kanunu ile ilgili hesapları yapar.\n6. Bernoulli prensibi ile ilgili hesapları yapar.\n7. Süreklilik denklemi ile ilgili hesapları yapar.\n8. Yağ bilgilerini almak için katalog kullanır.\n9. Hidrolik yağı seçer.\n10. Hidrolik devre sembollerini okur.\n11. Hidrolik devre sembollerini çizer.\n12. Hidrolik devre üzerinde hidrolik elemanı tespit eder.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "1. Depolar ve donanım",
+      "KAZANIM": "Hidrolik tank ve donanımını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yağ depolarının tanımı, görevi ve sembolünü açıklar.\nHidrolik yağ deposu seçiminde dikkat edilecek hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "1. Depolar ve donanım",
+      "KAZANIM": "Hidrolik tank ve donanımını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Isıtıcıların - soğutucuların görevi ve özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "2. Filtreler",
+      "KAZANIM": "Hidrolik filtre ve donanımının seçimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Filtrelerin görevi, sembolü ve yapısal özelliklerini açıklar.\nFiltre çeşitlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "3. Hidrolik Pompalar",
+      "KAZANIM": "Hidrolik pompaların seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik pompaların görevleri, sembolü ve çeşitlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "3. Hidrolik Pompalar",
+      "KAZANIM": "Hidrolik pompaların seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompaların çalışmasını açıklar.\nPompalarda debinin (deplasman) tanımı ve hesaplanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "3. Hidrolik Pompalar",
+      "KAZANIM": "Hidrolik pompaların seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik pompaları karşılaştırır.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "4. Hidrolik Motorlar",
+      "KAZANIM": "Hidrolik motorların seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik motorların görevleri, çeşitleri ve sembolünü açıklar.\nHidrolik motorlarda döndürme momentinin hesaplanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "4. Hidrolik Motorlar",
+      "KAZANIM": "Hidrolik motorların seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik motorların kullanma alanlarını sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "4. Hidrolik Motorlar / 5. Valfler",
+      "KAZANIM": "Hidrolik motorların seçimini ve ilgili hesaplamaları yapar.\nHidrolik valflerin seçimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik motor seçiminde dikkat edilecek hususları listeler.\nValflerin görevleri ve sembolünü açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "5. Valfler",
+      "KAZANIM": "Hidrolik valflerin seçimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Valf çeşitlerini listeler.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "6.Hidrolik Silindirler",
+      "KAZANIM": "Hidrolik silindirlerin seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik silindirlerin görevleri, çeşitleri ve sembolünü açıklar.\nHidrolik silindir çeşitlerini listeler.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "6.Hidrolik Silindirler",
+      "KAZANIM": "Hidrolik silindirlerin seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Silindirlerde piston itme ve çekme kuvvetlerinin hesaplanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "7. Borular ve Hortumlar",
+      "KAZANIM": "Hidrolik boru, hortum ve bağlantı elemanlarının seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik akış türlerini sıralar.\nBorular ve hortumların yapısal özelliklerini listeler.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "7. Borular ve Hortumlar",
+      "KAZANIM": "Hidrolik boru, hortum ve bağlantı elemanlarının seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Boru seçiminde ve montajında dikkat edilecek hususları açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "7. Borular ve Hortumlar",
+      "KAZANIM": "Hidrolik boru, hortum ve bağlantı elemanlarının seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Boru çapının hesaplanmasını açıklar.\nHidrolik sistemde kullanılan sızdırmazlık elemanları ve manometrelerin sembollerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "8. Hidrolik Akümülatör",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik akümülatörlerin görevleri, çalışması ve sembolünü açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "8. Hidrolik Akümülatör",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik akümülatör çeşitlerini listeler.\nHidrolik akümülatörlerle çalışırken dikkat edilmesi gereken hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "8. Hidrolik Akümülatör",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik akümülatörlerin bakımı ve akümülatöre gaz doldurulmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Hidrolik sistemde yağ deposu kapasitesini tespit eder.\n2. Isıtıcı kapasitesini tespit eder.\n3. Soğutucu kapasitesini tespit eder.\n4. Depo üzerinde bulunması gereken diğer avadanlıkları seçer.\n5. İş güvenlik kurallarına uyma konusunda hassas davranır.\n6. Hidrolik sistemde kullanılan filtreleri seçer.\n7. Hidrolik sistemde kullanılan filtre donanımlarını seçer.\n8. Pompalarda debiyi hesaplar.\n9. Hidrolik pompaların verim hesabını yapar.\n10. Hidrolik pompa seçimini yapar.\n11. Hidrolik motor seçimini yapar.\n12. Hidrolik motorlarda döndürme momentini hesaplar.\n13. Yön kontrol valflerini sembollerle çizerek gösterir.\n14. Basınç kontrol valflerini sembollerle çizerek gösterir.\n15. Akış kontrol valflerini sembollerle çizerek gösterir.\n16. Valf çeşitlerini tespit eder.\n17. Hidrolik silindirler ile ilgili hesapları yapar.\n18. Hidrolik silindir seçimi yapar.\n19. Hidrolik borular ile ilgili hesapları yapar.\n20. Hidrolik boruların seçimini yapar.\n21. Hidrolik akümülatörleri seçer.\n22. Hidrolik akümülatörlerin kontrolünü yapar.\n23. Hidrolik akümülatörlere doldurulacak gazı belirler.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "1. Pnömatik Prensipler",
+      "KAZANIM": "Havanın hazırlanmasında kullanılan devre elemanlarının kontrol ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatiğin tanımı ve temel prensiplerini açıklar.\nPnömatik sistemlerin üstün ve olumsuz yönlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "1. Pnömatik Prensipler",
+      "KAZANIM": "Havanın hazırlanmasında kullanılan devre elemanlarının kontrol ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik ve pnömatik sistemlerini karşılaştırır.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "1. Pnömatik Prensipler / 2. Pnömatik Silindirler",
+      "KAZANIM": "Havanın hazırlanmasında kullanılan devre elemanlarının kontrol ve hesaplarını yapar.\nPnömatik silindirlerin seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik devrelerin ana kısımlarını ve havanın hazırlanmasını açıklar.\nPnömatik silindirlerin görevleri, çeşitleri ve simgesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "2. Pnömatik Silindirler",
+      "KAZANIM": "Pnömatik silindirlerin seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Silindirlerde kuvvet iletiminin hesaplanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "3. Pnömatik Motorlar",
+      "KAZANIM": "Pnömatik motorların seçimini ve ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik motorların görevlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "3. Pnömatik Motorlar / 4. Pnömatik Valfler",
+      "KAZANIM": "Pnömatik motorların seçimini ve ilgili hesaplamaları yapar.\nPnömatik valflerin seçimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik motorların çeşitlerini sıralar.\nValflerin görevleri ve sembolünü açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "4. Pnömatik Valfler",
+      "KAZANIM": "Pnömatik valflerin seçimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Valf çeşitlerini listeler.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "5. Pnömatik Devreler",
+      "KAZANIM": "Pnömatik devre çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik devre çeşitlerini açıklar.\nPnömatik devre üzerindeki hatlar ve devrelerin ana kısımlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "6. Pnömatik Devrelerin Bakımı",
+      "KAZANIM": "Pnömatik devrelerin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik devrelerin bakımını açıklar.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "6. Pnömatik Devrelerin Bakımı",
+      "KAZANIM": "Pnömatik devrelerin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik devrelerin bakım zamanlarını listeler.",
+        "Ortam ve Donanım": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Öğretim Teknikleri": "Ortam: Hidrolik – Pnömatik Laboratuvarı\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, Lokma Takımı, Tornavidalar, Açık Ağızlı Anahtar Seti, Hidrolik Laboratuvarı, Hidrolik – Pnömatik laboratuvarı, Kompresör",
+        "Ölçme": "Gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları",
+        "Temrin Listesi": "1. Boyle – Mariotte kanunu sunumunu yapar.\n2. Gay-Lussac kanunun sunumunu yapar.\n3. Havanın nem miktarını hesaplar.\n4. Pnömatik silindirlerde oluşan kuvvetleri tespit eder.\n5. Pnömatik silindirlerde oluşan kuvvetleri hesaplar.\n6. Pnömatik motorların tipini belirler.\n7. Tipi belirlenen pnömatik motorun özelliklerini sunar.\n8. Yön kontrol valflerini sembollerle çizerek gösterir.\n9. Basınç kontrol valflerini sembollerle çizerek gösterir.\n10. Akış kontrol valflerini sembollerle çizerek gösterir.\n11. Pnömatik devre hatlarını tespit eder.\n12. Pnömatik devre elemanlarını belirler.\n13. Pnömatik devre çizimi yapar.\n14. Hidrolik ve pnömatik devrelerin günlük bakımlarını yapar.\n15. Hidrolik ve pnömatik devrelerin haftalık bakımlarını yapar.\n16. Hidrolik ve pnömatik devrelerin aylık bakımlarını yapar."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

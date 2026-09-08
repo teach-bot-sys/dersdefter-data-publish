@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Grafik Ve Canlandirma",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/1484/grafik-ve-canlandirma-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "1. Görüntü İşleme Programı / 2. Temel Komutlar",
+      "KAZANIM": "Görüntü işleme programlarının kurulumunu yapar.\nTemel komutları gruplandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProgram kurulumu yaptırılır.\n•\nProgram arayüzü açıklanır.\n•\nTemel komutlar listelenir.\n•\nProgram araçları açıklanır.\n•\nKesme dilimleme araçları gösterilir.\n•\nYazı araçları gösterilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "2. Temel Komutlar / 3. Boyut ve Çözünürlük",
+      "KAZANIM": "Temel komutları gruplandırır.\nBoyut ve çözünürlük ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRötuş araçları gösterilir.\n•\nBoyama araçları gösterilir.\n•\nTemel terimler anlatılır.\n•\nBoyutlandırmada dikkat edilecek hususları anlatılır.\n•\nDosya boyut orantısı ayarlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "3. Boyut ve Çözünürlük / 4. Seçili Alan Oluşturmak ve Renk Ayarı Yapmak",
+      "KAZANIM": "Boyut ve çözünürlük ayarlarını yapar.\nSeçili alan oluşturarak renk ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDosya yeniden boyutlandırılır.\n•\nDosya boyutuna dokunmadan baskı boyutu ve çözünürlüğünü ayarlanır.\n•\nSeçili alan tanımlanır.\n•\nTon ve kontrast kavramları açıklanır.\n•\nSeçili bir alan oluşturtulur.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "4. Seçili Alan Oluşturmak ve Renk Ayarı Yapmak / 5. Katmanlar (Layers)",
+      "KAZANIM": "Seçili alan oluşturarak renk ayarlarını yapar.\nKatman işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSeçili alanın sınırları büyütülür, küçültülür, tersine çevrilir ve yumuşatılır.\n•\nResim ve fotoğraf üzerinde ton ayarları yapılır.\n•\nResim ve fotoğraf üstünde kontrast ayarları yapılır.\n•\nKatmanlar tanımlanır.\n•\nKatman özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "5. Katmanlar (Layers)",
+      "KAZANIM": "Katman işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYeni bir katman ekleme açıklanır.\n•\nKatman çoğaltma açıklanır.\n•\nKatmanların sırasının değiştirilmesi açıklanır.\n•\nKatmanların birbirine bağlanması açıklanır.\n•\nKatman hizalama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "5. Katmanlar (Layers)",
+      "KAZANIM": "Katman işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatman gruplandırma işlemi yaptırılır.\n•\nBirden çok katman tek bir katmana dönüştürülür.\n•\nKatman maskeleme yaptırılır.\n•\nKatmanlara stil uygulanır.\n•\nBir katmana uygulanmış olan stiller başka bir katmana aktarılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "6. Filtreler (Filters) / 7. Biçimli Yazılar Tasarlamak / 8. Eylemler (Actions)",
+      "KAZANIM": "Filtre galerisini resimler ya da sayfa üzerinde kullanır.\nBiçimli yazılar tasarlar.\nEylemler panelini resimler üzerinde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFiltre galerisinde yer alan efektlerin kullanıldığı çalışmalar yaptırılır..\n•\nÇeşitli araçlar yardımı ile biçimli yazılar tasarlatılır.\n•\nFiltreleri kullanarak biçimli yazılar tasarlatılır.\n•\nEylemler panelindeki tanımlı eylemleri kullanarak birden fazla komutu bir resim üzerinde nasıl kullanılacağı gösterilir.\n•\nBelli bir sayıdaki resimler üzerinde, mevcut ya da kullanıcının tanımladığı eylemlerin nasıl kullanılacağı gösterilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü İşleme",
+      "KONU": "9. Web Arayüzü ve Bölümleri Hazırlamak / 10. Web Arayüzüne Dilim Eklemek",
+      "KAZANIM": "Web Arayüzünü bölümleriyle birlikte oluşturur.\nHazırlanan Arayüzü dilimleyip Html Olarak Kaydeder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygun boyutta arayüz belgesi oluşturulur\n•\nFarklı tasarımlarla navigasyon (butonlar) ve diğer sayfa bölümleri oluşturulur.\n•\nArayüzün nasıl dilimleneceği gösterilir.\n•\nDilimlere nasıl link verileceği gösterilir.\n•\nDilimlenmiş arayüzün html olarak web sayfasına dönüştürülmesi gösterilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görüntü işleme programına dosya yüklemek.\n2.Dosyaların boyutunu ve çözünürlük ayarlarını değiştirmek.\n3.Dosyalar üzerinde renk ayarlarını yapmak.\n4.Görüntü dosyaları üzerinde katman işlemleri uygulamak.\n5.Görüntü dosyalarını uygun formatta kayıt etmek.\n6.Filtre galerisini resimler ya da sayfa üzerinde kullanmak\n7. Biçimli yazılar tasarlamak.\n8. Eylemler panelini resimler üzerinde kullanmak.\n9. Web Arayüzünü bölümleriyle birlikte oluşturmak.\n10. Hazırlanan Arayüzü dilimleyip Html Olarak Kaydetmek.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Görsel Efekt Yazılımında Temel Düzenlemeler",
+      "KONU": "1. Görsel Efekt Program Kurulumu / 2. Çalışma Sahnesi Ayarları",
+      "KAZANIM": "Gerekli programların kurulumunu yapar.\nGörsel efekt yazılımında açılış ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProgram kurulumu yaptırılır.\n•\nÇalışma alanı ve paneller üzerinde kişiselleştirme ayarları yaptırılır.\n•\nKlavye kısa yollarının ayarlanması gösterilir varsayılan standardın en geçerli hali olduğu vurgulanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görsel efekt yazılımında açılış ayarlarını yapmak.\n2.Görsel efekt yazılımında materyal (import) eklemek.\n3.Tipografik öğeleri uygulamak.\n4. Görsel efekt yazılımında çıktı (render)almak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Görsel Efekt Yazılımında Temel Düzenlemeler",
+      "KONU": "3. Materyal Eklemek",
+      "KAZANIM": "Görsel efekt yazılımına materyal ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMateryal ekleme seçeneklerini gösterilir.\n•\nGörsel efekt yazılımına fotoğraf, video,ses dosyalarını (import) ekleme gerçekleştirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görsel efekt yazılımında açılış ayarlarını yapmak.\n2.Görsel efekt yazılımında materyal (import) eklemek.\n3.Tipografik öğeleri uygulamak.\n4. Görsel efekt yazılımında çıktı (render)almak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Görsel Efekt Yazılımında Temel Düzenlemeler",
+      "KONU": "3. Materyal Eklemek",
+      "KAZANIM": "Görsel efekt yazılımına materyal ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProject bölümünde dosyalama ve düzenin önemi vurgulanır(her tür dosya kendi katmanında yer almalıdır.)\n•\nGörsel efekt yazılımının araç kutusundaki seçim, el ile taşıma ve şekil ekleme gösterilir.\n•\nShape (şekil) eklendiğinde iç dolgu ve çizgi renklerinin/kalınlığının ayarlanması gösterilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görsel efekt yazılımında açılış ayarlarını yapmak.\n2.Görsel efekt yazılımında materyal (import) eklemek.\n3.Tipografik öğeleri uygulamak.\n4. Görsel efekt yazılımında çıktı (render)almak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Görsel Efekt Yazılımında Temel Düzenlemeler",
+      "KONU": "4. Dönüştürme (Transform) İşlemleri / 5. Çıktı (Render)",
+      "KAZANIM": "Dönüştürme işlemlerini (transform) uygular.\nGörsel efekt yazılımında çıktı (render) alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMateryallerin dönüştürme (transform) özellikleri gösterilir.\n•\nKompozisyona çıktı kuyruğu (render queue) ekleme sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görsel efekt yazılımında açılış ayarlarını yapmak.\n2.Görsel efekt yazılımında materyal (import) eklemek.\n3.Tipografik öğeleri uygulamak.\n4. Görsel efekt yazılımında çıktı (render)almak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Görsel Efekt Yazılımında Temel Düzenlemeler",
+      "KONU": "5. Çıktı (Render)",
+      "KAZANIM": "Görsel efekt yazılımında çıktı (render) alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYayın formatı seçme sağlanır.\n•\nGörsel efekt programında kaliteli ve düşük boyutlu render alma sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Görsel efekt yazılımında açılış ayarlarını yapmak.\n2.Görsel efekt yazılımında materyal (import) eklemek.\n3.Tipografik öğeleri uygulamak.\n4. Görsel efekt yazılımında çıktı (render)almak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "1. Kompozisyon Oluşturmak / 2. Kompozisyon Ayarları",
+      "KAZANIM": "Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapar.\nAnahtar karelerle dönüştürme ve hareketin hız ve zaman ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nZaman çizelgesine nesne ekleme (shape,resim video,ses), sıraya dizme,kompozisyona uygun konumlandırma,dönüştürme işlemleri yapması sağlanır.\n•\nAnahtar karelerin eklenmesi, timeline üzerinde taşıma silme kopyalama yapıştırma işlemlerinin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "2. Kompozisyon Ayarları",
+      "KAZANIM": "Anahtar karelerle dönüştürme ve hareketin hız ve zaman ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGrafik editörü kullanarak hareketin hız ve zaman ayarlarını yapma sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "3. Katmanlar",
+      "KAZANIM": "Birden fazla materyali kullanarak katman düzenlemesi yapabilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatmanların özelliklerini açıklama sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "3. Katmanlar",
+      "KAZANIM": "Birden fazla materyali kullanarak katman düzenlemesi yapabilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMateryallerin katman(layer)panelini kullanarak ayarlama sağlanır.\n•\nKatmanların renk karışımlarını belirleyerek farklı görüntüler oluşturabilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "4. Zaman Cetveli (Timeline)",
+      "KAZANIM": "Materyallerin etiketlerini(label) kompozisyon süresine göre uzatır, kısaltır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEtiketlerin(label)süresini katman paneline göre uzatıp kısaltma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "5. Yazı Oluşturmak",
+      "KAZANIM": "Kompozisyona uygun hazırlanan yazıları dönüştürme işlemleriyle uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYazı karakter ve biçimsel özelliklerinin kullanılma sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "5. Yazı Oluşturmak",
+      "KAZANIM": "Kompozisyona uygun hazırlanan yazıları dönüştürme işlemleriyle uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHazır yazı animasyonlarını kullanma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "6. Şekil Oluşturmak",
+      "KAZANIM": "Kompozisyona uygun eklenen şekillerin katman özellikleri kullanılarak dönüştürme animasyonları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nŞekillerle temel transform animasyonları dışındaki animasyonları yapar (Trim path,wiggle, twist,repetear). .\n•\nBir şeklin sınırlarını diğer bir şeklin animasyon yolu yaparak kullanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "6. Şekil Oluşturmak",
+      "KAZANIM": "Kompozisyona uygun eklenen şekillerin katman özellikleri kullanılarak dönüştürme animasyonları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKukla (puppetpin) aracını kullanarak materyalleri hareket ettirmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "7. Hareket Takibi",
+      "KAZANIM": "Nesnelerin birbirini takip etmesini sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnimasyon eklenmiş bir nesneyi başka bir nesnenin takip etmesini sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Hareketli Görüntüler",
+      "KONU": "7. Hareket Takibi",
+      "KAZANIM": "Nesnelerin birbirini takip etmesini sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nNull(boş) obje ekleyerek animasyon yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Materyallerin kompozisyon zaman çizelgesi panelinde dönüştürme işlemlerini yapmak.\n2.Anahtar karelerle hız ve zaman ayarlarını yapmak.\n3.Birden fazla materyali kullanarak katman düzenlemek.\n4.Materyallerin etiketlerini katman süresine göre uzatma, kısaltmak.\n5.Kompozisyona uygun hazırlanan yazıları tipografik öğelerle kullanmak.\n6.Kompozisyona uygun kullanılan şekil özelliklerini tipografik öğelerle kullanmak.\n7.Materyallere hareket takibi işlemlerini yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "1. Maskeleme(Mask)",
+      "KAZANIM": "Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMaskeleme alanın belirleme sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "1. Maskeleme(Mask)",
+      "KAZANIM": "Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMaskenin path özellikleri kullanılarak maskeyi animasyonlarda kullanma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "1. Maskeleme(Mask)",
+      "KAZANIM": "Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatmanların Alpha/Matte özelliğini kullanılarak farklı maskeleme yöntemlerini kullanma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "2. Yeşil Perde (Green Box)Teknolojisi",
+      "KAZANIM": "Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRenk ayrıştırma(keying)efekti açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "2. Yeşil Perde (Green Box)Teknolojisi",
+      "KAZANIM": "Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRenk ayrıştırmayla yapılmış görüntülerle yeni görüntüler oluşturma sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "3. Roto Brush Aracı Maskeleme ve Rotoskop",
+      "KAZANIM": "Farklı katmanlarda oluşturulan görüntülerle yeni görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRotobrush aracının özellikleri anlatılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Maskeleme Teknikleri",
+      "KONU": "3. Roto Brush Aracı Maskeleme ve Rotoskop",
+      "KAZANIM": "Farklı katmanlarda oluşturulan görüntülerle yeni görüntüler oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRotoskop yapılacak alanın seçimi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Farklı katmanlarda oluşturulan maskeleme alanları birleştirerek görüntüler oluşturmak.\n2. Renk ayrıştırma işlemleriyle (keying) oluşmuş görüntüleri kullanarak yeni görüntüler oluşturmak.\n3.Farklı katmanlarda oluşturulan rotobrush çalışmalarıyla görüntüler oluşturmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü Efekti Oluşturma",
+      "KONU": "1. Efektler",
+      "KAZANIM": "Belirlenen efektlerin oluşturulan alana göre sıralama ve ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBirden fazla efektin kullanılması örneklerle açıklama sağlanır.\n•\nAyarlama katmanı (Adjustment layer) ekleyerek efektleri uygulanma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Belirlenen efektlerin oluşturulan alana göre ayarlarını yapmak.\n2. Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapmak.\n3. Çalışmaya uygun ışık tipini belirleyerek hareketlendirmek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü Efekti Oluşturma",
+      "KONU": "1. Efektler",
+      "KAZANIM": "Belirlenen efektlerin oluşturulan alana göre sıralama ve ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEfektlerde komut satırları kullanma açıklanır.\n•\nEfektler kullanarak katmanlar arası geçiş animasyonları yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Belirlenen efektlerin oluşturulan alana göre ayarlarını yapmak.\n2. Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapmak.\n3. Çalışmaya uygun ışık tipini belirleyerek hareketlendirmek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü Efekti Oluşturma",
+      "KONU": "2. Sahnede Kamera",
+      "KAZANIM": "Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKamera çeşitleri ve kameranın lens özelliklerinin ayarlanması açıklanır.\n•\nFarklı lenslerde ve açılarda kamera kullanılması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Belirlenen efektlerin oluşturulan alana göre ayarlarını yapmak.\n2. Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapmak.\n3. Çalışmaya uygun ışık tipini belirleyerek hareketlendirmek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü Efekti Oluşturma",
+      "KONU": "2. Sahnede Kamera / 3. Sahnede Işık",
+      "KAZANIM": "Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapar.\nÇalışmaya uygun ışık tipini belirleyerek hareketlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKamera ile nesnelerin 3D özelliğini kullanarak animasyonlar yaptırır.\n•\nNesnelerin ışık karşısındaki davranışlarının belirlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Belirlenen efektlerin oluşturulan alana göre ayarlarını yapmak.\n2. Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapmak.\n3. Çalışmaya uygun ışık tipini belirleyerek hareketlendirmek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Görüntü Efekti Oluşturma",
+      "KONU": "3. Sahnede Işık",
+      "KAZANIM": "Çalışmaya uygun ışık tipini belirleyerek hareketlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nIşığın ortamdaki ve nesnelerdeki ayarlamaları açıklanır.\n•\nFarklı tiplerde seçilen ışıkların konumlandırılması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, bilgisayarda görsel efekt yazılımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Belirlenen efektlerin oluşturulan alana göre ayarlarını yapmak.\n2. Çalışmaya uygun kamerayı ayarlayarak konumlandırıp hareketlendirilmesini yapmak.\n3. Çalışmaya uygun ışık tipini belirleyerek hareketlendirmek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

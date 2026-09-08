@@ -1,0 +1,788 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "7",
+  "ders": "Matematik",
+  "grup": "Kültür Dersleri",
+  "brans": "İlköğretim Matematik",
+  "sistem": "Maarif",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/ilkogretim-matematik/1725/matematik-7",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)",
+      "KONU": "Tam Sayılar\nRasyonel Sayılar ve Farklı Temsilleri",
+      "KAZANIM": "MAT.7.1.1.\nGerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.1",
+        "Süreç Bileşenleri": "MAT.7.1.1\na)\nTam sayıları inceler.\nb)\nTam sayıları rasyonel sayılara genişletir ve mutlak değerle sayı doğrusunda açıklar.\nc)\nSayı doğrusu üzerinde her rasyonel sayının bir noktaya karşılık geldiğini açıklar.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)",
+      "KONU": "Tam Sayılar\nRasyonel Sayılar ve Farklı Temsilleri",
+      "KAZANIM": "MAT.7.1.1.\nGerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.1",
+        "Süreç Bileşenleri": "MAT.7.1.1\na)\nTam sayıları inceler.\nb)\nTam sayıları rasyonel sayılara genişletir ve mutlak değerle sayı doğrusunda açıklar.\nc)\nSayı doğrusu üzerinde her rasyonel sayının bir noktaya karşılık geldiğini açıklar.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 15 Temmuz Demokrasi ve Milli Birlik Günü"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)",
+      "KONU": "Rasyonel Sayılar ve Farklı Temsilleri",
+      "KAZANIM": "MAT.7.1.2.\nGerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.2",
+        "Süreç Bileşenleri": "MAT.7.1.2\na)\nBölme işlemini kullanarak her rasyonel sayının bir ondalık gösterimi olduğunu inceler.\nb)\nRasyonel sayıların ondalık gösterimlerinden bazılarının devirli olduğuna dair çıkarım yapar.\nc)\nHer rasyonel sayının devirli ya da devirsiz ondalık açılımları olduğunu değerlendirir.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3+2",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)",
+      "KONU": "Rasyonel Sayılar ve Farklı Temsilleri\nRasyonel Sayılarda Karşılaştırma ve Sıralama",
+      "KAZANIM": "MAT.7.1.2.\nGerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilme\nMAT.7.1.3.\nRasyonel sayıların karşılaştırma ve sıralama ilişkilerini yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.2\nMAT.7.1.3",
+        "Süreç Bileşenleri": "MAT.7.1.2.\na)\nBölme işlemini kullanarak her rasyonel sayının bir ondalık gösterimi olduğunu inceler.\nb)\nRasyonel sayıların ondalık gösterimlerinden bazılarının devirli olduğuna dair çıkarım yapar.\nc)\nHer rasyonel sayının devirli ya da devirsiz ondalık açılımları olduğunu değerlendirir.\nMAT.7.1.3.\na)\nPaydası 1 olan rasyonel sayılardan (tam sayılardan) başlayarak rasyonel sayıları sayı doğrusunda inceler.\nb)\nRasyonel sayıların karşılaştırma ve sıralama ilişkilerini sembolik olarak ifade eder.\nc)\nRasyonel sayıların karşılaştırma ve sıralama ilişkisini sayı doğrusu üzerinde kendi ifadeleriyle açıklar.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)",
+      "KONU": "Rasyonel Sayılarda Karşılaştırma ve Sıralama",
+      "KAZANIM": "MAT.7.1.3.\nRasyonel sayıların karşılaştırma ve sıralama ilişkilerini yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.3",
+        "Süreç Bileşenleri": "MAT.7.1.3\na)\nPaydası 1 olan rasyonel sayılardan (tam sayılardan) başlayarak rasyonel sayıları sayı doğrusunda inceler.\nb)\nRasyonel sayıların karşılaştırma ve sıralama ilişkilerini sembolik olarak ifade eder.\nc)\nRasyonel sayıların karşılaştırma ve sıralama ilişkisini sayı doğrusu üzerinde kendi ifadeleriyle açıklar.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)",
+      "KONU": "Rasyonel Sayılarla İşlemler ve Problem Çözme",
+      "KAZANIM": "MAT.7.1.4.\nRasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.4",
+        "Süreç Bileşenleri": "MAT.7.1.4\na)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde sayı ve işlem bileşenlerini belirler.\nb)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde istenenler ve seçilen işlemler arasındaki ilişkileri belirler.\nc)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür.\nç)\nKullanılan temsil üzerinden problemi kendi ifadeleri ile açıklar.\nd)\nProblemlerin çözümü için stratejiler oluşturur.\ne)\nStratejileri işe koşarak problemi çözer.\nf)\nProblemin çözümünü kontrol eder.\ng)\nProblemlerin olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilere uygun genellemeler yapar.\nh)\nGenellemelerin geçerliliğini değerlendirir.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3+(2)*",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA*\nSAYILAR VE NİCELİKLER (1)",
+      "KONU": "OKUL TEMELLİ PLANLAMA*\nRasyonel Sayılarla İşlemler ve Problem Çözme",
+      "KAZANIM": "MAT.7.1.4.\nRasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.4",
+        "Süreç Bileşenleri": "MAT.7.1.4\na)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde sayı ve işlem bileşenlerini belirler.\nb)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde istenenler ve seçilen işlemler arasındaki ilişkileri belirler.\nc)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür.\nç)\nKullanılan temsil üzerinden problemi kendi ifadeleri ile açıklar.\nd)\nProblemlerin çözümü için stratejiler oluşturur.\ne)\nStratejileri işe koşarak problemi çözer.\nf)\nProblemin çözümünü kontrol eder.\ng)\nProblemlerin olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilere uygun genellemeler yapar.\nh)\nGenellemelerin geçerliliğini değerlendirir.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 29 Ekim Cumhuriyet Bayramı"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2+3",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (1)\nGEOMETRİK NİCELİKLER (1)",
+      "KONU": "Rasyonel Sayılarla İşlemler ve Problem Çözme\nCisimlerin Farklı Yönlerden Görünümleri",
+      "KAZANIM": "MAT.7.1.4.\nRasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme\nMAT.7.4.1.\nEş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB3.\nFinansal Okuryazarlık\nOB4.\nGörsel Okuryazarlık\nOB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.4\nMAT.7.4.1",
+        "Süreç Bileşenleri": "MAT.7.1.4.\na)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde sayı ve işlem bileşenlerini belirler.\nb)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde istenenler ve seçilen işlemler arasındaki ilişkileri belirler.\nc)\nRasyonel sayılarla toplama, çıkarma, çarpma ve bölme işlemlerini içeren problemlerde problem bağlamını uygun temsillere (şekil, sayı doğrusu gibi) dönüştürür.\nç)\nKullanılan temsil üzerinden problemi kendi ifadeleri ile açıklar.\nd)\nProblemlerin çözümü için stratejiler oluşturur.\ne)\nStratejileri işe koşarak problemi çözer.\nf)\nProblemin çözümünü kontrol eder.\ng)\nProblemlerin olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilere uygun genellemeler yapar.\nh)\nGenellemelerin geçerliliğini değerlendirir.\nMAT.7.4.1.\na)\nEş küplerle oluşturulan yapıların farklı yönlerden görünümlerini çizer ve görünümleri verilen yapıları eş küplerle oluşturur.\nb)\nOluşturduğu yapı ile görünümleri arasındaki ilişkileri belirler.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "İzleme Testi\nPerformans Görevi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nAçık Uçlu Sorulardan Oluşan Çalışma Kâğıdı\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2+2+1",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (1)",
+      "KONU": "Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı",
+      "KAZANIM": "MAT.7.4.2.\nDikdörtgenler prizmasının yüzey alanını yorumlayabilme\nMAT.7.4.3.\nDikdörtgenler prizmasının hacmini eş nesneler aracılığıyla yorumlayabilme\nMAT.7.4.4.\nDikdörtgenler prizmasının hacim bağıntısını değerlendirebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.2\nMAT.7.4.3\nMAT.7.4.4",
+        "Süreç Bileşenleri": "MAT.7.4.2.\na)\nDikdörtgenler prizmasının farklı yüzey açınımlarını inceler.\nb)\nDikdörtgenler prizmasının yüzey açınımı ile yüzey alanı arasındaki ilişkileri ifade eder.\nc)\nDikdörtgenler prizmalarının yüzey açınımlarından yararlanarak yüzey alanlarını hesaplar.\nMAT.7.4.3.\na)\nDikdörtgenler prizmalarının hacimlerini karşılaştırarak inceler.\nb)\nEş nesneler ile doldurulmuş dikdörtgenler prizmasını oluşturur.\nc)\nDikdörtgenler prizmasını oluşturan eş nesnelerin sayısını prizmanın hacmi olarak ifade eder.\nMAT.7.4.4.\na)\nDikdörtgenler prizmasının hacmini belirlemede ölçüt olarak birim küpleri belirler.\nb)\nDikdörtgenler prizmasının hacmini belirlemek için prizmaların içine yerleştirilen birim küpleri sayar.\nc)\nToplam birim küp sayısı ile dikdörtgenler prizmasının ayrıt uzunluklarını karşılaştırır.\nç)\nBirim küpleri farklı stratejilerle sayarak dikdörtgenler prizmasının hacmini taban alanı ile yüksekliğin çarpımı olarak ifade eder.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nAçık Uçlu Sorular\nZihin Haritası\nKontrol Listesi\nÖz Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Atatürk Haftası\n(10-16 Kasım)"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2+3",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (1)",
+      "KONU": "Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı\nHacim Ölçme Birimleri",
+      "KAZANIM": "MAT.7.4.4.\nDikdörtgenler prizmasının hacim bağıntısını değerlendirebilme\nMAT.7.4.5.\nHacim ölçme birimleri arasındaki ilişkileri değerlendirebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.4\nMAT.7.4.5",
+        "Süreç Bileşenleri": "MAT.7.4.4.\na)\nDikdörtgenler prizmasının hacmini belirlemede ölçüt olarak birim küpleri belirler.\nb)\nDikdörtgenler prizmasının hacmini belirlemek için prizmaların içine yerleştirilen birim küpleri sayar.\nc)\nToplam birim küp sayısı ile dikdörtgenler prizmasının ayrıt uzunluklarını karşılaştırır.\nç)\nBirim küpleri farklı stratejilerle sayarak dikdörtgenler prizmasının hacmini taban alanı ile yüksekliğin çarpımı olarak ifade eder.\nMAT.7.4.5.\na)\nBir cismin hacmini ölçmede metreküpü ve litreyi ölçüt olarak belirler.\nb)\nMetreküp ve litreyi kullanarak ölçme yapar.\nc)\nHacim ölçme sonuçlarını desimetreküp, santimetreküp ve milimetreküp; sıvı ölçme sonuçlarını desilitre, santilitre ve mililitre ile ilişkilendirerek karşılaştırır.\nç)\nKarşılaştırmalarına ilişkin yargıda bulunur.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nAçık Uçlu Sorular\nZihin Haritası\nKontrol Listesi\nÖz Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı\nİzleme Testi",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 24 Kasım Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (1)",
+      "KONU": "Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı",
+      "KAZANIM": "MAT.7.4.6.\nGünlük hayat durumlarında dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.6",
+        "Süreç Bileşenleri": "MAT.7.4.6\na)\nDikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problemde ilgili matematiksel bileşenleri (şekil, cisim, uzunluk, alan, yükseklik gibi) belirler.\nb)\nMatematiksel bileşenler arasındaki ilişkileri belirler.\nc)\nProblem bağlamındaki temsilleri farklı temsillere dönüştürür.\nç)\nMatematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.\nd)\nProblemin sonucuna ilişkin tahminde bulunarak işlemleri gerçekleştirmek için stratejiler geliştirir.\ne)\nBelirlediği stratejileri çözüm için uygular.\nf)\nÇözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.\nğ)\nKullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "Değerler": "D17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nAçık Uçlu Sorular\nZihin Haritası\nKontrol Listesi\nÖz Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı\nİzleme Testi",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 3 Aralık Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "1+4",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (1)\nİSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı\nKategorik ve Nicel (Sürekli) Veri Dağılımları",
+      "KAZANIM": "MAT.7.4.6.\nGünlük hayat durumlarında dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problem çözebilme\nMAT.7.6.1.\nKategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.6\nMAT.7.6.1",
+        "Süreç Bileşenleri": "MAT.7.4.6.\na)\nDikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problemde ilgili matematiksel bileşenleri (şekil, cisim, uzunluk, alan, yükseklik gibi) belirler.\nb)\nMatematiksel bileşenler arasındaki ilişkileri belirler.\nc)\nProblem bağlamındaki temsilleri farklı temsillere dönüştürür.\nç)\nMatematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.\nd)\nProblemin sonucuna ilişkin tahminde bulunarak işlemleri gerçekleştirmek için stratejiler geliştirir.\ne)\nBelirlediği stratejileri çözüm için uygular.\nf)\nÇözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.\nğ)\nKullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.\nMAT.7.6.1.\na)\nKategorik veya nicel (sürekli) veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.\nb)\nKategorik veya nicel (sürekli) veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur.\nc)\nKategorik veya nicel (sürekli) veriye ulaşmak için plan yapar.\nç)\nAraştırma sorusuna uygun hazırlanan anket sorularını kullanarak veri toplar veya hazır veriye ulaşır.\nd)\nVeri görselleştirme (çizgi grafiği, nokta grafiği gibi) ve özetleme (aritmetik orta lama, ortanca, tepe değer, açıklık ve ortalama mutlak sapma) araçlarını seçme gerekçelerini belirtir.\ne)\nToplanan veriyi uygun araçlarla analiz eder.\nf)\nAraştırmada ulaştığı sonuçlara yönelik gerekçeler sunar.\ng)\nAraştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD13.\nSağlıklı Yaşam\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "Kategorik ve Nicel (Sürekli) Veri Dağılımları",
+      "KAZANIM": "MAT.7.6.1.\nKategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.6.1",
+        "Süreç Bileşenleri": "MAT.7.6.1\na)\nKategorik veya nicel (sürekli) veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.\nb)\nKategorik veya nicel (sürekli) veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur.\nc)\nKategorik veya nicel (sürekli) veriye ulaşmak için plan yapar.\nç)\nAraştırma sorusuna uygun hazırlanan anket sorularını kullanarak veri toplar veya hazır veriye ulaşır.\nd)\nVeri görselleştirme (çizgi grafiği, nokta grafiği gibi) ve özetleme (aritmetik orta lama, ortanca, tepe değer, açıklık ve ortalama mutlak sapma) araçlarını seçme gerekçelerini belirtir.\ne)\nToplanan veriyi uygun araçlarla analiz eder.\nf)\nAraştırmada ulaştığı sonuçlara yönelik gerekçeler sunar.\ng)\nAraştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD13.\nSağlıklı Yaşam\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası (12-18 Aralık)"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "Kategorik ve Nicel (Sürekli) Veri Dağılımları",
+      "KAZANIM": "MAT.7.6.1.\nKategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.6.1",
+        "Süreç Bileşenleri": "MAT.7.6.1\na)\nKategorik veya nicel (sürekli) veriye dayanan istatistiksel araştırma gerektiren durumları fark eder.\nb)\nKategorik veya nicel (sürekli) veriye dayanan betimleme veya karşılaştırma gerektirebilecek araştırma soruları oluşturur.\nc)\nKategorik veya nicel (sürekli) veriye ulaşmak için plan yapar.\nç)\nAraştırma sorusuna uygun hazırlanan anket sorularını kullanarak veri toplar veya hazır veriye ulaşır.\nd)\nVeri görselleştirme (çizgi grafiği, nokta grafiği gibi) ve özetleme (aritmetik orta lama, ortanca, tepe değer, açıklık ve ortalama mutlak sapma) araçlarını seçme gerekçelerini belirtir.\ne)\nToplanan veriyi uygun araçlarla analiz eder.\nf)\nAraştırmada ulaştığı sonuçlara yönelik gerekçeler sunar.\ng)\nAraştırma sonuçlarının araştırma sorusuna ne düzeyde cevap verdiğini değerlendirerek araştırma sürecine uygun olmayan adımları yeniden planlar.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD13.\nSağlıklı Yaşam\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3+(2)*",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA*\nİSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "OKUL TEMELLİ PLANLAMA*\nKategorik ve Nicel (Sürekli) Veri Dağılımları",
+      "KAZANIM": "MAT.7.6.2.\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.6.2",
+        "Süreç Bileşenleri": "MAT.7.6.2\na)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.\nb)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.\nc)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD13.\nSağlıklı Yaşam\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+      "KONU": "Kategorik ve Nicel (Sürekli) Veri Dağılımları",
+      "KAZANIM": "MAT.7.6.2.\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB2.\nDijital Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.6.2",
+        "Süreç Bileşenleri": "MAT.7.6.2\na)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.\nb)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.\nc)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD5.\nDuyarlılık\nD6.\nDürüstlük\nD8.\nMahremiyet\nD13.\nSağlıklı Yaşam\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2+3",
+      "ÜNİTE": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ\nDÖNÜŞÜM",
+      "KONU": "Kategorik ve Nicel (Sürekli) Veri Dağılımları\nYansıma Dönüşümü",
+      "KAZANIM": "MAT.7.6.2.\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme\nMAT.7.3.1.\nŞekillerin yansıma dönüşümü altındaki görüntülerinin oluşturulmasına dair çıkarım yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.3.\nSosyal Farkındalık\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık\nOB4.\nGörsel Okuryazarlık\nOB5.\nKültür Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.6.2\nMAT.7.3.1",
+        "Süreç Bileşenleri": "MAT.7.6.2.\na)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik istatistiksel temellendirme yapar.\nb)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumlara yönelik hataları ya da yanlılıkları tespit eder.\nc)\nBaşkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları çürütür ya da kabul eder.\nMAT.7.3.1.\na)\nŞekillerin yansıma dönüşümleri altındaki görüntülerini oluşturmaya dair varsayımlarda bulunur.\nb)\nŞekillerin yansıma dönüşümü altındaki görüntülerini oluşturur.\nc)\nVarsayımlarını doğrulamaya yönelik karşılaştırmalar yapar.\nç)\nBir şekil ile yansıma dönüşümü altındaki görüntüsü arasındaki ilişkilere dair önermeler sunar.\nd)\nÖnermenin verilen iki eş şeklin bir doğruya göre simetrik olup olmadığını belirlemeye ve simetrik bir şeklin simetri doğrusunu oluşturmaya yönelik katkısını değerlendirir.",
+        "Değerler": "D7.\nEstetik\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nKontol Listesi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nPerformans Görevi\nDerecelendirme Ölçeği\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "1+4",
+      "ÜNİTE": "DÖNÜŞÜM",
+      "KONU": "Yansıma Dönüşümü\nOrta Dikme ve Açıortay İnşası",
+      "KAZANIM": "MAT.7.3.1.\nŞekillerin yansıma dönüşümü altındaki görüntülerinin oluşturulmasına dair çıkarım yapabilme\nMAT.7.3.2.\nYansıma dönüşümündeki deneyimlerini orta dikme ve açıortay inşasına yansıtabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.3.\nSosyal Farkındalık\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık\nOB4.\nGörsel Okuryazarlık\nOB5.\nKültür Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.3.1\nMAT.7.3.2",
+        "Süreç Bileşenleri": "MAT.7.3.1.\na)\nŞekillerin yansıma dönüşümleri altındaki görüntülerini oluşturmaya dair varsayımlarda bulunur.\nb)\nŞekillerin yansıma dönüşümü altındaki görüntülerini oluşturur.\nc)\nVarsayımlarını doğrulamaya yönelik karşılaştırmalar yapar.\nç)\nBir şekil ile yansıma dönüşümü altındaki görüntüsü arasındaki ilişkilere dair önermeler sunar.\nd)\nÖnermenin verilen iki eş şeklin bir doğruya göre simetrik olup olmadığını belirlemeye ve simetrik bir şeklin simetri doğrusunu oluşturmaya yönelik katkısını değerlendirir.\nMAT.7.3.2.\na)\nYansıma dönüşümünde simetri doğrusunun özelliklerini gözden geçirir.\nb)\nSimetri doğrusunun özelliklerinden hareketle bir doğru parçasına ait orta dikmenin ve bir açıya ait açıortayın inşasına dair çıkarım yapar.\nc)\nÇıkarımını farklı örnekler üzerinden değerlendirir.",
+        "Değerler": "D7.\nEstetik\nD14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nKontol Listesi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nPerformans Görevi\nDerecelendirme Ölçeği\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3+2",
+      "ÜNİTE": "GEOMETRİK ŞEKİLLER",
+      "KONU": "Üçgenlerde Kenarortay ve İnşası, Açıortay, Yükseklik",
+      "KAZANIM": "MAT.7.5.1.\nMatematiksel araç ve teknolojiden yararlanarak üçgende kenarortayı, açıortayı ve yüksekliği çözümleyebilme\nMAT.7.5.2.\nOrta dikme inşasına yönelik deneyimlerini üçgende kenarortay inşasına yansıtabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB2.1.\nİletişim",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB2.\nDijital Okuryazarlık\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.5.1\nMAT.7.5.2",
+        "Süreç Bileşenleri": "MAT.7.5.1.\na)\nÜçgende kenarortayı, açıortayı ve yüksekliği belirler.\nb)\nÜçgende kenarortay, açıortay ve yükseklik arasındaki ilişkileri belirler.\nMAT.7.5.2.\na)\nOrta dikme inşasına yönelik deneyimlerini gözden geçirir.\nb)\nÜçgende kenarortay inşasına yönelik çıkarım yapar.\nc)\nÇıkarımını farklı örnekler üzerinden değerlendirir.",
+        "Değerler": "D7.\nEstetik",
+        "Ölçme": "Tanılayıcı Dallanmış Ağaç\nKontrol Listesi\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "1+4",
+      "ÜNİTE": "GEOMETRİK ŞEKİLLER\nSAYILAR VE NİCELİKLER (2)",
+      "KONU": "Üçgenlerde Kenarortay ve İnşası, Açıortay, Yükseklik\nOran",
+      "KAZANIM": "MAT.7.5.2.\nOrta dikme inşasına yönelik deneyimlerini üçgende kenarortay inşasına yansıtabilme\nMAT.7.1.5.\nGerçek yaşam durumları üzerinden oran ilişkileri hakkında muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.5.2\nMAT.7.1.5",
+        "Süreç Bileşenleri": "MAT.7.5.2.\na)\nOrta dikme inşasına yönelik deneyimlerini gözden geçirir.\nb)\nÜçgende kenarortay inşasına yönelik çıkarım yapar.\nc)\nÇıkarımını farklı örnekler üzerinden değerlendirir.\nMAT.7.1.5.\na)\nGerçek yaşam durumları üzerinden iki niceliğin karşılaştırılmasında toplamsal (mutlak) ve çarpımsal (bağıl) ilişkileri ayırt eder.\nb)\nGerçek yaşam durumları üzerinden oranın iki niceliğin çarpımsal ilişkiler kurularak karşılaştırılması olduğunu belirler.\nc)\nÇözümlediği gerçek yaşam durumlarının içerdiği oranı birimli ve birimsiz oran olarak ifade eder.\nç)\nBirimli ve birimsiz oranı kendi ifadeleriyle açıklar.\nd)\nYorumladığı gerçek yaşam durumundaki ilişkilere dayalı olarak denk orana ve birim orana ilişkin varsayımlarda bulunur.\ne)\nVarsayımındaki örneklere ait ilişkileri inceleyerek denk oran ve birim orana ilişkin genellemeleri belirler.\nf)\nElde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli temsiller (oran tabloları, çubuk diyagramı, çift sayı doğrusu, grafik, somut materyaller) ile sınar.\ng)\nVarsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sunar.\nğ)\nSunduğu önermenin katkısına yönelik gerekçeler sunar.",
+        "Değerler": "D1.\nAdalet\nD5.\nDuyarlılık\nD13.\nSağlıklı Yaşam\nD17.\nTasarruf\nD18.\nTemizlik",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2+3",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (2)",
+      "KONU": "Oran\nOrantılı Durumlar",
+      "KAZANIM": "MAT.7.1.5.\nGerçek yaşam durumları üzerinden oran ilişkileri hakkında muhakeme yapabilme\nMAT.7.1.6.\nGerçek yaşam durumları üzerinden orantılı durumları yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.5\nMAT.7.1.6",
+        "Süreç Bileşenleri": "MAT.7.1.5.\na)\nGerçek yaşam durumları üzerinden iki niceliğin karşılaştırılmasında toplamsal (mutlak) ve çarpımsal (bağıl) ilişkileri ayırt eder.\nb)\nGerçek yaşam durumları üzerinden oranın iki niceliğin çarpımsal ilişkiler kurularak karşılaştırılması olduğunu belirler.\nc)\nÇözümlediği gerçek yaşam durumlarının içerdiği oranı birimli ve birimsiz oran olarak ifade eder.\nç)\nBirimli ve birimsiz oranı kendi ifadeleriyle açıklar.\nd)\nYorumladığı gerçek yaşam durumundaki ilişkilere dayalı olarak denk orana ve birim orana ilişkin varsayımlarda bulunur.\ne)\nVarsayımındaki örneklere ait ilişkileri inceleyerek denk oran ve birim orana ilişkin genellemeleri belirler.\nf)\nElde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli temsiller (oran tabloları, çubuk diyagramı, çift sayı doğrusu, grafik, somut materyaller) ile sınar.\ng)\nVarsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sunar.\nğ)\nSunduğu önermenin katkısına yönelik gerekçeler sunar.\nMAT.7.1.6.\na)\nGerçek yaşam durumlarında iki durumun orantılı olup olmadığını inceler.\nb)\nOrantılı olan iki durumun ilişkisini temsiller ile ifade eder.\nc)\nOrantı kavramını kendi ifadeleriyle yeniden açıklar.",
+        "Değerler": "D1.\nAdalet\nD5.\nDuyarlılık\nD13.\nSağlıklı Yaşam\nD17.\nTasarruf\nD18.\nTemizlik",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (2)",
+      "KONU": "Doğru Orantılı Durumlara İlişkin Problem Çözme",
+      "KAZANIM": "MAT.7.1.7.\nGerçek yaşam durumları üzerinden doğru orantılı durumlara ilişkin problemleri çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.7",
+        "Süreç Bileşenleri": "MAT.7.1.7\na)\nDoğru orantılı durumlara ilişkin problemlerde nicelikleri belirler.\nb)\nDoğru orantılı durumlar arasındaki ilişkileri belirler.\nc)\nBu ilişkileri tablo ve grafik temsillerine dönüştürür.\nç)\nDönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için stratejiler oluşturur.\ne)\nBelirlediği stratejileri kullanır.\nf)\nElde ettiği çözümü farklı stratejileri kullanarak doğrular.\ng)\nProblemin olası farklı çözüm stratejilerini inceler.\nğ)\nKullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "Değerler": "D1.\nAdalet\nD5.\nDuyarlılık\nD13.\nSağlıklı Yaşam\nD17.\nTasarruf\nD18.\nTemizlik",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, Ramazan Bayramı, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "1+3+1",
+      "ÜNİTE": "SAYILAR VE NİCELİKLER (2)\nVERİDEN OLASILIĞA",
+      "KONU": "Doğru Orantılı Durumlara İlişkin Problem Çözme\nTeorik Olasılık",
+      "KAZANIM": "MAT.7.1.7.\nGerçek yaşam durumları üzerinden doğru orantılı durumlara ilişkin problemleri çözebilme\nMAT.7.7.1.\nBir olayın ve tümleyeninin olasılığına ilişkin tümevarımsal akıl yürütebilme\nMAT.7.7.2.\nAynı deneye ait olayların eşit olasılıklı olma durumlarını değerlendirebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.1.7\nMAT.7.7.1\nMAT.7.7.2",
+        "Süreç Bileşenleri": "MAT.7.1.7.\na)\nDoğru orantılı durumlara ilişkin problemlerde nicelikleri belirler.\nb)\nDoğru orantılı durumlar arasındaki ilişkileri belirler.\nc)\nBu ilişkileri tablo ve grafik temsillerine dönüştürür.\nç)\nDönüştürdüğü temsillerin problem bağlamındaki anlamını ifade eder.\nd)\nElde ettiği ve yorumladığı farklı temsillere dayalı olarak problemin çözümü için stratejiler oluşturur.\ne)\nBelirlediği stratejileri kullanır.\nf)\nElde ettiği çözümü farklı stratejileri kullanarak doğrular.\ng)\nProblemin olası farklı çözüm stratejilerini inceler.\nğ)\nKullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.\nMAT.7.7.1.\na)\nBir olayın olasılığını hesaplamaya ilişkin olası tüm çıktıları gözlemler.\nb)\nBir olayın ve tümleyeninin olasılığını hesaplamak için matematiksel ilişkiyi bulur.\nc)\nBir olayın ve tümleyeninin olasılığının ilişkisine yönelik genelleme yapar.\nMAT.7.7.2.\na)\nEşit olasılıklı olan ve eşit olasılıklı olmayan olaylara ilişkin ölçüt belirler.\nb)\nOlayların eşit olasılıklı olma veya olmama olasılığına ilişkin hesaplama yapar.\nc)\nHesaplama sonuçlarını belirlediği ölçütlerle karşılaştırır.\nç)\nKarşılaştırmalarına ilişkin yargıda bulunur.",
+        "Değerler": "D14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü (12 Mart)\nŞehitler Günü (18 Mart)\nTürk Dünyası ve Toplulukları Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2+3",
+      "ÜNİTE": "VERİDEN OLASILIĞA",
+      "KONU": "Teorik Olasılık",
+      "KAZANIM": "MAT.7.7.2.\nAynı deneye ait olayların eşit olasılıklı olma durumlarını değerlendirebilme\nMAT.7.7.3.\nOlayları ayrık olma ve ayrık olmama durumlarına göre sınıflandırabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.1.\nİletişim\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB1.\nBilgi Okuryazarlığı\nOB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.7.2\nMAT.7.7.3",
+        "Süreç Bileşenleri": "MAT.7.7.2.\na)\nEşit olasılıklı olan ve eşit olasılıklı olmayan olaylara ilişkin ölçüt belirler.\nb)\nOlayların eşit olasılıklı olma veya olmama olasılığına ilişkin hesaplama yapar.\nc)\nHesaplama sonuçlarını belirlediği ölçütlerle karşılaştırır.\nç)\nKarşılaştırmalarına ilişkin yargıda bulunur.\nMAT.7.7.3.\na)\nOlayların ayrık olma ve ayrık olmama durumlarını olaylara ait çıktıların ortak olup olmamasını ölçüt alarak belirler.\nb)\nOlayları ayrık olma ve ayrık olmama durumuna göre ayrıştırır.\nc)\nAyrık olan ve ayrık olmayan olayları tasnif eder.\nç)\nOlayları ayrık olma veya olmama durumuna göre etiketler",
+        "Değerler": "D14.\nSaygı",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nGözlem Formu\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nGrup Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3+(2)*",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA*\nİŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "OKUL TEMELLİ PLANLAMA*\nCebirsel İfadelerle İşlemler",
+      "KAZANIM": "MAT.7.2.1.\nGerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.1",
+        "Süreç Bileşenleri": "MAT.7.2.1\na)\nGerçek yaşam durumlarına ya da matematiksel durumlara karşılık gelen cebirsel ifadelerle işlemleri inceler.\nb)\nToplama ve çarpma işlemlerinin özelliklerini, cebirsel ifadelerde işlem yaparken kullanır.\nc)\nBu işlemler ve sonuçları arasındaki denkliği açıklar.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "Cebirsel İfadelerle İşlemler",
+      "KAZANIM": "MAT.7.2.1.\nGerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.1",
+        "Süreç Bileşenleri": "MAT.7.2.1\na)\nGerçek yaşam durumlarına ya da matematiksel durumlara karşılık gelen cebirsel ifadelerle işlemleri inceler.\nb)\nToplama ve çarpma işlemlerinin özelliklerini, cebirsel ifadelerde işlem yaparken kullanır.\nc)\nBu işlemler ve sonuçları arasındaki denkliği açıklar.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2+3",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "Cebirsel İfadelerle İşlemler\nDenklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.7.2.1.\nGerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme\nMAT.7.2.2.\nBirinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.1\nMAT.7.2.2",
+        "Süreç Bileşenleri": "MAT.7.2.1.\na)\nGerçek yaşam durumlarına ya da matematiksel durumlara karşılık gelen cebirsel ifadelerle işlemleri inceler.\nb)\nToplama ve çarpma işlemlerinin özelliklerini, cebirsel ifadelerde işlem yaparken kullanır.\nc)\nBu işlemler ve sonuçları arasındaki denkliği açıklar.\nMAT.7.2.2.\na)\nVerilen gerçek yaşam problemlerindeki nicelikleri belirler.\nb)\nNicelikler arasındaki eşitlik ve eşitsizlik ilişkilerini belirler.\nc)\nBelirlenen nicelikleri cebirsel olarak ifade eder.\nç)\nBelirlenen nicelikleri ve ilişkileri denklem veya eşitsizlik olarak ifade eder.\nd)\nDenklem ve eşitsizliklerin çözümünde bir strateji oluşturur.\ne)\nBelirlediği stratejiyi çözüm için uygular.\nf)\nÇözümün doğruluğunu uygun örnek ve temsiller ile kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilerin uyarlanabileceği uygun genelleme ve sınıflamalar yapar.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.7.2.2.\nBirinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.2",
+        "Süreç Bileşenleri": "MAT.7.2.2\na)\nVerilen gerçek yaşam problemlerindeki nicelikleri belirler.\nb)\nNicelikler arasındaki eşitlik ve eşitsizlik ilişkilerini belirler.\nc)\nBelirlenen nicelikleri cebirsel olarak ifade eder.\nç)\nBelirlenen nicelikleri ve ilişkileri denklem veya eşitsizlik olarak ifade eder.\nd)\nDenklem ve eşitsizliklerin çözümünde bir strateji oluşturur.\ne)\nBelirlediği stratejiyi çözüm için uygular.\nf)\nÇözümün doğruluğunu uygun örnek ve temsiller ile kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilerin uyarlanabileceği uygun genelleme ve sınıflamalar yapar.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 23 Nisan Ulusal Egemenlik Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "Denklem ve Eşitsizlikler",
+      "KAZANIM": "MAT.7.2.2.\nBirinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.2",
+        "Süreç Bileşenleri": "MAT.7.2.2\na)\nVerilen gerçek yaşam problemlerindeki nicelikleri belirler.\nb)\nNicelikler arasındaki eşitlik ve eşitsizlik ilişkilerini belirler.\nc)\nBelirlenen nicelikleri cebirsel olarak ifade eder.\nç)\nBelirlenen nicelikleri ve ilişkileri denklem veya eşitsizlik olarak ifade eder.\nd)\nDenklem ve eşitsizliklerin çözümünde bir strateji oluşturur.\ne)\nBelirlediği stratejiyi çözüm için uygular.\nf)\nÇözümün doğruluğunu uygun örnek ve temsiller ile kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilerin uyarlanabileceği uygun genelleme ve sınıflamalar yapar.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 29 Nisan Kût'ül Amâre Zaferi\n1 Mayıs Emek ve Dayanışma Günü"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2+3",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "Denklem ve Eşitsizlikler\nİspat",
+      "KAZANIM": "MAT.7.2.2.\nBirinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme\nMAT.7.2.3.\nSayılar ve özelliklerini içeren ispatlara ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.2\nMAT.7.2.3",
+        "Süreç Bileşenleri": "MAT.7.2.2.\na)\nVerilen gerçek yaşam problemlerindeki nicelikleri belirler.\nb)\nNicelikler arasındaki eşitlik ve eşitsizlik ilişkilerini belirler.\nc)\nBelirlenen nicelikleri cebirsel olarak ifade eder.\nç)\nBelirlenen nicelikleri ve ilişkileri denklem veya eşitsizlik olarak ifade eder.\nd)\nDenklem ve eşitsizliklerin çözümünde bir strateji oluşturur.\ne)\nBelirlediği stratejiyi çözüm için uygular.\nf)\nÇözümün doğruluğunu uygun örnek ve temsiller ile kontrol ederek çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için olası farklı çözüm stratejilerini inceler.\nğ)\nÇözüme ulaştıran stratejilerin uyarlanabileceği uygun genelleme ve sınıflamalar yapar.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.\nMAT.7.2.3.\na)\nSayılar ve özellikleriyle ilgili ilişkilere yönelik örneklere ve örüntülere dayalı varsayımlarda bulunur.\nb)\nVarsayımına yönelik sayı örüntülerini listeler.\nc)\nElde ettiği örüntülerin, varsayımını karşılayıp karşılamadığını sınar.\nç)\nUlaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel veya cebirsel olarak ifade eder.\nd)\nSunduğu önermenin katkısına yönelik gerekçeler sunar.\ne)\nSayılar ve özelliklerine ilişkin durumlarda cebirsel ispat yöntemlerini seçerek işe koşar.\nf)\nÖnermeyi gözden geçirerek yeni durumlara uyarlar.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "İspat",
+      "KAZANIM": "MAT.7.2.3.\nSayılar ve özelliklerini içeren ispatlara ilişkin matematiksel muhakeme yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.3",
+        "Süreç Bileşenleri": "MAT.7.2.3\na)\nSayılar ve özellikleriyle ilgili ilişkilere yönelik örneklere ve örüntülere dayalı varsayımlarda bulunur.\nb)\nVarsayımına yönelik sayı örüntülerini listeler.\nc)\nElde ettiği örüntülerin, varsayımını karşılayıp karşılamadığını sınar.\nç)\nUlaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel veya cebirsel olarak ifade eder.\nd)\nSunduğu önermenin katkısına yönelik gerekçeler sunar.\ne)\nSayılar ve özelliklerine ilişkin durumlarda cebirsel ispat yöntemlerini seçerek işe koşar.\nf)\nÖnermeyi gözden geçirerek yeni durumlara uyarlar.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "İŞLEMLERLE CEBİRSEL DÜŞÜNME\nVE DEĞİŞİMLER",
+      "KONU": "Cebirsel İfadelerle İşlemler ve Algoritma",
+      "KAZANIM": "MAT.7.2.4.\nTemel aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki süreci algoritma ifade yöntemlerini kullanarak yapılandırabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.1.\nKendini Tanıma (Öz Farkındalık)\nSDB2.1.\nİletişim\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.2.\nEsneklik\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık\nOB8.\nSürdürülebilirlik Okuryazarlığı",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.2.4",
+        "Süreç Bileşenleri": "MAT.7.2.4\na)\nAritmetik ve cebirsel ifadelerle işlem içeren durumlardaki adımları ve ilişkileri açıklar.\nb)\nAlgoritma ifade yöntemlerini kullanarak incelediği adımlar ve ilişkilerden uyumlu bir bütün oluşturur.",
+        "Değerler": "D3.\nÇalışkanlık\nD5.\nDuyarlılık\nD16.\nSorumluluk\nD17.\nTasarruf",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ 19 Msyıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4+1",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (2)",
+      "KONU": "Daire ve Daire Diliminin Alanı",
+      "KAZANIM": "MAT.7.4.7.\nDikdörtgenin, paralelkenarın alanına ve çemberin uzunluğuna ilişkin deneyimlerini dairenin alan bağıntısına yansıtabilme\nMAT.7.4.8.\nÇemberde merkez açı ve gördüğü yay uzunluğu arasındaki ilişkiden yola çıkarak daire ve daire diliminin alanları arasındaki ilişkiye yönelik analojik akıl yürütebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.7\nMAT.7.4.8",
+        "Süreç Bileşenleri": "MAT.7.4.7.\na)\nDikdörtgenin, paralelkenarın alanı ve çemberin uzunluğuna yönelik deneyimlerini gözden geçirir.\nb)\nDikdörtgenin alan bağıntısı ve çemberin uzunluğundan yola çıkarak dairenin alan bağıntısına yönelik çıkarım yapar.\nc)\nÇıkarımını farklı örnekler üzerinden değerlendirir.\nMAT.7.4.8.\na)\nÇemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkileri gözlemler.\nb)\nÇemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkiyi tespit eder.\nc)\nÇemberde merkez açı ve gördüğü yay uzunluğuyla daire ve daire diliminin alanı arasında kurulan ilişkiden hareketle daire diliminin alanına dair çıkarım yapar.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD4.\nDostluk",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nZihin Haritası\nKavram Haritası\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı\nKontrol Listesi",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ İstanbul'un Fethi(29 Mayıs)"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3+(2)*",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA*\nGEOMETRİK NİCELİKLER (2)",
+      "KONU": "OKUL TEMELLİ PLANLAMA*\nDaire ve Daire Diliminin Alanı",
+      "KAZANIM": "MAT.7.4.8.\nÇemberde merkez açı ve gördüğü yay uzunluğu arasındaki ilişkiden yola çıkarak daire ve daire diliminin alanları arasındaki ilişkiye yönelik analojik akıl yürütebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.8",
+        "Süreç Bileşenleri": "MAT.7.4.8\na)\nÇemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkileri gözlemler.\nb)\nÇemberde merkez açı ve gördüğü yay uzunluğu ile daire ve daire diliminin alanı arasındaki ilişkiyi tespit eder.\nc)\nÇemberde merkez açı ve gördüğü yay uzunluğuyla daire ve daire diliminin alanı arasında kurulan ilişkiden hareketle daire diliminin alanına dair çıkarım yapar.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD4.\nDostluk",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nZihin Haritası\nKavram Haritası\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı\nKontrol Listesi",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (2)",
+      "KONU": "Eşkenar Dörtgen ve Yamuk",
+      "KAZANIM": "MAT.7.4.9.\nEşkenar dörtgen ve yamuğun alan bağıntılarına dair çıkarım yapabilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.9",
+        "Süreç Bileşenleri": "MAT.7.4.9\na)\nDikdörtgen, paralelkenar ve üçgenin alan bağıntısına dair ön bilgisiyle eşkenar dörtgenin ve yamuğun alan hesabına yönelik varsayımda bulunur.\nb)\nEşkenar dörtgeni ve yamuğu parçalayarak veya tamamlayarak oluşturduğu geometrik şekillerin alanlarını belirler.\nc)\nOluşturulan geometrik şekillerin alanlarını varsayımlarıyla karşılaştırır.\nç)\nEşkenar dörtgenin ve yamuğun alan bağıntılarına dair önermeler sunar.\nd)\nÇeşitli geometrik şekillerin alanlarının hesaplanmasında eşkenar dörtgenin ve yamuğun alan bağıntılarının katkılarını değerlendirir.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD4.\nDostluk",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nZihin Haritası\nKavram Haritası\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı\nKontrol Listesi",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "GEOMETRİK NİCELİKLER (2)",
+      "KONU": "Daire ve Daire Diliminin Alanı\nEşkenar Dörtgen ve Yamuk",
+      "KAZANIM": "MAT.7.4.10.\nGünlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanına ilişkin problem çözebilme",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "SDB1.2.\nKendini Düzenleme (Öz Düzenleme)\nSDB2.2.\nİş Birliği\nSDB2.3.\nSosyal Farkındalık\nSDB3.1.\nUyum\nSDB3.3.\nSorumlu Karar Verme",
+      "OB": "OB4.\nGörsel Okuryazarlık",
+      "EK_ALANLAR": {
+        "Öğrenme Çıktısı Kodları": "MAT.7.4.10",
+        "Süreç Bileşenleri": "MAT.7.4.10\na)\nGünlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanlarına ilişkin problemde ilgili matematiksel bileşenleri (şekil, uzunluk, alan, açı, köşegen, yarıçap, yükseklik gibi) belirler.\nb)\nMatematiksel bileşenler arasındaki ilişkileri belirler.\nc)\nProblem bağlamındaki temsilleri farklı temsillere dönüştürür.\nç)\nMatematiksel temsillere dönüştürdüğü problemi kendi ifadeleri ile açıklar.\nd)\nProblemin sonucuna ilişkin tahminde bulunur ve işlemleri gerçekleştirmek için stratejiler geliştirir.\ne)\nBelirlenen stratejileri çözüm için uygular.\nf)\nÇözüm yollarını kontrol eder ve çözüme ulaştırmayan stratejiyi değiştirir.\ng)\nProblemin çözümü için kullandığı veya geliştirdiği stratejileri gözden geçirerek alternatif çözüm yollarını değerlendirir.\nğ)\nKullandığı strateji veya stratejileri farklı problemlerin çözümlerine geneller.\nh)\nGenellemenin geçerliliğini matematiksel örneklerle değerlendirir.",
+        "Değerler": "D1.\nAdalet\nD3.\nÇalışkanlık\nD4.\nDostluk",
+        "Ölçme": "Çalışma Kâğıtları\nİzleme Testi\nZihin Haritası\nKavram Haritası\nÖz Değerlendirme Formu\nAkran Değerlendirme Formu\nPerformans Görevi\nBütüncül Dereceli Puanlama Anahtarı\nAnalitik Dereceli Puanlama Anahtarı\nKontrol Listesi",
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "KONU": "SOSYAL ETKİNLİK",
+      "KAZANIM": "",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Okul Temelli Planlama": "Zümre öğretmenler kurulu tarafından ders kapsamında yapılması kararlaştırılan okul dışı öğrenme etkinlikleri; yerel\nçalışmalar, sosyal etkinlikler, proje ve okuma çalışmaları, araştırma ve gözlem gibi çalışmalar için ayrılan süredir.\nSöz konusu çalışmalar için ayrılan süre, eğitim öğretim yılı içinde planlanır ve yıllık planlarda ifade edilir. Eğitim\nöğretim yılı başında yapılması kararlaştırılan çalışmalar; okulun, öğrencinin ve çevrenin ihtiyaçları dikkate alınarak\nyıl içerisinde güncellenebilir.\nBu planlamalar kapsamında yürütülecek öğretim faaliyetleri; öğrenci katılımını desteklemeli, yaparak ve yaşayarak öğrenmeye olanak tanımalı, öğrencinin bütüncül gelişimine hizmet etmelidir.\n*Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama, zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır.",
+        "Farklılaştırma": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından hazır\nbulunuşluk düzeyi, öğrenme hızı ve öğrenme profillerine göre gruplandırma yapılarak; içerik, süreç, öğrenme ortamı\nve ürün boyutlarında uyarlamalar geliştirilerek; esnek öğretim yöntem ve teknikleri kullanılarak; süreç içinde sürekli,\ngeliştirici (biçimlendirici) değerlendirmelerle izlenip gerekli düzenlemeler yapılarak planlanır ve yürütülür.",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

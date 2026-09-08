@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Ağ Projesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/481/ag-projesi-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Proje Hazırlık",
+      "KONU": "Projeyi hazırlık aşamaları / Proje Uygulama Süreci",
+      "KAZANIM": "Proje hazırlık aşamalarını gerçekleştirir.\nProje uygulama süreci adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje hazırlık aşamaları açıklar.\nProje uygulama süreci adımları açıklar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Taslak bir projenin aşamalarını ve raporlamalarını içeren sunum yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Proje Hazırlık",
+      "KONU": "Proje sonuç raporu",
+      "KAZANIM": "Proje sonuç raporunu hazırlama aşamalarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje raporu yazım aşamaları gösterilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Taslak bir projenin aşamalarını ve raporlamalarını içeren sunum yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Planlama",
+      "KAZANIM": "Planlama adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje planlamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Planlama",
+      "KAZANIM": "Planlama adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje planlamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fiziksel topolojiyi yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fiziksel topolojiyi yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mantıksal topolojiyi yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mantıksal topolojiyi yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Test ve Bakım",
+      "KAZANIM": "Test ve bakım adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Test ve bakım adımlarını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Test ve Bakım",
+      "KAZANIM": "Test ve bakım adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Test ve bakım adımlarını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Sistemleri Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç departmanlı 20 kullanıcılı bir şirkette ağ alt yapısı hazırlamak (Sunucu, Access Point, Switch, Router, Ağ Yazıcısı bulunmalı)\nBir şirketin A, B, C ve D şehirlerinde ofisleri bulunmaktadır. A şehri merkez ofistir. Tüm ofisler WAN üzerinden birbirleri ile bağlantı halindedir. Ayrıca merkez ofiste FTP sunucu ile ortak dosyalar bulunmakta ve bu dosyalara tüm şubeler ulaşabilmektedir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Planlama",
+      "KAZANIM": "Planlama adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje planlamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Yapılandırma",
+      "KAZANIM": "Yapılandırma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IP ve DHCP server havuzları oluşturulması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Yapılandırma",
+      "KAZANIM": "Yapılandırma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "VLAN oluşturma işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Yapılandırma",
+      "KAZANIM": "Yapılandırma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Erişim kontrol listelerinin oluşturulur.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Yapılandırma",
+      "KAZANIM": "Yapılandırma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Statik ve dinamik yönlendirme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Yapılandırma",
+      "KAZANIM": "Yapılandırma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz LAN bağlantısı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Yapılandırma",
+      "KAZANIM": "Yapılandırma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ağ cihazları güvenliği işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Test ve Bakım",
+      "KAZANIM": "Test ve bakım adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Test ve bakım adımlarını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Ağ Cihazları Yapılandırma Projesi",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada 8 farklı birim vardır. Firmada kullanılan PC'ler hariç IP telefon, kablosuz ağ, yazıcılar için ayrı VLAN, her birim için de ayrı VLAN oluşturulmalıdır. Aygıt sayıları serbest bırakılmıştır. Bu firmada sadece 10.1.0.0/16 IP adresi kullanılmalıdır. Birimlerde bulunan cihazlar ve ağ aygıtlarının güvenliği firma için çok önemlidir. Yukarıda verilenlere göre ağ alt yapısını oluşturmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Planlama",
+      "KAZANIM": "Planlama adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje planlamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Active Directory kurulumunu yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Rolleri tanımlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DNS/DHCP kurulumunu yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Kurulum",
+      "KAZANIM": "Kurulum adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Group policy kurulumunu yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Test ve Bakım",
+      "KAZANIM": "Test ve bakım adımlarını gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Test ve bakım adımlarını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunucu Projesi Hazırlama",
+      "KONU": "Rapor",
+      "KAZANIM": "Proje raporunu yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projenin raporu yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, sunucu, yazıcı/tarayıcı, switch, router.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bir firmada Muhasebe, Bilgi İşlem, Üretim ve ARGE isminde 4 farklı birim bulunmaktadır. Bilgi İşlem biriminde bulunan Sunucu üzerinde agprojesi.com isminde bir domain oluşturulmalıdır. Ayrıca bir DHCP Server oluşturularak bütün cihazlara C Sınıfı IP adresi havuzundan otomatik IP yapılandırmaları verilecektir. Her birim için domain üzerinde örnek 1'er kullanıcı oluşturulacak ve sisteme ulaşım saatleri 9:00 ve 17:00 saatleri arasında tanımlanacaktır. Firmada Bilgi İşlem ve ARGE birimlerinde tam yetki varken diğer birimlerde kısıtlamalar uygulanacaktır. Bilgi işlem birimi tüm personelin kullanacağı bir yazılımı otomatik olarak domain üzerinden kuracaktır. Ayrıca firma web sitesi kendi sunucuları üzerinde tutulmakta olup buradan yayın yapmaktadır. Yukarıda verilenlere göre Sunucu projesini detaylandırmak ve oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

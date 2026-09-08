@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Demiryolu Aplikasyonu Ve Hesaplamalari",
+  "grup": "Meslek Dersleri",
+  "brans": "Raylı Sistemler Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/rayli-sistemler-teknolojisi/1083/demiryolu-aplikasyonu-ve-hesaplamalari-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "1. Araç Gereç ve Malzemeleri Hazırlama",
+      "KAZANIM": "Arazi ölçüm uygulamaları için gerekli araç gereç ve malzemeleri hazırlayarak ölçümler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUzunluk ölçüm aletlerini hazırlar.\n•\nAçı ölçüm aletlerini hazırlar.\n•\nYükseklik ölçüm aletlerini hazırlar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "1. Araç Gereç ve Malzemeleri Hazırlama",
+      "KAZANIM": "Arazi ölçüm uygulamaları için gerekli araç gereç ve malzemeleri hazırlayarak ölçümler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nArazi ölçümü için gerekli olan yardımcı araç, gereç ve malzemeleri hazırlar.\n•\nAletlerin temizlik ve bakımını yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "2. Uzunluk Ölçme",
+      "KAZANIM": "Uzunluk ölçümünde araç gereç ve ekipmanı kullanarak ölçüm yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUzunluk ölçmede doğruların aplikasyonunu açıklar.\n•\nUzunluk ölçümünde hata sınırlarına göre karşılaştırmayı izah eder.\n•\nÖlçüm araç gereç ve ekipmanı kullanır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "2. Uzunluk Ölçme",
+      "KAZANIM": "Uzunluk ölçümünde araç gereç ve ekipmanı kullanarak ölçüm yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÖlçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapar.\n•\nÖlçü aletlerini kullanarak dolaylı uzunlukların ölçümü metoduyla ölçüm yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "2. Uzunluk Ölçme / 3. Açı ölçme",
+      "KAZANIM": "Uzunluk ölçümünde araç gereç ve ekipmanı kullanarak ölçüm yapar.\nAçı ölçümünde teodolit ile yatay ve düşey açı ölçümünde hassas okuma yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDetay alım metoduyla ölçüm yapar.\n•\nAlet bakımını titizlikle yapar.\n•\nAçı ölçmede teodolitin yapısı ve parçalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "3. Açı ölçme",
+      "KAZANIM": "Açı ölçümünde teodolit ile yatay ve düşey açı ölçümünde hassas okuma yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAçı ölçme işleminde dikkatli davranarak teodilitle yatay ve düşey açı ölçer.\n•\nAraç gereç ve ekipmanı titiz kullanır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "3. Açı ölçme",
+      "KAZANIM": "Açı ölçümünde teodolit ile yatay ve düşey açı ölçümünde hassas okuma yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAçı okumasını hassasiyetle yapar.\n•\nKarne düzenler.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "4. Yükseklik ölçme",
+      "KAZANIM": "Nivelman metodu ile yükseklik ölçme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nNivelman metodu ile yükseklik ölçümünü açıklar.\n•\nNivelman metodunu kullanarak ölçme işlemi yapar.\n•\nÖlçme işlemi ile ilgili hesap yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "4. Yükseklik ölçme / 5. Trigonometrik yükseklik ölçümü",
+      "KAZANIM": "Nivelman metodu ile yükseklik ölçme işlemini yapar.\nÖlçme işlemini trigonometrik ve barometrik yükseklik ölçme metodu ile yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGrup içi ekip çalışması ile karne düzenler.\n•\nTrigonometrik ve barometrik yükseklik ölçme metodunu açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "5. Trigonometrik yükseklik ölçümü",
+      "KAZANIM": "Ölçme işlemini trigonometrik ve barometrik yükseklik ölçme metodu ile yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTrigonometrik yükseklik ölçme işlemini yapar.\n•\nBarometrik yükseklik ölçme işlemini yapar.\n•\nÖlçme işlemi ile ilgili hesap yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "6. Kule yüksekliği ölçümü ve hesabı",
+      "KAZANIM": "Hesaplama formülleri ile kule yükseklik hesabını ve ölçümünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKule yükseklik ölçümü ve hesabını açıklar.\n•\nKule yükseklik ölçümü ve hesabını dikkatle yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Temel Ölçme",
+      "KONU": "6. Kule yüksekliği ölçümü ve hesabı",
+      "KAZANIM": "Hesaplama formülleri ile kule yükseklik hesabını ve ölçümünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUzaklığı bilinen kule yüksekliklerini ölçer ve hesaplar.\n•\nUzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Yardımcı araç, gereç ve malzemeleri hazırlamak\n Aletlerin temizlik ve bakımını yapmak\n Ölçüm araç gereç ve ekipmanı kullanmak\n Ölçü aletlerini kullanarak yatay ölçüm metoduyla ölçüm yapmak\n Ölçü aletlerini kullanarak dolaylı uzunlukların ölçümünü yapmak\n Detay alım metoduyla ölçüm yapmak\n Teodolit ile yatay ve düşey açı ölçmek\n Açı okuması yapmak\n Nivelman metodunu ile ölçme işlemi yapmak\n Ölçme işlemi ile ilgili hesap yapmak\n Trigonometrik yükseklik ölçme işlemini yapmak\n Barometrik yükseklik ölçme işlemini yapmak\n Kule yükseklik ölçümü ve hesabını yapmak\n Uzaklığı bilinen kule yüksekliklerini ölçmek ve hesaplamak\n Uzaklığı bilinen kulenin deniz seviyesinden yüksekliğini hesaplamak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "1. Noktanın aplikasyonu",
+      "KAZANIM": "Bağlama, dik koordinat ve kutupsal yöntem ile noktanın aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAplikasyon kavramını açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "1. Noktanın aplikasyonu",
+      "KAZANIM": "Bağlama, dik koordinat ve kutupsal yöntem ile noktanın aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBağlama yöntemi ile noktanın aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "1. Noktanın aplikasyonu",
+      "KAZANIM": "Bağlama, dik koordinat ve kutupsal yöntem ile noktanın aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDik koordinat yöntemi ile noktanın aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "1. Noktanın aplikasyonu",
+      "KAZANIM": "Bağlama, dik koordinat ve kutupsal yöntem ile noktanın aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKutupsal yöntem ile noktanın aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "2. Doğruların aplikasyonu",
+      "KAZANIM": "Doğru parçasının belirlenen yöntem doğrultusunda aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDoğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini dikkatle yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "2. Doğruların aplikasyonu",
+      "KAZANIM": "Doğru parçasının belirlenen yöntem doğrultusunda aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDoğru parçasının ara noktalarının aplikasyon işlemini dikkatli ve grup çalışması içinde yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "3. Açıların aplikasyonu",
+      "KAZANIM": "Dik veya herhangi bir açının aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAçıların aplikasyonu işlemindeki aplikasyon türlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "3. Açıların aplikasyonu",
+      "KAZANIM": "Dik veya herhangi bir açının aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDik açıların aplikasyonunu işlemini yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "3. Açıların aplikasyonu",
+      "KAZANIM": "Dik veya herhangi bir açının aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHerhangi bir açının aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "4. Eğrilerin aplikasyonu",
+      "KAZANIM": "Herhangi bir eğrinin aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEğrilerin aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "4. Eğrilerin aplikasyonu",
+      "KAZANIM": "Herhangi bir eğrinin aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHerhangi bir eğrinin aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "4. Eğrilerin aplikasyonu",
+      "KAZANIM": "Herhangi bir eğrinin aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHerhangi bir eğrinin aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "4. Eğrilerin aplikasyonu",
+      "KAZANIM": "Herhangi bir eğrinin aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHerhangi bir eğrinin aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aplikasyon",
+      "KONU": "4. Eğrilerin aplikasyonu",
+      "KAZANIM": "Herhangi bir eğrinin aplikasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHerhangi bir eğrinin aplikasyonunu yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bağlama yöntemi ile noktanın aplikasyonunu yapmak\n Dik koordinat yöntemi ile noktanın aplikasyonunu yapmak\n Kutupsal yöntem ile noktanın aplikasyonunu yapmak\n Doğru parçasını uzatma yöntemi ile doğrunun aplikasyonunu işlemini yapmak\n Doğru parçasının ara noktalarının aplikasyon işlemini yapmak\n Dik açıların aplikasyonunu işlemini yapmak\n Herhangi bir açının aplikasyonunu yapmak\n Eğrilerin aplikasyonunu yapmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Alan Hesabı",
+      "KONU": "1. Elektronik hesap makinesi kullanma",
+      "KAZANIM": "Arazi ölçümünde hesap makinesi ile yapılabilecek bütün işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHesap makinesiyle yapılabilecek işlemleri açıklar.\n•\nHesap makinesiyle matematiksel işlemleri dikkatli yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Hesap makinesiyle matematiksel işlemleri yapmak\n Hesap makinesinde programlama yapmak\n Ölçü değerlerine göre alan hesabını yapmak\n Koordinat değerine göre alan hesabını yapmak\n Plan değerine göre alan hesabı yapmak\n Ölçü ve plan değerlerine göre alan hesabı yapmak\n Diyagramlarla alan hesabı yapmak\n Planimetreyle alan hesabı yapmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Alan Hesabı",
+      "KONU": "1. Elektronik hesap makinesi kullanma",
+      "KAZANIM": "Arazi ölçümünde hesap makinesi ile yapılabilecek bütün işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHesap makinesinde programlama yapar.\n•\nHesap makinesinde elde edilen verileri hafızaya alır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Hesap makinesiyle matematiksel işlemleri yapmak\n Hesap makinesinde programlama yapmak\n Ölçü değerlerine göre alan hesabını yapmak\n Koordinat değerine göre alan hesabını yapmak\n Plan değerine göre alan hesabı yapmak\n Ölçü ve plan değerlerine göre alan hesabı yapmak\n Diyagramlarla alan hesabı yapmak\n Planimetreyle alan hesabı yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Alan Hesabı",
+      "KONU": "2. Alan hesapları",
+      "KAZANIM": "Alan hesabı yapmada kullanılan uygun yöntemlerle alan hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlan hesabı yapmada uygun yöntemi tayin eder.\n•\nÖlçü değerlerine göre alan hesabını dikkatli yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Hesap makinesiyle matematiksel işlemleri yapmak\n Hesap makinesinde programlama yapmak\n Ölçü değerlerine göre alan hesabını yapmak\n Koordinat değerine göre alan hesabını yapmak\n Plan değerine göre alan hesabı yapmak\n Ölçü ve plan değerlerine göre alan hesabı yapmak\n Diyagramlarla alan hesabı yapmak\n Planimetreyle alan hesabı yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Alan Hesabı",
+      "KONU": "2. Alan hesapları",
+      "KAZANIM": "Alan hesabı yapmada kullanılan uygun yöntemlerle alan hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKoordinat değerine göre alan hesabını yapar.\n•\nPlan değerine göre alan hesabı yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Hesap makinesiyle matematiksel işlemleri yapmak\n Hesap makinesinde programlama yapmak\n Ölçü değerlerine göre alan hesabını yapmak\n Koordinat değerine göre alan hesabını yapmak\n Plan değerine göre alan hesabı yapmak\n Ölçü ve plan değerlerine göre alan hesabı yapmak\n Diyagramlarla alan hesabı yapmak\n Planimetreyle alan hesabı yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Alan Hesabı",
+      "KONU": "2. Alan hesapları",
+      "KAZANIM": "Alan hesabı yapmada kullanılan uygun yöntemlerle alan hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÖlçü ve plan değerlerine göre alan hesabı yapar.\n•\nDiyagramlarla alan hesabı yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Hesap makinesiyle matematiksel işlemleri yapmak\n Hesap makinesinde programlama yapmak\n Ölçü değerlerine göre alan hesabını yapmak\n Koordinat değerine göre alan hesabını yapmak\n Plan değerine göre alan hesabı yapmak\n Ölçü ve plan değerlerine göre alan hesabı yapmak\n Diyagramlarla alan hesabı yapmak\n Planimetreyle alan hesabı yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Alan Hesabı",
+      "KONU": "2. Alan hesapları",
+      "KAZANIM": "Alan hesabı yapmada kullanılan uygun yöntemlerle alan hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPlanimetreyle alan hesabı yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Hesap makinesiyle matematiksel işlemleri yapmak\n Hesap makinesinde programlama yapmak\n Ölçü değerlerine göre alan hesabını yapmak\n Koordinat değerine göre alan hesabını yapmak\n Plan değerine göre alan hesabı yapmak\n Ölçü ve plan değerlerine göre alan hesabı yapmak\n Diyagramlarla alan hesabı yapmak\n Planimetreyle alan hesabı yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Kroki Çizimi",
+      "KONU": "1. Ölçek çeşitleri ve uygulamaları",
+      "KAZANIM": "Ölçek çeşitlerine göre kroki uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÖlçeğin tanımını açıklar.\n•\nÖlçek çeşitlerini sıralar.\n•\nÖlçeklerin uygulama aşamalarını açıklar.\n•\nKroki çiziminde ölçek seçiminin çizim hassasiyeti üzerindeki etkisini açıklar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Uygun ölçek seçimi yapmak.\n Ölçeği kullanırken hesap makinesi kullanmak\n Ölçü birimini farklı birime dönüştürmek\n Kroki çiziminde şematik planlar yapmak\n İstasyon vaziyet planları yapmak\n Serbest elle norm yazı ve rakamları yazmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Kroki Çizimi",
+      "KONU": "1. Ölçek çeşitleri ve uygulamaları",
+      "KAZANIM": "Ölçek çeşitlerine göre kroki uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKroki çizimi yapmadan önce uygun ölçek seçimini yapar.\n•\nÖlçeği kullanırken hesap makinesi kullanır.\n•\nUygun ölçü birimini kullanır ve farklı birime dönüştürür.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Uygun ölçek seçimi yapmak.\n Ölçeği kullanırken hesap makinesi kullanmak\n Ölçü birimini farklı birime dönüştürmek\n Kroki çiziminde şematik planlar yapmak\n İstasyon vaziyet planları yapmak\n Serbest elle norm yazı ve rakamları yazmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Kroki Çizimi",
+      "KONU": "2. Şematik planlar",
+      "KAZANIM": "Belirlenen yapının kroki çizimini ve norm yazı çalışmalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKroki çiziminde şematik plan çeşitlerini açıklar.\n•\nŞematik planlar yapmanın önemini açıklar\n•\nKroki çiziminde şematik planlar yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Uygun ölçek seçimi yapmak.\n Ölçeği kullanırken hesap makinesi kullanmak\n Ölçü birimini farklı birime dönüştürmek\n Kroki çiziminde şematik planlar yapmak\n İstasyon vaziyet planları yapmak\n Serbest elle norm yazı ve rakamları yazmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Kroki Çizimi",
+      "KONU": "2. Şematik planlar",
+      "KAZANIM": "Belirlenen yapının kroki çizimini ve norm yazı çalışmalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİstasyon vaziyet planları yapar.\n•\nSerbest elle norm yazı ve rakamları yazar.\n•\nUygun parametreler kullanır.",
+        "Ortam ve Donanım": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Öğretim Teknikleri": "Ortam: Atölye, sınıf veya TCDD, Metro ve Hafif Raylı Sistem İşletmeleri gerçek çalışma ortamı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, çelik metre, hesap makinesi, Teodolit, nivo, mira, jalon, prizma, elektronik uzunluk ölçer, çelik metre, GPS, total station, pusula, raylı sistemler teknolojisi alanı standart donanımları ve yapılacak uygulama faaliyetine ait araç, gereç, donanım",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Uygun ölçek seçimi yapmak.\n Ölçeği kullanırken hesap makinesi kullanmak\n Ölçü birimini farklı birime dönüştürmek\n Kroki çiziminde şematik planlar yapmak\n İstasyon vaziyet planları yapmak\n Serbest elle norm yazı ve rakamları yazmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Yapay Zeka Ve Makine Öğrenmesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/132/yapay-zeka-ve-makine-ogrenmesi-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Zekâya Giriş",
+      "KONU": "Yapay Zekâ Kavramları",
+      "KAZANIM": "Yapay zekâ kavramlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay zekâ tanımı açıklanır.\nYapay zekânın hangi problemlerde kullanılacağı açıklanır.\nYapay zekâ ile insan zekâsı arasındaki farklar anlatılır.\nYapay zekâ örneği yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Basit yapay zeka örneği yapmak.\nYapay zekanın günümüzdeki kullanım alanlarıyla ilgili sunum hazırlamak.\nVeri seti oluşturma uygulaması yapmak.\nAçık veri seti kütüphanelerinden veri seti bulma ve kullanma uygulaması yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Zekâya Giriş",
+      "KONU": "Yapay Zekâ Kavramları",
+      "KAZANIM": "Yapay zekâ kavramlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay zekânın tarihsel gelişimi anlatılır.\nYapay zekâ etiği tanımlanır.\nRobot etiği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Basit yapay zeka örneği yapmak.\nYapay zekanın günümüzdeki kullanım alanlarıyla ilgili sunum hazırlamak.\nVeri seti oluşturma uygulaması yapmak.\nAçık veri seti kütüphanelerinden veri seti bulma ve kullanma uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Zekâya Giriş",
+      "KONU": "Yapay Zekâ Kavramları / Veri Seti Kavramları",
+      "KAZANIM": "Yapay zekâ kavramlarını açıklar.\nVeri seti kavramlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Olası yapay zekâ problemleri açıklanır.\nPaket program kullanarak veri seti analiz örneği yaptırılır.\nVeri seti özellikleri açıklanır.\nVeri seti deposunun ne amaçla kullanıldığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Basit yapay zeka örneği yapmak.\nYapay zekanın günümüzdeki kullanım alanlarıyla ilgili sunum hazırlamak.\nVeri seti oluşturma uygulaması yapmak.\nAçık veri seti kütüphanelerinden veri seti bulma ve kullanma uygulaması yapmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Zekâya Giriş",
+      "KONU": "Veri Seti Kavramları",
+      "KAZANIM": "Veri seti kavramlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Makine öğrenmesi için gerekli olan veri kavramı ve veri seti oluşturmanın önemi üzerinde durulur.\nVeri seti depoları tanımlanarak veri seti depoları kullanımı uygulanır.\nVeri seti hazırlamak için gerekli aşamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Basit yapay zeka örneği yapmak.\nYapay zekanın günümüzdeki kullanım alanlarıyla ilgili sunum hazırlamak.\nVeri seti oluşturma uygulaması yapmak.\nAçık veri seti kütüphanelerinden veri seti bulma ve kullanma uygulaması yapmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi Kavramı Ve Temelleri",
+      "KAZANIM": "Makine öğrenmesi kavramını ve temellerini tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Makine öğrenmesi, tahmin, kestirim ve sınıflandırma kavramları açıklanır.\nMakine öğrenmesi türleri (denetimli, denetimsiz, yarı denetimli ve pekiştirmeli öğrenme) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi Kavramı Ve Temelleri",
+      "KAZANIM": "Makine öğrenmesi kavramını ve temellerini tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Makine öğrenmesi için kullanılacak yazılımlar ve bunların kurulumu açıklanır.\nMakine öğrenmesi için kullanılacak programlama diline ait temel uygulamalar yapılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi Kavramı Ve Temelleri",
+      "KAZANIM": "Makine öğrenmesi kavramını ve temellerini tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sistem başarısı ölçme yöntemleri açıklanır.\nAşırı öğrenme ve zayıf öğrenme kavramı ve önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi Kütüphaneleri",
+      "KAZANIM": "Makine öğrenmesi uygulamaları için gerekli kütüphaneleri tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Makine öğrenmesi için geliştirilmiş kütüphaneler açıklanır.\nMakine öğrenmesi için geliştirilmiş kütüphaneleri kurulumu ve ekleme işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi Kütüphaneleri",
+      "KAZANIM": "Makine öğrenmesi uygulamaları için gerekli kütüphaneleri tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri hazırlama kavramı açıklanır.\nSınıflandırma veya tahmin için veri kümesi hazırlama işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi Kütüphaneleri",
+      "KAZANIM": "Makine öğrenmesi uygulamaları için gerekli kütüphaneleri tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Makine öğrenmesi kütüphanelerine ilişkin temel işlemler açıklanır.\nVeri yükleme ve ön işleme aşamaları uygulamalı olarak yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi için Kullanılan Algoritmalar",
+      "KAZANIM": "Makine öğrenmesi için kullanılan algoritmaları tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrenme algoritmaları açıklanır.\nGözetimli öğrenme algoritması tanımlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi için Kullanılan Algoritmalar",
+      "KAZANIM": "Makine öğrenmesi için kullanılan algoritmaları tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gözetimsiz öğrenme algoritması tanımlanır.\nSınıflandırma ve kümeleme yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi için Kullanılan Algoritmalar",
+      "KAZANIM": "Makine öğrenmesi için kullanılan algoritmaları tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrenme algoritmalarını kullanarak uygulama yaptırılır.\nModel geçerliliği (Çapraz, Rasgele örneklemeli geçerlilik) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Makine Öğrenmesi için Kullanılan Algoritmalar / Regresyon Analizi ve Yöntemleri",
+      "KAZANIM": "Makine öğrenmesi için kullanılan algoritmaları tanır.\nRegresyon Analizini ve yöntemlerini bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanılan algoritma çeşitlerine göre, eğitimin ne zaman durdurulması gerektiği açıklanır.\nRegresyonun tanımı yapılarak matematiksel olarak açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Regresyon Analizi ve Yöntemleri",
+      "KAZANIM": "Regresyon Analizini ve yöntemlerini bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğrusal regresyon ve doğrusal olmayan regresyon modellerini ayırt etmesi sağlanır.\nEn küçük Kareler Yöntemi ile regresyon yaptırılarak matematiksel olarak açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Regresyon Analizi ve Yöntemleri",
+      "KAZANIM": "Regresyon Analizini ve yöntemlerini bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Regresyon ve Korelasyon arasındaki ilişki açıklanır.\nEşikleme ve yarışmalı sınıflama kavramları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Gözetimli Öğrenme Algoritmaları",
+      "KAZANIM": "Gözetimli Öğrenme algoritmalarını kullanarak makine öğrenmesini gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğrusal Regresyon algoritmasını kullanarak veri seti üzerinde gözetimli öğrenme uygulaması yaptırılır.\nLojistik Regresyon algoritmasını kullanarak veri üzerinde gözetimli öğrenme uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Gözetimli Öğrenme Algoritmaları",
+      "KAZANIM": "Gözetimli Öğrenme algoritmalarını kullanarak makine öğrenmesini gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "En yakın komşuluk algoritmasını kullanarak veri üzerinde gözetimli öğrenme uygulaması yaptırılır.\nKarar Ağacı algoritmasını kullanarak veri üzerinde gözetimli öğrenme uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Gözetimli Öğrenme Algoritmaları",
+      "KAZANIM": "Gözetimli Öğrenme algoritmalarını kullanarak makine öğrenmesini gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Random Forest algoritmasını kullanarak veri üzerinde gözetimli öğrenme uygulaması yaptırılır.\nDestek vektör makinaları algoritmasını kullanarak veri üzerinde gözetimli öğrenme uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Makine Öğrenmesi",
+      "KONU": "Gözetimli Öğrenme Algoritmaları",
+      "KAZANIM": "Gözetimli Öğrenme algoritmalarını kullanarak makine öğrenmesini gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri seti verilen bir duruma ait uygun makine öğrenmesi algoritması seçilerek kullanılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Destek vektör makinaları algoritması örneği yapmak.\nKarar ağacı algoritması örneği yapmak.\nEn yakın komşuluk algoritması örneği yapmak.\nPython lineer regresyon analizi örneği yapmak.\nRandom Forest algoritması örneği yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağlarında Derin Öğrenme kavramının yeri ve terminolojisi açıklanır.\nDerin Öğrenmenin diğer yöntemlerden farkları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağları uygulamaları için gerekli donanımlar açıklanır.\nYapay Sinir Ağları uygulamaları için kullanılan programlama dilleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağları uygulama ortamları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağları ile uygulama yapılması sağlanır.\nYapay Sinir Ağları matematiksel temelleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tensör çeşitleri açıklanarak uygulama yapılması sağlanır.\nTensörler arasında işlemler yapılması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağları modellerinde optimizasyonun gerekliliği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hazır veri kümeleri hakkında açıklama yapılır.\nMNIST hazır veri kümesi tanıtılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Temel Kavramları ve Uygulamaları",
+      "KAZANIM": "Yapay sinir ağlarının temel kavramlarını ve nasıl uygulandığını bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hazır veri kümeleri ile uygulama yapılması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağları kavramı örneklerle açıklanır.\nYapay Nöron Modeli kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tek Katmanlı Algılayıcılar açıklanır ve matematiksel gösteriminin örneklerle yapılması sağlanır.\nÇok Katmanlı Algılayıcılara neden gerek duyulduğu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çok Katmanlı Algılayıcılarla ilgili örnek yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağlarında hazır model oluşturulur.\nKatmanlarla model oluşturma açıklanarak uygulama yapılması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapay Sinir Ağlarında oluşturulan bir modelin optimizasyon türünün deneme yanılma yöntemiyle bulunması sağlanır.\nDenetimli (Supervised) Öğrenme, Denetimsiz (Unsupervised) Öğrenme, Pekiştirmeli Öğrenme (Reinforcement Learning) gibi öğrenme modelleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Geri yayılım/hesaplama tekniği ile matematiksel olarak model oluşturma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İleri yayılım/hesaplama tekniği ve matematiksel olarak model oluşturma açıklanır.\nYapay Sinir Ağlarında oluşturulan bir modelin aktivasyon fonksiyonu türünün deneme yanılma yöntemiyle bulunması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yapay Sinir Ağları",
+      "KONU": "Yapay Sinir Ağları Çeşitleri ve Katmanları",
+      "KAZANIM": "Yapay sinir ağları çeşitlerini tanımlar, farklı katmanlara sahip ağları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "OpenCV kütüphanesi ekletilerek bu kütüphaneye ait uygulamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon cihazı, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Veriye göre yapay sinir ağı modeli geliştirme örneği yapmak.\nPython tahmin örneği yapmak.\nPython kestirim örneği yapmak.\nPython sınıflandırma örneği yapmak.\nPython ileri yayılım örneği yapmak.\nPython geri yayılım tekniği örneği yapmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

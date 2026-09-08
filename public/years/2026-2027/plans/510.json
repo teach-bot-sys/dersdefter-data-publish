@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Santral İşletilmesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Yenilenebilir Enerji Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/yenilenebilir-enerji-teknolojileri/510/santral-isletilmesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "6",
+      "ÜNİTE": "Üretim Tahmini",
+      "KONU": "Üretim Tahmin Verileri",
+      "KAZANIM": "Rüzgar ve güneş meteorolojik verileri kendi ölçtüğü verilerle karşılaştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Günlük rüzgar ve güneş meteorolojik verilerin incelemesi sağlanmalıdır.\nHava sıcaklığının ölçülmesi sağlanmalıdır.\nHava basıncı ölçümünün yapılması sağlanmalıdır.\nHava neminin ölçülmesi sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük rüzgar ve güneş meteorolojik verilerini incelemek.\nHava sıcaklık ölçümü yapmak .\nBarometre ile hava basıncını ölçmek .\nAnemometre ile rüzgar hızını ölçmek.\nPiranometre ile radyasyon ışınımını ölçmek .\nGüneş geliş açısını ölçmek.\nToplanan verileri üretim tahmini yapan paket programına aktarmak .\nKullanılan verilerle güneş ve rüzgar santralleri için günlük, aylık ve yıllık ne kadar enerji üretileceği konusunda hesap yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "6",
+      "ÜNİTE": "Üretim Tahmini",
+      "KONU": "Üretim Tahmin Verileri / Üretim Tahmin Hesabı",
+      "KAZANIM": "Rüzgar ve güneş meteorolojik verileri kendi ölçtüğü verilerle karşılaştırır.\nElde edilen verilere dayanarak üretim tahmini yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Anemometre yardımı ile rüzgar hızını ölçülmelidir.\nGüneş ışınımını ölçülmesi sağlanmalıdır.\nMeteorolojik Veriler üretim tahmini yapan paket programa aktarılmalıdır.\nÜretim tahmini için gerekli veriler kullanılarak güneş ve rüzgar santralleri için günlük, aylık ve yıllık enerji hesaplamalarında kullanılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük rüzgar ve güneş meteorolojik verilerini incelemek.\nHava sıcaklık ölçümü yapmak .\nBarometre ile hava basıncını ölçmek .\nAnemometre ile rüzgar hızını ölçmek.\nPiranometre ile radyasyon ışınımını ölçmek .\nGüneş geliş açısını ölçmek.\nToplanan verileri üretim tahmini yapan paket programına aktarmak .\nKullanılan verilerle güneş ve rüzgar santralleri için günlük, aylık ve yıllık ne kadar enerji üretileceği konusunda hesap yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "6",
+      "ÜNİTE": "Scada Takibi",
+      "KONU": "Vardiya Defteri / Santral Arızalarını Takibi",
+      "KAZANIM": "Vardiya defterinde üretim raporu takibi yapar.\nSantral de oluşmuş olan bir arızanın scada üzerinden takibini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Üretim raporunun incelenmesi sağlanmalıdır.\nScada üzerinden santral arızaları kontrolü yaptırılmalıdır.\nArıza koduna göre arızalı olan parçalar tespit edilmelidir.\nArızayı giderecek ilgili personele ulaşıp arıza hakkında bilgi verilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hazırlanmış olan üretim raporunu incelemek .\nSantralde oluşan bir arızayı scada üzerinden gözlemlemek\nScada sisteminden santralde oluşmuş olan arızaların yerlerini tespit etmek .\nYetkili birimle arıza giderilmesi konusunda bilgilendirmek .\nRüzgar türbininde oluşacak olan türbin yatak sıcaklarını scada üzerinden takip etmek .\nRüzgar türbini dişli kutusundaki yağ sıcaklığının scada dan takibini yapmak .\nRüzgar türbini sisteminde dişli kutusu yağ değişimini gerçekleştirmek.\nScada üzerinden santralin ürettiği elektrik enerji miktarını takip etmek .\nSantralde üretilen enerjinin şebekeye aktarımını scada üzerinden takip etmek .\nSantrallerin ürettikleri enerji miktarını saat bazında incelemek.\nScada sistemi üzerindeki eski kayıtları incelemek.\nArşivlenmiş olan eski verileri incelemek.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "6",
+      "ÜNİTE": "Scada Takibi",
+      "KONU": "Enerji Üretimini Takibi",
+      "KAZANIM": "Enerji üretim takibini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Scada üzerinden enerji üretimini takibi yapılmalıdır.\nSistemin şebekeye enerji iletim manevralarını yapabilmelidir.\nSistemin maksimum ve minimum enerji ürettiği saatleri belirleyebilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hazırlanmış olan üretim raporunu incelemek .\nSantralde oluşan bir arızayı scada üzerinden gözlemlemek\nScada sisteminden santralde oluşmuş olan arızaların yerlerini tespit etmek .\nYetkili birimle arıza giderilmesi konusunda bilgilendirmek .\nRüzgar türbininde oluşacak olan türbin yatak sıcaklarını scada üzerinden takip etmek .\nRüzgar türbini dişli kutusundaki yağ sıcaklığının scada dan takibini yapmak .\nRüzgar türbini sisteminde dişli kutusu yağ değişimini gerçekleştirmek.\nScada üzerinden santralin ürettiği elektrik enerji miktarını takip etmek .\nSantralde üretilen enerjinin şebekeye aktarımını scada üzerinden takip etmek .\nSantrallerin ürettikleri enerji miktarını saat bazında incelemek.\nScada sistemi üzerindeki eski kayıtları incelemek.\nArşivlenmiş olan eski verileri incelemek.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "6",
+      "ÜNİTE": "Scada Takibi",
+      "KONU": "Türbin Yatak Sıcaklıklarını Takibi / Yağ Sıcaklıklarını Takibi",
+      "KAZANIM": "Türbin yatak sıcaklıklarını takip eder.\nYağ sıcaklıklarını takip eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Scada üzerinden türbin yatak sıcaklıklarını takip ederek normal sıcaklıkları dışında çalışan türbinleri belirler.\nTürbin yataklarının yağlanmasını yapar.\nScada üzerinden dişli kutusu yağ sıcaklıklarını takip ederek normal çalışma sıcaklıkları dışında çalışan dişli kutusunu belirler.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hazırlanmış olan üretim raporunu incelemek .\nSantralde oluşan bir arızayı scada üzerinden gözlemlemek\nScada sisteminden santralde oluşmuş olan arızaların yerlerini tespit etmek .\nYetkili birimle arıza giderilmesi konusunda bilgilendirmek .\nRüzgar türbininde oluşacak olan türbin yatak sıcaklarını scada üzerinden takip etmek .\nRüzgar türbini dişli kutusundaki yağ sıcaklığının scada dan takibini yapmak .\nRüzgar türbini sisteminde dişli kutusu yağ değişimini gerçekleştirmek.\nScada üzerinden santralin ürettiği elektrik enerji miktarını takip etmek .\nSantralde üretilen enerjinin şebekeye aktarımını scada üzerinden takip etmek .\nSantrallerin ürettikleri enerji miktarını saat bazında incelemek.\nScada sistemi üzerindeki eski kayıtları incelemek.\nArşivlenmiş olan eski verileri incelemek.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "6",
+      "ÜNİTE": "Scada Takibi",
+      "KONU": "Yağ Sıcaklıklarını Takibi / Verileri Kaydı",
+      "KAZANIM": "Yağ sıcaklıklarını takip eder.\nKumanda odası verilerini kayıt eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dişli kutusu yağını değiştirerek arıza kaydını düşüp ilgili personele bilgi verir.\nKumanda odası verilerini günlük haftalık, aylık ve yıllık olarak yapılıp yapılmadığı incelenebilmelidir.\nKayıt edilen verilerin dijital ortamda arşivleme yapabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hazırlanmış olan üretim raporunu incelemek .\nSantralde oluşan bir arızayı scada üzerinden gözlemlemek\nScada sisteminden santralde oluşmuş olan arızaların yerlerini tespit etmek .\nYetkili birimle arıza giderilmesi konusunda bilgilendirmek .\nRüzgar türbininde oluşacak olan türbin yatak sıcaklarını scada üzerinden takip etmek .\nRüzgar türbini dişli kutusundaki yağ sıcaklığının scada dan takibini yapmak .\nRüzgar türbini sisteminde dişli kutusu yağ değişimini gerçekleştirmek.\nScada üzerinden santralin ürettiği elektrik enerji miktarını takip etmek .\nSantralde üretilen enerjinin şebekeye aktarımını scada üzerinden takip etmek .\nSantrallerin ürettikleri enerji miktarını saat bazında incelemek.\nScada sistemi üzerindeki eski kayıtları incelemek.\nArşivlenmiş olan eski verileri incelemek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "6",
+      "ÜNİTE": "Stok Takibi",
+      "KONU": "Serviste Kullanılacak Malzeme Miktarının Belli Aralıklara Takibi / Kritik Stok Seviyesi / Eksilen Malzemeyi Tamamlama",
+      "KAZANIM": "Serviste kullanılacak malzeme miktarını belli aralıklarla takibini yaparak depolardaki stokları kontrol eder\nDepolardaki malzeme miktarını kritik stok seviyesinde ulaşıp ulaşmadığının kontrolünü yaparak gerekli malzemeler için sipariş açar.\nEksilen malzemelerin yerine yeni gelenler ürünler ile tamamlar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Serviste kullanılacak malzemelerin miktarını belirlenmelidir.\nBelli aralıklarda depolarda sayım yaparak stok kontrolü yapılmalıdır.\nKullanılan malzemelerin kaydını tutulmalıdır.\nDepolardaki malzeme miktarını kontrolünü yapılmalıdır.\nKritik seviyeye gelmiş malzemeler belirlenmelidir.\nSipariş açma işlemi yapmalıdır.\nGelen malzemeyi depodaki var olana eklenmelidir.\nSisteme kayıt işlemi yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirli aralıklarla stok takibi yapmak .\nStoktan eksilen malzemelerin listesini yapmak.\nMalzeme sayımı yapılarak rapor hazılamak .\nSayıma bağlı olarak kritik seviyede bulunan malzemeleri belirlemek ve listesini oluşturmak .\nEksilen malzemelerin siparişini geçmek .\nEksilen malzemelerin yerine gelen malzemeleri kayıt altına almak .",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Yük Tevzi Merkezi İle İletişim",
+      "KONU": "Bölge Yük Tevzi Merkezine Üretim Raporu Verme / Enerji Kesme",
+      "KAZANIM": "Üretim sisteminde enerji üretimi raporu hazırlar.\nEnerji kesme işlemi için gerekli sıralamaya uygun hareket eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tamamlanmış üretim raporu hazırlanmalıdır.\nTamamlanmamış üretim raporu yük tevzi merkezine bildirilmelidir.\nÜretim arıza raporu hazırlanmalıdır.\nEnerji kesme işlemi için öncelikli yük tevzi merkezi ile iletişime geçilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji üretim raporu hazırlanmak.\nÜretim arıza raporu hazırlamak .\nEnerji kesme işlemini sırasına uygun gerçekleştirmek.\nEnerji verme işlemini sırasına uygun gerçekleştirmek.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Yük Tevzi Merkezi İle İletişim / Santral Şalt Manevraları",
+      "KONU": "Enerji Kesme / Enerji Verme / Kesiciyi Manevraları / Ayırıcıyı Manevraları",
+      "KAZANIM": "Enerji kesme işlemi için gerekli sıralamaya uygun hareket eder.\nEnerji verme işlemi için gerekli prosedürü uygular.\nKesici manevrası yapar.\nAyırıcı manevrası yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enerji kesme işlemlerini sırasıyla uygulanmalıdır.\nYük tevzi merkezi ile enerji verme işlemi için iletişime geçilmelidir.\nEnerji verme işlemlerini enerji verme talimatlarına uygun yapılmalıdır.\nSistem üzerinden manevrası yapılacak kesici belirlenmelidir.\nScada üzerinden belirlenen kesici açılmalıdır.\nBakım veya arıza giderildiğinde scada üzerinden kesiciyi kapama işlemi yapılmalıdır.\nSistem üzerinde manevrası yapılacak ayırıcı belirlenmelidir.\nScada üzerinden belirlenen ayırıcı açılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji üretim raporu hazırlanmak.\nÜretim arıza raporu hazırlamak .\nEnerji kesme işlemini sırasına uygun gerçekleştirmek.\nEnerji verme işlemini sırasına uygun gerçekleştirmek.\nSistem üzerinden manevrası yapılacak kesiciniyi belirlemek .\nScada üzerinden belirlediğimiz bir kesiciyi açmak.\nScada üzerinden açık durumda olan kesiciyi kapamak.\nScada programı üzerinden belirlenen ayırıcıyı açıp kapama işlemi yapmak.\nTopraklama ayırıcısı açma kapama işlemini gerçekleştirmek.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "6",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Şalt Manevraları",
+      "KONU": "Ayırıcıyı Manevraları / Toprak Ayırıcısını Manevraları",
+      "KAZANIM": "Ayırıcı manevrası yapar.\nTopraklama ayırıcı manevrası yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım veya arıza giderildiğinde scada üzerinden ayırıcı kapatılmalıdır.\nTopraklama ayırıcısını belirleyebilmelidir.\nScada üzerinden topraklama ayırıcısını kapama işlemini gerçekleştirebilmelidir.\nBakım veya arıza giderildiğinde scada üzerinden topraklama ayırıcısını açma işlemini gerçekleştirmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sistem üzerinden manevrası yapılacak kesiciniyi belirlemek .\nScada üzerinden belirlediğimiz bir kesiciyi açmak.\nScada üzerinden açık durumda olan kesiciyi kapamak.\nScada programı üzerinden belirlenen ayırıcıyı açıp kapama işlemi yapmak.\nTopraklama ayırıcısı açma kapama işlemini gerçekleştirmek.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Şalt Sahası Ve Enerji İletim Hatlarının Bakımı",
+      "KONU": "Trafolar Ve Trafo Merkezlerinin Bakımı / YG Kumanda Elemanları Ve Koruma Sistemlerinin Bakımı",
+      "KAZANIM": "Trafo merkezleri donanımlarının bakımını yapar.\nKumanda elemanları ve koruma sistemleri bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım öncesi emniyet ve güvenlik tedbirleri alınmalıdır.\nTrafo ve trafo merkezi periyodik bakım süreleri incelenmelidir.\nTrafo metal gövdesinin yağının, buşinglerinin, soğutma sistemi bağlantılarının, sargı yalıtkanlıkları, conta ve cıvataların kontrolleri yapılmalıdır.\nBara ve izolatörlerin kontrol ve bakımları yapılmalıdır.\nBina beton metal ve havalandırma kısımlarının kontrolleri yapılmalıdır.\nKumanda sistemlerini devreden çıkarma işlemi sırasına uygun yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bakım öncesi gerekli güvenlik önlemleri nelerdir belirleyip bunları eksiksiz uygulamak.\nTrafo periyodik bakım süreleri dolan trafo merkezinin bakımını yapmak.\nTrafo metal gövdesinin kontrolunu yapmak .\nTrafo yağlarının kontrolünü yapmak.\nTrafo buşinglerini kontrol etmek .\nTrafo soğutma sisteminin kontrolünü yapmak .\nTrafo conta ve cıvatalarının sağlamlık kontrolünü yapmak.\nAkü ve sarj sisteminin kontrollerini gerçekleştirmek.\nBara ve izolatörlerin kontrol ve bakımlarını yapmak.\nTrafo merkezinin havalandırma ve metal kısımlarını gözle kontrol etmek .\nKumanda elemanlarını devreden çıkarmak .\nBakım yapılacak bölgenin enerjisini kesme işlemini gerçekleştirmek .\nAyırıcı kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKesici kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKoruma rölelerinin kontrollerini gerçekleştirmek .\nParafodrların kontrollerini gerçekleştirmek.\nSigortaların sağlamlık kontrollerini yapmak .\nDirek bakımları yapılmadan enerji kesme işlemlerini güvenlik önlemlerine uygun yapmak.\nPanoların metal kısımlarını kontrol etmek, kaçak olup olmadığını belirlemek .\nÖlçüm panosu malzemelerinin kontrollerini yaparak bakımlarını gerçekleştirmek.\nÖlçü trafolarının sağlamlık kontrollerini yapmak.\nElektrik sayaçlarının sağlamlık kontrolünü yapmak.\nPanolarda kullanılan ölçü aletlerinin sağlamlık kontrolünü yapmak.\nPano topraklama değerlerinin standartlara uygunluğunu araştırmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Şalt Sahası Ve Enerji İletim Hatlarının Bakımı",
+      "KONU": "YG Kumanda Elemanları Ve Koruma Sistemlerinin Bakımı",
+      "KAZANIM": "Kumanda elemanları ve koruma sistemleri bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım yapılacak kesimin enerjisinin kesilme işlemi yapılmalıdır.\nAyırıcıların kontaklarının bağlantı yerlerinin bakımı yapılmalıdır.\nKesicilerin kontaklarının bakım ve bağlantı yerlerinin kontrolleri yapılmalıdır.\nKoruma rölelerinin, topraklama sisteminin, parafudrların ve sigortaların kontrolleri yapılmalıdır.\nBakımdan sonra sistem devreye alınmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bakım öncesi gerekli güvenlik önlemleri nelerdir belirleyip bunları eksiksiz uygulamak.\nTrafo periyodik bakım süreleri dolan trafo merkezinin bakımını yapmak.\nTrafo metal gövdesinin kontrolunu yapmak .\nTrafo yağlarının kontrolünü yapmak.\nTrafo buşinglerini kontrol etmek .\nTrafo soğutma sisteminin kontrolünü yapmak .\nTrafo conta ve cıvatalarının sağlamlık kontrolünü yapmak.\nAkü ve sarj sisteminin kontrollerini gerçekleştirmek.\nBara ve izolatörlerin kontrol ve bakımlarını yapmak.\nTrafo merkezinin havalandırma ve metal kısımlarını gözle kontrol etmek .\nKumanda elemanlarını devreden çıkarmak .\nBakım yapılacak bölgenin enerjisini kesme işlemini gerçekleştirmek .\nAyırıcı kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKesici kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKoruma rölelerinin kontrollerini gerçekleştirmek .\nParafodrların kontrollerini gerçekleştirmek.\nSigortaların sağlamlık kontrollerini yapmak .\nDirek bakımları yapılmadan enerji kesme işlemlerini güvenlik önlemlerine uygun yapmak.\nPanoların metal kısımlarını kontrol etmek, kaçak olup olmadığını belirlemek .\nÖlçüm panosu malzemelerinin kontrollerini yaparak bakımlarını gerçekleştirmek.\nÖlçü trafolarının sağlamlık kontrollerini yapmak.\nElektrik sayaçlarının sağlamlık kontrolünü yapmak.\nPanolarda kullanılan ölçü aletlerinin sağlamlık kontrolünü yapmak.\nPano topraklama değerlerinin standartlara uygunluğunu araştırmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Şalt Sahası Ve Enerji İletim Hatlarının Bakımı",
+      "KONU": "Direkler, Donanımları Ve Hatların Bakımı / Panoların Ve Ölçüm Sistemlerinin Bakımı",
+      "KAZANIM": "Direkler, donanımları ve hatların bakımını yapar.\nPanoların ve ölçüm sistemlerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enerjinin kesilme işlemi yapılmalıdır.\nDirek Ve donanımlarının temelleri, travers ve konsolların, izolatörlerin ve hat iletkenlerinin bakım ve kontrolleri yapılmalıdır.\nBakımdan sonra sistem devreye alınmalıdır.\nPanoların metal kısımlarının incelenmelidir.\nAG ölçüm panosu malzemeleri kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bakım öncesi gerekli güvenlik önlemleri nelerdir belirleyip bunları eksiksiz uygulamak.\nTrafo periyodik bakım süreleri dolan trafo merkezinin bakımını yapmak.\nTrafo metal gövdesinin kontrolunu yapmak .\nTrafo yağlarının kontrolünü yapmak.\nTrafo buşinglerini kontrol etmek .\nTrafo soğutma sisteminin kontrolünü yapmak .\nTrafo conta ve cıvatalarının sağlamlık kontrolünü yapmak.\nAkü ve sarj sisteminin kontrollerini gerçekleştirmek.\nBara ve izolatörlerin kontrol ve bakımlarını yapmak.\nTrafo merkezinin havalandırma ve metal kısımlarını gözle kontrol etmek .\nKumanda elemanlarını devreden çıkarmak .\nBakım yapılacak bölgenin enerjisini kesme işlemini gerçekleştirmek .\nAyırıcı kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKesici kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKoruma rölelerinin kontrollerini gerçekleştirmek .\nParafodrların kontrollerini gerçekleştirmek.\nSigortaların sağlamlık kontrollerini yapmak .\nDirek bakımları yapılmadan enerji kesme işlemlerini güvenlik önlemlerine uygun yapmak.\nPanoların metal kısımlarını kontrol etmek, kaçak olup olmadığını belirlemek .\nÖlçüm panosu malzemelerinin kontrollerini yaparak bakımlarını gerçekleştirmek.\nÖlçü trafolarının sağlamlık kontrollerini yapmak.\nElektrik sayaçlarının sağlamlık kontrolünü yapmak.\nPanolarda kullanılan ölçü aletlerinin sağlamlık kontrolünü yapmak.\nPano topraklama değerlerinin standartlara uygunluğunu araştırmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "6",
+      "ÜNİTE": "Santral Şalt Sahası Ve Enerji İletim Hatlarının Bakımı",
+      "KONU": "Panoların Ve Ölçüm Sistemlerinin Bakımı",
+      "KAZANIM": "Panoların ve ölçüm sistemlerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ölçü trafolarının bakımı yapılmalıdır.\nElektrik sayaç kontrolü yapılmalıdır.\nÖlçü aletlerinin ve bağlantılarının kontrol ve bakımı yapılmalıdır.\nKuvvetli Akım Tesisleri Yönetmeliği incelenmelidir.\nKonu anlatımında Topraklamalar Yönetmeliği, TEİAŞ ve İş Güvenliği Yönetmeliği konusundan yararlanılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bakım öncesi gerekli güvenlik önlemleri nelerdir belirleyip bunları eksiksiz uygulamak.\nTrafo periyodik bakım süreleri dolan trafo merkezinin bakımını yapmak.\nTrafo metal gövdesinin kontrolunu yapmak .\nTrafo yağlarının kontrolünü yapmak.\nTrafo buşinglerini kontrol etmek .\nTrafo soğutma sisteminin kontrolünü yapmak .\nTrafo conta ve cıvatalarının sağlamlık kontrolünü yapmak.\nAkü ve sarj sisteminin kontrollerini gerçekleştirmek.\nBara ve izolatörlerin kontrol ve bakımlarını yapmak.\nTrafo merkezinin havalandırma ve metal kısımlarını gözle kontrol etmek .\nKumanda elemanlarını devreden çıkarmak .\nBakım yapılacak bölgenin enerjisini kesme işlemini gerçekleştirmek .\nAyırıcı kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKesici kontaklarının ve bağlantı yerlerinin kontrollerini gerçekleştirmek.\nKoruma rölelerinin kontrollerini gerçekleştirmek .\nParafodrların kontrollerini gerçekleştirmek.\nSigortaların sağlamlık kontrollerini yapmak .\nDirek bakımları yapılmadan enerji kesme işlemlerini güvenlik önlemlerine uygun yapmak.\nPanoların metal kısımlarını kontrol etmek, kaçak olup olmadığını belirlemek .\nÖlçüm panosu malzemelerinin kontrollerini yaparak bakımlarını gerçekleştirmek.\nÖlçü trafolarının sağlamlık kontrollerini yapmak.\nElektrik sayaçlarının sağlamlık kontrolünü yapmak.\nPanolarda kullanılan ölçü aletlerinin sağlamlık kontrolünü yapmak.\nPano topraklama değerlerinin standartlara uygunluğunu araştırmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik Panellerin Bakımı",
+      "KONU": "Fotovoltaik Panelin Montaj Civatalarını Kontrolu / Fotovoltaik Panelin Yüzey Temizliği",
+      "KAZANIM": "Fotovoltaik panel montaj civatalarının kontrolünü yapar.\nFotovoltaik panelin yüzeyindeki kirliliğin (toz, kuş pisliğini vb.) temizliğini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Cıvata sıkma yöntemleri nelerdir öğrenilmelidir.\nStandart torklama değerleri bilinmelidir.\nStandart cıvata çapları örneklerle gösterilmelidir.\nTemizlik malzemeleri tanımlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cıvata sıkma yöntemleri konusunda araştırma yapmak .\nFarklı cıvataları tork değerlerine uygun değerde torklamak .\nCıvata çaplarının ayrımını kumpas ile belirlemek.\nCıvatalar için uygun ölçülerde konstrüksyon üzerine delik açmak .\nFotovoltaik panellerin temizliğini solüsyonla ve diğer malzemelerle yapmak.\nFotovoltaik panel yüzey temizliğinde kullanılan robot ve makinaları incelemek .\nFotovoltaik panel temizliği sırasında gerekli iş güvenliği önlemleri belirlemek ve bu önlemleri almak.\nFotovoltaik panel solar kablolarının kesitlerini mikrometre veya kumpas kullanarak ölçmek.\nFotovoltaik panel bağlantı soketlerini ( dişi, erkek ve çoklu paralel soketler) kullanarak solar kablolarla panelleri birleştirmek .\nKopuk solar kabloları yenisi ile değiştirmek.\nSolar kablolarla bağlantı yöntemlerinin (seri, paralel, karışık) tamamını gerçekleştirmek ."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik Panellerin Bakımı",
+      "KONU": "Fotovoltaik Panelin Yüzey Temizliği / Fotovoltaik Paneller Arasındaki Kablo Bağlantılarını Kontrolu",
+      "KAZANIM": "Fotovoltaik panelin yüzeyindeki kirliliğin (toz, kuş pisliğini vb.) temizliğini yapar.\nFotovoltaik paneller arasındaki kablo bağlantılarının kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fotovoltaik panel temizleme solisyon ve temizlik malzemeleri kullanılmalıdır.\nFotovoltaik panel temizleme robot ve makinaları incelenmelidir.\nİş güvenliği kurallarının üzerinde durularak temizlik işlemi yapılmalıdır.\nFotovoltaik panel bağlantı kabloları tanımlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cıvata sıkma yöntemleri konusunda araştırma yapmak .\nFarklı cıvataları tork değerlerine uygun değerde torklamak .\nCıvata çaplarının ayrımını kumpas ile belirlemek.\nCıvatalar için uygun ölçülerde konstrüksyon üzerine delik açmak .\nFotovoltaik panellerin temizliğini solüsyonla ve diğer malzemelerle yapmak.\nFotovoltaik panel yüzey temizliğinde kullanılan robot ve makinaları incelemek .\nFotovoltaik panel temizliği sırasında gerekli iş güvenliği önlemleri belirlemek ve bu önlemleri almak.\nFotovoltaik panel solar kablolarının kesitlerini mikrometre veya kumpas kullanarak ölçmek.\nFotovoltaik panel bağlantı soketlerini ( dişi, erkek ve çoklu paralel soketler) kullanarak solar kablolarla panelleri birleştirmek .\nKopuk solar kabloları yenisi ile değiştirmek.\nSolar kablolarla bağlantı yöntemlerinin (seri, paralel, karışık) tamamını gerçekleştirmek .",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik Panellerin Bakımı",
+      "KONU": "Fotovoltaik Paneller Arasındaki Kablo Bağlantılarını Kontrolu",
+      "KAZANIM": "Fotovoltaik paneller arasındaki kablo bağlantılarının kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablo bağlantı soketleri gösterilmelidir.\nKablo kopukluk kontrolü yapılıp kopuk olan yerler değiştirilmelidir.\nKablo bağlantı yöntemlerinin uygulamaları yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Cıvata sıkma yöntemleri konusunda araştırma yapmak .\nFarklı cıvataları tork değerlerine uygun değerde torklamak .\nCıvata çaplarının ayrımını kumpas ile belirlemek.\nCıvatalar için uygun ölçülerde konstrüksyon üzerine delik açmak .\nFotovoltaik panellerin temizliğini solüsyonla ve diğer malzemelerle yapmak.\nFotovoltaik panel yüzey temizliğinde kullanılan robot ve makinaları incelemek .\nFotovoltaik panel temizliği sırasında gerekli iş güvenliği önlemleri belirlemek ve bu önlemleri almak.\nFotovoltaik panel solar kablolarının kesitlerini mikrometre veya kumpas kullanarak ölçmek.\nFotovoltaik panel bağlantı soketlerini ( dişi, erkek ve çoklu paralel soketler) kullanarak solar kablolarla panelleri birleştirmek .\nKopuk solar kabloları yenisi ile değiştirmek.\nSolar kablolarla bağlantı yöntemlerinin (seri, paralel, karışık) tamamını gerçekleştirmek ."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "6",
+      "ÜNİTE": "Şarj Ünitesinin Bakımı",
+      "KONU": "Şarj Kontrol Cihazının Çıkış Akımını Ölçümü / Grup İçerisindeki Akülerin Testi",
+      "KAZANIM": "Şarj kontrol cihazının çıkış akımının ölçümünü yapar.\nGrup içerisindeki akülerin test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şarj sisteminin şarj akımı ve gerilimi ölçümü yapılmalıdır.\nAmpermetre ve voltmetre kullanarak akü kutup başlarından akım ve gerilim ölçümleri yapılır.\nAkü bağlantı yöntemleri gösterilmelidir.\nYükleme cihazı kullanımı anlatılmalı",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şarj sisteminin akım ölçümünü yapmak.\nAmpermetre kullanımının pratikte uygulamak .\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri seri bağlayarak sitem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri karışık bağlayarak farklı voltajlarda sistem oluşturmak ve üzerindeki gerilim ve akım değişimlerini gözlemlemek.\nAküleri yük altında kullanıp akım ve gerilimlerindeki değişimleri ölçmek.\nGruplanan akülerin kablo bağlantısını yapmak.\nDeğişik voltajlarda akü grupları oluşturmak.\nÖlçülen değerler ile şarj cihazı girişindeki ölçüm değerlerinin karşılaştırmasını yapmak.\nAkü gerilimini ile Şarj kontrol cihazı üzerindeki gerilimi ölçmek.\nGerilimi ölçülecek cihazın sisteme bağlanmadan önce ve sonra gerilim değerlerinin ölçümünü yapmak.\nAküden gruplarından gelen kabloları eviriciye (invertör) bağlantısını yapmak.\nGerekli akım değerlerine uygun kablo seçimi yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "6",
+      "ÜNİTE": "Şarj Ünitesinin Bakımı",
+      "KONU": "Grup İçerisindeki Akülerin Testi / Ölçülen Değer İle Cihazın Girişindeki Değeri Kıyaslama",
+      "KAZANIM": "Grup içerisindeki akülerin test eder.\nÖlçülen değer ile cihazın girişindeki değerin karşılaştırılması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Test edilecek akü grupları belirlenmelidir.\nAkü gruplarının kablo bağlantıları yapılabilmelidir.\nAkü ve şarj kontrol cihazı bağlantısı yapılabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şarj sisteminin akım ölçümünü yapmak.\nAmpermetre kullanımının pratikte uygulamak .\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri seri bağlayarak sitem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri karışık bağlayarak farklı voltajlarda sistem oluşturmak ve üzerindeki gerilim ve akım değişimlerini gözlemlemek.\nAküleri yük altında kullanıp akım ve gerilimlerindeki değişimleri ölçmek.\nGruplanan akülerin kablo bağlantısını yapmak.\nDeğişik voltajlarda akü grupları oluşturmak.\nÖlçülen değerler ile şarj cihazı girişindeki ölçüm değerlerinin karşılaştırmasını yapmak.\nAkü gerilimini ile Şarj kontrol cihazı üzerindeki gerilimi ölçmek.\nGerilimi ölçülecek cihazın sisteme bağlanmadan önce ve sonra gerilim değerlerinin ölçümünü yapmak.\nAküden gruplarından gelen kabloları eviriciye (invertör) bağlantısını yapmak.\nGerekli akım değerlerine uygun kablo seçimi yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "6",
+      "ÜNİTE": "Şarj Ünitesinin Bakımı",
+      "KONU": "Akü Gerilimini İle Şarj Kontrol Cihazı Üzerindeki Gerilimi Ölçme",
+      "KAZANIM": "Akü gerilimi ile şarj kontrol cihazı üzerindeki gerilimin ölçümünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Voltmetre ile akü ve şarj kontrol cihazının gerilim ölçümü yapılmalıdır.\nŞarj devresi kontrol edilmelidir.\nGerilimi ölçülecek cihazın şarjdan önce ve şarjdan sonra gerilim ölçümü yapılmalıdır.\nAkü sağlamlık kontrolü yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şarj sisteminin akım ölçümünü yapmak.\nAmpermetre kullanımının pratikte uygulamak .\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri seri bağlayarak sitem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri karışık bağlayarak farklı voltajlarda sistem oluşturmak ve üzerindeki gerilim ve akım değişimlerini gözlemlemek.\nAküleri yük altında kullanıp akım ve gerilimlerindeki değişimleri ölçmek.\nGruplanan akülerin kablo bağlantısını yapmak.\nDeğişik voltajlarda akü grupları oluşturmak.\nÖlçülen değerler ile şarj cihazı girişindeki ölçüm değerlerinin karşılaştırmasını yapmak.\nAkü gerilimini ile Şarj kontrol cihazı üzerindeki gerilimi ölçmek.\nGerilimi ölçülecek cihazın sisteme bağlanmadan önce ve sonra gerilim değerlerinin ölçümünü yapmak.\nAküden gruplarından gelen kabloları eviriciye (invertör) bağlantısını yapmak.\nGerekli akım değerlerine uygun kablo seçimi yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "6",
+      "ÜNİTE": "Şarj Ünitesinin Bakımı / Fotovoltaik (Güneş) Enerji Üretim Ünitesinin Bakımı",
+      "KONU": "Akülerin Akım Gerilim Değerlerini Test Etmek / Akü Grubunu Eviriciye(İnvertör) Bağlama / Fotovoltaik Panel Geçiş Bağlantılarını (Soketlerini) Ve Topraklama Test Ölçümü",
+      "KAZANIM": "Akülerin akım gerilim değerlerini test eder.\nAkü grubunun eviriciye (İnvertör) bağlanması yapar.\nPanel geçiş bağlantılarını (soketlerini) kontrolünü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Akü grubu gerilim ölçümü yapılmalıdır.\nEvirici (invertör) montaj hakkında araştırma yaptırılmalıdır.\nAkım değerine uygun kablo seçimi yapılabilmelidir.\nFotovoltaik panel geçiş soketleri kontrol edilir.\nFotovoltaik panel geçiş soketlerinin çeşitleri gösterilir.\nFotovoltaik panel geçiş soketlerinin solar kablo ucuna takılma uygulaması yaptırılır.\nFotovoltaik panel topraklama kablo bağlantılarını ve topraklama çubuğu bağlantısını kontrol edebilmelidir.\nTopraklama test ölçümü yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şarj sisteminin akım ölçümünü yapmak.\nAmpermetre kullanımının pratikte uygulamak .\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri seri bağlayarak sitem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri paralel bağlayarak sistem üzerindeki gerilim ve akım değişimlerini ölçmek.\nAküleri karışık bağlayarak farklı voltajlarda sistem oluşturmak ve üzerindeki gerilim ve akım değişimlerini gözlemlemek.\nAküleri yük altında kullanıp akım ve gerilimlerindeki değişimleri ölçmek.\nGruplanan akülerin kablo bağlantısını yapmak.\nDeğişik voltajlarda akü grupları oluşturmak.\nÖlçülen değerler ile şarj cihazı girişindeki ölçüm değerlerinin karşılaştırmasını yapmak.\nAkü gerilimini ile Şarj kontrol cihazı üzerindeki gerilimi ölçmek.\nGerilimi ölçülecek cihazın sisteme bağlanmadan önce ve sonra gerilim değerlerinin ölçümünü yapmak.\nAküden gruplarından gelen kabloları eviriciye (invertör) bağlantısını yapmak.\nGerekli akım değerlerine uygun kablo seçimi yapmak.\nFotovoltaik panel geçiş soketlerini solar kablo uçlarına takma işlemini yapmak .\nFotovoltaik panel geçiş soketlerinin çeşitlerini değişik güçlerdeki panellerde kullanmak.\nParafudr söküp incelemesini yapmak.\nParafudr sağlamlık testi konusunda araştırma yapmak .\nFotovoltaik panel yalıtkan kısımlarının kontrollerini yapmak .\nFotovoltaik panel yalıtkan kısımlarında deforme olup olmadığını gözlemlemek.\nMetal konstrüksiyon eğiminin uygunluğunu kontrol etmek.\nMetal konstrüksiyon bağlantı aparatları kullanarak Fotovoltaik panelleri konstrüksiyon üzerine montajlamak .\nMetal konstrüksiyon bağlantısında kullanılan anahtar takımlarını uygulamada kullanmak.\nMetal konstrüksiyon vibrasyon testini yapmak.\nTork anahtarı kullanarak cıvataları torklamak.\nKonstrüksiyon üzerinde paslı yerleri zımparalamak ve boya yapmak .\nEvirici (invertör) kablo standartları tanımlanmak.\nEvirici(invertör) kablo bağlantı aparatları kullanarak bağlantılar yapmak .\nVeri depolama birimi hakkında bilgi toplama işlemi yapmak .\nVeri depolama birimi geçiş soketlerini takmak .\nEvirici (invertör) veri parametrelerini kontrol etmek.\nEvirici (invertör) ortalama veri değerleri ile sınır değerleri incelenmek .",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerji Üretim Ünitesinin Bakımı",
+      "KONU": "Güneş Enerjisi(Fotovoltaik) Santralinin Ünitesine Ait Parafudurun Testik / Güneş Enerjisi(Fotovoltaik) Santralinin Montaj Bağlantılarını Ve Metal Konstrüksiyon Bağlantılarını Kontrolü",
+      "KAZANIM": "Güneş (fotovoltaik) enerjisi santralinin ünitesine ait parafuduru test eder.\nMetal konstrüksiyon bağlantılarının gevşeklik kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parafudr sökümü iş sağlığı ve güvenliği tedbirlerine uygun gerçekleştirilmelidir.\nParafudr sağlamlık testi yaptırılmalıdır.\nMetal konstrüksiyon kontrol edilmelidir.\nMetal konstrüksiyon bağlantı aparatları tanıtılmalıdır.\nMetal konstrüksiyon bağlantısında kullanılan anahtar takımları tanıtılmalı uygulamalı olarak gösterilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel geçiş soketlerini solar kablo uçlarına takma işlemini yapmak .\nFotovoltaik panel geçiş soketlerinin çeşitlerini değişik güçlerdeki panellerde kullanmak.\nParafudr söküp incelemesini yapmak.\nParafudr sağlamlık testi konusunda araştırma yapmak .\nFotovoltaik panel yalıtkan kısımlarının kontrollerini yapmak .\nFotovoltaik panel yalıtkan kısımlarında deforme olup olmadığını gözlemlemek.\nMetal konstrüksiyon eğiminin uygunluğunu kontrol etmek.\nMetal konstrüksiyon bağlantı aparatları kullanarak Fotovoltaik panelleri konstrüksiyon üzerine montajlamak .\nMetal konstrüksiyon bağlantısında kullanılan anahtar takımlarını uygulamada kullanmak.\nMetal konstrüksiyon vibrasyon testini yapmak.\nTork anahtarı kullanarak cıvataları torklamak.\nKonstrüksiyon üzerinde paslı yerleri zımparalamak ve boya yapmak .\nEvirici (invertör) kablo standartları tanımlanmak.\nEvirici(invertör) kablo bağlantı aparatları kullanarak bağlantılar yapmak .\nVeri depolama birimi hakkında bilgi toplama işlemi yapmak .\nVeri depolama birimi geçiş soketlerini takmak .\nEvirici (invertör) veri parametrelerini kontrol etmek.\nEvirici (invertör) ortalama veri değerleri ile sınır değerleri incelenmek .",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "6",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerji Üretim Ünitesinin Bakımı",
+      "KONU": "Güneş Enerjisi(Fotovoltaik) Santralinin Montaj Bağlantılarını Ve Metal Konstrüksiyon Bağlantılarını Kontrolü / Evirici (İnvertör) Kablo Bağlantılarını Yapma",
+      "KAZANIM": "Metal konstrüksiyon bağlantılarının gevşeklik kontrol eder.\nEvirici (invertör) kablo bağlantılarının kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metal konstrüksiyon vibrasyon testi yapılmalıdır.\nSomun standartları konusu üzerinde durulmalıdır.\nTork anahtarı kullanımı yaptırılmalıdır.\nEvirici(invertör) kablo giriş terminalleri tanıtılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel geçiş soketlerini solar kablo uçlarına takma işlemini yapmak .\nFotovoltaik panel geçiş soketlerinin çeşitlerini değişik güçlerdeki panellerde kullanmak.\nParafudr söküp incelemesini yapmak.\nParafudr sağlamlık testi konusunda araştırma yapmak .\nFotovoltaik panel yalıtkan kısımlarının kontrollerini yapmak .\nFotovoltaik panel yalıtkan kısımlarında deforme olup olmadığını gözlemlemek.\nMetal konstrüksiyon eğiminin uygunluğunu kontrol etmek.\nMetal konstrüksiyon bağlantı aparatları kullanarak Fotovoltaik panelleri konstrüksiyon üzerine montajlamak .\nMetal konstrüksiyon bağlantısında kullanılan anahtar takımlarını uygulamada kullanmak.\nMetal konstrüksiyon vibrasyon testini yapmak.\nTork anahtarı kullanarak cıvataları torklamak.\nKonstrüksiyon üzerinde paslı yerleri zımparalamak ve boya yapmak .\nEvirici (invertör) kablo standartları tanımlanmak.\nEvirici(invertör) kablo bağlantı aparatları kullanarak bağlantılar yapmak .\nVeri depolama birimi hakkında bilgi toplama işlemi yapmak .\nVeri depolama birimi geçiş soketlerini takmak .\nEvirici (invertör) veri parametrelerini kontrol etmek.\nEvirici (invertör) ortalama veri değerleri ile sınır değerleri incelenmek .",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerji Üretim Ünitesinin Bakımı",
+      "KONU": "Evirici (İnvertör) Kablo Bağlantılarını Yapma / Evirici (İnvertör) İçerisinden (Verileri) Bilgi Alma",
+      "KAZANIM": "Evirici (invertör) kablo bağlantılarının kontrolünü yapar.\nÇevirici içerisindeki bilgileri (verileri) alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Evirici(invertör) kablo bağlantısı kontrol edilmelidir.\nEvirici(invertör) topraklama kablo bağlantısı kontrol edilmelidir.\nEvirici (invertör) çıkış gerilimi osiloskop ile ölçülmelidir.\nVeri depolama birimi hakkında bilgi verilmelidir.\nVeri depolama birimi geçiş soketleri kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel geçiş soketlerini solar kablo uçlarına takma işlemini yapmak .\nFotovoltaik panel geçiş soketlerinin çeşitlerini değişik güçlerdeki panellerde kullanmak.\nParafudr söküp incelemesini yapmak.\nParafudr sağlamlık testi konusunda araştırma yapmak .\nFotovoltaik panel yalıtkan kısımlarının kontrollerini yapmak .\nFotovoltaik panel yalıtkan kısımlarında deforme olup olmadığını gözlemlemek.\nMetal konstrüksiyon eğiminin uygunluğunu kontrol etmek.\nMetal konstrüksiyon bağlantı aparatları kullanarak Fotovoltaik panelleri konstrüksiyon üzerine montajlamak .\nMetal konstrüksiyon bağlantısında kullanılan anahtar takımlarını uygulamada kullanmak.\nMetal konstrüksiyon vibrasyon testini yapmak.\nTork anahtarı kullanarak cıvataları torklamak.\nKonstrüksiyon üzerinde paslı yerleri zımparalamak ve boya yapmak .\nEvirici (invertör) kablo standartları tanımlanmak.\nEvirici(invertör) kablo bağlantı aparatları kullanarak bağlantılar yapmak .\nVeri depolama birimi hakkında bilgi toplama işlemi yapmak .\nVeri depolama birimi geçiş soketlerini takmak .\nEvirici (invertör) veri parametrelerini kontrol etmek.\nEvirici (invertör) ortalama veri değerleri ile sınır değerleri incelenmek .",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerji Üretim Ünitesinin Bakımı",
+      "KONU": "Evirici (İnvertör) İçerisinden (Verileri) Bilgi Alma / Alınan Verileri Evirici (İnvertör) Üzerindeki Ekran Bilgileriyle Karşılaştırma",
+      "KAZANIM": "Çevirici içerisindeki bilgileri (verileri) alır.\nAlınan bilgileri evirici (invertör) üzerindeki ekran bilgileriyle karşılaştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri depolama yöntemleri üzerinde durulmalıdır.\nEvirici (invertör) veri parametreleri gösterilmelidir.\nEvirici (invertör) anlık veri parametrelerini okumalıdır.\nEvirici (invertör) ortalama veri değerleri ve sınır değerleri incelenmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel geçiş soketlerini solar kablo uçlarına takma işlemini yapmak .\nFotovoltaik panel geçiş soketlerinin çeşitlerini değişik güçlerdeki panellerde kullanmak.\nParafudr söküp incelemesini yapmak.\nParafudr sağlamlık testi konusunda araştırma yapmak .\nFotovoltaik panel yalıtkan kısımlarının kontrollerini yapmak .\nFotovoltaik panel yalıtkan kısımlarında deforme olup olmadığını gözlemlemek.\nMetal konstrüksiyon eğiminin uygunluğunu kontrol etmek.\nMetal konstrüksiyon bağlantı aparatları kullanarak Fotovoltaik panelleri konstrüksiyon üzerine montajlamak .\nMetal konstrüksiyon bağlantısında kullanılan anahtar takımlarını uygulamada kullanmak.\nMetal konstrüksiyon vibrasyon testini yapmak.\nTork anahtarı kullanarak cıvataları torklamak.\nKonstrüksiyon üzerinde paslı yerleri zımparalamak ve boya yapmak .\nEvirici (invertör) kablo standartları tanımlanmak.\nEvirici(invertör) kablo bağlantı aparatları kullanarak bağlantılar yapmak .\nVeri depolama birimi hakkında bilgi toplama işlemi yapmak .\nVeri depolama birimi geçiş soketlerini takmak .\nEvirici (invertör) veri parametrelerini kontrol etmek.\nEvirici (invertör) ortalama veri değerleri ile sınır değerleri incelenmek .",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "6",
+      "ÜNİTE": "Rüzgâr Türbin Bakımı",
+      "KONU": "Türbin Göbeği Ve Kanat Bakımı",
+      "KAZANIM": "Türbin göbeği ve kanat bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Küçük güçlü rüzgar türbin direği Tirforla bakım için indirilmelidir.\nDişli kutusu bakımını yapılmalıdır.\nFren sisteminin bakımını yapabilmelidir\nTürbin göbeği cıvatalarıaı torklama yapabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Küçük güçlü rüzgar türbin direği Tirforla bakım için iş güvenliği önlemlerini alarak indirmek\nJeneratör bakımını yapmak.\nElektrik hattını kontrol ederek yıpranmış eskimiş kabloları yenilemek.\nRüzgar türbininde kullanılan sensörlerinin sağlamlık kontrollerini yapmak çalışmayan sensöleri değiştirmek.\nTürbin yağ ve aparatlarını gözden geçirmek gerekiyor ise yenisiyle değiştirmek.\nDişli kutusu bakımını yapmak.\nFren sisteminin gerekli bakımlarını yapmak.\nTürbin göbeği cıvatalarını torklamasını yapmak .\nTürbin göbeği yağ ve aparatları bakımını yapmak.\nKanat cıvatalarını torklamalarını yapmak.\nKanat üzerindeki küçük kanatçıkların sağlamlıklarını kontrol etmek.\nYıldırım koruma sisteminin kontrolünü yapmak.\nTopraklama sisteminin kontrolünü ölçüm yaparak standartlara uygunluğunu kontrol etmek.\nKanadın boya ve çatlak hasarlarını gidermek.\nKule cıvatalarına torklama yapmak.\nKule iletim ve iletişim hatlarının bakımını yapmak.\nGüç ünitesinin cıvatalarının torklamasını yapmak.\nTürbin besleme ve kontrol panosunun bakımlarını yapmak.\nKüçük güçlü rüzgar türbin direğini Tirforla iş güvenliği önlemlerini alarak kaldırmak ve sabitleme işlemini yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "6",
+      "ÜNİTE": "Rüzgâr Türbin Bakımı",
+      "KONU": "Türbin Göbeği Ve Kanat Bakımı",
+      "KAZANIM": "Türbin göbeği ve kanat bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Türbin göbeği yağ ve aparatlarının bakımı yapılmalıdır.\nKanat cıvatalarına torklama yapabilmelidir.\nKanat üzerindeki küçük kanatçıkların kontrolü yapılmalıdır.\nYıldırım koruma sisteminin kontrolü yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Küçük güçlü rüzgar türbin direği Tirforla bakım için iş güvenliği önlemlerini alarak indirmek\nJeneratör bakımını yapmak.\nElektrik hattını kontrol ederek yıpranmış eskimiş kabloları yenilemek.\nRüzgar türbininde kullanılan sensörlerinin sağlamlık kontrollerini yapmak çalışmayan sensöleri değiştirmek.\nTürbin yağ ve aparatlarını gözden geçirmek gerekiyor ise yenisiyle değiştirmek.\nDişli kutusu bakımını yapmak.\nFren sisteminin gerekli bakımlarını yapmak.\nTürbin göbeği cıvatalarını torklamasını yapmak .\nTürbin göbeği yağ ve aparatları bakımını yapmak.\nKanat cıvatalarını torklamalarını yapmak.\nKanat üzerindeki küçük kanatçıkların sağlamlıklarını kontrol etmek.\nYıldırım koruma sisteminin kontrolünü yapmak.\nTopraklama sisteminin kontrolünü ölçüm yaparak standartlara uygunluğunu kontrol etmek.\nKanadın boya ve çatlak hasarlarını gidermek.\nKule cıvatalarına torklama yapmak.\nKule iletim ve iletişim hatlarının bakımını yapmak.\nGüç ünitesinin cıvatalarının torklamasını yapmak.\nTürbin besleme ve kontrol panosunun bakımlarını yapmak.\nKüçük güçlü rüzgar türbin direğini Tirforla iş güvenliği önlemlerini alarak kaldırmak ve sabitleme işlemini yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "6",
+      "ÜNİTE": "Rüzgâr Türbin Bakımı",
+      "KONU": "Türbin Göbeği Ve Kanat Bakımı",
+      "KAZANIM": "Türbin göbeği ve kanat bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topraklama sisteminin kontrolü yapılmalıdır.\nKanadın boya ve çatlak hasarları giderilmelidir.\nElektrik sistemleri kontrol edilmelidir.\nSensörlerin kontrolleri yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Küçük güçlü rüzgar türbin direği Tirforla bakım için iş güvenliği önlemlerini alarak indirmek\nJeneratör bakımını yapmak.\nElektrik hattını kontrol ederek yıpranmış eskimiş kabloları yenilemek.\nRüzgar türbininde kullanılan sensörlerinin sağlamlık kontrollerini yapmak çalışmayan sensöleri değiştirmek.\nTürbin yağ ve aparatlarını gözden geçirmek gerekiyor ise yenisiyle değiştirmek.\nDişli kutusu bakımını yapmak.\nFren sisteminin gerekli bakımlarını yapmak.\nTürbin göbeği cıvatalarını torklamasını yapmak .\nTürbin göbeği yağ ve aparatları bakımını yapmak.\nKanat cıvatalarını torklamalarını yapmak.\nKanat üzerindeki küçük kanatçıkların sağlamlıklarını kontrol etmek.\nYıldırım koruma sisteminin kontrolünü yapmak.\nTopraklama sisteminin kontrolünü ölçüm yaparak standartlara uygunluğunu kontrol etmek.\nKanadın boya ve çatlak hasarlarını gidermek.\nKule cıvatalarına torklama yapmak.\nKule iletim ve iletişim hatlarının bakımını yapmak.\nGüç ünitesinin cıvatalarının torklamasını yapmak.\nTürbin besleme ve kontrol panosunun bakımlarını yapmak.\nKüçük güçlü rüzgar türbin direğini Tirforla iş güvenliği önlemlerini alarak kaldırmak ve sabitleme işlemini yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "6",
+      "ÜNİTE": "Rüzgâr Türbin Bakımı",
+      "KONU": "Türbin Göbeği Ve Kanat Bakımı / Kule Bakımı",
+      "KAZANIM": "Türbin göbeği ve kanat bakımını yapar.\nKule bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yağ ve diğer aparatların bakımı yapılmalıdır.\nRüzgar türbin Jeneratör bakımını yapılmalıdır.\nKule cıvatalarını torklama yapabilmelidir.\nKule asansörünün bakım testlerini yapabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Küçük güçlü rüzgar türbin direği Tirforla bakım için iş güvenliği önlemlerini alarak indirmek\nJeneratör bakımını yapmak.\nElektrik hattını kontrol ederek yıpranmış eskimiş kabloları yenilemek.\nRüzgar türbininde kullanılan sensörlerinin sağlamlık kontrollerini yapmak çalışmayan sensöleri değiştirmek.\nTürbin yağ ve aparatlarını gözden geçirmek gerekiyor ise yenisiyle değiştirmek.\nDişli kutusu bakımını yapmak.\nFren sisteminin gerekli bakımlarını yapmak.\nTürbin göbeği cıvatalarını torklamasını yapmak .\nTürbin göbeği yağ ve aparatları bakımını yapmak.\nKanat cıvatalarını torklamalarını yapmak.\nKanat üzerindeki küçük kanatçıkların sağlamlıklarını kontrol etmek.\nYıldırım koruma sisteminin kontrolünü yapmak.\nTopraklama sisteminin kontrolünü ölçüm yaparak standartlara uygunluğunu kontrol etmek.\nKanadın boya ve çatlak hasarlarını gidermek.\nKule cıvatalarına torklama yapmak.\nKule iletim ve iletişim hatlarının bakımını yapmak.\nGüç ünitesinin cıvatalarının torklamasını yapmak.\nTürbin besleme ve kontrol panosunun bakımlarını yapmak.\nKüçük güçlü rüzgar türbin direğini Tirforla iş güvenliği önlemlerini alarak kaldırmak ve sabitleme işlemini yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "6",
+      "ÜNİTE": "Rüzgâr Türbin Bakımı",
+      "KONU": "Kule Bakımı / Güç Ünitelerinin Bakımı",
+      "KAZANIM": "Kule bakımını yapar.\nGüç ünitelerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kule iletim ve iletişim hatlarının bakımını yapabilmelidir.\nGüç ünitesinin cıvatalarını torklamak yapılmalıdır.\nTürbin besleme ve kontrol panosunun kontrol ve bakımlarını yapabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Küçük güçlü rüzgar türbin direği Tirforla bakım için iş güvenliği önlemlerini alarak indirmek\nJeneratör bakımını yapmak.\nElektrik hattını kontrol ederek yıpranmış eskimiş kabloları yenilemek.\nRüzgar türbininde kullanılan sensörlerinin sağlamlık kontrollerini yapmak çalışmayan sensöleri değiştirmek.\nTürbin yağ ve aparatlarını gözden geçirmek gerekiyor ise yenisiyle değiştirmek.\nDişli kutusu bakımını yapmak.\nFren sisteminin gerekli bakımlarını yapmak.\nTürbin göbeği cıvatalarını torklamasını yapmak .\nTürbin göbeği yağ ve aparatları bakımını yapmak.\nKanat cıvatalarını torklamalarını yapmak.\nKanat üzerindeki küçük kanatçıkların sağlamlıklarını kontrol etmek.\nYıldırım koruma sisteminin kontrolünü yapmak.\nTopraklama sisteminin kontrolünü ölçüm yaparak standartlara uygunluğunu kontrol etmek.\nKanadın boya ve çatlak hasarlarını gidermek.\nKule cıvatalarına torklama yapmak.\nKule iletim ve iletişim hatlarının bakımını yapmak.\nGüç ünitesinin cıvatalarının torklamasını yapmak.\nTürbin besleme ve kontrol panosunun bakımlarını yapmak.\nKüçük güçlü rüzgar türbin direğini Tirforla iş güvenliği önlemlerini alarak kaldırmak ve sabitleme işlemini yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "6",
+      "ÜNİTE": "Panoların Bakımı",
+      "KONU": "Tevzi (Aktarım) Panolarının Bakımı / AG/OG Panolarının Bakımı",
+      "KAZANIM": "Tevzi (aktarım) panolarının bakımını yapar\nAG/OG panolarının bakımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Her ünite ile kesici arasındaki bağlantıyı kontrol edilmelidir.\nKesici ile bara arasındaki bağlantıyı kontrol edilmelidir.\nAna kesici ile bara arasındaki bağlantıyı kontrol edilmelidir.\nPano ana bağlantı kesicisini açabilmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Her ünite ile kesici arasındaki bağlantıyı kontrol etmek .\nKesici ile bara arasındaki bağlantıyı yapmak.\nAna kesici ile bara arasındaki bağlantıyı kontrol etmek.\nTopraklama test ölçümünü yapmak.\nAG/OG Panosunun ana bağlantı kesicisini açmak.\nEnerjisi kesilen baraların topraklamasını yapmak .\nBara üzerindeki tüm bağlantılarının kontrollerini yapmak\nİzolatör bağlantılarını kontrol etmek.\nHava soğutma kanallarının temizliğini yapmak.\nBaralar arasında oluşan toz ve kiri temizlemek.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "6",
+      "ÜNİTE": "Panoların Bakımı",
+      "KONU": "AG/OG Panolarının Bakımı",
+      "KAZANIM": "AG/OG panolarının bakımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pano elemanlarının kontrolünü yapmalıdır.\nTopraklama bağlantılarını kontrol eder.\nİzalatör bağlantılarını ve temizliğini kontrol edilmelidir.\nHava soğutma kanallarının temizliğini yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Her ünite ile kesici arasındaki bağlantıyı kontrol etmek .\nKesici ile bara arasındaki bağlantıyı yapmak.\nAna kesici ile bara arasındaki bağlantıyı kontrol etmek.\nTopraklama test ölçümünü yapmak.\nAG/OG Panosunun ana bağlantı kesicisini açmak.\nEnerjisi kesilen baraların topraklamasını yapmak .\nBara üzerindeki tüm bağlantılarının kontrollerini yapmak\nİzolatör bağlantılarını kontrol etmek.\nHava soğutma kanallarının temizliğini yapmak.\nBaralar arasında oluşan toz ve kiri temizlemek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "6",
+      "ÜNİTE": "Panoların Bakımı",
+      "KONU": "Topraklama Tesisatının Bakımı",
+      "KAZANIM": "Topraklama tesisatının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topraklama test ölçümünü yapabilmelidir.\nBara üzerindeki tüm bağlantıları kontrolleri yapılmalıdır.\nBaralar arasında oluşan toz ve kiri temizlenmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Her ünite ile kesici arasındaki bağlantıyı kontrol etmek .\nKesici ile bara arasındaki bağlantıyı yapmak.\nAna kesici ile bara arasındaki bağlantıyı kontrol etmek.\nTopraklama test ölçümünü yapmak.\nAG/OG Panosunun ana bağlantı kesicisini açmak.\nEnerjisi kesilen baraların topraklamasını yapmak .\nBara üzerindeki tüm bağlantılarının kontrollerini yapmak\nİzolatör bağlantılarını kontrol etmek.\nHava soğutma kanallarının temizliğini yapmak.\nBaralar arasında oluşan toz ve kiri temizlemek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerjisi Üretim Sahası Arızaları",
+      "KONU": "Yanmış, Kavrulmuş Güneş Panellerinin Kablo Değişimi / Hasar Görmüş Güneş Panelleri Değişimi",
+      "KAZANIM": "Yanmış, kavrulmuş güneş paneli kablolarını değiştirir.\nHasar görmüş güneş panellerinin değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fotovoltaik panel solar kablo bağlantılarının kontrolünü yapabilmelidir.\nKablo bağlantı yöntemleri gösterilmelidir.\nKablo sağlamlık kontrolü yapılmalı hasarlı kablolar değiştirilmelidir.\nSolar Kablo standartları anlatılmalıdır.\nFotovoltaik panellerin mekanik bağlantı kontrolleri yapılmalıdır.\nFotovoltaik panellerin yüzey kontrolleri yapılmalı hasarlı paneller değiştirlmelidir.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel solar kablo bağlantı yöntemleri uygulamak.\nKablo sağlamlık kontrollerini yapmak.\nKablo standartları ayrımını yapabilmek.\nHasarlı olan panellerin söküm işlemini yapmak.\nTüm panellerin gerilimini ölçerek sağlamlık kontrollerini gerçekleştirmek.\nFotovoltaik panel montaj yöntemlerini uygulamak .\nParafudr montaj teknikleri uygulamak.\nParafudr çeşitleri hakkında araştırma yapmak .\nKesici montajını yapmak.\nTopraklama ayırıcısı kullanımı gerçekleştirmek.\nTesis tek hat şemasını incelemek.\nEvirici (invertör) montajını yapmak.\nEvirici (invertör) bağlantılarını kontrol edip akım ve gerilimlerini ölçmek.\nEviriciyi (invertör) devreye alma prosedürünü uygulamak.\nSantral sahasında kullanılan sensörleri belirlemek.\nSensör kaynaklı hataları belirlemek.\nSorunlu sensörleri yenileriyle değiştirmek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerjisi Üretim Sahası Arızaları",
+      "KONU": "Hasar Görmüş Güneş Panelleri Değişimi / Arızalı Parafudur Komponentlerini (Parça) Kesicileri Ve Çeviriciyi (Alıcı, Duyarga) Değiştirme",
+      "KAZANIM": "Hasar görmüş güneş panellerinin değiştirir.\nKoruma ve kontrol elemanlarının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fotovoltaik panel montaj yöntemlerinde dikkat edilmesi gerekenler üzerinde durulmalıdır.\nParafudr montaj teknikleri gösterilmelidir.\nParafudr çeşitleri resimlerle gösterilmelidir\nTesis tek hat şeması gösterilmelidir.\nEvirici (invertör) montaj yöntemleri uygulanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel solar kablo bağlantı yöntemleri uygulamak.\nKablo sağlamlık kontrollerini yapmak.\nKablo standartları ayrımını yapabilmek.\nHasarlı olan panellerin söküm işlemini yapmak.\nTüm panellerin gerilimini ölçerek sağlamlık kontrollerini gerçekleştirmek.\nFotovoltaik panel montaj yöntemlerini uygulamak .\nParafudr montaj teknikleri uygulamak.\nParafudr çeşitleri hakkında araştırma yapmak .\nKesici montajını yapmak.\nTopraklama ayırıcısı kullanımı gerçekleştirmek.\nTesis tek hat şemasını incelemek.\nEvirici (invertör) montajını yapmak.\nEvirici (invertör) bağlantılarını kontrol edip akım ve gerilimlerini ölçmek.\nEviriciyi (invertör) devreye alma prosedürünü uygulamak.\nSantral sahasında kullanılan sensörleri belirlemek.\nSensör kaynaklı hataları belirlemek.\nSorunlu sensörleri yenileriyle değiştirmek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "6",
+      "ÜNİTE": "Fotovoltaik (Güneş) Enerjisi Üretim Sahası Arızaları",
+      "KONU": "Arızalı Parafudur Komponentlerini (Parça) Kesicileri Ve Çeviriciyi (Alıcı, Duyarga) Değiştirme",
+      "KAZANIM": "Koruma ve kontrol elemanlarının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Evirici (invertör) bağlantıları yapılmalıdır.\nEvirici (invertör) devreye alma prosedürü uygulanmalıdır.\nSantral sahasında kullanılan sensörler belirlenmelidir.\nSensör kaynaklı hata kodları belirlenmelidir.\nSensör montaj yöntemleri uygulanmalırıdır.",
+        "Ortam ve Donanım": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Öğretim Teknikleri": "Ortam: Temel Uygulamaları Atölyesi, Mekanik Atölyesi, Açık Alanlar\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Ampermetre, Voltmetre, Wattmetre, Avometre, Multimetre",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotovoltaik panel solar kablo bağlantı yöntemleri uygulamak.\nKablo sağlamlık kontrollerini yapmak.\nKablo standartları ayrımını yapabilmek.\nHasarlı olan panellerin söküm işlemini yapmak.\nTüm panellerin gerilimini ölçerek sağlamlık kontrollerini gerçekleştirmek.\nFotovoltaik panel montaj yöntemlerini uygulamak .\nParafudr montaj teknikleri uygulamak.\nParafudr çeşitleri hakkında araştırma yapmak .\nKesici montajını yapmak.\nTopraklama ayırıcısı kullanımı gerçekleştirmek.\nTesis tek hat şemasını incelemek.\nEvirici (invertör) montajını yapmak.\nEvirici (invertör) bağlantılarını kontrol edip akım ve gerilimlerini ölçmek.\nEviriciyi (invertör) devreye alma prosedürünü uygulamak.\nSantral sahasında kullanılan sensörleri belirlemek.\nSensör kaynaklı hataları belirlemek.\nSorunlu sensörleri yenileriyle değiştirmek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Blok Zincir",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/465/blok-zincir-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Blok Zincir Teknolojisi",
+      "KONU": "Blok Zincir Teknolojisi Kavramları / Blok Zincir ve Blok Zincir Kavramları / Blok Zincir Teknolojisinin Uygulama Alanları ve Kullanım Senaryoları / Kriptografi",
+      "KAZANIM": "Blok zincir teknolojisi kavramlarını açıklar.\nBlok zincir ve blok zincir kavramlarını açıklar.\nBlok zincir teknolojisinin uygulama alanlarını ve kullanım senaryolarını inceler.\nKriptografiyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Blok ve kayıt kavramlarını açıklanır.\nBlok zincir ve blok zincir kavramları açıklanır.\nBlok zincir ve kullanım senaryoları ile ilgili sunum yaptırılır.\nKriptografi tanımı açıklanır.\nBlock zincir yapısındaki kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir ve kullanım senaryoları ile ilgili sunum yapmak.\nHash fonksiyon örnekleri ile ilgili araştırma ve pano hazırlamak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Blok Zincir Teknolojisi",
+      "KONU": "Hash Fonksiyonu Örnekleri / Dağıtık Defter Teknolojisi Kavram ve Çeşitleri / Madencilik Kavramı ve Blok Zincirde Kullanımı",
+      "KAZANIM": "Hash fonksiyon örneklerini açıklar.\nDağıtık defter teknolojisini açıklar.\nMadencilik kavramını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hash fonksiyon örnekleri incelenir.\nHerkese açık izinsiz blok zincirleri ve uygulama alanları açıklanır.\nÖzel izinli blok zincirleri ve uygulama alanları açıklanır.\nBlok zincir madenciliğini açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir ve kullanım senaryoları ile ilgili sunum yapmak.\nHash fonksiyon örnekleri ile ilgili araştırma ve pano hazırlamak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Finansal Teknolojiler ve Kripto Ekonomi",
+      "KONU": "Paranın Tarihçesi / Para Politikası / Para Çeşitleri / Blok zincir 1.0 ve Bitcoin",
+      "KAZANIM": "Paranın tarihçesini açıklar.\nPara politikaları ve etkilerini araştırır.\nKripto para, dijital para, sanal para farklarını açıklar.\nBlok zincir 1.0 ve bitcoin çalışma prensibini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paranın tarihçesi açıklanır.\nPara politikasının amaçlarını açıklanır.\nKripto para, dijital para, sanal parayı anlatan sunum yaptırılır.\nBlok zincir 1.0 açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kripto para, dijital para, sanal para ile ilgili sunum yapmak.\nEthereum ortamını kullanmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Finansal Teknolojiler ve Kripto Ekonomi",
+      "KONU": "Blok zincir 1.0 ve Bitcoin / Blok zincir 2.0 / Ethereum",
+      "KAZANIM": "Blok zincir 1.0 ve bitcoin çalışma prensibini açıklar.\nBlok zincir 2.0 ve Ethereum ortamını kullanır.\nFinansal teknolojilerde kullanılan blok zincir uygulamalarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bitcoin çalışma prensibini açıklanır.\nBlok zincir 2.0 açıklanır.\nEthereum ortamını tanımaları sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kripto para, dijital para, sanal para ile ilgili sunum yapmak.\nEthereum ortamını kullanmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Mutabakat Protokolleri",
+      "KONU": "Bizans Hata Toleransı / İş Kanıtı / Hisse Kanıtı",
+      "KAZANIM": "Bizans hata toleransını açıklar.\nİş Kanıtı (Proof of Work) mutabakat mekanizmasını açıklar.\nHisse kanıtı (Proof of Stake) mutabakat mekanizmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bizans Hata Toleransı açıklanır.\nİş Kanıtı açıklanır.\nİş Kanıtı örnek uygulama ile açıklanır.\nHisse Kanıtı protokolü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bizans hata toleransı potansiyel çözüm önerileri için sunum yapmak.\nMutabakat Protokolleri ile ilgili örnek uygulama göstermek.\nİş Kanıtı ile ilgili örnek uygulama göstermek.\nHisse kanıtıyla ile ilgili örnek uygulama göstermek.\nOtorite Kanıtı ile ilgili örnek uygulama göstermek.\nGeciktirilmiş İspatı ile ilgili örnek uygulama göstermek.\nHibrid mutabakat algoritmaları ile ilgili örnek uygulama göstermek.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Mutabakat Protokolleri",
+      "KONU": "Otorite Kanıtı / Geciktirilmiş İspatı / Hibrit Mutabakat Algoritmaları / Yeni Nesil Mutabakat Mekanizmaları",
+      "KAZANIM": "Otorite kanıtı (Proof of Authority) mutabakat mekanizmasını açıklar.\nGeciktirilmiş ispatı (Delayed Proof of Work) mutabakat mekanizmasını açıklar.\nHibrid mutabakat algoritmalarını açıklar.\nYeni nesil mutabakat mekanizmalarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Otorite Kanıtı protokolü açıklanır.\nGeciktirilmiş İspat protokolü açıklanır.\nHibrid mutabakat algoritmaları açıklanır.\nYeni nesil mutabakat mekanizmaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bizans hata toleransı potansiyel çözüm önerileri için sunum yapmak.\nMutabakat Protokolleri ile ilgili örnek uygulama göstermek.\nİş Kanıtı ile ilgili örnek uygulama göstermek.\nHisse kanıtıyla ile ilgili örnek uygulama göstermek.\nOtorite Kanıtı ile ilgili örnek uygulama göstermek.\nGeciktirilmiş İspatı ile ilgili örnek uygulama göstermek.\nHibrid mutabakat algoritmaları ile ilgili örnek uygulama göstermek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Blok Zincir 1.0 ve Bitcoin Mimarisi",
+      "KONU": "Bitcoin Protokolü / Bitcoin Madenciliği / Bitcoin Madenciliğinde zorluk Seviyeleri",
+      "KAZANIM": "Bitcoin protokolünü ve ödüllendirme politikasını açıklar.\nOyun teorisi ve stratejik yönelimler açısından bitcoin madenciliğini açıklar.\nBitcoin madenciliğinde zorluk seviyesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bitcoin protokolünün blok madenciliği ödüllendirme politikası açıklanır.\nOyun teorisinin bileşenleri açıklanır.\nBitcoin madenciliği açıklanır.\nBitcoin madenciliğinde zorluk seviyeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bitcoin oyun teorilerini karşılaştırmak.\nİhtiyacına göre Bitcoin madenciliğini yapacağı yerleri listelemek.\nBitcoin saldırıları türlerini ve çözüm önerileri getirebilmek.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Blok Zincir 1.0 ve Bitcoin Mimarisi",
+      "KONU": "Bitcoin Saldırıları / Lightning Ağı",
+      "KAZANIM": "Bitcoin Saldırılar\nLightning ağı'nı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "%51 saldırıları açıklanır.\nSybil saldırılarını açıklanır.\nLightning ağı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bitcoin oyun teorilerini karşılaştırmak.\nİhtiyacına göre Bitcoin madenciliğini yapacağı yerleri listelemek.\nBitcoin saldırıları türlerini ve çözüm önerileri getirebilmek.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir 2.0 ve Ethereum Mimarisi",
+      "KONU": "Ethereum Protokolü / Ethereum Oyun Teorisi ve Ethereum Madenciliği",
+      "KAZANIM": "Ethereum ve ödüllendirme politikasını açıklar.\nOyun teorisi ve stratejik yönelimler açısından ethereum madenciliğini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum çalışma mantığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ve ödüllendirme politikasını uygulamak.\nOyun teorisi ve stratejik yönelimler açısından Ethereum madenciliğini uygulamak.\nMerkeziyetsiz uygulamaları (Dapps) kullanmak.\nEthereum sanal makinası ve birimini (Gas) kullanmak.\nÇatallama işlemlerini (Hard Fork ve Soft Fork) kullanmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir 2.0 ve Ethereum Mimarisi",
+      "KONU": "Merkeziyetsiz Uygulamalar",
+      "KAZANIM": "Merkeziyetsiz uygulamaları (Dapps) açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Merkeziyetsiz uygulamalar (Dapp) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ve ödüllendirme politikasını uygulamak.\nOyun teorisi ve stratejik yönelimler açısından Ethereum madenciliğini uygulamak.\nMerkeziyetsiz uygulamaları (Dapps) kullanmak.\nEthereum sanal makinası ve birimini (Gas) kullanmak.\nÇatallama işlemlerini (Hard Fork ve Soft Fork) kullanmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir 2.0 ve Ethereum Mimarisi",
+      "KONU": "Merkeziyetsiz Uygulamalar / Ethereum Sanal Makinası",
+      "KAZANIM": "Merkeziyetsiz uygulamaları (Dapps) açıklar.\nEthereum sanal makinesi ve birimini ( Gas) açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Merkeziyetsiz uygulamalar ile merkezi uygulamaların farkı açıklanır.\nEthereum Gas açıklanır ve kullanımı sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ve ödüllendirme politikasını uygulamak.\nOyun teorisi ve stratejik yönelimler açısından Ethereum madenciliğini uygulamak.\nMerkeziyetsiz uygulamaları (Dapps) kullanmak.\nEthereum sanal makinası ve birimini (Gas) kullanmak.\nÇatallama işlemlerini (Hard Fork ve Soft Fork) kullanmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir 2.0 ve Ethereum Mimarisi",
+      "KONU": "Çatallama",
+      "KAZANIM": "Çatallama işlemlerini (Hard Fork ve SoftFork) açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çatallama işlemlerinin gerekliliği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ve ödüllendirme politikasını uygulamak.\nOyun teorisi ve stratejik yönelimler açısından Ethereum madenciliğini uygulamak.\nMerkeziyetsiz uygulamaları (Dapps) kullanmak.\nEthereum sanal makinası ve birimini (Gas) kullanmak.\nÇatallama işlemlerini (Hard Fork ve Soft Fork) kullanmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir Yazılım Geliştirme",
+      "KONU": "Blok zincir Oluşturma",
+      "KAZANIM": "Blok zincir oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir oluşturmak.\nKendine özel kripto para oluşturmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir Yazılım Geliştirme",
+      "KONU": "Kripto Para Oluşturma",
+      "KAZANIM": "Kendine özel kripto para oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kripto para oluşturma aşamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir oluşturmak.\nKendine özel kripto para oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir Yazılım Geliştirme",
+      "KONU": "Kripto Para Oluşturma",
+      "KAZANIM": "Kendine özel kripto para oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kendine özel kripto para oluşturulması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir oluşturmak.\nKendine özel kripto para oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Akıllı Kontratlar",
+      "KONU": "Akıllı Kontrat Oluşturma / Solidity Kullanma",
+      "KAZANIM": "Ethereum ağları ile etkileşimli akıllı kontrat oluşturur.\nSolidity kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum ağları ile etkileşimli akıllı kontrat oluşturulması sağlanır.\nSolidity kullanımı sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ağları ile etkileşimli akıllı kontrat oluşturmak.\nSolidity kullanmak.\nTestler yapmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Akıllı Kontratlar",
+      "KONU": "Test Mimarisi",
+      "KAZANIM": "Test mimarisini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Test Mimarisi Açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ağları ile etkileşimli akıllı kontrat oluşturmak.\nSolidity kullanmak.\nTestler yapmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Akıllı Kontratlar",
+      "KONU": "Remix ve Mocha / Infura Kurulumu",
+      "KAZANIM": "Remix ve Mocha ile testler yapar.\nInfura kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Infura kurulumu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ağları ile etkileşimli akıllı kontrat oluşturmak.\nSolidity kullanmak.\nTestler yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Akıllı Kontratlar",
+      "KONU": "Deploy",
+      "KAZANIM": "Etherscan'de deploy'u gözlemler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Deploy açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ethereum ağları ile etkileşimli akıllı kontrat oluşturmak.\nSolidity kullanmak.\nTestler yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "İleri Düzey Akıllı Kontrat Oluşturma",
+      "KAZANIM": "Temel Solidity yapılarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Temel Solidity yapıları anlatılır ve kullanımı sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "Remix ile Hata Ayıklama",
+      "KAZANIM": "Remix ile hata ayıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "Ethereum proje Dizaynı",
+      "KAZANIM": "Ethereum proje dizayn eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum projesi oluşturma işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "İleri Düzey Akıllı Kontrat Projesi Oluşturma",
+      "KAZANIM": "Ethereum projesinde kontrat yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum projesinde kontrat yazdırılma işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "İleri Düzey Akıllı Kontratları Test Etme",
+      "KAZANIM": "Ethereum projesinde test yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum projesinde test işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "İleri Düzey Akıllı Kontratları Test Etme",
+      "KAZANIM": "Ethereum projesinde test yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum projesinde test işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "İleri Düzey Akıllı Kontratları Test Etme",
+      "KAZANIM": "Ethereum projesinde test yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum projesinde test işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "İleri Düzey Akıllı Kontratlar",
+      "KONU": "İleri Düzey Akıllı Kontratları Test Etme",
+      "KAZANIM": "Ethereum projesinde test yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ethereum projesinde test işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Temel Solidity yapılarını kullanmak.\nEthereum projesinin dizayn etmek.\nEthereum projesinde kontrat yazmak.\nEthereum projesini test etmek.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Merkeziyetsiz Organizasyonlar ve Politik Ekonomi",
+      "KONU": "DAO / Merkeziyetsiz Uygulamalar / Blok Zincir Hukuku",
+      "KAZANIM": "The DAO açıklar.\nMerkeziyetsiz uygulamaların (Dapps) geleceğini açıklar.\nBlok zincir hukukunu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DAO açıklanır.\nMerkeziyetsiz uygulamaların (Dapps) geleceği açıklanır.\nBlok zincir hukuku açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Merkeziyetsiz uygulamaların (Dapps) geleceği ile ilgili araştırma ve sunum yapmak.\nBlok zincir hukuku ile ilgili poster hazırlamak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir Girişimciliği",
+      "KONU": "Blok zincir Web\n3.0\nAraçları / Blok Zincir Proje İhtiyaç Analizi / Proje Yazım Kuralları",
+      "KAZANIM": "Blok zincir Web 3.0 araçlarını kullanır.\nBlok zincir projesi için ihtiyaç analizini açıklar.\nProjesini açıklayan izahatname (Whitepaper) yazar ve proje sunumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Blok zincir ve Web 3.0 araçları açıklanır.\nBlok Zincir Proje İhtiyaç Analizi açıklanır.\nProjesini açıklayan izahat name (Whitepaper) yazdırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir ve web 3.0 araçlarını kullanmak.\nBlok zincir projesi için ihtiyaç analizi yapmak\nProjesini açıklayan izahat name (Whitepaper) yazmak ve proje sunumu yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Blok zincir Girişimciliği",
+      "KONU": "ICO, IEO, ITO Kavramları / Kimlik Yönetimi / Blok Zincir ve İş Dünyasının Dönüşümü",
+      "KAZANIM": "ICO, IEO, ITO açıklar.\nBlok zincir ile kimlik yönetimini açıklar.\n. Blok zincir ve iş dünyasının dönüşümünü açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ICO, IEO, ITO açıklanır.\nBlok zincir ile kimlik yönetimi açıklanır.\nBlok Zincir ve İş Dünyasının Dönüşümü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Blok zincir ve web 3.0 araçlarını kullanmak.\nBlok zincir projesi için ihtiyaç analizi yapmak\nProjesini açıklayan izahat name (Whitepaper) yazmak ve proje sunumu yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Proje Örnekleri ve Dünyadan Girişimler",
+      "KONU": "Tedarik Zinciri / Sağlık Alanında Blok Zinciri",
+      "KAZANIM": "Tedarik zincirlerini açıklar.\nSağlık projelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tedarik zincirleri açıklanır.\nTedarik zinciri proje örnekleri açıklanır..\nSağlık alanında blok zinciri kullanımı açıklanır.\nSağlık alanındaki blok zinciri çalışmaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türkiye blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak.\nDünya blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Proje Örnekleri ve Dünyadan Girişimler",
+      "KONU": "Enerji Sektöründe Blok Zinciri / Emlak Piyasasında Blok Zinciri",
+      "KAZANIM": "Enerji sektörü projelerini açıklar.\nEmlak piyasası projelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enerji sektörü projeleri açıklanır.\nEmlak piyasasında blok zinciri kullanımı açıklanır.\nEmlak piyasası projeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türkiye blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak.\nDünya blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Proje Örnekleri ve Dünyadan Girişimler",
+      "KONU": "Sigortacılık Alanında Blok Zinciri / Telif Hakları",
+      "KAZANIM": "Sigortacılık projelerini açıklar.\nTelif hakları projelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sigortacılık projeleri açıklanır.\nFikri Mülkiyet kavramı açıklanır.\nNFT kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türkiye blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak.\nDünya blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Proje Örnekleri ve Dünyadan Girişimler",
+      "KONU": "Telif Hakları / Kamu Yönetiminde Blok Zinciri",
+      "KAZANIM": "Telif hakları projelerini açıklar.\nKamu yönetimi projelerini Tedarik zincirleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Telif hakları projeleri açıklanır\nKamu yönetiminde blok zinciri kullanımı açıklanır..\nKamu yönetimi projeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Türkiye blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak.\nDünya blok zincir proje örnekleri ve girişimleri ile ilgili araştırma ve sunum yapmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Yeni Nesil Blok zincir Platformları",
+      "KONU": "Hyperledger Platformu",
+      "KAZANIM": "Hyperledger platformunu kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hyperledger kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hyperledger platformunda oluşturulmuş örnek uygulamaları sunmak.\nNEO platformununda oluşturulmuş örnek uygulamaları sunmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Yeni Nesil Blok zincir Platformları",
+      "KONU": "Neo Platformu",
+      "KAZANIM": "Neo platformunu kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Neo kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta, projeksiyon, bilgisayar, yazıcı, tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hyperledger platformunda oluşturulmuş örnek uygulamaları sunmak.\nNEO platformununda oluşturulmuş örnek uygulamaları sunmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

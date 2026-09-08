@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Bilgisayarla Üstyapı Meslek Resmi",
+  "grup": "Meslek Dersleri",
+  "brans": "İnşaat Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/insaat-teknolojisi/725/bilgisayarla-ustyapi-meslek-resmi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1. Çizim temel bilgileri ve paket program / 2. Çizim ayarları / 3. Ekran kontrolü",
+      "KAZANIM": "Çizim programında temel bilgilerle paket programı çalıştırır.\nCAD programında çizim ayarlarını yapar.\nCAD programında ekran kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD programı menüleri açıklanır.\nCAD programında koordinat sisteminde çizim esasları açıklanır.\nÇizim sınırları açıklanır.\nÇizim sınır ayarları yaptırılır.\nCAD programında araç çubukları amacına uygun olarak düzenlenmesi sağlanır.\nCAD Menü ve alt menülerinden amacına uygun olarak komut seçimi yatırılır.\nEkran kontrol komutları ile ekran ayarlarının yapılması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İki boyutlu çizim komutları ile geometrik şekillerin çizilmesi",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "4. İki boyutlu çizim komutları / 5. Bilgisayarla dosyalama",
+      "KAZANIM": "CAD programında iki boyutlu çizim komutları ile çalışır.\nCAD programında çizdiği planı dosyalar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Nokta yakalama komutlarının kullanılması sağlanır.\nKatman ayarları yaptırılır.\nİki boyutlu çizim komutları ile basit geometrik şekiller çizdirilir.\nCAD programında yeni çalışma sayfası açtırılır.\nİki boyutlu çizim komutları ile geometrik şekiller çizdirilir.\nÇalışma sayfasına isim verilerek uygun yere kaydettirilir.\nBir dosyayı farklı bir isimle, versiyonla ya da aynı isimle farklı sürücülere kayıt ettirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İki boyutlu çizim komutları ile geometrik şekillerin çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kapı ve Pencere Çizimi",
+      "KONU": "1. Katman ayarları / 2. Bilgisayarla geometrik şekiller",
+      "KAZANIM": "CAD programında katman ayarlarını yapar.\nCAD programında geometrik şekilleri iki boyutlu çizim komutları ile çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Katman ayarları açıklanır.\nKapı ve pencere çizimleri için katmanların oluşturulması sağlanır.\nKatman ayarları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla geometrik (Türk Bayrağı, Türk Kemeri, Türk Yıldızı, karmaşık geometrik motifler vb.) şekillerin çizilmesi\nBilgisayarla kapı çiziminin yapılması\nBilgisayarla pencere çiziminin yapılması\nBilgisayarla topal kasa çiziminin yapılması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kapı ve Pencere Çizimi",
+      "KONU": "2. Bilgisayarla geometrik şekiller / 3. Bilgisayarla kapı çizimleri",
+      "KAZANIM": "CAD programında geometrik şekilleri iki boyutlu çizim komutları ile çizer.\nKapıları iki boyutlu çizim komutları ile CAD programında çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İki boyutlu çizim komutlarıyla geometrik şekiller çizdirilir.\nCAD programında kapı plan, kesit ve görünüşleri çizdirilir.\nCAD programında kapı detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla geometrik (Türk Bayrağı, Türk Kemeri, Türk Yıldızı, karmaşık geometrik motifler vb.) şekillerin çizilmesi\nBilgisayarla kapı çiziminin yapılması\nBilgisayarla pencere çiziminin yapılması\nBilgisayarla topal kasa çiziminin yapılması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kapı ve Pencere Çizimi",
+      "KONU": "4. Bilgisayarla pencere çizimleri / 5. Bilgisayarla topal kasa çizimleri",
+      "KAZANIM": "Pencereleri iki boyutlu çizim komutları ile CAD programında çizer.\nTopal kasayı iki boyutlu çizim komutları ile CAD programında çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD programında pencere plan, kesit ve görünüşleri çizdirilir.\nCAD programında pencere detayları çizdirilir.\nCAD programında topal kasa plan, kesit ve görünüşleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla geometrik (Türk Bayrağı, Türk Kemeri, Türk Yıldızı, karmaşık geometrik motifler vb.) şekillerin çizilmesi\nBilgisayarla kapı çiziminin yapılması\nBilgisayarla pencere çiziminin yapılması\nBilgisayarla topal kasa çiziminin yapılması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kapı ve Pencere Çizimi",
+      "KONU": "5. Bilgisayarla topal kasa çizimleri / 6. Kapı ve pencere blokları oluşturma",
+      "KAZANIM": "Topal kasayı iki boyutlu çizim komutları ile CAD programında çizer.\nCAD programında kapı ve pencere bloğu oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD programında topal kasa detayları çizdirilir.\nCAD programında blok oluşturma komutu ile çizilen kapı ve pencere bloklarının oluşturulması sağlanır.\nOluşturulan kapı ve pencere blokları farklı dosyalar açılarak kullandırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla geometrik (Türk Bayrağı, Türk Kemeri, Türk Yıldızı, karmaşık geometrik motifler vb.) şekillerin çizilmesi\nBilgisayarla kapı çiziminin yapılması\nBilgisayarla pencere çiziminin yapılması\nBilgisayarla topal kasa çiziminin yapılması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "1. Bilgisayarla ahşap yapı temel planını çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı temel planını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ahşap yapı temel çeşitleri açıklanır.\nCAD programında ahşap yapı temel planları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "2. Bilgisayarla ahşap yapı kat planlarını çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı kat planlarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ahşap yapı kat planı açıklanır.\nCAD programında ahşap yapı kat planları ve detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "3. Bilgisayarla ahşap yapı kesitleri çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı kesitini proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ahşap yapı kesiti ve sistem detayı açıklanır.\nCAD programında ahşap yapı kesiti ve sistem detayı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "4. Bilgisayarla ahşap yapı görünüşlerini çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı görünüşlerini proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ahşap yapı görünüşleri açıklanır.\nCAD programında ahşap yapı görünüşleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "5. Bilgisayarla ahşap yapı çatı planı çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı çatı planı proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD programında ahşap yapı çatı planı çizdirilir.\nCAD programında ahşap yapı çatı görünüşleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "6. Bilgisayarla ahşap yapı vaziyet planını çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı vaziyet planını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ahşap yapı vaziyet planı açıklanır.\nCAD programında ahşap yapı vaziyet planı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Ahşap Yapı Projesi Çizimi",
+      "KONU": "7. Bilgisayarla ahşap yapı detaylarını çizimi",
+      "KAZANIM": "Bilgisayarla ahşap yapı detaylarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ahşap yapı detayları açıklanır.\nCAD programında ahşap yapı detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla ahşap yapı temel planı çizilmesi\nBilgisayarla ahşap yapı kat planlarını çizilmesi\nBilgisayarla ahşap yapı kesitleri çizilmesi\nBilgisayarla ahşap yapı görünüşlerini çizilmesi\nBilgisayarla ahşap yapı çatı planı çizilmesi\nBilgisayarla ahşap yapı vaziyet planını çizilmesi\nBilgisayarla ahşap yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "1. Bilgisayarla kâgir yapı temel planını çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı temel planını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kâgir yapı temel çeşitleri açıklanır.\nCAD programında kâgir yapı temel planları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "2. Bilgisayarla kâgir yapı kat planlarını çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı kat planlarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kâgir yapı kat planı açıklanır.\nCAD programında kâgir yapı kat planları ve detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "3. Bilgisayarla kâgir yapı kesitlerini çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı kesitini proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kâgir yapı kesiti ve sistem detayı açıklanır.\nCAD programında kâgir yapı kesiti ve sistem detayı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "4. Bilgisayarla kâgir yapı görünüşlerini çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı görünüşlerini proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kâgir yapı görünüşleri açıklanır.\nCAD programında kâgir yapı görünüşleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "5. Bilgisayarla kâgir yapı vaziyet planını çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı vaziyet planını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kâgir yapı vaziyet planı açıklanır.\nCAD programında kâgir yapı vaziyet planı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "6. Bilgisayarla kâgir yapı çatı planını çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı çatı planı proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD programında kâgir yapı çatı planı çizdirilir.\nCAD programında kâgir yapı çatı görünüşleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Kâgir Yapı Proje Çizimi",
+      "KONU": "7. Bilgisayarla kâgir yapı detaylarını çizimi",
+      "KAZANIM": "Bilgisayarla kâgir yapı detaylarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kâgir yapı detayları açıklanır.\nCAD programında kâgir yapı detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kâgir yapı temel planı çizilmesi\nBilgisayarla kâgir yapı kat planlarını çizilmesi\nBilgisayarla kâgir yapı kesitlerini çizilmesi\nBilgisayarla kâgir yapı görünüşlerini çizilmesi\nBilgisayarla kâgir yapı vaziyet planını çizilmesi\nBilgisayarla kâgir yapı çatı planını çizilmesi\nBilgisayarla kâgir yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "1. Bilgisayarla betonarme yapı temel planını çizimi",
+      "KAZANIM": "Bilgisayarla betonarme yapı temel planını mimari proje düzenleme esaslarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı temel planını açıklanır.\nBilgisayarla betonarme yapı temel planını çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "2. Bilgisayarla betonarme yapı kat planlarını çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı kat planını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı kat planını açıklanır.\nBilgisayarla betonarme yapı temel planını çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "3. Bilgisayarla betonarme yapı kesitlerini çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun olarak bilgisayarla betonarme yapı kesitlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı kesitleri açıklanır.\nBilgisayarla betonarme yapı kesitleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "4. Bilgisayarla betonarme yapı görünüşlerini çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı görünüşlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı görünüşleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "4. Bilgisayarla betonarme yapı görünüşlerini çizimi / 5. Bilgisayarla betonarme yapı çatı planını çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı görünüşlerini çizer.\nMimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı çatı planını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı görünüşleri çizdirilir.\nBilgisayarla betonarme yapı çatı planı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "5. Bilgisayarla betonarme yapı çatı planını çizimi / 6. Bilgisayarla betonarme yapı vaziyet planını çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı çatı planını çizer.\nMimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı vaziyet planını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı çatı planı çizdirilir.\nBilgisayarla betonarme yapı vaziyet planı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "6. Bilgisayarla betonarme yapı vaziyet planını çizimi / 7. Bilgisayarla betonarme yapı detaylarını çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı vaziyet planını çizer.\nMimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı vaziyet planı çizdirilir.\nBilgisayarla betonarme yapı detayları planını açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Betonarme Yapı Mimari Projesi",
+      "KONU": "7. Bilgisayarla betonarme yapı detaylarını çizimi",
+      "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla betonarme yapı detayları planını çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla betonarme yapı temel planı çizilmesi\nBilgisayarla betonarme yapı kat planlarını çizilmesi\nBilgisayarla betonarme yapı kesitlerini çizilmesi\nBilgisayarla betonarme yapı görünüşlerini çizilmesi\nBilgisayarla betonarme yapı çatı planını çizilmesi\nBilgisayarla betonarme yapı vaziyet planını çizilmesi\nBilgisayarla betonarme yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "1. Bilgisayarla çelik yapı temel planını çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı temel planını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı temel planı açıklanır.\nBilgisayarla çelik yapı temel planı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "2. Bilgisayarla çelik yapı kat planlarını çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı kat planlarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı kat planı açıklanır.\nBilgisayarla çelik yapı kat planı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "3. Bilgisayarla çelik yapı kesitlerini çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı kesitlerini proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı kesitleri açıklanır.\nBilgisayarla çelik yapı kesitleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "4. Bilgisayarla çelik yapı görünüşlerini çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı görünüşlerini proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı görünüşleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "4. Bilgisayarla çelik yapı görünüşlerini çizimi / 5. Bilgisayarla çelik yapı çatı planını çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı görünüşlerini proje çizim esaslarına uygun olarak çizer.\nBilgisayarla çelik yapı çatı planını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı görünüşleri çizdirilir.\nBilgisayarla çelik yapının vaziyet planı çizim kuraları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "5. Bilgisayarla çelik yapı çatı planını çizimi / 6. Bilgisayarla çelik yapı vaziyet planını çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı çatı planını proje çizim esaslarına uygun olarak çizer.\nBilgisayarla çelik yapı detaylarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapının vaziyet planı çizdirilir.\nBilgisayarla çelik yapı vaziyet planı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "6. Bilgisayarla çelik yapı vaziyet planını çizimi / 7. Bilgisayarla çelik yapı detaylarını çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı detaylarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı vaziyet planı çizdirilir.\nBilgisayarla çelik yapı detayları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgisayarla Çelik Yapı Projesi",
+      "KONU": "7. Bilgisayarla çelik yapı detaylarını çizimi",
+      "KAZANIM": "Bilgisayarla çelik yapı detaylarını proje çizim esaslarına uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarla çelik yapı detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta veya projeksiyon, bilgisayar, CAD tabanlı çizim programları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla çelik yapı temel planı çizilmesi\nBilgisayarla çelik yapı kat planlarını çizilmesi\nBilgisayarla çelik yapı kesitlerini çizilmesi\nBilgisayarla çelik yapı görünüşlerini çizilmesi\nBilgisayarla çelik yapı çatı planını çizilmesi\nBilgisayarla çelik yapı vaziyet planını çizilmesi\nBilgisayarla çelik yapı detaylarını çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

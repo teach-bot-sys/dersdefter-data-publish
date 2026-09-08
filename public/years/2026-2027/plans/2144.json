@@ -1,0 +1,744 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Temel Bilgi Teknolojisi Kullanimi",
+  "grup": "Meslek Dersleri",
+  "brans": "Aile Ve Tüketici Hizmetleri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/aile-ve-tuketici-hizmetleri/2144/temel-bilgi-teknolojisi-kullanimi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Kelime İşlemci Programı",
+      "KAZANIM": "Kelime işlemci programını ve programı oluşturan temel kavramlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kelime işlemci programını kullanır.\nKelime işlemci programını çalıştırır.\nDosya sekmesini kullanır.\nDosya işlemleri kullanır.\nYazdırma ve dışa aktarma işlemleri yapar.\nSeçenekler komutlarını yapar.\nHızlı erişim araç çubuğunu kullanır.\nŞeritlerle çalışır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Kelime İşlemci Programı / Temel Dosya İşlemleri",
+      "KAZANIM": "Kelime işlemci programını ve programı oluşturan temel kavramlarını kullanır.\nTemel dosya işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Başlık çubuğu ile çalışır.\nDurum çubuğu ile çalışır.\nKaydırma çubukları ile çalışır.\nCetvelleri kullanır.\nPencere kontrol elemanlarını kullanır.\nFare sağ tuşu ile gelen kısa yol menüsünü kullanır.\nYeni bir doküman açar.\nAktif dokümanı kaydeder.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Temel Dosya İşlemleri / Metin İşlemleri",
+      "KAZANIM": "Temel dosya işlemlerini yapar.\nMetin işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aktif dokümanı kapatmadan kaydedilmiş bir dokümanı açar.\nDokümanı farklı kaydeder.\nDosya menüsünden işlem yapmadan çıkar.\nMetin seçme işlemleri yapar.\nMetinleri kopyalar, keser ve yapıştırır.\nPano kullanılarak metin üzerinde kopyalama, kesme ve yapıştırma işlemleri yapar.\nFare kullanarak metin taşıma ve kopyalama işlemleri yapar.\nYazı tipini seçer.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Metin İşlemleri",
+      "KAZANIM": "Metin işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yazı boyutunu seçer.\nYazıyı kalın yapar.\nYazıyı eğik yapar\nYazının altını çizer.\nYazının üzerini çizer.\nÜst simge ve alt simge yazar.\nYazı tipi efektlerini kullanır.\nYazı vurgu rengini seçer.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Metin İşlemleri / Paragraf, Sekme Ve Sütunlar",
+      "KAZANIM": "Metin işlemlerini yapar.\nParagraf sekme ve sütunlar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yazı tipi rengini seçer.\nYazıda büyük/küçük harf değiştirir.\nBiçimlendirmeyi temizler.\nSatırlara madde işareti uygular.\nSatırlara numara ekleme uygular.\nParagrafa girinti azaltma/artırma uygular.\nParagrafa sıralama işlemi uygular.\nParagraf hizalar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Paragraf, Sekme Ve Sütunlar / Sayfayı Biçimlendirme / Stiller",
+      "KAZANIM": "Paragraf sekme ve sütunlar ile çalışır.\nSayfayı biçimlendirme işlemleri yapar.\nStiller ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paragraf arası ve satırlar arası boşluğu belirler.\nParagrafta gölgelendirme uygular.\nSayfaya filigran ekler.\nSayfa rengini değiştirir.\nSayfa kenarlık ekler.\nMetne stil uygular.\nYeni bir stil tanımlar.\nMetne uygulanan stili temizler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Stiller / Tablolar",
+      "KAZANIM": "Stiller ile çalışır.\nTablolar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Stilde değişiklik yapar.\nSatır ve sütunu belirleyerek tablo oluşturur.\nTablo ekle komutu ile tablo oluşturur.\nTablo çizer.\nElektronik tablo ekler.\nHızlı tablo ekler.\nTablo içerisinde hareket eder.\nTabloyu taşır ve boyutlandırır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Tablolar",
+      "KAZANIM": "Tablolar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tablo araçları şeridi kullanır.\nTabloya hücre, satır ve sütun ekler.\nHücre, satır ve sütun siler.\nHücreleri birleştirir.\nHücreleri böler.\nHücre boyutlarını ayarlar.\nHücre içindeki metnin konumunu belirler.\nMetnin hücre içerisindeki yönünü belirler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Tablolar / Resimler Ve Çizimler",
+      "KAZANIM": "Tablolar ile çalışır.\nResimler ve çizimlerle çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hücre kenar boşluklarını ayarlar.\nHücre, satır, sütun veya tablonun tamamını seçer.\nTablo kenarlıklarını ayarlarını yapar.\nResim ekler.\nResmi taşır.\nResmi döndürür.\nResmi boyutlandırır.\nResmi kırpar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Resimler Ve Çizimler",
+      "KAZANIM": "Resimler ve çizimlerle çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Resmin renk yapısını değiştir.\nResmin parlaklık ve zıtlık ayarlar.\nResme artistik efekt uygular.\nResmi değiştirir.\nResimleri sıkıştırır.\nResim üzerinde yapılan değişiklikleri iptal eder.\nResme stil ve efekt verir.\nResme kenarlık ayarlar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Resimler Ve Çizimler",
+      "KAZANIM": "Resimler ve çizimlerle çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Resmin sayfa içerisindeki konumunu belirler.\nResmi metin içerisine yerleştirir.\nSmartArt (Akıllı Grafik) ekler.\nŞekil ekler.\nŞekilleri taşır ve boyutlandırır.\nŞekilleri döndürür.\nŞeklin ana hat kalınlığını ve rengini belirler.\nŞekillerin dolgu rengini belirler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Resimler Ve Çizimler / Grafikler",
+      "KAZANIM": "Resimler ve çizimlerle çalışır.\nGrafik ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şekillere efekt verir.\nŞekillere stil uygular.\nŞekillerin içine metin ekler.\nŞekilleri gruplandırmak ve grubu dağıtır.\nŞekilleri öne arkaya gönderir.\nMetin kutusunu kullanır.\nGrafik ekler.\nGrafik boyutlandırır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Grafikler / Sayfa Düzeni",
+      "KAZANIM": "Grafik ekler.\nSayfa düzeni ayarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Grafik alanını biçimlendirir.\nGrafik türünü değiştirir.\nSayfa kenar boşluklarının belirler.\nSayfa yönünü belirler.\nSayfa boyutunu belirler.\nSayfaya sütun ekler.\nSayfa numaraları ekler.\nAltbilgi ve üstbilgi ekler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Doküman Bölümleri ve Görünüm / Doküman İçerisi",
+      "KAZANIM": "Doküman bölümlerinin ve görünümünün ayarlar.\nDoküman içerisinde dolaşır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dokumanı Taslak Görünümde açar.\nDokumanı Web Düzeni Görünümde açar.\nDokumanı Sayfa Düzeni Görünümde açar.\nDokumanı Okuma Modu Görünümde açar.\nDokumanı Anahat Görünümde açar.\nKlavye tuşları ile doküman içerisinde dolaşır.\nDoküman içerisinde metin arar.\nHızlı metin arar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Kelime İşlemci",
+      "KONU": "Doküman İçerisi",
+      "KAZANIM": "Doküman içerisinde dolaşır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ayrıntılı arama yapar.\nMetin bulur ve değiştirir.\nDoküman içerisindeki belli bir noktaya gider.\nGezinti bölmesini kullanarak doküman içerisinde dolaşır.\nDoküman başlıkları arasında dolaşır.\nSayfalar arasında dolaşır.\nSayfa içinde ve sayfalar arası dolaşır.\nYazım ve dilbilgisi denetimi yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kelime işlemci programında İstiklal Marşını yazma\nKelime işlemci programında Gençliğe Hitabeyi yazma\nKelime işlemci programında Algoritma hazırlama\nKelime işlemci programında okul yönetim şemasını hazırlama\nKelime işlemci programına haftalık ders programı hazırlama\nKelime işlemci programında sınıf kız-erkek öğrenci grafiği hazırlama\nKelime işlemci programında İstiklal Marşını yazdırma"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Elektronik Tablolama",
+      "KAZANIM": "Elektronik tablolama programını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik tablolama programının çalıştırır.\nHücre adresleri ile çalışır.\nReferans adresleri ile çalışır.\nHücre, satır, sütun ve sayfa seçer.\nElektronik tablolama programında veri türleri ile çalışır.\nVeri giriş işlemlerini yapar.\nVerilerin kopyalar.\nVerileri taşır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Elektronik Tablolama",
+      "KAZANIM": "Elektronik tablolama programını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Verileri fare ile kopyalar ve taşır.\nKesilen veya kopyalanan verilerin özel yapıştırır.\nAritmetiksel operatörler ile çalışır.\nKarşılaştırma operatörleri ile çalışır.\nMetin birleştirme operatörü ile çalışır.\nBaşvuru operatörleri ile çalışır\nElektronik tablolama programında hesaplama yapar.\nOtomatik hesaplama yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Elektronik Tablolama / Hücreleri ve Çalışma Sayfalarını Biçimlendirme",
+      "KAZANIM": "Elektronik tablolama programını tanır.\nHücreleri ve çalışma sayfalarını biçimlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hesaplamalarda karşılaştırma yapar.\nFormülleri otomatik çoğaltır.\nÖzel liste oluşturur.\nYazı tipinin belirler.\nSatır ve sütun genişliklerinin ayarlar.\nHücre biçimlerinin belirler.\nVerileri hücre içerisinde hizalar.\nSayısal verilerin biçimlerinin belirler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Hücreleri ve Çalışma Sayfalarını Biçimlendirme",
+      "KAZANIM": "Hücreleri ve çalışma sayfalarını biçimlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biçim boyacısının kullanır.\nOtomatik biçim verir.\nHücrelere koşullu biçimler verir.\nVerileri, biçimleri ve açıklamaları siler.\nHücre kenarlarının çizer.\nHücrelere renk ve desen verir.\nHücre, satır ve sütun ekler.\nHücre, satır ve sütun siler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Hücreleri ve Çalışma Sayfalarını Biçimlendirme",
+      "KAZANIM": "Hücreleri ve çalışma sayfalarını biçimlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hücrelere açıklama ekler.\nHücrelere isim verir.\nÇalışma sayfaları ile çalışır.\nYeni çalışma sayfası ekler.\nÇalışma sayfalarına isim verir.\nÇalışma sayfasını gizler.\nÇalışma sayfasını siler.\nÇalışma sayfalarının taşır ve kopyalar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Hücreleri ve Çalışma Sayfalarını Biçimlendirme / Çalışma Sayfaları ve Kitapları",
+      "KAZANIM": "Hücreleri ve çalışma sayfalarını biçimlendirir.\nÇalışma sayfaları ve kitapları ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sekme renklerini belirler.\nÇalışma sayfaları ve kitapları arasında işlem yapar.\nÇalışma sayfaları arasında işlem yapar.\nÇalışma kitapları arasında işlem yapar.\nLinkler ile çalışır.\nBir metne link kurar.\nBir nesneye link kurar.\nLinkleri düzenler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Çalışma Sayfaları ve Kitapları / Verilerle",
+      "KAZANIM": "Çalışma sayfaları ve kitapları ile çalışır.\nVerilerle çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Köprü kurar.\nBaşka bir programda hazırlanan verileri sayfasına ekler.\nÇalışma kitaplarını yan yana görüntüler.\nVerileri sıralar.\nVerileri süzer.\nVerileri otomatik süzer.\nGelişmiş süzer.\nVeri doğrulaması yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Verilerle / Grafikler ile Çalışma",
+      "KAZANIM": "Verilerle çalışır.\nGrafikler ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri girdi iletisi bırakır.\nHata uyarısını belirler.\nGrafik çizer.\nGrafik boyutlandırır.\nGrafik alanını biçimlendirir.\nÇizim alanını biçimlendirir.\nGrafiğe veri değerlerini ekler.\nVeri serilerini biçimlendirir.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Grafikler ile Çalışma / Fonksiyonlar ile Çalışma",
+      "KAZANIM": "Grafikler ile çalışır.\nFonksiyonlar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Verileri tek tek biçimlendirir.\nYazı tipini belirler.\nGrafiklere hata çubukları ekler.\nGrafiğe veri tablosu ekler.\nGrafik türünü değiştirir.\nGrafiğe eğim çizgisi ekler.\nÜç boyutlu grafik-3 oluşturur.\nExcel'de Fonksiyonları Kullanır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Fonksiyonlar ile Çalışma",
+      "KAZANIM": "Fonksiyonlar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Formüller sekmesini kullanarak fonksiyonları kullanır.\nFonksiyonu yazıp parametreleri girerek fonksiyonları kullanır.\nFonksiyon sihirbazını kullanır.\nTarih saat fonksiyonlarını kullanır.\nBUGÜN-1\nDAKİKA-1\nSAAT-1\nTARİH-1\nTARİHSAYISI-1\nMatematik ve trigonometrik fonksiyonları kullanır.\nÇARPIM-1\nTOPLAM-1\nYUVARLAMA-1\nETOPLA-1\nİstatistik fonksiyonlar kullanır.\nBÜYÜK\nEĞERSAY\nKÜÇÜK\nMAK\nMİN\nORTALAMA\nArama ve başvuru fonksiyonları kullanır.\nMetin fonksiyonları kullanır.\nBİRLEŞTİR\nKÜÇÜKHARF",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Elektronik Tablolama",
+      "KONU": "Fonksiyonlar ile Çalışma / Yazdırma İşlemleri Yapma",
+      "KAZANIM": "Fonksiyonlar ile çalışır.\nYazdırma işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mantıksal fonksiyonlar kullanır.\nEĞER\nSayfa yapısını ayarlar.\nSayfa ayarlarını yapar.\nKenar boşluklarını ayarlar.\nÜstbilgi altbilgi ekler.\nÇalışma sayfası ayarları yapar.\nYazdırmadan önce tabloyu görür.\nYazdırma işlemini yapar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektronik tablolama programında 1.dönem sınav notlarını analiz eden hesaplama tablosunu oluşturma\nElektronik tablolama programında katılımcı belgesi hazırlama\nElektronik tablolama programında karne hazırlama\nElektronik tablolama programında sertifika hazırlama\nElektronik tablolama programında kimlik hazırlama\nElektronik tablolama programında fatura çalışması\nElektronik tablolama programında satranç tahtası",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Sunu Hazırlama Programı",
+      "KAZANIM": "Sunu hazırlama programını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sunu hazırlama programını çalıştırır.\nAçılış ekranı ile çalışır.\nÇalışma alanı ile çalışır.\nYeni bir sunu açar.\nKayıtlı bir sunuyu açar.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Sunu Hazırlama Programı / Slaytla Çalışma",
+      "KAZANIM": "Sunu hazırlama programını tanır.\nSlaytla çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sunu kaydeder ve kapatır.\nYeni slayt ekler\nSlayt çoğaltır.\nSlayt siler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Slaytla Çalışma",
+      "KAZANIM": "Slaytla çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Slayt gizler veya gösterir.\nFarklı bir sunumdan slayt ekler.\nSlayt düzenini değiştirir.\nFotoğraf albümü oluşturur.\nAsıl slayt oluşturur.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Slayt Tasarımı Yapma",
+      "KAZANIM": "Slayt tasarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Slayt boyutunu ayarlar.\nTemalar ile çalışır.\nArka plan ayarları yapar.\nSunu görünümleri ile çalışır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Slayt Nesneleri İle Çalışma",
+      "KAZANIM": "Slayt nesneleri ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metin ekler.\nMetinleri biçimlendirir.\nÜstbilgi ve altbilgi ekler.\nTarih-saat, slayt numarası ekler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Slayt Nesneleri İle Çalışma",
+      "KAZANIM": "Slayt nesneleri ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şekil ve simge ekler.\nŞekilleri taşıma ve boyutlandırır.\nŞekilleri gruplandırır.\nŞekilleri biçimlendirir.\nResim ekler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Slayt Nesneleri İle Çalışma",
+      "KAZANIM": "Slayt nesneleri ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ses dosyası ve film ekler.\nTablo ekler.\nElektronik tablo ekler.\nGrafik ekler.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Gösteri Ayarlarını Yapma",
+      "KAZANIM": "Gösteri ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Geçiş efektiyle çalışır.\nÖzel animasyon ile çalışır.\nSlayt gösteri ayarlarını yapar.\nÖzel gösteriler hazırlar.\nSunudan Özel Gösteriye Bağlantı Oluşturması yapar",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Gösteri Ayarlarını Yapma",
+      "KAZANIM": "Gösteri ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Slayt zamanlaması yapar.\nSunu gösterimi için zamanlama provası yapar.\nKöprüler ile çalışır.\nEylem düğmesi ekleme ile çalışır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Sunu Hazırlama",
+      "KONU": "Yazdırma Yapma / Program Seçenekleri",
+      "KAZANIM": "Yazdırma yapar.\nProgram seçenekleri ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yazdırma için slayt boyutunu ve yönlendirmesini ayarlar.\nSunuyu paketler.\nHızlı erişim araç çubuğunu özelleştirir.\nHızlı erişim araç çubuğunu taşır.",
+        "Ortam ve Donanım": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Atölye, bilgisayar laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı sağlanmalıdır.",
+        "Ölçme": "Bu derste; belirlenen hedef davranışların ölçülmesinde açık uçlu, çoktan seçmeli, kısa cevaplı, doğru yanlış ve eşleştirme türünde ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sunu hazırlama programında Atatürk'ü tanıtan sunu hazırlama\nSunu hazırlama programında eğitim aldığı alanı tanıtan sunu hazırlama\nSunu hazırlama programında yaşadığı ili tanıtan bir sunu hazırlama\nSunu hazırlama programında yükseköğretimde eğitim almak istediği bölümü tanıtan sunu hazırlama"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    }
+  ]
+}

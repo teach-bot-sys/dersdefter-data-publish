@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Analiz Ve Laboratuvar Cihazlari",
+  "grup": "Meslek Dersleri",
+  "brans": "Biyomedikal Cihaz Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/biyomedikal-cihaz-teknolojileri/1134/analiz-ve-laboratuvar-cihazlari-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Koagulametre Cihazları",
+      "KONU": "Koagulometre Cihazının Montajı",
+      "KAZANIM": "Koagulometre cihazının montajını tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Koagulometre cihazının tanımı yapılır.\nKoagulometre cihazının kullanım alanları açıklanır.\nManuel ve otomatik koagulometre cihazları açıklanır.\nKanın pıhtılaşma süreci açıklanır.\nKoagulometre cihazında kullanılan aksesuarlar listelenir.\nKoagulometre cihazının montajında dikkat edilecek hususlar açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazının kurulacağı ortamın fiziki özelliklerini uygun ölçümlerle kontrolünü açıklamak\nKoagulometre cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nKoagulometre cihazı ile istenilen testleri açıklamak\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek\nKoagulometre cihazının çeşitlerini ve aksesuarlarını açıklamak\nKoagulometre cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nStep motor uçlarının tespitini açıklamak.\nStep motor sürücü devresi uygulamalarını tarif etmek.\nRulo termal kağıt değişimini açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu açıklamak.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonunu açıklamak.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Koagulametre Cihazları",
+      "KONU": "Koagulometre Cihazlarında Besleme Ünitesi / Koagulometre Cihazlarında Elektronik Kontrol Kartı",
+      "KAZANIM": "Koagulometre cihazlarında besleme ünitesini açıklar.\nKoagulometre cihazlarında elektronik kontrol kartlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Koagulometre cihazı anakart besleme devresinin elemanları ve çalışması açıklanır.\nKoagulometre cihazındaki motor besleme ünitesinin çalışması açıklanır.\nKoagulometre cihazındaki anakart ünitesinin birimleri ve çalışması açıklanır.\nIsı kontrollü sensörlerin çalışması açıklanır.\nMerkezi işlem biriminin (CPU) görevi açıklanır.\nOsilatör devrelerinin görevi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazının kurulacağı ortamın fiziki özelliklerini uygun ölçümlerle kontrolünü açıklamak\nKoagulometre cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nKoagulometre cihazı ile istenilen testleri açıklamak\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek\nKoagulometre cihazının çeşitlerini ve aksesuarlarını açıklamak\nKoagulometre cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nStep motor uçlarının tespitini açıklamak.\nStep motor sürücü devresi uygulamalarını tarif etmek.\nRulo termal kağıt değişimini açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu açıklamak.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonunu açıklamak.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Koagulametre Cihazları",
+      "KONU": "Koagulometre Cihazlarında Motor Birimi / Koagulometre Cihazlarında Yazıcı Birimi",
+      "KAZANIM": "Koagulometre cihazlarında motor yapısını açıklar.\nKoagulometre cihazlarında yazıcıları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DC motorun yapısı ve çalışması açıklanır.\nKoagulometre cihazında DC motorların kullanım amacı açıklanır.\nMotor kontrol kartının görevi açıklanır\nKoagulometre cihazlarında kullanılan yazıcılar listelenir.\nTermal yazıcı ünitesinin yapısı ve çalışması açıklanır.\nStep motor ve sürücü devrelerinin görevleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazının kurulacağı ortamın fiziki özelliklerini uygun ölçümlerle kontrolünü açıklamak\nKoagulometre cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nKoagulometre cihazı ile istenilen testleri açıklamak\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek\nKoagulometre cihazının çeşitlerini ve aksesuarlarını açıklamak\nKoagulometre cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nStep motor uçlarının tespitini açıklamak.\nStep motor sürücü devresi uygulamalarını tarif etmek.\nRulo termal kağıt değişimini açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu açıklamak.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonunu açıklamak.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Koagulametre Cihazları",
+      "KONU": "Koagulometre Cihazlarında Yazıcı Birimi / Koagulometre Cihazlarında Bakım Ve Fonksiyon Testi / Koagulometre Cihazlarında Kalibrasyon",
+      "KAZANIM": "Koagulometre cihazlarında yazıcıları açıklar.\nKoagulometre cihazların bakımını ve fonksiyon testini tarif eder.\nKoagulometre cihazlarında kalibrasyonu tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Termal yazıcılarda kullanılan kağıtların özellikleri açıklanır.\nBakım talimatları açıklanır.\nSterilizasyonda kullanılan temizlik maddeleri açıklanır.\nKalibrasyonun gerekliliği ve çeşitleri açıklanır.\nKalibrasyon laboratuvarlarının ortam koşulları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Koagulometre cihazının kurulacağı ortamın fiziki özelliklerini uygun ölçümlerle kontrolünü açıklamak\nKoagulometre cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nKoagulometre cihazı ile istenilen testleri açıklamak\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek\nKoagulometre cihazının çeşitlerini ve aksesuarlarını açıklamak\nKoagulometre cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nStep motor uçlarının tespitini açıklamak.\nStep motor sürücü devresi uygulamalarını tarif etmek.\nRulo termal kağıt değişimini açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu açıklamak.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonunu açıklamak.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikroskop Cihazları",
+      "KONU": "Mikroskop Cihazlarının Montajı",
+      "KAZANIM": "Mikroskop cihazlarının montajın tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroskop cihazı tanımlanır.\nMikroskop aksesuarları ve yapıları açıklanır.\nMikroskop cihazlarının kullanım amacı ve kullanım alanları açıklanır.\nMikroskop cihaz çeşitleri listelenir.\nMikroskop cihazlarının kurulacağı ortam şartları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikroskop cihazının kurulacağı ortamın fiziki özelliklerini tarif etmek.\nGerekli elektriksel ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerinde arıza takibinin yapımını açıklamak.\nBesleme gerilim ölçümünü tarif etmek.\nMikroskop cihazında kullanılan lambaların sağlamlık kontrolünü tarif etmek.\nUygun aydınlatma lambasını seçerek arızalı lamba değişimini açıklamak.\nMikroskopta mekanik parçaları açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nYıllık bakım çizelgesi düzenlemek.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikroskop Cihazları",
+      "KONU": "Mikroskop Cihazlarının Montajı / Mikroskop Cihazlarında Aydınlatma Lambası / Mikroskop Cihazlarında Aydınlatma Lambasının Besleme Ünitesi / Mikroskop Cihazlarının Mekanik Aksamları",
+      "KAZANIM": "Mikroskop cihazlarının montajın tarif eder.\nMikroskop cihazlarında aydınlatma lambasını tarif eder.\nMikroskop cihazlarında aydınlatma lambasının besleme ünitesin açıklar.\nMikroskop cihazlarının mekanik aksamlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroskop cihazlarının montajında dikkat edilecek hususlar listelenir.\nMikroskop cihazlarında kullanılan lamba çeşitleri sıralanır.\nMikroskop cihazlarında kullanılan lambaların özellikleri sıralanır.\nMikroskop cihazlarının aydınlatma lambası besleme ünitesinin çalışması açıklanır.\nLam – lamel tutucu mekanizma açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikroskop cihazının kurulacağı ortamın fiziki özelliklerini tarif etmek.\nGerekli elektriksel ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerinde arıza takibinin yapımını açıklamak.\nBesleme gerilim ölçümünü tarif etmek.\nMikroskop cihazında kullanılan lambaların sağlamlık kontrolünü tarif etmek.\nUygun aydınlatma lambasını seçerek arızalı lamba değişimini açıklamak.\nMikroskopta mekanik parçaları açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nYıllık bakım çizelgesi düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikroskop Cihazları",
+      "KONU": "Mikroskop Cihazlarının Mekanik Aksamları / Mikroskop Cihazlarının Bakımı ve Fonksiyon Testi",
+      "KAZANIM": "Mikroskop cihazlarının mekanik aksamlarını açıklar.\nMikroskop cihazlarının bakımını ve fonksiyon testini tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aşağı yukarı hareket mekanizmasının çalışması açıklanır.\nHareketli mekanizmalar tarif edilir.\nİnce ayar mekanizması açıklanır.\nBakım talimatları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikroskop cihazının kurulacağı ortamın fiziki özelliklerini tarif etmek.\nGerekli elektriksel ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerinde arıza takibinin yapımını açıklamak.\nBesleme gerilim ölçümünü tarif etmek.\nMikroskop cihazında kullanılan lambaların sağlamlık kontrolünü tarif etmek.\nUygun aydınlatma lambasını seçerek arızalı lamba değişimini açıklamak.\nMikroskopta mekanik parçaları açıklamak.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları tarif etmek.\nYıllık bakım çizelgesi düzenlemek.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Gazları Cihazları",
+      "KONU": "Kan Gazları Cihazının Montajı / Kan Gazları Cihazlarında Besleme Ünitesi",
+      "KAZANIM": "Kan gazları cihazının montajın açıklar.\nKan gazları cihazlarında besleme ünitesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan gazları cihazının görevleri açıklanır.\nKan gazları cihazında kullanılan aksesuarları listelenir.\nKan gazları cihazının kullanım alanları açıklanır.\nKan gazları cihazının kurulacağı ortam şartları açıklanır.\nKan gazları cihazının montajında dikkat edilecek hususlar açıklanır.\nKan gazları cihazının besleme ünitesinin devre şeması ve çalışma prensibi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazının çeşitlerini açıklamak.\nOrtam koşullarına dikkat ederek kan gazları cihazının montajını tarif etmek.\nElektriksel güvenlik analizörünü kullanarak gerekli ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nKan gazları cihazı ile istenilen testleri tarif etmek.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme devresi birimlerinin çıkış sinyallerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nIsı kontrol devresini açıklamak.\nKart üzerindeki gerilim ölçümünü tarif etmek.\nDevre şemalarını takip ederek arıza tespitini tarif etmek.\nSensör ve elektrotların sağlamlık kontrollerini tarif etmek.\nElektrot değişimini açıklamak.\nSıcaklık sensörü uygulamalarını tarif etmek.\nYazıcı arıza tespitini açıklamak.\nYazıcı sarf malzemelerini açıklamak.\nMotor sağlamlık kontrolünü tarif etmek.\nMotor ,pompa ve hortum değişimini tarif etmek.\nServis el kitabındaki arıza kodlarını okuyarak gerekli müdahaleleri açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nKan gazları cihazlarında fonksiyon testini açıklamak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonunu tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Gazları Cihazları",
+      "KONU": "Kan Gazları Cihazlarında Besleme Ünitesi / Kan Gazları Cihazlarında Elektronik Kontrol Kartı / Kan Gazları Cihazlarında Sensör ve Elektrotlar",
+      "KAZANIM": "Kan gazları cihazlarında besleme ünitesini açıklar.\nKan gazları cihazlarında elektronik kontrol kartlarını tarif eder.\nKan gazları cihazlarında sensör ve elektrotları tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Besleme devresi birimlerinin çıkış sinyalleri açıklanır.\nKan gazları cihazındaki anakart ünitesinin birimlerini ve çalışması açıklanır.\nKan gazları cihazı merkezi işlem ünitesi devre şeması ve çalışma prensibi açıklanır.\nSıcaklık kontrol ünitesinin devre şemasını ve çalışma prensibi açıklanır.\nSıcaklık sensörleri ve çeşitleri sıralanır.\nElektrot çeşitleri ve görevleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazının çeşitlerini açıklamak.\nOrtam koşullarına dikkat ederek kan gazları cihazının montajını tarif etmek.\nElektriksel güvenlik analizörünü kullanarak gerekli ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nKan gazları cihazı ile istenilen testleri tarif etmek.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme devresi birimlerinin çıkış sinyallerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nIsı kontrol devresini açıklamak.\nKart üzerindeki gerilim ölçümünü tarif etmek.\nDevre şemalarını takip ederek arıza tespitini tarif etmek.\nSensör ve elektrotların sağlamlık kontrollerini tarif etmek.\nElektrot değişimini açıklamak.\nSıcaklık sensörü uygulamalarını tarif etmek.\nYazıcı arıza tespitini açıklamak.\nYazıcı sarf malzemelerini açıklamak.\nMotor sağlamlık kontrolünü tarif etmek.\nMotor ,pompa ve hortum değişimini tarif etmek.\nServis el kitabındaki arıza kodlarını okuyarak gerekli müdahaleleri açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nKan gazları cihazlarında fonksiyon testini açıklamak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonunu tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Gazları Cihazları",
+      "KONU": "Kan Gazları Cihazlarında Yazıcılar / Kan Gazları Cihazlarında Pompa ve Motorlar / Kan Gazları Cihazlarında Yazılım",
+      "KAZANIM": "Kan gazları cihazlarında kullanılan yazıcıları açıklar.\nKan gazları cihazlarında pompa ve motor aksamlarını açıklar.\nKan gazları cihazlarında, cihaz yazılımını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan gazları cihazlarına uyumlu yazıcılar açıklanır.\nCihazlara özel dahili yazıcı üniteleri tarif edilir.\nKan gazları ölçüm cihazında kullanılan motor tipleri açıklanır.\nMotorların kullanım amaçları açıklanır.\nPompa mekanizmalarının yapısı tarif edilir.\nKan gazları cihazlarında kullanılan yazılımların özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazının çeşitlerini açıklamak.\nOrtam koşullarına dikkat ederek kan gazları cihazının montajını tarif etmek.\nElektriksel güvenlik analizörünü kullanarak gerekli ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nKan gazları cihazı ile istenilen testleri tarif etmek.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme devresi birimlerinin çıkış sinyallerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nIsı kontrol devresini açıklamak.\nKart üzerindeki gerilim ölçümünü tarif etmek.\nDevre şemalarını takip ederek arıza tespitini tarif etmek.\nSensör ve elektrotların sağlamlık kontrollerini tarif etmek.\nElektrot değişimini açıklamak.\nSıcaklık sensörü uygulamalarını tarif etmek.\nYazıcı arıza tespitini açıklamak.\nYazıcı sarf malzemelerini açıklamak.\nMotor sağlamlık kontrolünü tarif etmek.\nMotor ,pompa ve hortum değişimini tarif etmek.\nServis el kitabındaki arıza kodlarını okuyarak gerekli müdahaleleri açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nKan gazları cihazlarında fonksiyon testini açıklamak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonunu tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Gazları Cihazları",
+      "KONU": "Kan Gazları Cihazlarında Bakım ve Fonksiyon Testi / Kan Gazları Cihazlarında Kalibrasyon",
+      "KAZANIM": "Kan gazları cihazlarının bakım ve fonksiyon testini açıklar.\nKan gazları cihazlarında kalibrasyonu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakım talimatları açıklanır.\nSterilizasyonda kullanılan temizlik maddeleri açıklanır.\nBakım çizelgesinde bulunması gereken bilgiler listelenir.\nKan gazları cihazlarında fonksiyon testleri açıklanır.\nKalibrasyonun gerekliliği ve çeşitleri açıklanır.\nKalibrasyon laboratuvarlarının ortam koşulları açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan gazları cihazının çeşitlerini açıklamak.\nOrtam koşullarına dikkat ederek kan gazları cihazının montajını tarif etmek.\nElektriksel güvenlik analizörünü kullanarak gerekli ölçümleri açıklamak.\nTeslim tutanağı hazırlamak.\nKan gazları cihazı ile istenilen testleri tarif etmek.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme devresi birimlerinin çıkış sinyallerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nIsı kontrol devresini açıklamak.\nKart üzerindeki gerilim ölçümünü tarif etmek.\nDevre şemalarını takip ederek arıza tespitini tarif etmek.\nSensör ve elektrotların sağlamlık kontrollerini tarif etmek.\nElektrot değişimini açıklamak.\nSıcaklık sensörü uygulamalarını tarif etmek.\nYazıcı arıza tespitini açıklamak.\nYazıcı sarf malzemelerini açıklamak.\nMotor sağlamlık kontrolünü tarif etmek.\nMotor ,pompa ve hortum değişimini tarif etmek.\nServis el kitabındaki arıza kodlarını okuyarak gerekli müdahaleleri açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nKan gazları cihazlarında fonksiyon testini açıklamak.\nYıllık bakım çizelgesi düzenlemek.\nCihaz kalibrasyonunu tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "İdrar Analizör Cihazları",
+      "KONU": "İdrar Cihazının Montajı",
+      "KAZANIM": "İdrar cihazının montajını tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İdrar Analiz cihazının görevleri açıklanır.\nStrip (Kimyasal) ve Mikroskobik analiz yöntemi açıklanır.\nİdrar cihazının kurulacağı ortam şartları açıklanır.\nİdrar cihazının elektriksel özellikleri açıklanır.\nİdrar cihazının montajında dikkat edilecek hususlar açıklar ve montajı yapılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İdrar Analiz cihazının görevlerini açıklamak.\nStrip (Kimyasal) ve Mikroskobik analiz yöntemini açıklamak.\nİdrar cihazının kurulacağı ortam şartlarını açıklamak.\nİdrar cihazının elektriksel özelliklerini açıklamak.\nİdrar cihazının montajında dikkat edilecek hususları açıklamak.\nTeslim tutanağındaki maddeleri listelemek.\nManuel ve Otomatik Strip okuyucu cihazları açıklamak\nStrip alma haznesinin çalışmasını ve bu ünite meydana gelecek problemleri açıklamak.\nStrip taşıma ünitesini açıklamak.\nStrip okuma ünitesi açıklamak.\nKalibrasyon stribi ve kalibrasyon işlemini açıklamak.\nİdrar Mikroskobi cihazında kullanılan motor, valf ve pompaları açıklamak.\nİdrar Mikroskobi cihazında kullanılan mikroskop ünitesini açıklamak.\nFlowCell ünitesi ve Fokus ayarını açıklamak.\nIşık kaynağı ve çalışma sistemini açıklamak\nİdrar cihazında kullanılan probları ve pipetleme yöntemini açıklamak.\nProb mekanizmasında meydana gelebilecek arızaları açıklamak.\nİdrar cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nServis moduna geçerek kullanılmasını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "İdrar Analizör Cihazları",
+      "KONU": "İdrar Cihazının Montajı / İdrar Cihazının Kimyasal (strip) Analiz ünitesi",
+      "KAZANIM": "İdrar cihazının montajını tarif eder.\nİdrar cihazının kimyasal (strip) analiz ünitesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Teslim tutanağındaki maddeler listelenir.\nManuel ve Otomatik Strip okuyucu cihazlar açıklanır.\nStrip alma haznesinin çalışmasını ve bu ünite meydana gelecek problemler açıklanır.\nStrip taşıma ünitesi açıklanır.\nStrip okuma ünitesi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İdrar Analiz cihazının görevlerini açıklamak.\nStrip (Kimyasal) ve Mikroskobik analiz yöntemini açıklamak.\nİdrar cihazının kurulacağı ortam şartlarını açıklamak.\nİdrar cihazının elektriksel özelliklerini açıklamak.\nİdrar cihazının montajında dikkat edilecek hususları açıklamak.\nTeslim tutanağındaki maddeleri listelemek.\nManuel ve Otomatik Strip okuyucu cihazları açıklamak\nStrip alma haznesinin çalışmasını ve bu ünite meydana gelecek problemleri açıklamak.\nStrip taşıma ünitesini açıklamak.\nStrip okuma ünitesi açıklamak.\nKalibrasyon stribi ve kalibrasyon işlemini açıklamak.\nİdrar Mikroskobi cihazında kullanılan motor, valf ve pompaları açıklamak.\nİdrar Mikroskobi cihazında kullanılan mikroskop ünitesini açıklamak.\nFlowCell ünitesi ve Fokus ayarını açıklamak.\nIşık kaynağı ve çalışma sistemini açıklamak\nİdrar cihazında kullanılan probları ve pipetleme yöntemini açıklamak.\nProb mekanizmasında meydana gelebilecek arızaları açıklamak.\nİdrar cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nServis moduna geçerek kullanılmasını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "İdrar Analizör Cihazları",
+      "KONU": "İdrar Cihazının Kimyasal (strip) Analiz ünitesi / İdrar Cihazının Mikroskobi Analiz ünitesi",
+      "KAZANIM": "İdrar cihazının kimyasal (strip) analiz ünitesini açıklar.\nİdrar cihazının mikroskobi analiz ünitesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kalibrasyon stribi ve kalibrasyon işlemi açıklanır ve yapılır.\nİdrar Mikroskobi cihazında kullanılan motor, valf ve pompalar açıklanır, arızalar tespit edilir ve giderilir.\nİdrar Mikroskobi cihazında kullanılan mikroskop ünitesi açıklanır, arızalar tespit edilir ve giderilir.\nFlowCell ünitesi ve Fokus ayarı açıklanır ve gerekli ayarlar yapılır.\nIşık kaynağı ve çalışma sistemi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İdrar Analiz cihazının görevlerini açıklamak.\nStrip (Kimyasal) ve Mikroskobik analiz yöntemini açıklamak.\nİdrar cihazının kurulacağı ortam şartlarını açıklamak.\nİdrar cihazının elektriksel özelliklerini açıklamak.\nİdrar cihazının montajında dikkat edilecek hususları açıklamak.\nTeslim tutanağındaki maddeleri listelemek.\nManuel ve Otomatik Strip okuyucu cihazları açıklamak\nStrip alma haznesinin çalışmasını ve bu ünite meydana gelecek problemleri açıklamak.\nStrip taşıma ünitesini açıklamak.\nStrip okuma ünitesi açıklamak.\nKalibrasyon stribi ve kalibrasyon işlemini açıklamak.\nİdrar Mikroskobi cihazında kullanılan motor, valf ve pompaları açıklamak.\nİdrar Mikroskobi cihazında kullanılan mikroskop ünitesini açıklamak.\nFlowCell ünitesi ve Fokus ayarını açıklamak.\nIşık kaynağı ve çalışma sistemini açıklamak\nİdrar cihazında kullanılan probları ve pipetleme yöntemini açıklamak.\nProb mekanizmasında meydana gelebilecek arızaları açıklamak.\nİdrar cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nServis moduna geçerek kullanılmasını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "İdrar Analizör Cihazları",
+      "KONU": "İdrar Cihazının Pipetleme Ünitesi / İdrar Cihazlarında Yazılım",
+      "KAZANIM": "İdrar cihazının pipetleme ünitelerin açıklar.\nİdrar cihazlarında cihaz yazılımın açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İdrar cihazında kullanılan problar ve pipetleme yöntemi açıklanır.\nProb mekanizmasında meydana gelebilecek arızalar açıklanır ve giderilir.\nİdrar cihazlarında kullanılan yazılımların özellikleri açıklanır.\nİdrar cihazlarında bakım ve fonksiyon testi yapılır.\nServis moduna geçerek kullanılması açıklanır",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İdrar Analiz cihazının görevlerini açıklamak.\nStrip (Kimyasal) ve Mikroskobik analiz yöntemini açıklamak.\nİdrar cihazının kurulacağı ortam şartlarını açıklamak.\nİdrar cihazının elektriksel özelliklerini açıklamak.\nİdrar cihazının montajında dikkat edilecek hususları açıklamak.\nTeslim tutanağındaki maddeleri listelemek.\nManuel ve Otomatik Strip okuyucu cihazları açıklamak\nStrip alma haznesinin çalışmasını ve bu ünite meydana gelecek problemleri açıklamak.\nStrip taşıma ünitesini açıklamak.\nStrip okuma ünitesi açıklamak.\nKalibrasyon stribi ve kalibrasyon işlemini açıklamak.\nİdrar Mikroskobi cihazında kullanılan motor, valf ve pompaları açıklamak.\nİdrar Mikroskobi cihazında kullanılan mikroskop ünitesini açıklamak.\nFlowCell ünitesi ve Fokus ayarını açıklamak.\nIşık kaynağı ve çalışma sistemini açıklamak\nİdrar cihazında kullanılan probları ve pipetleme yöntemini açıklamak.\nProb mekanizmasında meydana gelebilecek arızaları açıklamak.\nİdrar cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nServis moduna geçerek kullanılmasını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrobiyoloji Cihazları",
+      "KONU": "Mikrobiyoloji Laboratuvarı Temelleri / Mikrobiyoloji Laboratuvarında Kullanılan Yardımcı Cihazlar",
+      "KAZANIM": "Mikrobiyoloji laboratuvarını açıklar.\nMikrobiyoloji laboratuvarında kullanılan yardımcı cihazlar açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrobiyoloji testlerinin çeşitleri ve önemi açıklanır.\nKültür testi, bakteri ekimi ve yöntemleri açıklanır.\nMikrobiyoloji laboratuvarındaki, biyolojik riskler açıklanır.\nMikrobiyoloji laboratuvarında kullanılan sarflar açıklanır. (Petri, ekim malzemeleri, kan kültür şişeleri).\nEtüv cihazının çalışması, bakımı ve muhtemel arızalar açıklanır ve yapılır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrobiyoloji testlerinin çeşitleri ve önemini açıklamak.\nKültür testi, bakteri ekimi ve yöntemlerini açıklamak.\nMikrobiyoloji laboratuvarındaki, biyolojik riskleri açıklamak.\nMikrobiyoloji laboratuvarında kullanılan sarfları açıklamak (Petri, ekim malzemeleri, kan kültür şişeleri).\nEtüv cihazının çalışması, bakımı ve muhtemel problemleri açıklamak.\nGüvenlik kabinin yapısı ve periyodik bakımları açıklamak.\nDerin dondurucunun (-80C0) yapısını açıklamak.\nKan kültür cihazının yapısını açıklamak\nCihazda kullanılan motor ve sensörleri açıklamak.\nKan kültür cihazının bakımını tarif etmek.\nKan kültür cihazında kalibrasyonu tarif etmek.\nBakteri tanımlamanın önemini ve yöntemlerini açıklamak.\nBakteri tanımlama cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrobiyoloji Cihazları",
+      "KONU": "Mikrobiyoloji Laboratuvarında Kullanılan Yardımcı Cihazlar / Kan Kültür Cihazları",
+      "KAZANIM": "Mikrobiyoloji laboratuvarında kullanılan yardımcı cihazlar açıklar.\nKan kültür cihazını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güvenlik kabinin yapısı ve periyodik bakımları açıklanır.\nDerin dondurucu (-80C0) yapısı açıklanır, arıza tespiti yapılır ve giderilir.\nKan kültür cihazının yapısı açıklanır.\nCihazda kullanılan motor ve sensörler açıklanır ve arızaları giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrobiyoloji testlerinin çeşitleri ve önemini açıklamak.\nKültür testi, bakteri ekimi ve yöntemlerini açıklamak.\nMikrobiyoloji laboratuvarındaki, biyolojik riskleri açıklamak.\nMikrobiyoloji laboratuvarında kullanılan sarfları açıklamak (Petri, ekim malzemeleri, kan kültür şişeleri).\nEtüv cihazının çalışması, bakımı ve muhtemel problemleri açıklamak.\nGüvenlik kabinin yapısı ve periyodik bakımları açıklamak.\nDerin dondurucunun (-80C0) yapısını açıklamak.\nKan kültür cihazının yapısını açıklamak\nCihazda kullanılan motor ve sensörleri açıklamak.\nKan kültür cihazının bakımını tarif etmek.\nKan kültür cihazında kalibrasyonu tarif etmek.\nBakteri tanımlamanın önemini ve yöntemlerini açıklamak.\nBakteri tanımlama cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrobiyoloji Cihazları",
+      "KONU": "Kan Kültür Cihazları / Bakteri Tanımlama Cihazları",
+      "KAZANIM": "Kan kültür cihazını açıklar.\nBakteri tanımlama cihazını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan kültür cihazının bakımı açıklanır ve yapılır.\nKan kültür cihazında kalibrasyon açıklanır yapılır.\nKalibrasyon sertifikasında olması gerekenler listelenir.\nBakteri tanımlamanın önemi ve yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrobiyoloji testlerinin çeşitleri ve önemini açıklamak.\nKültür testi, bakteri ekimi ve yöntemlerini açıklamak.\nMikrobiyoloji laboratuvarındaki, biyolojik riskleri açıklamak.\nMikrobiyoloji laboratuvarında kullanılan sarfları açıklamak (Petri, ekim malzemeleri, kan kültür şişeleri).\nEtüv cihazının çalışması, bakımı ve muhtemel problemleri açıklamak.\nGüvenlik kabinin yapısı ve periyodik bakımları açıklamak.\nDerin dondurucunun (-80C0) yapısını açıklamak.\nKan kültür cihazının yapısını açıklamak\nCihazda kullanılan motor ve sensörleri açıklamak.\nKan kültür cihazının bakımını tarif etmek.\nKan kültür cihazında kalibrasyonu tarif etmek.\nBakteri tanımlamanın önemini ve yöntemlerini açıklamak.\nBakteri tanımlama cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrobiyoloji Cihazları",
+      "KONU": "Bakteri Tanımlama Cihazları",
+      "KAZANIM": "Bakteri tanımlama cihazını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bakteri tanımlama cihazlarında muhtemel arızalar tespit edilir ve giderilir.\nBakteri tanımlama cihazlarında kullanılan yazılımların özellikleri açıklanır\nBakteri tanımlama cihazlarında kullanılan yazılımlar test edilir.\nArıza bilgi formunda bulunması gereken bilgiler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrobiyoloji testlerinin çeşitleri ve önemini açıklamak.\nKültür testi, bakteri ekimi ve yöntemlerini açıklamak.\nMikrobiyoloji laboratuvarındaki, biyolojik riskleri açıklamak.\nMikrobiyoloji laboratuvarında kullanılan sarfları açıklamak (Petri, ekim malzemeleri, kan kültür şişeleri).\nEtüv cihazının çalışması, bakımı ve muhtemel problemleri açıklamak.\nGüvenlik kabinin yapısı ve periyodik bakımları açıklamak.\nDerin dondurucunun (-80C0) yapısını açıklamak.\nKan kültür cihazının yapısını açıklamak\nCihazda kullanılan motor ve sensörleri açıklamak.\nKan kültür cihazının bakımını tarif etmek.\nKan kültür cihazında kalibrasyonu tarif etmek.\nBakteri tanımlamanın önemini ve yöntemlerini açıklamak.\nBakteri tanımlama cihazlarında kullanılan yazılımların özelliklerini açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Saklama Dolapları",
+      "KONU": "Kan Saklama Dolaplarının Montajı / Soğutma Gazı Kaçak Kontrolü",
+      "KAZANIM": "Kan saklama dolaplarının montajın tarif eder.\nSoğutma gazı kaçak kontrolünü açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan saklama dolabının tanımı, yapısı ve çalışması açıklanır.\nKan saklama dolabının kullanım amacı açıklanır.\nSoğutma sistemini oluşturan elemanların yapıları ve görevleri açıklanır.\nKan saklama cihazında bulunması gereken hususlar açıklanır.\nSoğutma sisteminde kullanılan gazlar açıklanır.\nSoğutma gazı kullanımı tarif edilir.\nGaz verme işleminde dikkat edilmesi gereken hususlar listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Servis el kitabını kullanarak elemanların montajını tarif etmek\nTeslim tutanağı düzenlemek.\nManometre kullanarak basınç ölçümünü açıklamak.\nSoğutma sistemindeki gaz kaçaklarını tespitini tarif etmek.\nSoğutma sisteminde kullanılan elemanlarının sağlamlık kontrolünü tarif etmek.\nSoğutma sistemine gaz verme yöntemini açıklamak.\nVakum şarj cihazını açıklamak.\nSoğutma sistemine gaz eklemeyi tarif etmek.\nBorulara ve eklem yerlerine tekniğine uygun gümüş kaynağı yapmayı tarif etmek.\nSoğutma sisteminde kullanılan elemanların sağlamlık kontrolünü açıklamak.\nSoğutma siteminde arıza tespitini tarif etmek.\nKan saklama dolabı elektronik kontrol kartında ki elemanların sağlamlık kontrolünü açıklamak.\nArızalı olan elemanı yenisi ile değişimini tarif etmek.\nIsı kayıt sisteminde ölçü aletlerini kullanarak arıza takibini tarif etmek.\nArızalı sensörü yenisi ile değişimini açıklamak\nKalibrasyon için gerekli ölçümleri tarif etmek.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Saklama Dolapları",
+      "KONU": "Soğutma Gazı Kaçak Kontrolü / Gaz Vakumlama Seti İle Gramajında Sisteme Gaz Verme / Borulara ve Eklem Yerlerine Gümüş Kaynağı Yapma / Kan Saklama Dolaplarında Soğutma Sistemi",
+      "KAZANIM": "Soğutma gazı kaçak kontrolünü açıklar.\nGaz vakumlama seti ile gramajında sisteme gaz vermeyi tarif eder.\nBorulara ve eklem yerlerine gümüş kaynağı yapılışını açıklar.\nKan Saklama Dolaplarında soğutma sistemini tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gaz kaçaklarının tespiti için gerekli hususlar açıklanır.\nVakum şarj cihazı kullanımı açıklanır.\nVakum ve şarj için kompresör kullanımı açıklanır.\nSoğutma sisteminde kullanılan boruların özellikleri açıklanır.\nGümüş kaynağı yapma tekniği açıklanır.\nSoğutma sisteminin çalışma sistemi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Servis el kitabını kullanarak elemanların montajını tarif etmek\nTeslim tutanağı düzenlemek.\nManometre kullanarak basınç ölçümünü açıklamak.\nSoğutma sistemindeki gaz kaçaklarını tespitini tarif etmek.\nSoğutma sisteminde kullanılan elemanlarının sağlamlık kontrolünü tarif etmek.\nSoğutma sistemine gaz verme yöntemini açıklamak.\nVakum şarj cihazını açıklamak.\nSoğutma sistemine gaz eklemeyi tarif etmek.\nBorulara ve eklem yerlerine tekniğine uygun gümüş kaynağı yapmayı tarif etmek.\nSoğutma sisteminde kullanılan elemanların sağlamlık kontrolünü açıklamak.\nSoğutma siteminde arıza tespitini tarif etmek.\nKan saklama dolabı elektronik kontrol kartında ki elemanların sağlamlık kontrolünü açıklamak.\nArızalı olan elemanı yenisi ile değişimini tarif etmek.\nIsı kayıt sisteminde ölçü aletlerini kullanarak arıza takibini tarif etmek.\nArızalı sensörü yenisi ile değişimini açıklamak\nKalibrasyon için gerekli ölçümleri tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Saklama Dolapları",
+      "KONU": "Kan Saklama Dolaplarında Soğutma Sistemi / Kan Saklama Dolaplarında Elektronik Kontrol Kartı / Kan Saklama Dolaplarında Isı Kayıt Modülü / Kan Saklama Dolaplarının Kalibrasyonu",
+      "KAZANIM": "Kan Saklama Dolaplarında soğutma sistemini tarif eder.\nKan Saklama Dolaplarındak elektronik kontrol kartını açıklar.\nKan Saklama Dolaplarında ısı kayıt modülünü tarif eder.\nKan saklama dolaplarının kalibrasyonunu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Soğutma sisteminde kullanılan parçalar listelenir.\nKan saklama dolabındaki elektronik kontrol kartının çalışması açıklanır.\nKullanılan algılayıcı çeşitleri ve özellikleri açıklanır.\nKan saklama dolabındaki ısı kayıt sisteminin çalışması ve görevi açıklanır.\nDairesel kaydedicinin çalışması tarif edilir.\nKalibrasyonun gerekliliği ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Servis el kitabını kullanarak elemanların montajını tarif etmek\nTeslim tutanağı düzenlemek.\nManometre kullanarak basınç ölçümünü açıklamak.\nSoğutma sistemindeki gaz kaçaklarını tespitini tarif etmek.\nSoğutma sisteminde kullanılan elemanlarının sağlamlık kontrolünü tarif etmek.\nSoğutma sistemine gaz verme yöntemini açıklamak.\nVakum şarj cihazını açıklamak.\nSoğutma sistemine gaz eklemeyi tarif etmek.\nBorulara ve eklem yerlerine tekniğine uygun gümüş kaynağı yapmayı tarif etmek.\nSoğutma sisteminde kullanılan elemanların sağlamlık kontrolünü açıklamak.\nSoğutma siteminde arıza tespitini tarif etmek.\nKan saklama dolabı elektronik kontrol kartında ki elemanların sağlamlık kontrolünü açıklamak.\nArızalı olan elemanı yenisi ile değişimini tarif etmek.\nIsı kayıt sisteminde ölçü aletlerini kullanarak arıza takibini tarif etmek.\nArızalı sensörü yenisi ile değişimini açıklamak\nKalibrasyon için gerekli ölçümleri tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Sayım Cihazlarının Elektronik Birimi",
+      "KONU": "Kan Sayım Cihazlarının Montajı",
+      "KAZANIM": "Kan sayım cihazlarının montajın tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan sayım cihazı açıklanır.\nKan ve kanın yapısı açıklanır.\nKan sayım cihazında kullanılan reaktiflerin görevleri açıklanır.\nKan sayım cihazının kullanım alanları açıklanır.\nKan sayım cihazının kurulacağı ortam şartları açıklanır.\nKan sayım cihazının elektriksel özellikleri açıklanır.\nKan sayım cihazının montajında dikkat edilecek hususlar açıklanır ve yapılır.\nCihazın aparatları listelenir.\nTeslim tutanağındaki maddeler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan sayım cihazı ile reaktifler arasındaki hortum bağlantılarını açıklamak\nKan sayım cihazının kurulacağı ortamın fiziki özelliklerini tarif etmek.\nCihazdaki etikete bakarak cihaza uygun beslemeyi açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nPreamfi kartı, Anakartı ve Tuş takımını yenisi ile değişimini tarif etmek.\n7 segmentdisplay ile sayıcı uygulamalarını açıklamak.\nSensörlerin sağlamlık kontrolü yapımını tarif etmek.\nSensörleri uygun solüsyonlarla temizlenmesini açıklamak.\nSensör ve transduserler ile ilgili uygulamaları tarif etmek.\nCihazın verdiği hata kodunu servis el kitabından tespit ederek, arıza nedenini ve çözümünü açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nYazıcı sarf malzemelerini değişimini açıklamak.\nYazıcı bağlantılarını açıklamak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Sayım Cihazlarının Elektronik Birimi",
+      "KONU": "Kan Sayım Cihazlarında Besleme Ünitesi / Kan Sayım Cihazlarında Elektronik Kontrol Kartı",
+      "KAZANIM": "Kan sayım cihazlarında besleme ünitesini açıklar.\nKan sayım cihazlarında elektronik kontrol kartlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan sayım cihazı besleme ünitesinin çalışma prensibi açıklanır.\nAnakart besleme ünitesinin çalışması açıklanır, arızalar tespiti yapılır ve giderilir.\nKan sayım cihazındaki işlemcilerin çeşitleri açıklanır.\nKan sayım cihazındaki yazıcı bağlantıları açıklanır.\nKan sayım cihazının hücre sayım yöntemleri sıralanır.\nElektriksel direnç yöntemi ile yapılan sayımlarda hata kaynakları açıklanır.\nKan sayım cihazı palspreamplifikatör kontrol ünitesinin görevi açıklanır.\nGösterge ve tuş takımı ünitesinin özellikleri açıklanır.\nKan sayım cihazındaki muhtemel arızalar tespit edilir ve giderilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan sayım cihazı ile reaktifler arasındaki hortum bağlantılarını açıklamak\nKan sayım cihazının kurulacağı ortamın fiziki özelliklerini tarif etmek.\nCihazdaki etikete bakarak cihaza uygun beslemeyi açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nPreamfi kartı, Anakartı ve Tuş takımını yenisi ile değişimini tarif etmek.\n7 segmentdisplay ile sayıcı uygulamalarını açıklamak.\nSensörlerin sağlamlık kontrolü yapımını tarif etmek.\nSensörleri uygun solüsyonlarla temizlenmesini açıklamak.\nSensör ve transduserler ile ilgili uygulamaları tarif etmek.\nCihazın verdiği hata kodunu servis el kitabından tespit ederek, arıza nedenini ve çözümünü açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nYazıcı sarf malzemelerini değişimini açıklamak.\nYazıcı bağlantılarını açıklamak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Sayım Cihazlarının Elektronik Birimi",
+      "KONU": "Kan Sayım Cihazlarında Sensörler / Kan Sayım Cihazlarında Yazılım / Kan Sayım Cihazlarında Yazıcılar",
+      "KAZANIM": "Kan sayım cihazlarındaki sensörler açıklar.\nKan sayım cihazlarındaki cihaz yazılımını açıklar.\nKan sayım cihazlarında kullanılan yazıcıları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sensör ve transduser kavramları açıklanır.\nSensör ve transduser çeşitleri listelenir.\nKan sayım cihazlarındaki sensörlerin arızaları tespit edilir ve giderilir.\nÖzel sensör temizleme solüsyonları listelenir.\nKan sayım cihazlarında arıza kodları ve cihaz yazılımı ile arıza analizi işlemleri açıklanır.\nKan sayım cihazlarına uyumlu yazıcılar açıklanır.\nYazıcı çeşitlerini ve çalışma prensipleri açıklanır.\nYazıcılara uygun sarf malzemeler açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kan sayım cihazı ile reaktifler arasındaki hortum bağlantılarını açıklamak\nKan sayım cihazının kurulacağı ortamın fiziki özelliklerini tarif etmek.\nCihazdaki etikete bakarak cihaza uygun beslemeyi açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimleri açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nPreamfi kartı, Anakartı ve Tuş takımını yenisi ile değişimini tarif etmek.\n7 segmentdisplay ile sayıcı uygulamalarını açıklamak.\nSensörlerin sağlamlık kontrolü yapımını tarif etmek.\nSensörleri uygun solüsyonlarla temizlenmesini açıklamak.\nSensör ve transduserler ile ilgili uygulamaları tarif etmek.\nCihazın verdiği hata kodunu servis el kitabından tespit ederek, arıza nedenini ve çözümünü açıklamak.\nYazılım yükleme ve güncelleme işlemini tarif etmek.\nYazıcı sarf malzemelerini değişimini açıklamak.\nYazıcı bağlantılarını açıklamak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Sayım Cihazlarının Elektromekanik Birimleri",
+      "KONU": "Kan Sayım Cihazlarında Motor Ünitesi / Kan Sayım Cihazlarında Mekanik aksamlar / Kan Sayım Cihazlarında Elektromekanik Valfler",
+      "KAZANIM": "Kan sayım cihazlarındaki motor ünitesini açıklar.\nKan sayım cihazlarında mekanik aksamları tarif eder.\nKan sayım cihazlarında elektromekanik valfleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kan sayım cihazlarında kullanılan motor çeşitleri listelenir.\nKan sayım cihazında kullanılan motorların kullanım amaçları açıklanır.\nMotor kontrol kartının görevi açıklanır.\nKan sayım cihazlarında kullanılan motor arızaları tespit edilir ve giderilir.\nKan sayım cihazlarında kullanılan hareketli valf çeşitleri ve yapıları açıklanır.\nKan sayım cihazlarında kullanılan pompa sistemleri ve yapıları açıklanır.\nElektonik valf ve pompalarda olası arızalar tespit edilir ve giderilir.\nKan sayım cihazlarında kullanılan elektromekanik valfleri kullanım amaçlarına göre listelenir.\nKan sayım cihazlarında kullanılan elektromekanik valflerin görevleri açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Motor kontrol devresi uygulamalarını tarif etmek.\nCihazda kullanılan motorların sağlamlık kontrolünü açıklamak.\nCihazda kullanılan motorları yenisi ile değişimini tarif etmek.\nHareketli valflerin sağlamlık kontrolünü tarif etmek.\nArızalı valfi yenisi ile değişimini açıklamak.\nValflerin temizliğinde dikkat edilecek hususları açıklamak.\nPompa ünitesini açıklamak.\nSelenoid valflerin sağlamlık kontrollerini tarif etmek\nArızalı valf ünitesini yenisi ile değişimini açıklamak.\nNumune alma iğnesini değişimini tarif etmek.\nKan sayım cihazlarında uygun hortumları seçerek gerekli bağlantıları açıklamak.\nKan sayım cihazında boş sayım işlemini açıklamak\nBoş sayım sonuçlarının analizini yorumlamak.\nCihazında yapılan ölçümlerin sonuçlarını referans değerleri ile karşılaştırarak doğruluk kontrolünü tarif etmek.\nCihazın dış temizliğini biyolojik faktörleri göz önünde bulundurarak tarif etmek.\nCihazın programını kullanarak dahili temizliğini açıklamak.\nNumune probunu uygun kimyasallarla temizlemesini açıklamak\nNumune probunu yenisi ile değiştirmeyi tarif etmek.\nCihaz kalibrasyonunu açıklamak.\nKalibrasyon analiz sonuçlarını değerlendirmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Sayım Cihazlarının Elektromekanik Birimleri",
+      "KONU": "Kan Sayım Cihazlarında Elektromekanik Valfler / Kan Sayım Cihazlarındaki Özel Birimler / Kan Sayım Cihazlarında Fonksiyon Testi",
+      "KAZANIM": "Kan sayım cihazlarında elektromekanik valfleri açıklar.\nKan sayım cihazlarındaki özel birimleri açıklar.\nKan sayım cihazlarında fonksiyon testini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektromekanik valflerle sıvı ve gazlara yol verme mekanizmaları tarif edilir.\nKan sayım cihazlarında kullanılan elektromekanik valf arızları tespit edilir ve giderilir.\nKan sayım cihazlarında kullanılan numune tüplerinin çeşitleri ve görevleri açıklanır.\nKan sayım cihazlarındaki karışım kaplarının görevleri açıklanır.\nKan sayım cihazlarında kullanılan hortum çeşitleri ve yapıları açıklanır.\nKan sayım cihazlarında kullanılan şırıngaların çeşitleri ve yapıları açıklanır.\nKan sayım cihazlarındaki numune alma iğnelerinin görevleri açıklanır.\nKan sayım cihazlarında boş sayım yapılmasının amacı açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Motor kontrol devresi uygulamalarını tarif etmek.\nCihazda kullanılan motorların sağlamlık kontrolünü açıklamak.\nCihazda kullanılan motorları yenisi ile değişimini tarif etmek.\nHareketli valflerin sağlamlık kontrolünü tarif etmek.\nArızalı valfi yenisi ile değişimini açıklamak.\nValflerin temizliğinde dikkat edilecek hususları açıklamak.\nPompa ünitesini açıklamak.\nSelenoid valflerin sağlamlık kontrollerini tarif etmek\nArızalı valf ünitesini yenisi ile değişimini açıklamak.\nNumune alma iğnesini değişimini tarif etmek.\nKan sayım cihazlarında uygun hortumları seçerek gerekli bağlantıları açıklamak.\nKan sayım cihazında boş sayım işlemini açıklamak\nBoş sayım sonuçlarının analizini yorumlamak.\nCihazında yapılan ölçümlerin sonuçlarını referans değerleri ile karşılaştırarak doğruluk kontrolünü tarif etmek.\nCihazın dış temizliğini biyolojik faktörleri göz önünde bulundurarak tarif etmek.\nCihazın programını kullanarak dahili temizliğini açıklamak.\nNumune probunu uygun kimyasallarla temizlemesini açıklamak\nNumune probunu yenisi ile değiştirmeyi tarif etmek.\nCihaz kalibrasyonunu açıklamak.\nKalibrasyon analiz sonuçlarını değerlendirmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Kan Sayım Cihazlarının Elektromekanik Birimleri",
+      "KONU": "Kan Sayım Cihazlarında Fonksiyon Testi / Kan Sayım Cihazlarının Genel Bakımı / Kan Sayım Cihazlarında Kalibrasyon",
+      "KAZANIM": "Kan sayım cihazlarında fonksiyon testini açıklar.\nKan sayım cihazlarının genel bakımını tarif eder.\nKan sayım cihazlarında kalibrasyonu tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Boş sayım analizi referans sonuçlarının amacı açıklanır.\nTest numune analizi sonuçlarının amacı açıklanır.\nKan sayım cihazlarında fonksiyon testi yapılır.\nKan sayım cihazının bakımının gerekliliği açıklanır.\nBakım talimatları açıklanır ve bakımı yapılır.\nKalibrasyonun önemi açıklanır.\nKalibrasyon talimatları açıklanır ve yapılır.\nKalibrasyon sertifikasında bulunması gereken bilgiler listelenir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Motor kontrol devresi uygulamalarını tarif etmek.\nCihazda kullanılan motorların sağlamlık kontrolünü açıklamak.\nCihazda kullanılan motorları yenisi ile değişimini tarif etmek.\nHareketli valflerin sağlamlık kontrolünü tarif etmek.\nArızalı valfi yenisi ile değişimini açıklamak.\nValflerin temizliğinde dikkat edilecek hususları açıklamak.\nPompa ünitesini açıklamak.\nSelenoid valflerin sağlamlık kontrollerini tarif etmek\nArızalı valf ünitesini yenisi ile değişimini açıklamak.\nNumune alma iğnesini değişimini tarif etmek.\nKan sayım cihazlarında uygun hortumları seçerek gerekli bağlantıları açıklamak.\nKan sayım cihazında boş sayım işlemini açıklamak\nBoş sayım sonuçlarının analizini yorumlamak.\nCihazında yapılan ölçümlerin sonuçlarını referans değerleri ile karşılaştırarak doğruluk kontrolünü tarif etmek.\nCihazın dış temizliğini biyolojik faktörleri göz önünde bulundurarak tarif etmek.\nCihazın programını kullanarak dahili temizliğini açıklamak.\nNumune probunu uygun kimyasallarla temizlemesini açıklamak\nNumune probunu yenisi ile değiştirmeyi tarif etmek.\nCihaz kalibrasyonunu açıklamak.\nKalibrasyon analiz sonuçlarını değerlendirmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Analiz Cihazlarında Okuma Yöntemleri",
+      "KONU": "Spektrofotometrik Metod / Spektrofotometrik Ölçüm Yönteminin Özellikleri / Spektrofotometre Modülünde Fotodedektör Ünitesi",
+      "KAZANIM": "Analiz cihazlarında spektrofotometrik metodu açıklar.\nSpektrofotometrik ölçüm yöntemini açıklar.\nSpektrofotometre modülünde fotodedektör ünitesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Optik yöntemle ölçme tarif edilir.\nKolorimetrenin çalışma prensibi açıklanır.\nSpektrofotometre ölçüm prensip şeması tarif edilir.\nDedektör ünitesinin çalışma prensibi ve özellikleri açıklanır.\nDedektör ünitesinin yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Optik yöntemle ölçmeyi tarif etmek\nKolorimetrenin çalışma prensibi açıklamak.\nSpektrofotometre ölçüm prensip şemasını yorumlamak.\nDedektör ünitesinin çalışma prensibini ve özelliklerini açıklamak.\nDedektör ünitesinin yapısını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.\nHalojen lamba ve özelliklerini açıklamak.\nMercek çeşitlerini listelemek.\nMercek sisteminin yapısı açıklamak.\nKemüliminesans yöntemle ölçmeyi tarif etmek.\nKemüliminesans yönteminin çalışma prensibini açıklamak.\nAntikor ve antijenin özelliklerini açıklamak.\nAntikor ve antijen işaretleyicilerini (substrat ve baz) açıklamak.\nLuminometre modülünün yapısını açıklamak.\nPMT yapısını açıklamak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Analiz Cihazlarında Okuma Yöntemleri",
+      "KONU": "Spektrofotometre Modülünde Halojen Lamba ve Mercek / Kemüliminesans Ölçüm Yöntemi",
+      "KAZANIM": "Spektrofotometre modülünde halojen lambanın ve mercek değişimini tarif eder.\nKemüliminesans ölçüm yöntemini tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Halojen lamba ve özellikleri açıklanır.\nMercek çeşitleri listelenir.\nMercek sisteminin yapısı açıklanır.\nKemüliminesans yöntemle ölçme tarif edilir.\nKemüliminesans yönteminin çalışma prensibini açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Optik yöntemle ölçmeyi tarif etmek\nKolorimetrenin çalışma prensibi açıklamak.\nSpektrofotometre ölçüm prensip şemasını yorumlamak.\nDedektör ünitesinin çalışma prensibini ve özelliklerini açıklamak.\nDedektör ünitesinin yapısını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.\nHalojen lamba ve özelliklerini açıklamak.\nMercek çeşitlerini listelemek.\nMercek sisteminin yapısı açıklamak.\nKemüliminesans yöntemle ölçmeyi tarif etmek.\nKemüliminesans yönteminin çalışma prensibini açıklamak.\nAntikor ve antijenin özelliklerini açıklamak.\nAntikor ve antijen işaretleyicilerini (substrat ve baz) açıklamak.\nLuminometre modülünün yapısını açıklamak.\nPMT yapısını açıklamak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Analiz Cihazlarında Okuma Yöntemleri",
+      "KONU": "Antikor ve Antijen Reaksiyonlarının Özellikleri / Luminometre Modülü / Luminometre Modülünde PMT (Photomultipler Tube)",
+      "KAZANIM": "Antikor ve antijen reaksiyonlarının özelliklerini açıklar.\nLuminometre modülünü tarif eder.\nLuminometre modülünde PMT (Photomultipler tube) spektrofotometre cihazının bakım talimatlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Antikor ve antijenin özellikleri açıklanır.\nAntikor ve antijen işaretleyicileri (substrat ve baz) açıklanır.\nLuminometre modülünün yapısı açıklanır.\nPMT yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Optik yöntemle ölçmeyi tarif etmek\nKolorimetrenin çalışma prensibi açıklamak.\nSpektrofotometre ölçüm prensip şemasını yorumlamak.\nDedektör ünitesinin çalışma prensibini ve özelliklerini açıklamak.\nDedektör ünitesinin yapısını açıklamak.\nArıza bilgi formunda bulunması gereken bilgileri listelemek.\nHalojen lamba ve özelliklerini açıklamak.\nMercek çeşitlerini listelemek.\nMercek sisteminin yapısı açıklamak.\nKemüliminesans yöntemle ölçmeyi tarif etmek.\nKemüliminesans yönteminin çalışma prensibini açıklamak.\nAntikor ve antijenin özelliklerini açıklamak.\nAntikor ve antijen işaretleyicilerini (substrat ve baz) açıklamak.\nLuminometre modülünün yapısını açıklamak.\nPMT yapısını açıklamak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Otoanalizörler",
+      "KONU": "Otoanalizör Cihazının Çalışma Yapısı ve Çeşitleri / Biyokimya Cihazlarının Montajı",
+      "KAZANIM": "Otoanalizör cihazının çalışma yapısı ve çeşitlerini açıklar.\nBiyokimya cihazlarının montajını tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Otoanalizör cihazının çalışma yapısı açıklanır\nOtoanalizör cihazı olan Biyokimya ve Hormon cihazı yapısı, çalışma şekli açıklanır.\nBiyokimya ve Hormon cihazının aksesuarları açıklanır\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özellikleri açıklanır.\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajı tarif edilir.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoanalizör cihazının çalışma yapısını açıklamak\nOtoanalizör cihazı olan Biyokimya ve Hormon cihazını açıklamak\nBiyokimya ve Hormon cihazının aksesuarlarını açıklamak\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nBiyokimya ve Hormon cihazı ile istenilen testlerini açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimlerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonu tarif etmek.\nKalibrasyon sertifikası düzenlemek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Otoanalizörler",
+      "KONU": "Biyokimya Cihazlarının Montajı / Biyokimya Cihazlarında Besleme Ünitesi",
+      "KAZANIM": "Biyokimya cihazlarının montajını tarif eder.\nBiyokimya ve hormon cihazlarında besleme ünitesini tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyokimya ve Hormon cihazı ile istenilen testler açıklanır.\nTeslim tutanağı hazırlar.\nBesleme kartı üzerindeki birimler açıklanır.\nRegüle entegreli besleme devresi açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoanalizör cihazının çalışma yapısını açıklamak\nOtoanalizör cihazı olan Biyokimya ve Hormon cihazını açıklamak\nBiyokimya ve Hormon cihazının aksesuarlarını açıklamak\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nBiyokimya ve Hormon cihazı ile istenilen testlerini açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimlerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonu tarif etmek.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Otoanalizörler",
+      "KONU": "Biyokimya Cihazlarında Elektronik Kontrol Kartı",
+      "KAZANIM": "Biyokimya ve hormon cihazlarında elektronik kontrol kartını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyokimya ve Hormon cihazının aksesuarları açıklanır.\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özellikleri açıklanır.\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajı tarif edilir.\nBiyokimya ve Hormon cihazı ile istenilen testler açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoanalizör cihazının çalışma yapısını açıklamak\nOtoanalizör cihazı olan Biyokimya ve Hormon cihazını açıklamak\nBiyokimya ve Hormon cihazının aksesuarlarını açıklamak\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nBiyokimya ve Hormon cihazı ile istenilen testlerini açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimlerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonu tarif etmek.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Otoanalizörler",
+      "KONU": "Biyokimya Cihazlarında Elektronik Kontrol Kartı / Biyokimya Cihazlarında Motor / Biyokimya Cihazlarında Bakım ve Fonksiyon Testi",
+      "KAZANIM": "Biyokimya ve hormon cihazlarında elektronik kontrol kartını açıklar.\nBiyokimya ve hormon cihazlarında motorun yapısını açıklar.\nBiyokimya ve hormon cihazlarında bakım ve fonksiyon testini tarif eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Teslim tutanağı hazırlanır.\nBesleme kartı üzerindeki birimler açıklanır.\nRegüle entegreli besleme devresi kurulumu açıklanır.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımlar açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoanalizör cihazının çalışma yapısını açıklamak\nOtoanalizör cihazı olan Biyokimya ve Hormon cihazını açıklamak\nBiyokimya ve Hormon cihazının aksesuarlarını açıklamak\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nBiyokimya ve Hormon cihazı ile istenilen testlerini açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimlerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonu tarif etmek.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Otoanalizörler",
+      "KONU": "Biyokimya Cihazlarında Bakım ve Fonksiyon Testi / Biyokimya Cihazlarında Kalibrasyon",
+      "KAZANIM": "Biyokimya ve hormon cihazlarında bakım ve fonksiyon testini tarif eder.\nBiyokimya ve hormon cihazlarında kalibrasyonu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonu tarif edilir.\nYıllık bakım çizelgesi açıklanır.\nKronometre ile zaman kalibrasyonu açıklanır.\nKalibrasyon sertifikası açıklanır.",
+        "Ortam ve Donanım": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Öğretim Teknikleri": "Ortam:Sınıf ortamı, hastane ortamı, tıbbi laboratuvar atölyesi\nDonanım:Etkileşimli tahta/projeksiyon-bilgisayar, yazıcı/tarayıcı, Servis el kitabı, AVO metre, el takımları, devre şeması, lehimleme aletleri, Koagulometre cihazı, el takımları, Özel temizlik malzemeleri, Mekanik yağlar, kalibratör, kan gazları cihazı, kan saklama dolabı, idrar analizörü cihazı, mikroskop cihazları, kan sayım cihazları, otoanalizör cihazları, gaz kaçağı kontrol elemanları, kaynak makinesi, nem ölçer, ısı ölçer, metre, kan sayım cihazı.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Otoanalizör cihazının çalışma yapısını açıklamak\nOtoanalizör cihazı olan Biyokimya ve Hormon cihazını açıklamak\nBiyokimya ve Hormon cihazının aksesuarlarını açıklamak\nBiyokimya ve Hormon cihazının kurulacağı ortamın fiziki özelliklerini kontrol etmek\nBiyokimya ve Hormon cihazının aksesuarlarını kontrol ederek montajını tarif etmek.\nBiyokimya ve Hormon cihazı ile istenilen testlerini açıklamak.\nTeslim tutanağı hazırlamak.\nBesleme kartı üzerindeki birimlerini açıklamak.\nBesleme kartı üzerindeki birimlerin çıkışlarını avometre ile ölçümünü tarif etmek.\nServis el kitabından bakım talimatlarını okuyarak gerekli bakımları açıklamak.\nUygun temizlik maddelerini kullanarak cihazın ve aksesuarlarının sterilizasyonunu tarif etmek.\nYıllık bakım çizelgesi düzenlemek\nKronometre ile zaman kalibrasyonu tarif etmek.\nKalibrasyon sertifikası düzenlemek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

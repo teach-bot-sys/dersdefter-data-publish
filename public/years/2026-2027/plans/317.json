@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Siber Güvenlik Temelleri",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/317/siber-guvenlik-temelleri-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Siber Güvenliğe Giriş",
+      "KONU": "Hacker ve Hacking Kavramları / Etik ve Güvenlik / Ağ Güvenliği Temelleri",
+      "KAZANIM": "Hacker (Bilgisayar Korsanı) kimliğini ve hacking işlemini açıklar.\nBilişimde etik kavramını ve siber güvenlik kavramını açılar.\nAğ güvenliğinin önemini dikkate alarak ağ saldırılarını algılama ve önleme kavramlarını tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hacker özellikleri açıklanır.\nSiyah Şapkalı, Beyaz şapkalı ve Gri Şapkalı Hacker özellikleri açıklanır.\nArka kapı ve kötü amaçlı yazılım özellikleri açıklanır.\nBilgi güvenliği uzmanlarının ahlaki sorumlulukları açıklanır.\nBilgi Gizliliği ve Etik kavramları açıklanır.\nİnternet gizliliği ve önemi açıklanır.\nBilgi güvenliği uygulamasıyla ilgili yasal problemler ve telif hakları açıklanır.\nAğ güvenliğinin önemi tanımlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ağ güvenlik planı oluşturmak\nSiber olaydan sırasında süreç raporu hazırlamak\nSiber olay sonrası süreç raporu hazırlamak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Siber Güvenliğe Giriş",
+      "KONU": "Ağ Güvenliği Temelleri / Siber Güvenlik Elemanının özellikleri",
+      "KAZANIM": "Ağ güvenliğinin önemini dikkate alarak ağ saldırılarını algılama ve önleme kavramlarını tanımlar.\nSiber güvenlik uzmanının özelliklerini tanıtarak, görev ve sorumluluklarını tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ağ güvenlik planın oluşturulması gereken adımları tanımlanır.\nAğ saldırılarını algılama ve önleme teknikleri tanımlanır.\nAğ trafiğinin kontrol altına alınması teknikleri tanımlanır.\nYetkisiz erişimin engellenmesi için alınması gereken teknikler tanımlanır.\nSiber güvenlik uzmanının sahip olması gereken özellikleri, bilgi ve becerileri tanımlatır.\nSiber olaylara müdahale ekiplerini tanımlatır.\nSiber olaylara müdahale biriminin görev ve sorumluluklarını oluş sırasına göre tanımlatır.\nSiber olaylara müdahale birimlerinin iç ve dış birimler ile iletişim tekniklerini tanımlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ağ güvenlik planı oluşturmak\nSiber olaydan sırasında süreç raporu hazırlamak\nSiber olay sonrası süreç raporu hazırlamak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgi Toplama Teknikleri",
+      "KONU": "Pasif bilgi toplama yöntemleri uygulamaları",
+      "KAZANIM": "Bilgi toplama adımlarına dikkat ederek pasif bilgi toplama işlemlerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IP adresleri üzerinden bilgi toplama işlemlerini yaptırır.\nDomainler üzerinden bilgi toplama işlemlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "IP adresi bilinen noktaya ait bilgi toplama uygulaması yapmak\nDomain adresi verilen bir web sitesine ait bilgilerinin toplanması uygulamasını yapmak\nWeb sayfalarından bilgi toplayan uygulama yapmak\nAğ haritasını çıkartma uygulaması yapmak\nAğ haritasındaki cihazların açıklarını tespit eden uygulama yapmak\nAraçlar üzerinden port taraması uygulamaları yapmak\nOnline araçlar üzerinden port taraması uygulaması yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgi Toplama Teknikleri",
+      "KONU": "Pasif bilgi toplama yöntemleri uygulamaları / Aktif bilgi toplama yöntemleri uygulamaları",
+      "KAZANIM": "Bilgi toplama adımlarına dikkat ederek pasif bilgi toplama işlemlerini uygular.\nBilgi toplama adımlarına dikkat ederek aktif bilgi toplama işlemlerini uygular",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Web sayfalarından bilgi toplama işlemlerini yaptırır.\nAğ haritalama uygulamalarını kullanarak ağ haritası çıkarma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "IP adresi bilinen noktaya ait bilgi toplama uygulaması yapmak\nDomain adresi verilen bir web sitesine ait bilgilerinin toplanması uygulamasını yapmak\nWeb sayfalarından bilgi toplayan uygulama yapmak\nAğ haritasını çıkartma uygulaması yapmak\nAğ haritasındaki cihazların açıklarını tespit eden uygulama yapmak\nAraçlar üzerinden port taraması uygulamaları yapmak\nOnline araçlar üzerinden port taraması uygulaması yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgi Toplama Teknikleri",
+      "KONU": "Aktif bilgi toplama yöntemleri uygulamaları",
+      "KAZANIM": "Bilgi toplama adımlarına dikkat ederek aktif bilgi toplama işlemlerini uygular",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ağ haritalama uygulamalarını kullanarak açık sistemleri tespit ettirir.\nAğ haritalama uygulamalarının parametrelerini kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "IP adresi bilinen noktaya ait bilgi toplama uygulaması yapmak\nDomain adresi verilen bir web sitesine ait bilgilerinin toplanması uygulamasını yapmak\nWeb sayfalarından bilgi toplayan uygulama yapmak\nAğ haritasını çıkartma uygulaması yapmak\nAğ haritasındaki cihazların açıklarını tespit eden uygulama yapmak\nAraçlar üzerinden port taraması uygulamaları yapmak\nOnline araçlar üzerinden port taraması uygulaması yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgi Toplama Teknikleri",
+      "KONU": "Aktif bilgi toplama yöntemleri uygulamaları",
+      "KAZANIM": "Bilgi toplama adımlarına dikkat ederek aktif bilgi toplama işlemlerini uygular",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IP tarama tekniklerini kullandırarak, tarama işlemini yaptırır.\nPort tarama tekniklerini kullandırarak, tarama işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "IP adresi bilinen noktaya ait bilgi toplama uygulaması yapmak\nDomain adresi verilen bir web sitesine ait bilgilerinin toplanması uygulamasını yapmak\nWeb sayfalarından bilgi toplayan uygulama yapmak\nAğ haritasını çıkartma uygulaması yapmak\nAğ haritasındaki cihazların açıklarını tespit eden uygulama yapmak\nAraçlar üzerinden port taraması uygulamaları yapmak\nOnline araçlar üzerinden port taraması uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Bilgi Toplama Teknikleri",
+      "KONU": "Aktif bilgi toplama yöntemleri uygulamaları",
+      "KAZANIM": "Bilgi toplama adımlarına dikkat ederek aktif bilgi toplama işlemlerini uygular",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Portlarda servis tarama tekniklerini kullandırarak, tarama işlemini yaptırır.\nWeb üzerinden online port tarama tekniklerini kullandırarak, tarama işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "IP adresi bilinen noktaya ait bilgi toplama uygulaması yapmak\nDomain adresi verilen bir web sitesine ait bilgilerinin toplanması uygulamasını yapmak\nWeb sayfalarından bilgi toplayan uygulama yapmak\nAğ haritasını çıkartma uygulaması yapmak\nAğ haritasındaki cihazların açıklarını tespit eden uygulama yapmak\nAraçlar üzerinden port taraması uygulamaları yapmak\nOnline araçlar üzerinden port taraması uygulaması yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Sızma Testi Teknikleri",
+      "KONU": "Sızma testi çeşitleri",
+      "KAZANIM": "Sistem yapısına göre uygun sızma testi kullanılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Beyaz kutu sızma testi işlemlerine uygun uygulama yaptırır.\nSiyah Kutu sızma testi işlemlerine uygun uygulama yaptırır.\nGri Kutu sızma testi işlemlerine uygun uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sızma testi yapılacak yerin keşif çalışması uygulaması yapmak\nSızma testi için erişim yetkilerinin düzenlenmesi uygulamalarını yapmak\nİç ağ Beyaz kutu sızma testi uygulaması yapmak\nİç ağ Siyah kutu sızma testi uygulaması yapmak\nİç Gri kutu sızma testi uygulaması yapmak\nDış ağ Beyaz kutu sızma testi uygulaması yapmak\nDış ağ Siyah kutu sızma testi uygulaması yapmak\nDış ağ Gri kutu sızma testi uygulaması yapmak\nOtomatize araçlar ile sızma testi uygulaması yapmak\nExploid ugulaması yapmak\nMetasploid uygulaması yapmak\nPayload uygulaması yapmak\nYetki yükseltme uygulaması yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Sızma Testi Teknikleri",
+      "KONU": "Sızma testi öncesi adımları uygulama",
+      "KAZANIM": "Kurallara uygun olarak sızma öncesi yapılması gereken adımları tamamlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sızma testi yapılacak yerin keşif çalışmalarını yaptırır.\nSızma testinin yapılacak kişi ve bilgisayarlarının kontrolünü yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sızma testi yapılacak yerin keşif çalışması uygulaması yapmak\nSızma testi için erişim yetkilerinin düzenlenmesi uygulamalarını yapmak\nİç ağ Beyaz kutu sızma testi uygulaması yapmak\nİç ağ Siyah kutu sızma testi uygulaması yapmak\nİç Gri kutu sızma testi uygulaması yapmak\nDış ağ Beyaz kutu sızma testi uygulaması yapmak\nDış ağ Siyah kutu sızma testi uygulaması yapmak\nDış ağ Gri kutu sızma testi uygulaması yapmak\nOtomatize araçlar ile sızma testi uygulaması yapmak\nExploid ugulaması yapmak\nMetasploid uygulaması yapmak\nPayload uygulaması yapmak\nYetki yükseltme uygulaması yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Sızma Testi Teknikleri",
+      "KONU": "Sızma testi öncesi adımları uygulama / Sızma testi uygulaması",
+      "KAZANIM": "Kurallara uygun olarak sızma öncesi yapılması gereken adımları tamamlar.\nKeşif ve alınan yetkilere göre sızma testini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirlenen erişim yetkilerine göre, erişim kısıtlamalarını yaptırır.\nPlanlama ve bilgi toplama adımlarını hazırlatır.\nİç ağ sızma testine ait uygulamayı yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sızma testi yapılacak yerin keşif çalışması uygulaması yapmak\nSızma testi için erişim yetkilerinin düzenlenmesi uygulamalarını yapmak\nİç ağ Beyaz kutu sızma testi uygulaması yapmak\nİç ağ Siyah kutu sızma testi uygulaması yapmak\nİç Gri kutu sızma testi uygulaması yapmak\nDış ağ Beyaz kutu sızma testi uygulaması yapmak\nDış ağ Siyah kutu sızma testi uygulaması yapmak\nDış ağ Gri kutu sızma testi uygulaması yapmak\nOtomatize araçlar ile sızma testi uygulaması yapmak\nExploid ugulaması yapmak\nMetasploid uygulaması yapmak\nPayload uygulaması yapmak\nYetki yükseltme uygulaması yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Sızma Testi Teknikleri",
+      "KONU": "Sızma testi uygulaması",
+      "KAZANIM": "Keşif ve alınan yetkilere göre sızma testini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dış ağ sızma testine ait uygulamayı yaptırır.\nWeb uygulama testine ait uygulamayı yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sızma testi yapılacak yerin keşif çalışması uygulaması yapmak\nSızma testi için erişim yetkilerinin düzenlenmesi uygulamalarını yapmak\nİç ağ Beyaz kutu sızma testi uygulaması yapmak\nİç ağ Siyah kutu sızma testi uygulaması yapmak\nİç Gri kutu sızma testi uygulaması yapmak\nDış ağ Beyaz kutu sızma testi uygulaması yapmak\nDış ağ Siyah kutu sızma testi uygulaması yapmak\nDış ağ Gri kutu sızma testi uygulaması yapmak\nOtomatize araçlar ile sızma testi uygulaması yapmak\nExploid ugulaması yapmak\nMetasploid uygulaması yapmak\nPayload uygulaması yapmak\nYetki yükseltme uygulaması yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Sızma Testi Teknikleri",
+      "KONU": "Sızma testi uygulaması",
+      "KAZANIM": "Keşif ve alınan yetkilere göre sızma testini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Otomatize araçları kullanarak sızma testini yaptırır.\nExploitation (Zaafiyet Doğrulama) kullanarak uygulama yaptırır.\nMetasploit Framework ve Payloads kullanarak uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sızma testi yapılacak yerin keşif çalışması uygulaması yapmak\nSızma testi için erişim yetkilerinin düzenlenmesi uygulamalarını yapmak\nİç ağ Beyaz kutu sızma testi uygulaması yapmak\nİç ağ Siyah kutu sızma testi uygulaması yapmak\nİç Gri kutu sızma testi uygulaması yapmak\nDış ağ Beyaz kutu sızma testi uygulaması yapmak\nDış ağ Siyah kutu sızma testi uygulaması yapmak\nDış ağ Gri kutu sızma testi uygulaması yapmak\nOtomatize araçlar ile sızma testi uygulaması yapmak\nExploid ugulaması yapmak\nMetasploid uygulaması yapmak\nPayload uygulaması yapmak\nYetki yükseltme uygulaması yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Sızma Testi Teknikleri",
+      "KONU": "Sızma testi uygulaması",
+      "KAZANIM": "Keşif ve alınan yetkilere göre sızma testini yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Post Exploitation (Yetki Yükseltme) kullanarak uygulama yaptırır.\nZaafiyetlerin kapatılması işlemlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sızma testi yapılacak yerin keşif çalışması uygulaması yapmak\nSızma testi için erişim yetkilerinin düzenlenmesi uygulamalarını yapmak\nİç ağ Beyaz kutu sızma testi uygulaması yapmak\nİç ağ Siyah kutu sızma testi uygulaması yapmak\nİç Gri kutu sızma testi uygulaması yapmak\nDış ağ Beyaz kutu sızma testi uygulaması yapmak\nDış ağ Siyah kutu sızma testi uygulaması yapmak\nDış ağ Gri kutu sızma testi uygulaması yapmak\nOtomatize araçlar ile sızma testi uygulaması yapmak\nExploid ugulaması yapmak\nMetasploid uygulaması yapmak\nPayload uygulaması yapmak\nYetki yükseltme uygulaması yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Sniffing Yöntem ve Uygulamaları",
+      "KONU": "Sniffer araçlarını kullanma",
+      "KAZANIM": "Ağın analizini ve ağda oluşan problemleri çözmek için Sniffer araçlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ağ ara yüzüne ulaşan paketleri incelemek için uygulama yaptırır.\nAğa yapılabilecek izinsiz girişleri yakalamak için uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ağ ara yüzüne ulaşan paketleri inceleme uygulaması yapmak\nAğa yapılabilecek izinsiz girişleri yakalayan uygulama yapmak\nÇalışan uygulamaların ağa etkisini inceleyen uygulamayı yapmak\nAğ geçidi ile bilgisayarların arasına girilmesi uygulamasını yapmak\nMac Flooding tekniği uygulamasını yapmak\nArp Poisoning siniffing tekniği uygulamasını yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Sniffing Yöntem ve Uygulamaları",
+      "KONU": "Sniffer araçlarını kullanma",
+      "KAZANIM": "Ağın analizini ve ağda oluşan problemleri çözmek için Sniffer araçlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çalışan uygulamaların ağa etkisini araştırmak için uygulama yaptırır.\nAğ geçidi ile bilgisayarların arasına girilmesi uygulamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ağ ara yüzüne ulaşan paketleri inceleme uygulaması yapmak\nAğa yapılabilecek izinsiz girişleri yakalayan uygulama yapmak\nÇalışan uygulamaların ağa etkisini inceleyen uygulamayı yapmak\nAğ geçidi ile bilgisayarların arasına girilmesi uygulamasını yapmak\nMac Flooding tekniği uygulamasını yapmak\nArp Poisoning siniffing tekniği uygulamasını yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Sniffing Yöntem ve Uygulamaları",
+      "KONU": "Sniffing saldırılarının tespiti",
+      "KAZANIM": "Yapılan işleme göre belirlenen sniffing türüne göre araç kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mac Flooding sniffing tespitine karşı tedbirleri uygulatır.\nArp Poisoning siniffing tespitine karşı tedbirleri uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ağ ara yüzüne ulaşan paketleri inceleme uygulaması yapmak\nAğa yapılabilecek izinsiz girişleri yakalayan uygulama yapmak\nÇalışan uygulamaların ağa etkisini inceleyen uygulamayı yapmak\nAğ geçidi ile bilgisayarların arasına girilmesi uygulamasını yapmak\nMac Flooding tekniği uygulamasını yapmak\nArp Poisoning siniffing tekniği uygulamasını yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Şifreleme Teknikleri",
+      "KONU": "Simetrik Şifreleme yöntemleri",
+      "KAZANIM": "Şifreleme adımlarına uygun olarak gizli anahtarlı-simetrik-şifreleme yöntemleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DES (Data Encryption Standart) Veri Şifreleme Standartı uygulaması yaptırır.\nTek Yönlü Anahtarsız Şifreleme (Hash Fonksiyonları) uygulaması yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Data Encryption Standart) Veri Şifreleme Standartı uygulaması yapmak\nHash Fonksiyonları kullanarak şifreleme uygulaması yapmak\nSezar şifreleme tekniği uygulaması yapmak\nGizli, anahtarlama şifreleme tekniği uygulaması yapmak\nAnahtar ikilisi ile şifreleme uygulaması yapmak\nResim içine resim gizleyerek şifreleme uygulaması yapmak\nResim içine metin gizleyerek şifreleme uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Şifreleme Teknikleri",
+      "KONU": "Asimetrik Şifreleme / Steganografi yöntemi",
+      "KAZANIM": "Şifreleme adımlarına uygun olarak asimetrik şifreleme yöntemleri kullanır.\nŞifreleme adımlarına uygun olarak steganografi şifreleme yöntemlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Anahtar ikilisi ile şifreleme uygulaması yaptırır.\nResim içine resim koyarak şifreleme işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Data Encryption Standart) Veri Şifreleme Standartı uygulaması yapmak\nHash Fonksiyonları kullanarak şifreleme uygulaması yapmak\nSezar şifreleme tekniği uygulaması yapmak\nGizli, anahtarlama şifreleme tekniği uygulaması yapmak\nAnahtar ikilisi ile şifreleme uygulaması yapmak\nResim içine resim gizleyerek şifreleme uygulaması yapmak\nResim içine metin gizleyerek şifreleme uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Şifreleme Teknikleri",
+      "KONU": "Steganografi yöntemi",
+      "KAZANIM": "Şifreleme adımlarına uygun olarak steganografi şifreleme yöntemlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Resim içine text-metin- gizleyerek şifreleme işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Data Encryption Standart) Veri Şifreleme Standartı uygulaması yapmak\nHash Fonksiyonları kullanarak şifreleme uygulaması yapmak\nSezar şifreleme tekniği uygulaması yapmak\nGizli, anahtarlama şifreleme tekniği uygulaması yapmak\nAnahtar ikilisi ile şifreleme uygulaması yapmak\nResim içine resim gizleyerek şifreleme uygulaması yapmak\nResim içine metin gizleyerek şifreleme uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Parola Atakları",
+      "KONU": "Online parola saldırıları / Offline parola saldırıları",
+      "KAZANIM": "Online parola kırma tekniklerini kullanır.\nOffline parola kırma tekniklerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Online parola deneme araçları kullanarak uygulama yaptırır.\nOnline parola deneme araçlarına parametre ekleyerek uygulama yaptırır.\nHash kodlarını kullandırarak parola kırma uygulama yaptırır",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Online parola deneme araçları kullanarak uygulama yapmak\nHash kodlarını kullandırarak parola kırma uygulama yapmak\nKaba kuvvet (Brut Force) kullanarak parola kırma uygulaması yapmak\nSözlük saldırı tekniğini kullanarak parola kırma uygulaması yapmak\nRainbow Tablo tekniğini kullanarak parola kırma uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Parola Atakları",
+      "KONU": "Offline parola saldırıları",
+      "KAZANIM": "Offline parola kırma tekniklerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kaba kuvvet (Brut Force) kullanarak parola kırma uygulaması yaptırır.\nSözlük saldırı tekniğini kullanarak parola kırma uygulaması yaptırır.\nRainbow Tablo tekniğini kullanarak parola kırma uygulaması yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Online parola deneme araçları kullanarak uygulama yapmak\nHash kodlarını kullandırarak parola kırma uygulama yapmak\nKaba kuvvet (Brut Force) kullanarak parola kırma uygulaması yapmak\nSözlük saldırı tekniğini kullanarak parola kırma uygulaması yapmak\nRainbow Tablo tekniğini kullanarak parola kırma uygulaması yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "DoS ve DDoS Atakları",
+      "KONU": "DOS (Denial of Service) Atağı",
+      "KAZANIM": "Hedefe uygun DoS atak türünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DoS atak türüne ait araçları kullanarak uygulama yaptırır.\nBant Genişliğine Yönelik Atakların uygulamasını yaptırır.\nBelirli host ve servisleri düşürmek için uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "DoS atak türüne ait araçları kullanarak DoS uygulaması yapmak\nBant Genişliğine Yönelik Atakların uygulama yapmak\nBelirli host ve servisleri düşürmek için uygulama yapmak\nSYN tekniğini kullanarak DoS atak uygulaması yapmak\nMass-intrusion faz tekniği kullanarak uygulama yapmak\nDDoS Attack Faz tekniği kullanarak uygulama yapmak\nDoS ve DDoS ataklarını önlemek için alınacak tedbirlere yönelik uygulama yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "DoS ve DDoS Atakları",
+      "KONU": "DOS (Denial of Service) Atağı / DDOS (Distributed Denial of Service) Atağı",
+      "KAZANIM": "Hedefe uygun DoS atak türünü kullanır.\nHedefe uygun DDoS atak türünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "SYN tekniğini kullanarak DoS atak uygulaması yaptırır.\nMass-intrusion faz tekniği kullanarak uygulama yaptırır.\nDDoS Attack faz tekniği kullanarak uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "DoS atak türüne ait araçları kullanarak DoS uygulaması yapmak\nBant Genişliğine Yönelik Atakların uygulama yapmak\nBelirli host ve servisleri düşürmek için uygulama yapmak\nSYN tekniğini kullanarak DoS atak uygulaması yapmak\nMass-intrusion faz tekniği kullanarak uygulama yapmak\nDDoS Attack Faz tekniği kullanarak uygulama yapmak\nDoS ve DDoS ataklarını önlemek için alınacak tedbirlere yönelik uygulama yapmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "DoS ve DDoS Atakları",
+      "KONU": "DDOS (Distributed Denial of Service) Atağı",
+      "KAZANIM": "Hedefe uygun DDoS atak türünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DDoS Atakları için kullanılan formları kullanarak atak uygulamalarını yaptırır.\nDoS ve DDoS ataklarını önlemek için alınacak tedbirleri uygulamalı yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "DoS atak türüne ait araçları kullanarak DoS uygulaması yapmak\nBant Genişliğine Yönelik Atakların uygulama yapmak\nBelirli host ve servisleri düşürmek için uygulama yapmak\nSYN tekniğini kullanarak DoS atak uygulaması yapmak\nMass-intrusion faz tekniği kullanarak uygulama yapmak\nDDoS Attack Faz tekniği kullanarak uygulama yapmak\nDoS ve DDoS ataklarını önlemek için alınacak tedbirlere yönelik uygulama yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "SQLi ve Man in The Middle Atakları",
+      "KONU": "SQL Injection Atakları",
+      "KAZANIM": "SQL sorgu ifadesi yazım kurallarına dikkat ederek bilgi sorgular",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "SQL ile veritabanı bağlantısını yaparak SQL sorgularının manipülasyonu işlemlerini yaptırır.\nSQL injection yapabilen otomatize araçları kullanarak uygulama yaptırır.\nSQLi'den kaçınma teknikleri ve karşı önlemler için tedbirleri aldırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SQL komutları kullanarak SQL sorgularının manipülasyonu uygulaması yapmak\nSQL injection yapabilen otomatize araçları kullanarak uygulama yapmak\nSQLi'den kaçınma teknikleri ve karşı önlemler için uygulama yapmak\nDHCP üzerinden MITM atak uygulaması yapmak\nARP Zehirlenmesi ile MITM atak uygulaması yapmak\nSpoofing yöntemleri kullanılarak MITM uygulaması yapmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "SQLi ve Man in The Middle Atakları",
+      "KONU": "Man in The Middle Atakları",
+      "KAZANIM": "Hedef sisteme uygun MITM atak tipini tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DHCP üzerinden yapılan MITM atak uygulamasını yaptırır.\nARP Zehirlenmesi kullanılarak MITM atak uygulaması yaptırır.\nSpoofing yöntemleri kullanılarak MITM uygulaması yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SQL komutları kullanarak SQL sorgularının manipülasyonu uygulaması yapmak\nSQL injection yapabilen otomatize araçları kullanarak uygulama yapmak\nSQLi'den kaçınma teknikleri ve karşı önlemler için uygulama yapmak\nDHCP üzerinden MITM atak uygulaması yapmak\nARP Zehirlenmesi ile MITM atak uygulaması yapmak\nSpoofing yöntemleri kullanılarak MITM uygulaması yapmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Kablosuz Ağ Güvenliği",
+      "KONU": "Kablosuz Ağlarda temel kavramlar. / Kablosuz ağlarda keşif yapma",
+      "KAZANIM": "Kablosuz ağlarda temel terim ve araçların kurulumu yapar.\nEtraftaki kablosuz ağlar üzerinde keşif uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablosuz ağlarda Authentication çeşitleri tanımlatır.\nKablosuz Ağ(802.11 Ailesi ) Standartlarının özelliklerini tanımlatır.\nWEP/WPA şifrelerini oluşturma ve oluşturulanları görme uygulaması yaptırır.\nAktif keşif yöntemlerini uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "WEP/WPA şifrelerini oluşturma ve oluşturulanları görme uygulaması yapmak\nAktif keşif yöntemlerini uygulaması yapmak\nPasif keşif yöntemlerini uygulaması yapmak\nGizli ağları(Hidden SSID) ortaya çıkartan uygulama yapmak\nAğa bağlı wifi istemcileri bulan uygulama yapmak\nAğdaki istemcilerin MAC ve IP adreslerini bulan uygulama yapmak\nKeşif Araçlarını kullanarak kablosuz ağları inceleyen uygulama yapmak\nGizlenmiş SSID'li AP(AccessPoint)lerin bulunması uygulamasını yapmak\nMac Adresi Filtrelemelerini Aşma uygulaması yapmak\nOturum bilgisi çalma atakları uygulaması yapmak\nKablosuz ağlarda ARP spoofing uygulaması yapmak\nWEP ve WPA şifreli trafiğinin okunması ve bu ağlara sızma uygulaması yapmak\nWIDS(Wireless Intrusion Detection Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak\nWIPS(Wireless Intrusion Prevention Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Kablosuz Ağ Güvenliği",
+      "KONU": "Kablosuz ağlarda keşif yapma",
+      "KAZANIM": "Etraftaki kablosuz ağlar üzerinde keşif uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pasif Keşif Yöntemlerini uygulatır.\nGizli ağları(Hidden SSID) ortaya çıkartan uygulama yaptırır.\nAğa bağlı wifi istemcileri bulan uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "WEP/WPA şifrelerini oluşturma ve oluşturulanları görme uygulaması yapmak\nAktif keşif yöntemlerini uygulaması yapmak\nPasif keşif yöntemlerini uygulaması yapmak\nGizli ağları(Hidden SSID) ortaya çıkartan uygulama yapmak\nAğa bağlı wifi istemcileri bulan uygulama yapmak\nAğdaki istemcilerin MAC ve IP adreslerini bulan uygulama yapmak\nKeşif Araçlarını kullanarak kablosuz ağları inceleyen uygulama yapmak\nGizlenmiş SSID'li AP(AccessPoint)lerin bulunması uygulamasını yapmak\nMac Adresi Filtrelemelerini Aşma uygulaması yapmak\nOturum bilgisi çalma atakları uygulaması yapmak\nKablosuz ağlarda ARP spoofing uygulaması yapmak\nWEP ve WPA şifreli trafiğinin okunması ve bu ağlara sızma uygulaması yapmak\nWIDS(Wireless Intrusion Detection Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak\nWIPS(Wireless Intrusion Prevention Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Kablosuz Ağ Güvenliği",
+      "KONU": "Kablosuz ağlarda keşif yapma / Kablosuz ağlarda güvenlik zafiyetleri",
+      "KAZANIM": "Etraftaki kablosuz ağlar üzerinde keşif uygulamaları yapar.\nKablosuz ağlarda güvenlik zafiyeti arayan araçları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ağdaki istemcilerin MAC ve IP adreslerini bulan uygulama yaptırır.\nKeşif Araçlarını kullanarak kablosuz ağları inceleyen uygulama yaptırır.\nGizlenmiş SSID'li AP(AccessPoint)lerin bulunmasını sağlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "WEP/WPA şifrelerini oluşturma ve oluşturulanları görme uygulaması yapmak\nAktif keşif yöntemlerini uygulaması yapmak\nPasif keşif yöntemlerini uygulaması yapmak\nGizli ağları(Hidden SSID) ortaya çıkartan uygulama yapmak\nAğa bağlı wifi istemcileri bulan uygulama yapmak\nAğdaki istemcilerin MAC ve IP adreslerini bulan uygulama yapmak\nKeşif Araçlarını kullanarak kablosuz ağları inceleyen uygulama yapmak\nGizlenmiş SSID'li AP(AccessPoint)lerin bulunması uygulamasını yapmak\nMac Adresi Filtrelemelerini Aşma uygulaması yapmak\nOturum bilgisi çalma atakları uygulaması yapmak\nKablosuz ağlarda ARP spoofing uygulaması yapmak\nWEP ve WPA şifreli trafiğinin okunması ve bu ağlara sızma uygulaması yapmak\nWIDS(Wireless Intrusion Detection Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak\nWIPS(Wireless Intrusion Prevention Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Kablosuz Ağ Güvenliği",
+      "KONU": "Kablosuz ağlarda güvenlik zafiyetleri",
+      "KAZANIM": "Kablosuz ağlarda güvenlik zafiyeti arayan araçları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mac Adresi Filtrelemelerini Aşma tekniklerini uygulatır\nOturum bilgisi çalma atakları tekniklerini uygulatır.\nKablosuz ağlarda TCP/IP Güvenliği ARP spoofing tekniğini uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "WEP/WPA şifrelerini oluşturma ve oluşturulanları görme uygulaması yapmak\nAktif keşif yöntemlerini uygulaması yapmak\nPasif keşif yöntemlerini uygulaması yapmak\nGizli ağları(Hidden SSID) ortaya çıkartan uygulama yapmak\nAğa bağlı wifi istemcileri bulan uygulama yapmak\nAğdaki istemcilerin MAC ve IP adreslerini bulan uygulama yapmak\nKeşif Araçlarını kullanarak kablosuz ağları inceleyen uygulama yapmak\nGizlenmiş SSID'li AP(AccessPoint)lerin bulunması uygulamasını yapmak\nMac Adresi Filtrelemelerini Aşma uygulaması yapmak\nOturum bilgisi çalma atakları uygulaması yapmak\nKablosuz ağlarda ARP spoofing uygulaması yapmak\nWEP ve WPA şifreli trafiğinin okunması ve bu ağlara sızma uygulaması yapmak\nWIDS(Wireless Intrusion Detection Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak\nWIPS(Wireless Intrusion Prevention Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Kablosuz Ağ Güvenliği",
+      "KONU": "Kablosuz ağlarda güvenlik zafiyetleri / Kablosuz ağlarda güvenlik",
+      "KAZANIM": "Kablosuz ağlarda güvenlik zafiyeti arayan araçları kullanır.\nKablosuz ağlarda alınacak temel güvenlik tedbirlerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "WEP ve WPA şifreli trafiğinin okunması ve bu ağlara sızma yöntemlerini uygulatır.\nWIDS(Wireless Intrusion Detection Sytem) kullanarak güvenlik tedbirlerini uygulatır.\nWIPS(Wireless Intrusion Prevention Sytem) kullanarak güvenlik tedbirlerini uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "WEP/WPA şifrelerini oluşturma ve oluşturulanları görme uygulaması yapmak\nAktif keşif yöntemlerini uygulaması yapmak\nPasif keşif yöntemlerini uygulaması yapmak\nGizli ağları(Hidden SSID) ortaya çıkartan uygulama yapmak\nAğa bağlı wifi istemcileri bulan uygulama yapmak\nAğdaki istemcilerin MAC ve IP adreslerini bulan uygulama yapmak\nKeşif Araçlarını kullanarak kablosuz ağları inceleyen uygulama yapmak\nGizlenmiş SSID'li AP(AccessPoint)lerin bulunması uygulamasını yapmak\nMac Adresi Filtrelemelerini Aşma uygulaması yapmak\nOturum bilgisi çalma atakları uygulaması yapmak\nKablosuz ağlarda ARP spoofing uygulaması yapmak\nWEP ve WPA şifreli trafiğinin okunması ve bu ağlara sızma uygulaması yapmak\nWIDS(Wireless Intrusion Detection Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak\nWIPS(Wireless Intrusion Prevention Sytem) kullanarak güvenlik tedbirleri uygulaması yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Web Güvenliği",
+      "KONU": "Web uygulamalarında zaafiyet işlemleri",
+      "KAZANIM": "Web uygulamaları üzerinde zafiyet tespit yöntemlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Web uygulamalarında konfigürasyon temelli güvenlik zafiyeti işlemlerini yaptırır.\nWeb servislerine yönelik keşif yaptırır",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Web uygulamalarında konfigürasyon temelli güvenlik zafiyet uygulaması yapmak\nWeb servislerine yönelik keşif uygulaması yapmak\nWeb servislerine yönelik zafiyet testleri yapmak\nURL yönlendirme zafiyet uygulaması yapmak\nHttp parametre zafiyetini tespit eden uygulama yapmak\nWeb uygularında zafiyetlerin tespiti için otomatize tarama araçları uygulaması yapmak\nDonanımsal güvenlik sistemlerini atlatma teknikleri uygulaması yapmak\nYazılımsal olarak alınan güvenlik tedbirlerini atlatma uygulaması yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Web Güvenliği",
+      "KONU": "Web uygulamalarında zaafiyet işlemleri",
+      "KAZANIM": "Web uygulamaları üzerinde zafiyet tespit yöntemlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Web servislerine yönelik zafiyet işlemlerini yaptırır.\nURL yönlendirme zafiyeti işlemlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Web uygulamalarında konfigürasyon temelli güvenlik zafiyet uygulaması yapmak\nWeb servislerine yönelik keşif uygulaması yapmak\nWeb servislerine yönelik zafiyet testleri yapmak\nURL yönlendirme zafiyet uygulaması yapmak\nHttp parametre zafiyetini tespit eden uygulama yapmak\nWeb uygularında zafiyetlerin tespiti için otomatize tarama araçları uygulaması yapmak\nDonanımsal güvenlik sistemlerini atlatma teknikleri uygulaması yapmak\nYazılımsal olarak alınan güvenlik tedbirlerini atlatma uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Web Güvenliği",
+      "KONU": "Web uygulamalarında zaafiyet işlemleri",
+      "KAZANIM": "Web uygulamaları üzerinde zafiyet tespit yöntemlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Http parametre zafiyetini tespit eden uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Web uygulamalarında konfigürasyon temelli güvenlik zafiyet uygulaması yapmak\nWeb servislerine yönelik keşif uygulaması yapmak\nWeb servislerine yönelik zafiyet testleri yapmak\nURL yönlendirme zafiyet uygulaması yapmak\nHttp parametre zafiyetini tespit eden uygulama yapmak\nWeb uygularında zafiyetlerin tespiti için otomatize tarama araçları uygulaması yapmak\nDonanımsal güvenlik sistemlerini atlatma teknikleri uygulaması yapmak\nYazılımsal olarak alınan güvenlik tedbirlerini atlatma uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Web Güvenliği",
+      "KONU": "Web uygulamalarında zaafiyet işlemleri / Etkin web güvenliği sağlama",
+      "KAZANIM": "Web uygulamaları üzerinde zafiyet tespit yöntemlerini kullanır.\nWeb güvenliği sağlamada etkin stratejileri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Web uygularında zafiyetlerin tespiti için otomatize tarama araçları uygulaması yaptırır.\nDonanımsal güvenlik sistemlerini atlatma teknikleri uygulaması yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Web uygulamalarında konfigürasyon temelli güvenlik zafiyet uygulaması yapmak\nWeb servislerine yönelik keşif uygulaması yapmak\nWeb servislerine yönelik zafiyet testleri yapmak\nURL yönlendirme zafiyet uygulaması yapmak\nHttp parametre zafiyetini tespit eden uygulama yapmak\nWeb uygularında zafiyetlerin tespiti için otomatize tarama araçları uygulaması yapmak\nDonanımsal güvenlik sistemlerini atlatma teknikleri uygulaması yapmak\nYazılımsal olarak alınan güvenlik tedbirlerini atlatma uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Web Güvenliği",
+      "KONU": "Etkin web güvenliği sağlama",
+      "KAZANIM": "Web güvenliği sağlamada etkin stratejileri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yazılımsal olarak alınan güvenlik tedbirlerini atlatma teknikleri uygulaması yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Web uygulamalarında konfigürasyon temelli güvenlik zafiyet uygulaması yapmak\nWeb servislerine yönelik keşif uygulaması yapmak\nWeb servislerine yönelik zafiyet testleri yapmak\nURL yönlendirme zafiyet uygulaması yapmak\nHttp parametre zafiyetini tespit eden uygulama yapmak\nWeb uygularında zafiyetlerin tespiti için otomatize tarama araçları uygulaması yapmak\nDonanımsal güvenlik sistemlerini atlatma teknikleri uygulaması yapmak\nYazılımsal olarak alınan güvenlik tedbirlerini atlatma uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Digital Elektronik",
+  "grup": "MESEM Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi (Mesem)",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi-mesem/325/digital-elektronik-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "Modül: TEMEL MANTIK DEVRELERİ\n1. SAYI SİSTEMLERİ\n1.1.\nSayılar\n1.1.1.\nİkili sayı sistemi\n1.1.2.\nOnlu sayı sistemi\n1.1.3.\nSekizli sayı sistemi\n1.1.4.\nOn altılı sayı sistemi\nDemokrasinin önemi",
+      "KAZANIM": "A. İş sağlığı ve güvenliği tedbirleri doğrultusunda işlemin hatasız olmasına dikkat ederek sayı sistemleri ile ilgili işlemi tekniğine uygun yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "Modül: TEMEL MANTIK DEVRELERİ\n1. SAYI SİSTEMLERİ\n1.1.\nSayılar\n1.1.1.\nİkili sayı sistemi\n1.1.2.\nOnlu sayı sistemi\n1.1.3.\nSekizli sayı sistemi\n1.1.4.\nOn altılı sayı sistemi\nDemokrasinin önemi",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.2.\nSayı Sistemlerinin Dönüştürülmesi\n1.3.\nİkili Sayı Sisteminde Toplama\n1.4.\nİkili Sayı Sisteminde Çıkarma\n2. MANTIKSAL KAPI DEVRELERİ\n2.1.\nMantıksal (Lojik) Kapılar\n2.1.1.\nTampon (buffer)\n2.1.2.\nDeğil (not) kapısı",
+      "KAZANIM": "A. İş sağlığı ve güvenliği tedbirleri doğrultusunda işlemin hatasız olmasına dikkat ederek sayı sistemleri ile ilgili işlemi tekniğine uygun yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.2.\nSayı Sistemlerinin Dönüştürülmesi\n1.3.\nİkili Sayı Sisteminde Toplama\n1.4.\nİkili Sayı Sisteminde Çıkarma\n2. MANTIKSAL KAPI DEVRELERİ\n2.1.\nMantıksal (Lojik) Kapılar\n2.1.1.\nTampon (buffer)\n2.1.2.\nDeğil (not) kapısı"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.1.3.\nVe (and) kapısı\n2.1.4.\nVeya (or) kapısı\n2.1.5.\nVe değil (nand) kapısı\n2.1.6.\nVeya değil (nor) kapısı\n2.1.7.\nÖzel veya (exor) kapısı\n2.1.8.\nÖzel veya değil (exnor) kapısı",
+      "KAZANIM": "B. İş sağlığı ve güvenliği tedbirleri doğrultusunda uygun malzemeleri kullanarak şema ve lojik entegre kataloglarına göre mantıksal kapı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.1.3.\nVe (and) kapısı\n2.1.4.\nVeya (or) kapısı\n2.1.5.\nVe değil (nand) kapısı\n2.1.6.\nVeya değil (nor) kapısı\n2.1.7.\nÖzel veya (exor) kapısı\n2.1.8.\nÖzel veya değil (exnor) kapısı",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.\nMantıksal Entegre Çeşitleri\n2.2.1.\nTTL (Transistör transistör lojik 74XX)\n2.2.2.\nCMOS (Tamamlayıcı MOS lojik 40XX)\n3. BOOLEAN MATEMATİĞİ\n3.1.\nBoolean İşlemleri\n3.1.1.\nBoolean matematiği sembolleri\n3.1.2.\nBoolean toplama ve çarpma",
+      "KAZANIM": "B. İş sağlığı ve güvenliği tedbirleri doğrultusunda uygun malzemeleri kullanarak şema ve lojik entegre kataloglarına göre mantıksal kapı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.\nMantıksal Entegre Çeşitleri\n2.2.1.\nTTL (Transistör transistör lojik 74XX)\n2.2.2.\nCMOS (Tamamlayıcı MOS lojik 40XX)\n3. BOOLEAN MATEMATİĞİ\n3.1.\nBoolean İşlemleri\n3.1.1.\nBoolean matematiği sembolleri\n3.1.2.\nBoolean toplama ve çarpma",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3.2.\nBoolean Kanunları\n3.2.1.\nYer değiştirme kanunu\n3.2.2.\nBirleşme kanunu\n3.2.3.\nDağılma kanunu\n3.3.\nBoolean Matematiği Kuralları\n3.4.\nDemorgen Teoremleri\n3.5.\nSayısal Devre Tasarımı",
+      "KAZANIM": "C. İş sağlığı ve güvenliği tedbirleri doğrultusunda mantık devrelerinin en sade halini bulmaya özen göstererek boolean matematiği ile sadeleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3.2.\nBoolean Kanunları\n3.2.1.\nYer değiştirme kanunu\n3.2.2.\nBirleşme kanunu\n3.2.3.\nDağılma kanunu\n3.3.\nBoolean Matematiği Kuralları\n3.4.\nDemorgen Teoremleri\n3.5.\nSayısal Devre Tasarımı",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3.5.1.\nBoolean ifadesinden sayısal devrelerin çizilmesi\n3.5.2.\nSayısal devreden boolean ifadenin elde edilmesi\n3.5.3.\nDalga diyagramının çizilmesi\n4. KARNOUGH HARİTASI\n4.1.\nDeğişken Sayısına Göre Karno Haritası\n4.2.\nFonksiyonun Karnough Haritasına Yerleştirilmesi",
+      "KAZANIM": "D. İş sağlığı ve güvenliği tedbirleri doğrultusunda mantık devrelerinin en sade halini bulmaya özen göstererek karnough haritası ile sadeleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3.5.1.\nBoolean ifadesinden sayısal devrelerin çizilmesi\n3.5.2.\nSayısal devreden boolean ifadenin elde edilmesi\n3.5.3.\nDalga diyagramının çizilmesi\n4. KARNOUGH HARİTASI\n4.1.\nDeğişken Sayısına Göre Karno Haritası\n4.2.\nFonksiyonun Karnough Haritasına Yerleştirilmesi"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "4.2.\nFonksiyonun Karnough Haritasına Yerleştirilmesi\n4.3.\nKarnough Haritasında Gruplandırma\n4.4.\nKarnough Haritasından Sadeleşmiş İfadenin Yazılması\n4.5.\nFark Etmezlere Göre Karnough Haritası\nAtatürk'ün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "D. İş sağlığı ve güvenliği tedbirleri doğrultusunda mantık devrelerinin en sade halini bulmaya özen göstererek karnough haritası ile sadeleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "4.2.\nFonksiyonun Karnough Haritasına Yerleştirilmesi\n4.3.\nKarnough Haritasında Gruplandırma\n4.4.\nKarnough Haritasından Sadeleşmiş İfadenin Yazılması\n4.5.\nFark Etmezlere Göre Karnough Haritası\nAtatürk'ün Cumhuriyetçilik İlkesi",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "Modül: BİLEŞİK MANTIK DEVRELERİ\n1. KODLAYICILAR(ENCODER)\n1.1.\n4 Giriş 2 Çıkış Kodlayıcı\n1.2.\n8 Giriş 3 Çıkış Kodlayıcı\n1.Dönem 1.Sınav",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile kodlayıcı (Encoder) devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "Modül: BİLEŞİK MANTIK DEVRELERİ\n1. KODLAYICILAR(ENCODER)\n1.1.\n4 Giriş 2 Çıkış Kodlayıcı\n1.2.\n8 Giriş 3 Çıkış Kodlayıcı\n1.Dönem 1.Sınav",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.3.\nDesimal Giriş BCD Çıkış Kodlayıcı\n14. Entegre Tipi Öncelikli Kodlayıcı\n2. KOD ÇÖZÜCÜLER(DECODER)\n2.1.\n2 Giriş 4 Çıkış Kod Çözücü\nAtatürk'ün eğitime ve bilime verdiği önem",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile kodlayıcı (Encoder) devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.3.\nDesimal Giriş BCD Çıkış Kodlayıcı\n14. Entegre Tipi Öncelikli Kodlayıcı\n2. KOD ÇÖZÜCÜLER(DECODER)\n2.1.\n2 Giriş 4 Çıkış Kod Çözücü\nAtatürk'ün eğitime ve bilime verdiği önem",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü",
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.\n3 Giriş 8 Çıkış Kod Çözücü\n2.3.\nBCD Giriş Desimal Çıkış Kod Çözücü\n2.4.\nBCD Giriş 7 Segment Çıkış Kod Çözücü",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile kod çözücü (Decoder) devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.\n3 Giriş 8 Çıkış Kod Çözücü\n2.3.\nBCD Giriş Desimal Çıkış Kod Çözücü\n2.4.\nBCD Giriş 7 Segment Çıkış Kod Çözücü",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3. VERİ SEÇİCİLER (MULTİPLEXER)\n3.1.\n4 Giriş Veri Seçici\n3.2.\n8 Giriş Veri Seçici\n3.3.\nEntegre Tipi Veri Seçici",
+      "KAZANIM": "C. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile veri seçici (Multiplexer) devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3. VERİ SEÇİCİLER (MULTİPLEXER)\n3.1.\n4 Giriş Veri Seçici\n3.2.\n8 Giriş Veri Seçici\n3.3.\nEntegre Tipi Veri Seçici",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "4. VERİ DAĞITICILAR (DEMULTİPLEXER)\n4.1.\n4 Çıkış Veri Dağıtıcı\n4.2.\n8 Çıkış Veri Dağıtıcı\n4.3.\nEntegre Tipi Veri Dağıtıcı",
+      "KAZANIM": "D. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile veri dağıtıcı (Demultiplexer) devresini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "4. VERİ DAĞITICILAR (DEMULTİPLEXER)\n4.1.\n4 Çıkış Veri Dağıtıcı\n4.2.\n8 Çıkış Veri Dağıtıcı\n4.3.\nEntegre Tipi Veri Dağıtıcı",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "Modül: ARİTMETİK MANTIK DEVRELERİ\n1. TOPLAYICILAR\n1.1.\nYarım Toplayıcı\n1.2.\nTam Toplayıcı",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile toplayıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "Modül: ARİTMETİK MANTIK DEVRELERİ\n1. TOPLAYICILAR\n1.1.\nYarım Toplayıcı\n1.2.\nTam Toplayıcı",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.2.\nTam Toplayıcı\n1.3.\n4 Bitlik Paralel Tam Toplayıcı\n1.4.\nEntegre Tipi Toplayıcı",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile toplayıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.2.\nTam Toplayıcı\n1.3.\n4 Bitlik Paralel Tam Toplayıcı\n1.4.\nEntegre Tipi Toplayıcı"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2. ÇIKARICILAR\n2.1.\nYarım Çıkarıcı",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile çıkarıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2. ÇIKARICILAR\n2.1.\nYarım Çıkarıcı"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.\nTam Çıkarıcı\n2.3.\n3 Bitlik Paralel Tam Çıkarıcı\n1.Dönem 2.Sınav",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile çıkarıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.\nTam Çıkarıcı\n2.3.\n3 Bitlik Paralel Tam Çıkarıcı\n1.Dönem 2.Sınav",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3. KARŞILAŞTIRICILAR\n3.1.\nYarım Karşılaştırıcı\n3.2.\nTam Karşılaştırıcı",
+      "KAZANIM": "C. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile karşılaştırıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3. KARŞILAŞTIRICILAR\n3.1.\nYarım Karşılaştırıcı\n3.2.\nTam Karşılaştırıcı"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3.3.\n4 Bitlik Paralel Tam Karşılaştırıcı\n3.4.\nEntegre Tipi Karşılaştırıcı",
+      "KAZANIM": "C. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile karşılaştırıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3.3.\n4 Bitlik Paralel Tam Karşılaştırıcı\n3.4.\nEntegre Tipi Karşılaştırıcı"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "Modül: ARDIŞIK MANTIK DEVRELERİ\n1. MULTİVİBRATÖRLER\n1.1.\nYapısı",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile multivibratör devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "Modül: ARDIŞIK MANTIK DEVRELERİ\n1. MULTİVİBRATÖRLER\n1.1.\nYapısı"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.2.\nÇalışma Şekilleri\n1.3.\nÇeşitleri",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile multivibratör devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.2.\nÇalışma Şekilleri\n1.3.\nÇeşitleri"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2. FLIP FLOPLAR\n2.1.\nTanımı\n2.2.\nFlip Flop Çeşitleri",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre flip flop devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2. FLIP FLOPLAR\n2.1.\nTanımı\n2.2.\nFlip Flop Çeşitleri",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.1.\nRS Tipi Flip Flop\n2.2.2.\nTetiklemeli RS Tipi Flip Flop\n2.2.3.\nJK Tipi Flip Flop",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre flip flop devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.1.\nRS Tipi Flip Flop\n2.2.2.\nTetiklemeli RS Tipi Flip Flop\n2.2.3.\nJK Tipi Flip Flop",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü",
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.4.\nD Tipi Flip Flop\n2.2.5.\nT Tipi Flip Flop\n2.2.6.\nPreset / Clear Girişli Flip-Floplar",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre flip flop devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.4.\nD Tipi Flip Flop\n2.2.5.\nT Tipi Flip Flop\n2.2.6.\nPreset / Clear Girişli Flip-Floplar",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3. FLIP FLOP İLE DEVRE TASARIMI\n3.1.\nFlip Floplarla Devre Tasarım Aşamaları\n3.2.\nFlip Flop Geçiş Tabloları",
+      "KAZANIM": "C. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre flip flop devrelerini tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3. FLIP FLOP İLE DEVRE TASARIMI\n3.1.\nFlip Floplarla Devre Tasarım Aşamaları\n3.2.\nFlip Flop Geçiş Tabloları",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "Modül: SAYICI VE KAYDEDİCİ DEVRELERİ\n1. ASENKRON SAYICILAR\n1.1.\nAsenkron Yukarı Sayıcılar\n1.2.\nAsenkron Aşağı Sayıcılar\nAtatürk’ün vatan ve millet sevgisi",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile asenkron sayıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "Modül: SAYICI VE KAYDEDİCİ DEVRELERİ\n1. ASENKRON SAYICILAR\n1.1.\nAsenkron Yukarı Sayıcılar\n1.2.\nAsenkron Aşağı Sayıcılar\nAtatürk’ün vatan ve millet sevgisi",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.2.\nAsenkron Aşağı Sayıcılar\n1.3.\nEntegre Tipi Asenkron Sayıcılar\n2.Dönem 1.Sınav",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile asenkron sayıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.2.\nAsenkron Aşağı Sayıcılar\n1.3.\nEntegre Tipi Asenkron Sayıcılar\n2.Dönem 1.Sınav",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2. SENKRON SAYICILAR\n2.1.\nSenkron Yukarı Sayıcılar",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile senkron sayıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2. SENKRON SAYICILAR\n2.1.\nSenkron Yukarı Sayıcılar",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.\nAsenkron Aşağı Sayıcılar\n2.3.\nEntegre Tipi Asenkron Sayıcılar",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile senkron sayıcı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.\nAsenkron Aşağı Sayıcılar\n2.3.\nEntegre Tipi Asenkron Sayıcılar",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3. KAYDEDİCİLER\n3.1.\nKaydedici Çeşitleri\n3.2.1.\nSeri giriş seri çıkış kaydediciler\n3.2.2.\nSeri giriş paralel çıkış kaydediciler\nÇocuk, insan sevgisi ve evrensellik",
+      "KAZANIM": "C. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile kaydedici devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3. KAYDEDİCİLER\n3.1.\nKaydedici Çeşitleri\n3.2.1.\nSeri giriş seri çıkış kaydediciler\n3.2.2.\nSeri giriş paralel çıkış kaydediciler\nÇocuk, insan sevgisi ve evrensellik"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "3.2.3.\nParalel giriş paralel çıkış kaydediciler\n3.2.4.\nParalel giriş seri çıkış\n3.2.\nRing Sayıcılar\n3.3.\nJohnson Sayıcılar",
+      "KAZANIM": "C. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile kaydedici devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "3.2.3.\nParalel giriş paralel çıkış kaydediciler\n3.2.4.\nParalel giriş seri çıkış\n3.2.\nRing Sayıcılar\n3.3.\nJohnson Sayıcılar",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "Modül: ADC-DAC DEVRELERİ\n1. ANALOG DİJİTAL DÖNÜŞTÜRÜCÜLER\n1. 1. Analog sinyal ve dijital sinyal\n1. 2. Analog sinyal ile dijital sinyal arasındaki farklar",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile ADC devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "Modül: ADC-DAC DEVRELERİ\n1. ANALOG DİJİTAL DÖNÜŞTÜRÜCÜLER\n1. 1. Analog sinyal ve dijital sinyal\n1. 2. Analog sinyal ile dijital sinyal arasındaki farklar",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.3.\nAnalog dijital dönüştürücü\n1.4.\nAnalog dijital dönüştürücüde kullanılan kavramlar\nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile ADC devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.3.\nAnalog dijital dönüştürücü\n1.4.\nAnalog dijital dönüştürücüde kullanılan kavramlar\nAtatürkçü düşüncede yer alan temel fikirler",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "1.5.\nAnalog dijital dönüştürücü çeşitleri\n1.6.\nAnalog dijital dönüştürücü çeşitleri arasındaki farklar",
+      "KAZANIM": "A. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile ADC devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "1.5.\nAnalog dijital dönüştürücü çeşitleri\n1.6.\nAnalog dijital dönüştürücü çeşitleri arasındaki farklar"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2. DİJİTAL ANALOG DÖNÜŞTÜRÜCÜLER\n2.1.\nDijital analog dönüştürücü\n2.Dönem 2.Sınav",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile DAC devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2. DİJİTAL ANALOG DÖNÜŞTÜRÜCÜLER\n2.1.\nDijital analog dönüştürücü\n2.Dönem 2.Sınav"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "",
+      "KONU": "2.2.\nDijital analog dönüştürücüde kullanılan kavramlar\n2.3.\nDijital analog dönüştürücü çeşitleri",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile DAC devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.2.\nDijital analog dönüştürücüde kullanılan kavramlar\n2.3.\nDijital analog dönüştürücü çeşitleri"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "",
+      "KONU": "2.4.\nAğırlık dirençli (paralel girişli) dijital analog dönüştürücü\n2.5.\nR-2R merdiven tipi dijital analog dönüştürücü",
+      "KAZANIM": "B. Şemaya, lojik entegre kataloglarına ve iş sağlığı ve güvenliği kurallarına göre uygun malzeme ile DAC devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Anlatım, göstererek yaptırma, problem çözme, soru-cevap, grup çalışması, beyin fırtınası, uygulama",
+        "Öğretim Teknikleri": "2.4.\nAğırlık dirençli (paralel girişli) dijital analog dönüştürücü\n2.5.\nR-2R merdiven tipi dijital analog dönüştürücü"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Etkinlik Haftası",
+        "Süreç Bileşenleri": "Etkinlik Haftası"
+      }
+    }
+  ]
+}

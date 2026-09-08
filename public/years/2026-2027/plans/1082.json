@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Sinyalizasyon Ve Haberleşme Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Raylı Sistemler Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/rayli-sistemler-teknolojisi/1082/sinyalizasyon-ve-haberlesme-atolyesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "KONU": "1. Haberleşmenin Temelleri",
+      "KAZANIM": "Haberleşmenin temel özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHaberleşme sisteminin temel kavramlarını açıklar.\n•\nSinyallerin özelliklerini ve çeşitlerini açıklar.\n•\nİletim ortamından kaynaklanan problemler (gürültüler) özellikleriyle ve hesaplamalarıyla açıklar.\n•\nSinyallerde dürtü ve frekans tepkilerini örneklerle açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Verilen sinyallerin grafiklerini çizmek\n Verilen grafiğin sinyalini çıkarmak\n Gürültü problemi çözmek\n Sinyalin dürtü ve frekans cevabını çıkarmak\n Sinyalin bant genişliğini hesaplamak\n Genlik modülasyon hesabı yapmak\n Genlik modülasyon devresi yapmak\n Genlik demodülasyon devresi yapmak\n Analog haberleşme problemini hesaplayarak çözmek\n FM radyo alıcı devresini yapmak\n FM radyo verici devresini yapmak\n Darbe kod (PCM) modülasyon hesabı yapmak\n Delta modülasyon hesabı yapmak\n Darbe pozisyon (PPM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon hesabı yapmak\n Darbe genlik (PAM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon devresi yapmak\n Darbe genişlik (PWM) demodülasyon devresi yapmak\n 555 ve 741 ile PWM devresi yapmak\n ADC0804 devresini kurmak\n DAC0800 devresini kurmak\n R-2R merdiven DAC’sini kurmak\n Sayısal haberleşme problemini hesaplayarak çözmek\n RS232-RS485 Seri haberleşme çevirici devresini yapmak\n Görsel programlama dili ile PC haberleşme programını yazmak\n RS485 Seri haberleşme ağ kurulumunu yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "KONU": "1. Haberleşmenin Temelleri / 2. Analog Haberleşme",
+      "KAZANIM": "Haberleşmenin temel özelliklerini açıklar.\nİstenilen modülasyon türüne uygun analog haberleşme devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSinyallerde bant genişliğini örneklerle açıklar.\n•\nAnalog haberleşmenin temelleri ve haberleşmede kullanılan elemanları özellikleriyle açıklar.\n•\nAnalog modülasyon çeşitlerini özellikleri ile açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Verilen sinyallerin grafiklerini çizmek\n Verilen grafiğin sinyalini çıkarmak\n Gürültü problemi çözmek\n Sinyalin dürtü ve frekans cevabını çıkarmak\n Sinyalin bant genişliğini hesaplamak\n Genlik modülasyon hesabı yapmak\n Genlik modülasyon devresi yapmak\n Genlik demodülasyon devresi yapmak\n Analog haberleşme problemini hesaplayarak çözmek\n FM radyo alıcı devresini yapmak\n FM radyo verici devresini yapmak\n Darbe kod (PCM) modülasyon hesabı yapmak\n Delta modülasyon hesabı yapmak\n Darbe pozisyon (PPM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon hesabı yapmak\n Darbe genlik (PAM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon devresi yapmak\n Darbe genişlik (PWM) demodülasyon devresi yapmak\n 555 ve 741 ile PWM devresi yapmak\n ADC0804 devresini kurmak\n DAC0800 devresini kurmak\n R-2R merdiven DAC’sini kurmak\n Sayısal haberleşme problemini hesaplayarak çözmek\n RS232-RS485 Seri haberleşme çevirici devresini yapmak\n Görsel programlama dili ile PC haberleşme programını yazmak\n RS485 Seri haberleşme ağ kurulumunu yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "KONU": "2. Analog Haberleşme",
+      "KAZANIM": "İstenilen modülasyon türüne uygun analog haberleşme devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnalog modülasyon devrelerini açıklar.\n•\nAnalog demodülasyon çeşitlerini özellikleri ile açıklar.\n•\nAnalog demodülasyon devrelerini açıklar.\n•\nAnalog haberleşme hesaplamalarını örneklerle açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Verilen sinyallerin grafiklerini çizmek\n Verilen grafiğin sinyalini çıkarmak\n Gürültü problemi çözmek\n Sinyalin dürtü ve frekans cevabını çıkarmak\n Sinyalin bant genişliğini hesaplamak\n Genlik modülasyon hesabı yapmak\n Genlik modülasyon devresi yapmak\n Genlik demodülasyon devresi yapmak\n Analog haberleşme problemini hesaplayarak çözmek\n FM radyo alıcı devresini yapmak\n FM radyo verici devresini yapmak\n Darbe kod (PCM) modülasyon hesabı yapmak\n Delta modülasyon hesabı yapmak\n Darbe pozisyon (PPM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon hesabı yapmak\n Darbe genlik (PAM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon devresi yapmak\n Darbe genişlik (PWM) demodülasyon devresi yapmak\n 555 ve 741 ile PWM devresi yapmak\n ADC0804 devresini kurmak\n DAC0800 devresini kurmak\n R-2R merdiven DAC’sini kurmak\n Sayısal haberleşme problemini hesaplayarak çözmek\n RS232-RS485 Seri haberleşme çevirici devresini yapmak\n Görsel programlama dili ile PC haberleşme programını yazmak\n RS485 Seri haberleşme ağ kurulumunu yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "KONU": "3. Sayısal Haberleşme",
+      "KAZANIM": "İstenilen modülasyon türüne uygun sayısal haberleşme devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSayısal haberleşmenin temelleri ve haberleşmede kullanılan elemanları özellikleriyle açıklar.\n•\nSayısal modülasyon çeşitlerini özellikleri ile açıklar.\n•\nSayısal modülasyon devrelerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Verilen sinyallerin grafiklerini çizmek\n Verilen grafiğin sinyalini çıkarmak\n Gürültü problemi çözmek\n Sinyalin dürtü ve frekans cevabını çıkarmak\n Sinyalin bant genişliğini hesaplamak\n Genlik modülasyon hesabı yapmak\n Genlik modülasyon devresi yapmak\n Genlik demodülasyon devresi yapmak\n Analog haberleşme problemini hesaplayarak çözmek\n FM radyo alıcı devresini yapmak\n FM radyo verici devresini yapmak\n Darbe kod (PCM) modülasyon hesabı yapmak\n Delta modülasyon hesabı yapmak\n Darbe pozisyon (PPM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon hesabı yapmak\n Darbe genlik (PAM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon devresi yapmak\n Darbe genişlik (PWM) demodülasyon devresi yapmak\n 555 ve 741 ile PWM devresi yapmak\n ADC0804 devresini kurmak\n DAC0800 devresini kurmak\n R-2R merdiven DAC’sini kurmak\n Sayısal haberleşme problemini hesaplayarak çözmek\n RS232-RS485 Seri haberleşme çevirici devresini yapmak\n Görsel programlama dili ile PC haberleşme programını yazmak\n RS485 Seri haberleşme ağ kurulumunu yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "KONU": "3. Sayısal Haberleşme",
+      "KAZANIM": "İstenilen modülasyon türüne uygun sayısal haberleşme devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSayısal demodülasyon çeşitlerini özellikleri ile açıklar.\n•\nSayısal demodülasyon devrelerini açıklar.\n•\nSayısal haberleşme hesaplamalarını örneklerle açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Verilen sinyallerin grafiklerini çizmek\n Verilen grafiğin sinyalini çıkarmak\n Gürültü problemi çözmek\n Sinyalin dürtü ve frekans cevabını çıkarmak\n Sinyalin bant genişliğini hesaplamak\n Genlik modülasyon hesabı yapmak\n Genlik modülasyon devresi yapmak\n Genlik demodülasyon devresi yapmak\n Analog haberleşme problemini hesaplayarak çözmek\n FM radyo alıcı devresini yapmak\n FM radyo verici devresini yapmak\n Darbe kod (PCM) modülasyon hesabı yapmak\n Delta modülasyon hesabı yapmak\n Darbe pozisyon (PPM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon hesabı yapmak\n Darbe genlik (PAM) modülasyon hesabı yapmak\n Darbe genişlik (PWM) modülasyon devresi yapmak\n Darbe genişlik (PWM) demodülasyon devresi yapmak\n 555 ve 741 ile PWM devresi yapmak\n ADC0804 devresini kurmak\n DAC0800 devresini kurmak\n R-2R merdiven DAC’sini kurmak\n Sayısal haberleşme problemini hesaplayarak çözmek\n RS232-RS485 Seri haberleşme çevirici devresini yapmak\n Görsel programlama dili ile PC haberleşme programını yazmak\n RS485 Seri haberleşme ağ kurulumunu yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "1. Elektrik Hatlarından Haberleşme Sistemleri",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektrik hatlarından haberleşme sisteminin özellikleri ve çalışması açıklanır.\n•\nElektrik hatlarından haberleşme sisteminin çeşitleri açıklanır.\n•\nElektrik hatlarından haberleşme sisteminin kullanım alanları açıklanır.\n•\nElektrik hatlarından haberleşme sisteminde kullanılan standartlar ve kuruluşlar açıklanır.\n•\nElektrik hatlarından haberleşme sisteminin bileşenleri açıklanır.\n•\nElektrik hatlarından haberleşme sisteminde kullanılan teknikler açıklanır.\n•\nElektrik hatlarından haberleşme sisteminin avantaj ve dezavantajları açıklanır.\n•\nElektrik ağı üzerinden internet işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " PLC alıcı-verici devrelerini yapmak\n CAT5/6/7 kablo bağlantısını yapmak\n RJ45 kablo bağlantısını yapmak\n Koaksiyel kablo (BNC) bağlantısını yapmak\n Reglet (krone) bağlantısını yapmak\n Krone bıçağı ile krone bağlantısını yapmak\n Kablo test cihazı ile kablo testini yapmak\n Fiberoptik ile haberleşme devresi yapmak\n Fiberoptik sonlandırma yapmak\n Fiberoptik ekleri yapmak\n Fiberoptik bağlantı testi yapmak\n Kablosuz haberleşme devresi yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "1. Elektrik Hatlarından Haberleşme Sistemleri / 2. Haberleşme Kablo Bağlantısı",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.\nHaberleşme kablo bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektrik hatlarından haberleşme sistemindeki problemler ve çözümler açıklanır.\n•\nKuranportör sistemi ve özellikleri açıklanır.\n•\nKuranportör sisteminde kullanılan elemanların özellikleri açıklanır.\n•\nElektrik hatlarından haberleşme sisteminin AC ve DC’deki etkileri açıklanır.\n•\nElektrik hatlarından haberleşme sistemi uygulama devresi açıklanır.\n•\nCAT5, CAT6, CAT7 kabloların özellikleri ve bağlantıları açıklanır.\n•\nRJ45 kablo özelliği ve bağlantısı açıklanır.\n•\nKoaksiyel kablonun (BNC) özelliği ve bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " PLC alıcı-verici devrelerini yapmak\n CAT5/6/7 kablo bağlantısını yapmak\n RJ45 kablo bağlantısını yapmak\n Koaksiyel kablo (BNC) bağlantısını yapmak\n Reglet (krone) bağlantısını yapmak\n Krone bıçağı ile krone bağlantısını yapmak\n Kablo test cihazı ile kablo testini yapmak\n Fiberoptik ile haberleşme devresi yapmak\n Fiberoptik sonlandırma yapmak\n Fiberoptik ekleri yapmak\n Fiberoptik bağlantı testi yapmak\n Kablosuz haberleşme devresi yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "2. Haberleşme Kablo Bağlantısı / 3. Fiberoptik Haberleşme Sistemleri",
+      "KAZANIM": "Haberleşme kablo bağlantılarını yapar.\nFiberoptik haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nReglet (krone) bağlantısı açıklanır.\n•\nKrone bıçağı ile krone bağlantısı yapılır.\n•\nKablo test cihazı ile kablo testi yapılır.\n•\nFiberoptik haberleşme sisteminin temel elemanları açıklanır.\n•\nFiberoptik haberleşme sisteminin yapısı ve çalışması açıklanır.\n•\nFiberoptik bağlantı şekilleri açıklanır.\n•\nFiberoptik bağlantı testi açıklanır.\n•\nFiberoptik sonlandırma işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " PLC alıcı-verici devrelerini yapmak\n CAT5/6/7 kablo bağlantısını yapmak\n RJ45 kablo bağlantısını yapmak\n Koaksiyel kablo (BNC) bağlantısını yapmak\n Reglet (krone) bağlantısını yapmak\n Krone bıçağı ile krone bağlantısını yapmak\n Kablo test cihazı ile kablo testini yapmak\n Fiberoptik ile haberleşme devresi yapmak\n Fiberoptik sonlandırma yapmak\n Fiberoptik ekleri yapmak\n Fiberoptik bağlantı testi yapmak\n Kablosuz haberleşme devresi yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Haberleşme Yöntemleri",
+      "KONU": "3. Fiberoptik Haberleşme Sistemleri / 4. Kablosuz Haberleşme Sistemleri",
+      "KAZANIM": "Fiberoptik haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.\nKablosuz haberleşme sistemlerinin özelliklerini, çeşitlerini açıklar ve devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFiberoptik örnek devresi açıklanır.\n•\nKablosuz haberleşme sistemlerinin özellikleri açıklanır.\n•\nKablosuz haberleşme protokolleri ve standartları açıklanır.\n•\nKablosuz haberleşme çeşitleri (Wi-fi, Bluetooth, Zigbee, GSM/GPRS, Radyo RF) açıklanır.\n•\nKablosuz haberleşmenin avantaj ve dezavantajları açıklanır.\n•\nKablosuz ağ yöntemleri açıklanır.\n•\nKablosuz haberleşme devreleri ve bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " PLC alıcı-verici devrelerini yapmak\n CAT5/6/7 kablo bağlantısını yapmak\n RJ45 kablo bağlantısını yapmak\n Koaksiyel kablo (BNC) bağlantısını yapmak\n Reglet (krone) bağlantısını yapmak\n Krone bıçağı ile krone bağlantısını yapmak\n Kablo test cihazı ile kablo testini yapmak\n Fiberoptik ile haberleşme devresi yapmak\n Fiberoptik sonlandırma yapmak\n Fiberoptik ekleri yapmak\n Fiberoptik bağlantı testi yapmak\n Kablosuz haberleşme devresi yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "1. Bina İçi Haberleşme Tesisat Elemanları / 2. Bina İçi Sistem Odası Kurulumu / 3. Bina İçi Haberleşme Tesisat Projeleri",
+      "KAZANIM": "Bina içi haberleşme tesisatında kullanılan elemanları açıklar.\nBina içi sistem odasını kurar.\nBina içi haberleşme tesisatının projelerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBina içi haberleşme sisteminin özellikleri açıklanır.\n•\nBina içi haberleşme sisteminde kullanılan elemanlar açıklanır.\n•\nBina içi sistem odası tasarlanır.\n•\nBina içi sistem odası kurulur.\n•\nBina içi haberleşme tesisatında kullanılan semboller ve işaretler açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bina içi haberleşme tesisatı sembollerini çizmek\n Bina içi sistem odasını kurmak\n Bina içi haberleşme tesisatını çizmek\n Bina içi terminal kutularının montajını yapmak\n Bina içi haberleşme tesisatını projesine uygun montaj yapmak\n Telefon santralini programlamak\n Bina ve kat terminal kutularının montajını yapmak\n Bina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\n Santral ve çevre birimlerinin montajını yapmak\n Yedek güç ünitesinin montajını yapmak\n Santral ve çevre birimlerinin fonksiyonlarını test etmek\n Bina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\n Bina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "3. Bina İçi Haberleşme Tesisat Projeleri / 4. Bina İçi Haberleşme Tesisatı Montajı",
+      "KAZANIM": "Bina içi haberleşme tesisatının projelerini çizer.\nBina içi haberleşme tesisatının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBina içi haberleşme tesisatının projesinin çizim aşamaları açıklanır.\n•\nBina içi haberleşme tesisatının projeleri açıklanır.\n•\nBina içi haberleşme tesisatının özellikleri ve kullanılacak malzemeler açıklanır.\n•\nBina içi haberleşme tesisatında kullanılacak kablo, kablo kanalı ve PVC boruları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bina içi haberleşme tesisatı sembollerini çizmek\n Bina içi sistem odasını kurmak\n Bina içi haberleşme tesisatını çizmek\n Bina içi terminal kutularının montajını yapmak\n Bina içi haberleşme tesisatını projesine uygun montaj yapmak\n Telefon santralini programlamak\n Bina ve kat terminal kutularının montajını yapmak\n Bina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\n Santral ve çevre birimlerinin montajını yapmak\n Yedek güç ünitesinin montajını yapmak\n Santral ve çevre birimlerinin fonksiyonlarını test etmek\n Bina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\n Bina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "4. Bina İçi Haberleşme Tesisatı Montajı",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBina içi haberleşme tesisatında kullanılacak terminal kutusu, terminal bloğu, telefon prizi, telefon fişi ve soketleri açıklanır.\n•\nTelefon santrallerinin özellikleri açıklanır.\n•\nBina içi tesisatının bağlantılarını yapma teknikleri açıklanır.\n•\nBina içi tesisatının montaj yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bina içi haberleşme tesisatı sembollerini çizmek\n Bina içi sistem odasını kurmak\n Bina içi haberleşme tesisatını çizmek\n Bina içi terminal kutularının montajını yapmak\n Bina içi haberleşme tesisatını projesine uygun montaj yapmak\n Telefon santralini programlamak\n Bina ve kat terminal kutularının montajını yapmak\n Bina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\n Santral ve çevre birimlerinin montajını yapmak\n Yedek güç ünitesinin montajını yapmak\n Santral ve çevre birimlerinin fonksiyonlarını test etmek\n Bina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\n Bina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Bina İçi Haberleşme Tesisatı",
+      "KONU": "4. Bina İçi Haberleşme Tesisatı Montajı / 5. Bina İçi Haberleşme Tesisatı Bakım Onarımı",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar.\nBina içi haberleşme tesisatının arızalarını bulur, bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBina içi tesisatında kullanılan santralin programlama işlemleri açıklanır.\n•\nBina içi tesisatında olabilecek arızalar açıklanır.\n•\nBina içi tesisatında arızaların giderilme yöntemleri açıklanır.\n•\nBina içi tesisatının bakım onarımları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Bina içi haberleşme tesisatı sembollerini çizmek\n Bina içi sistem odasını kurmak\n Bina içi haberleşme tesisatını çizmek\n Bina içi terminal kutularının montajını yapmak\n Bina içi haberleşme tesisatını projesine uygun montaj yapmak\n Telefon santralini programlamak\n Bina ve kat terminal kutularının montajını yapmak\n Bina içi telefon tesisatının kablo, priz, fiş ve soket bağlantılarını yapmak\n Santral ve çevre birimlerinin montajını yapmak\n Yedek güç ünitesinin montajını yapmak\n Santral ve çevre birimlerinin fonksiyonlarını test etmek\n Bina içi haberleşme tesisatının arızalarını tespit etmek ve gidermek\n Bina içi haberleşme tesisatının bakım onarımını yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Haberleşme Sistemleri",
+      "KONU": "1. Demiryolu Dispeçer Telefon Sistemi",
+      "KAZANIM": "Dispeçer telefon sistemleri kullanır ve bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDispeçer telefon sistemini açıklanır.\n•\nDispeçer kumanda konsolunu açıklanır.\n•\nSes kayıt cihazını açıklanır.\n•\nİstasyon telefonu ve alıcı ünitesini açıklanır.\n•\nSes duyuru servisi açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Telsiz frekans ayarları yapmak\n Telsiz çıkış gücü ayarları yapmak\n Radyo test cihazı kullanmak\n Radyo test cihazı ile telsizi test etmek\n Telsiz arızalarını gidermek\n Telsiz sistemi ile konuşma yapmak\n Dİspeçer telefon sistemi ile konuşma yapmak\n Dİspeçer telefon santralinin bakımını yapmak\n Dispeçer telefon sisteminin arızasını gidermek"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Haberleşme Sistemleri",
+      "KONU": "1. Demiryolu Dispeçer Telefon Sistemi / 2. Demiryolu Telsis Haberleşme Sitemleri",
+      "KAZANIM": "Dispeçer telefon sistemleri kullanır ve bakımını yapar.\nDemiryolu haberleşme sistemlerinde kullanılan telsizleri kullanır ve bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSesli anons servisi sistemini açıklanır.\n•\nTelsizin yapısı ve çalışması açıklanır.\n•\nTelsizdeki ayarları açıklanır.\n•\nTETRA ve APCO 25 Telsiz sistemi açıklanır.\n•\nTelsiz cihazlarının arızalarını, bakım ve onarımları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Telsiz frekans ayarları yapmak\n Telsiz çıkış gücü ayarları yapmak\n Radyo test cihazı kullanmak\n Radyo test cihazı ile telsizi test etmek\n Telsiz arızalarını gidermek\n Telsiz sistemi ile konuşma yapmak\n Dİspeçer telefon sistemi ile konuşma yapmak\n Dİspeçer telefon santralinin bakımını yapmak\n Dispeçer telefon sisteminin arızasını gidermek"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Haberleşme Sistemleri",
+      "KONU": "3. Demiryolu GSM-R Sistemi",
+      "KAZANIM": "GSM-R sistemin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGSM-R sisteminin tanımını ve yapısını açıklar.\n•\nGSM-R sisteminin özelliklerini açıklar.\n•\nGSM-R sistem mimarisi ve GSM-R ürün ailesi açıklanır.\n•\nGSM-R sisteminin demiryollarına özgü özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Telsiz frekans ayarları yapmak\n Telsiz çıkış gücü ayarları yapmak\n Radyo test cihazı kullanmak\n Radyo test cihazı ile telsizi test etmek\n Telsiz arızalarını gidermek\n Telsiz sistemi ile konuşma yapmak\n Dİspeçer telefon sistemi ile konuşma yapmak\n Dİspeçer telefon santralinin bakımını yapmak\n Dispeçer telefon sisteminin arızasını gidermek",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Ağ Yapıları",
+      "KONU": "1. Ağ Topolojileri / 2. IP Üzerinden Ses İletişimi (VoIP)",
+      "KAZANIM": "Ağ topolojilerini açıklar.\nIP üzerinden ses iletişim (VoIP) tekniklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHaberleşme modeli açıklanır.\n•\nHaberleşme protokolleri açıklanır.\n•\nHaberleşme standartları açıklanır.\n•\nHaberleşme standardizasyon kuruluşları açıklanır.\n•\nAğ gerekliliği açıklanır.\n•\nOSI referans modeli açıklanır.\n•\nLAN, WAN, MAN ağlar açıklanır.\n•\nVoIP ve sisteminin genel yapısı açıklanır.\n•\nBant genişliği ve kodeklerin özellikleri açıklanır.\n•\nKontrol işaretleşme protokolleri (H323, SIP) açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Modem bağlantısı yapmak\n Modem ayarları yapmak\n Sanal ortamda paket program kullanarak LAN kurmak\n Sanal ortamda paket program kullanarak WAN kurmak\n Sanal ortamda paket program kullanarak internet bağlantısını ve ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Ağ Yapıları",
+      "KONU": "2. IP Üzerinden Ses İletişimi (VoIP) / 3. Ağlar Arası Haberleşme (İnternet) / 4. Ağ Kurulum Simülasyon Yazılımı ile Ağ Kurma",
+      "KAZANIM": "IP üzerinden ses iletişim (VoIP) tekniklerini açıklar.\nAğlar arası haberleşme (internet) sistemini özelliklerini açıklar.\nAğ kurulum simülasyon yazılımı ile ağlar kurar ve testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMedya taşıma protokolleri (RTP, RTCP) açıklanır.\n•\nVoIP’de güvenliği açıklanır.\n•\nBağlantısız haberleşmenin özelliği açıklanır.\n•\nIP protokolü (IPV6) açıklanır.\n•\nYönlendirme protokolleri açıklanır.\n•\nBağlantıya dayalı taşıma protokol mekanizmaları açıklanır.\n•\nTCP ve UDP sistemleri açıklanır.\n•\nHTTP'nin özelliği açıklanır.\n•\nSimülasyon programı kurulumu yapılır ve ayarlar incelenir.\n•\nSimülasyon program ile ağ kurulum ve testi yapılır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Modem bağlantısı yapmak\n Modem ayarları yapmak\n Sanal ortamda paket program kullanarak LAN kurmak\n Sanal ortamda paket program kullanarak WAN kurmak\n Sanal ortamda paket program kullanarak internet bağlantısını ve ayarlarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Sinyalizasyon Sistemlerinin Gelişimi",
+      "KONU": "1. Sinyalizasyon Sistemlerinin Tarihçesi / 2. Elektrikli Sinyal Sistemleri",
+      "KAZANIM": "Sinyalizasyon sistemlerinin tarihsel gelişimini açıklar.\nSinyalizasyon sisteminde kullanılan elektrikli sinyal sistemlerinin montaj ve bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDemiryolu sinyalizasyon sistemlerinin tarihsel gelişimi açıklanır.\n•\nMekanik sinyal sistemleri ve ekipmanları açıklanır.\n•\nSinyalizasyon sistemi açıklanır.\n•\nSinyal bildirileri açıklanır.\n•\nKonvansiyonel hatlardaki sinyal tipleri açıklanır.\n•\nYHT hattı sinyal tipleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Blok sinyal devresi yapmak\n Sinyal kontrol devresini yapmak\n Sinyal devresini kurarak yapmak\n Kurulan elektriksel devrede rölelerin konumlarına göre sinyal renklerinin testlerini yapmak\n Sinyallerin montajını yapmak\n Sinyallerin bakımını yapmak\n Sinyallerin arızalarını tespit etmek\n Sinyallerin hat boyuna yerleşim uzaklıklarını tespit etmek\n Bildirili sinyallerin gabarilerini tespit etmek"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Sinyalizasyon Sistemlerinin Gelişimi",
+      "KONU": "2. Elektrikli Sinyal Sistemleri",
+      "KAZANIM": "Sinyalizasyon sisteminde kullanılan elektrikli sinyal sistemlerinin montaj ve bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKent içi raylı sistemlerinde kullanılan sinyaller açıklanır.\n•\nİstasyon içlerinde sinyal bildirileri ve trenlerin ilerlemesi açıklanır.\n•\nSinyal parçaları açıklanır.\n•\nSinyallerin hat boyuna yerleşim uzaklıkları açıklanır.\n•\nKesişme noktalarına sinyal yerleştirme açıklanır.\n•\nSinyallerin bakımlarının nasıl yapılacağı sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Blok sinyal devresi yapmak\n Sinyal kontrol devresini yapmak\n Sinyal devresini kurarak yapmak\n Kurulan elektriksel devrede rölelerin konumlarına göre sinyal renklerinin testlerini yapmak\n Sinyallerin montajını yapmak\n Sinyallerin bakımını yapmak\n Sinyallerin arızalarını tespit etmek\n Sinyallerin hat boyuna yerleşim uzaklıklarını tespit etmek\n Bildirili sinyallerin gabarilerini tespit etmek"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Tren Algılama Sistemleri",
+      "KONU": "1. DC Ray Devreleri",
+      "KAZANIM": "Tren algılama sistemleri ve DC ray devresinin montajını, bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTren algılama sistemlerinin tanımı açıklanır.\n•\nRay devreleri açıklanır.\n•\nDC ray devrelerinin çalışma devresi açıklanır.\n•\nDC ray devresi elemanları ve özellikleri açıklanır.\n•\nRay devresi polaritesi açıklanır.\n•\nRay devresinin bağlanma metotları açıklanır.\n•\nDC ray devresi uygulaması açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " DC ray devresi yapmak\n DC ray devresinin montajını yapmak\n DC ray devresinin bakımını yapmak\n DC ray devresinin gerilim ve akım ayarlarını yapmak\n Hat rölesinin çekme ve düşme gerilimlerini ölçmek\n AC Ray devresinin montajını yapmak\n AC Ray devresinin bakımını yapmak\n AC ray devresinin gerilim ve akım ayarlarını yapmak\n Kodlu ray devresinin montajını yapmak\n Kodlu ray devresinin bakımını yapmak Eksiz ray devresinin montajını yapmak\n Eksiz ray devresinin bakımını yapmak\n Eksiz ray devresinin gerilim ve akım ayarlarını yapmak\n Voltaja ve akıma göre çalışan eksiz ray devresi yapmak\n Dingil sayıcıların montajını yapmak\n Dingil sayıcıların bakımını yapmak\n Balast direncini ölçmek ve hesaplamak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Tren Algılama Sistemleri",
+      "KONU": "2. AC Ray Devreleri / 3. Dingil (Aks) Sayıcılar",
+      "KAZANIM": "AC Ray devrelerinin montajını, bakımını ve onarımını yapar.\nDingil sayıcıların montajını, bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAC ray devrelerinin çalışma prensibi açıklanır.\n•\nAC ray devrelerinin elemanları açıklanır.\n•\nAC ray devresi uygulaması açıklanır.\n•\nKodlu ray devresi açıklanır.\n•\nEksiz ray devresi açıklanır.\n•\nDingil sayıcı devrelerin çalışma prensibi açıklanır.\n•\nDingil sayıcı devre elemanları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " DC ray devresi yapmak\n DC ray devresinin montajını yapmak\n DC ray devresinin bakımını yapmak\n DC ray devresinin gerilim ve akım ayarlarını yapmak\n Hat rölesinin çekme ve düşme gerilimlerini ölçmek\n AC Ray devresinin montajını yapmak\n AC Ray devresinin bakımını yapmak\n AC ray devresinin gerilim ve akım ayarlarını yapmak\n Kodlu ray devresinin montajını yapmak\n Kodlu ray devresinin bakımını yapmak Eksiz ray devresinin montajını yapmak\n Eksiz ray devresinin bakımını yapmak\n Eksiz ray devresinin gerilim ve akım ayarlarını yapmak\n Voltaja ve akıma göre çalışan eksiz ray devresi yapmak\n Dingil sayıcıların montajını yapmak\n Dingil sayıcıların bakımını yapmak\n Balast direncini ölçmek ve hesaplamak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Tren Algılama Sistemleri",
+      "KONU": "3. Dingil (Aks) Sayıcılar / 4. Ray Devrelerinde Balast Direnci",
+      "KAZANIM": "Dingil sayıcıların montajını, bakımını ve onarımını yapar.\nRay devresinde toprağa kaçak olup olmadığı kontrol edilerek balast direncini ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDingil sayıcıların bakımının yapılması sağlanır.\n•\nBalast direncinin tanımı açıklanır.\n•\nRay devresi parametreleri açıklanır.\n•\nBalast direncinin bulunması açıklanır.\n•\nRay devresi değişkenleri açıklanır.\n•\nBalast direncinin hesabını yaparak direncinin ölçülmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " DC ray devresi yapmak\n DC ray devresinin montajını yapmak\n DC ray devresinin bakımını yapmak\n DC ray devresinin gerilim ve akım ayarlarını yapmak\n Hat rölesinin çekme ve düşme gerilimlerini ölçmek\n AC Ray devresinin montajını yapmak\n AC Ray devresinin bakımını yapmak\n AC ray devresinin gerilim ve akım ayarlarını yapmak\n Kodlu ray devresinin montajını yapmak\n Kodlu ray devresinin bakımını yapmak Eksiz ray devresinin montajını yapmak\n Eksiz ray devresinin bakımını yapmak\n Eksiz ray devresinin gerilim ve akım ayarlarını yapmak\n Voltaja ve akıma göre çalışan eksiz ray devresi yapmak\n Dingil sayıcıların montajını yapmak\n Dingil sayıcıların bakımını yapmak\n Balast direncini ölçmek ve hesaplamak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Makas Kontrol Sistemleri",
+      "KONU": "1. Demiryolu Makasları / 2. Makas Isıtıcıları",
+      "KAZANIM": "Raylı sistemlerde kullanılan makasları ve makas çeşitlerini açıklar.\nMakas ısıtıcılarının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBasit makasın yapısı ve bölümleri açıklanır.\n•\nMakas ısıtıcıları açıklanır.\n•\nMakas ve makas ısıtıcılarının bakım ve onarımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Makas ve makasın bölümlerini sunmak\n Makas makinelerinin yapısı, çeşitleri ve özelliklerini sunmak\n Makas makinelerinin bakımını yapmak\n Makas makinelerinin arızalarını gidermek\n Makas makinesi kumanda ve kontrol devresi yapmak\n Makas makinesinin mekanik ayarlarını yapmak\n Makas ısıtıcılarının bakım ve onarımını yapmak\n Elektrik kilitli makas kontrol devresini yapmak\n Dedektörlü makas kontrol devresini yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Makas Kontrol Sistemleri",
+      "KONU": "3. Makas Makineleri",
+      "KAZANIM": "Makas makinelerinde kumanda ve kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMakaslara kumanda şekilleri açıklanır.\n•\nMakas çeşitleri ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Makas ve makasın bölümlerini sunmak\n Makas makinelerinin yapısı, çeşitleri ve özelliklerini sunmak\n Makas makinelerinin bakımını yapmak\n Makas makinelerinin arızalarını gidermek\n Makas makinesi kumanda ve kontrol devresi yapmak\n Makas makinesinin mekanik ayarlarını yapmak\n Makas ısıtıcılarının bakım ve onarımını yapmak\n Elektrik kilitli makas kontrol devresini yapmak\n Dedektörlü makas kontrol devresini yapmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Makas Kontrol Sistemleri",
+      "KONU": "3. Makas Makineleri / 4. Makas Makinelerinin Bakımı",
+      "KAZANIM": "Makas makinelerinde kumanda ve kontrol devrelerini yapar.\nMakas makinelerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKonvansiyonel, YHT ve kent içi hatlardaki makas makineleri üzerinde durulur.\n•\nMakas makinelerinin bakım ve onarımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Makas ve makasın bölümlerini sunmak\n Makas makinelerinin yapısı, çeşitleri ve özelliklerini sunmak\n Makas makinelerinin bakımını yapmak\n Makas makinelerinin arızalarını gidermek\n Makas makinesi kumanda ve kontrol devresi yapmak\n Makas makinesinin mekanik ayarlarını yapmak\n Makas ısıtıcılarının bakım ve onarımını yapmak\n Elektrik kilitli makas kontrol devresini yapmak\n Dedektörlü makas kontrol devresini yapmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "İnterloking ve Blok Sistemleri",
+      "KONU": "1. Sinyaller Arasındaki İnterloking / 2. Sinyal- Makas Arasındaki İnterloking / 3. Makaslar Arasındaki İnterloking",
+      "KAZANIM": "Sinyaller arasındaki interloking devresinin bakım ve onarımını yapar.\nSinyal makas arasındaki interloking sisteminin bakım ve onarımını yapar.\nMakaslar arasındaki interloking sisteminin bakım ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSinyalizasyon sistemlerinde interloking açıklanır.\n•\nMekanik İnterloking açıklanır.\n•\nSinyaller arasındaki interloking açıklanır.\n•\nMakaslar arasında kilitleme açıklanır.\n•\nKontrol panelini açıklanır.\n•\nİnterloking tablosu açıklanır.\n•\nRöleli interloking açıklanır.\n•\nMakaslar arasındaki interloking açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Sinyaller arasında interlokingi yapmak\n Sinyaller arasında interlokingin bakımını yapmak\n Sinyal-makas arasında interlokingi yapmak\n Sinyal-makas arasında interlokingin bakımını yapmak\n Makaslar arasında interlokingi yapmak\n Makaslar arasında interlokingin bakımını yapmak\n Güzergâh tanzimi için interloking tablosu çıkarmak\n Sinyal makas arasında interloking devresinin bakımını yapmak\n Güzergâh kilitlemeyi yapmak\n Elektronik interloking sisteminin bakımını yapmak\n Sinyalizasyon blok sistemi elemanlarının bakımını yapmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "İnterloking ve Blok Sistemleri",
+      "KONU": "3. Makaslar Arasındaki İnterloking / 4. Elektronik İnterloking Sistemi / 5. Tren İşletimi ve Blok Sistemleri",
+      "KAZANIM": "Makaslar arasındaki interloking sisteminin bakım ve onarımını yapar.\nElektronik interloking sisteminin bakımını yapar.\nTren işletimi ve blok sistemi elemanlarının bakım ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSinyal makas ray devresinde anklaşman tablosu oluşturma açıklanır.\n•\nElektronik interloking sisteminin bölümleri açıklanır.\n•\nElektronik interloking sisteminin blok diyagramı açıklanır.\n•\nGüzergâh kilitleme açıklanır.\n•\nSabit blok sistemi açıklanır.\n•\nHareketli blok sistemi açıklanır.\n•\nRadyo blok sistemi açıklanır.\n•\nGSM-R sistemi açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Sinyaller arasında interlokingi yapmak\n Sinyaller arasında interlokingin bakımını yapmak\n Sinyal-makas arasında interlokingi yapmak\n Sinyal-makas arasında interlokingin bakımını yapmak\n Makaslar arasında interlokingi yapmak\n Makaslar arasında interlokingin bakımını yapmak\n Güzergâh tanzimi için interloking tablosu çıkarmak\n Sinyal makas arasında interloking devresinin bakımını yapmak\n Güzergâh kilitlemeyi yapmak\n Elektronik interloking sisteminin bakımını yapmak\n Sinyalizasyon blok sistemi elemanlarının bakımını yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Tren Koruma ve Kontrol Sistemleri",
+      "KONU": "1. Otomatik Tren Durdurma Sistemi (ATS) / 2. Otomatik Tren Koruma Sistemi (ATP) / 3. Otomatik Tren İşletmesi Sistemi (ATO) / 4. Otomatik Tren Kontrol Sistemi (ATC)",
+      "KAZANIM": "Otomatik tren durdurma sisteminin (ATS) kontrolünü yapar.\nOtomatik tren koruma sisteminin (ATP) kontrolünü yapar.\nOtomatik tren işletmesi sisteminin (ATO) kontrolünü yapar.\nOtomatik tren kontrol sisteminin (ATC) kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nATS sisteminin yapısı ve çalışması açıklanır.\n•\nATS sisteminin üniteleri açıklanır.\n•\nATP sisteminin yapısı ve çalışması açıklanır.\n•\nATP sisteminin üniteleri açıklanır.\n•\nATO sisteminin yapısı ve çalışması açıklanır.\n•\nATO sisteminin üniteleri açıklanır.\n•\nATC sistemi yapısı ve çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " ATS sisteminin bakımını yapmak\n ATS sisteminin montajını yapmak\n ATP sisteminin bakımını yapmak\n ATP sisteminin montajınıyapmak\n ATC sisteminin bakımını yapmak\n ATC sisteminin montajını yapmak\n ATO sisteminin bakımını yapmak\n ATO sisteminin montajını yapmak\n ETCS sisteminin bakımını yapmak\n ETCS sisteminin montajını yapmak\n CBTC sisteminin bakımını yapmak\n CBTC sisteminin montajını yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Tren Koruma ve Kontrol Sistemleri",
+      "KONU": "4. Otomatik Tren Kontrol Sistemi (ATC) / 5. Avrupa Tren Kontrol Sistemi (ETCS) / 6. İletişim Tabanlı Tren Kontrol Sistemi (CBTC)",
+      "KAZANIM": "Otomatik tren kontrol sisteminin (ATC) kontrolünü yapar.\nAvrupa Tren Kontrol sisteminin (ETCS) kontrolünü yapar.\nİletişim tabanlı tren kontrol (CBTC) sisteminin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nATC sisteminin üniteleri açıklanır.\n•\nETCS sistemi yapısı ve çalışması açıklanır.\n•\nETCS sisteminin sağladığı avantajlar açıklanır.\n•\nETCS Seviyeleri açıklanır.\n•\nCBTC sistemi yapısı ve çalışması açıklanır.\n•\nCBTC sisteminin özellikleri açıklanır.\n•\nCBTC tren donanımları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " ATS sisteminin bakımını yapmak\n ATS sisteminin montajını yapmak\n ATP sisteminin bakımını yapmak\n ATP sisteminin montajınıyapmak\n ATC sisteminin bakımını yapmak\n ATC sisteminin montajını yapmak\n ATO sisteminin bakımını yapmak\n ATO sisteminin montajını yapmak\n ETCS sisteminin bakımını yapmak\n ETCS sisteminin montajını yapmak\n CBTC sisteminin bakımını yapmak\n CBTC sisteminin montajını yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Hemzemin Geçit Koruma Sistemleri",
+      "KONU": "1. Hemzemin Geçitler / 2. Otomatik Bariyerli Hemzemin Geçitler",
+      "KAZANIM": "Hemzemin geçitlerin tanımını ve çeşitlerini açıklar.\nOtomatik bariyerli hemzemin geçit sisteminin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKorumalı hemzemin geçit sistemi açıklanır.\n•\nKorumasız hemzemin geçit sistemi açıklanır.\n•\nOtomatik hemzemin geçitler açıklanır.\n•\nBekçili hemzemin geçit sistemi çalışma şekilleri açıklanır.\n•\nOtomatik bariyerli hemzemin geçit sistemi çalışma şekilleri açıklanır.\n•\nBariyer elektromekanik aksamı açıklanır.\n•\nBariyer motorları açıklanır.\n•\nHemzemin geçit güç kaynakları açıklanır.\n•\nİkaz lambaları açıklanır.\n•\nOtomatik bariyer sistemlerindeki çanlar (sesli ikaz) açıklanır.\n•\nKontak gurupları açıklanır.\n•\nOtomatik bariyerli hemzemin geçit koruma sistemlerinin bakımları sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Koruma sistemlerinin de start ve stop devrelerinin montajını yapmak\n Bariyer motorlarının montajını yapmak\n Bariyer motorlarının bakımını yapmak\n Mekanizmadaki kontak guruplarının ayarını yapmak\n Flaşör lamba devrelerinin montajını yapmak\n Sesli ikaz için kullanılan çan sisteminin montajını yapmak\n Dedektörlerin ray devresi bağlantı ve ayarlarını yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Hemzemin Geçit Koruma Sistemleri",
+      "KONU": "3. Flaşörlü Hemzemin Geçitler / 4. Dedektörlü Hemzemin Geçitler",
+      "KAZANIM": "Flaşörlü hemzemin geçit sistemlerinin bakımını yapar.\nDedektörlü hemzemin geçit koruma sistemlerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFlaşörlü hemzemin geçit sistemi çalışma şekilleri açıklanır.\n•\nİkaz lambaları açıklanır.\n•\nFlaşörlü hemzemin geçit sistemlerindeki çanlar (sesli ikaz) açıklanır.\n•\nKontak gurupları açıklanır.\n•\nFlaşörlü hemzemin geçit koruma sistemlerinin bakımları sağlanır.\n•\nDedektörlü hemzemin geçit sistemi çalışma şekilleri açıklanır.\n•\nDedektörlü hemzemin geçit korum sistemlerindeki çanları (sesli ikaz) açıklanır.\n•\nHemzemin geçitlerde makinist uyarı sistemi açıklanır.\n•\nDedektörlü hemzemin geçit koruma sistemlerinin bakımları sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Koruma sistemlerinin de start ve stop devrelerinin montajını yapmak\n Bariyer motorlarının montajını yapmak\n Bariyer motorlarının bakımını yapmak\n Mekanizmadaki kontak guruplarının ayarını yapmak\n Flaşör lamba devrelerinin montajını yapmak\n Sesli ikaz için kullanılan çan sisteminin montajını yapmak\n Dedektörlerin ray devresi bağlantı ve ayarlarını yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Sinyalizasyon Sistemlerindeki Enerji Kaynakları",
+      "KONU": "1. Kesintisiz Güç Kaynakları / 2. Redresörler / 3. İnvertörler",
+      "KAZANIM": "Sinyalizasyon sistemlerindeki kesintisiz güç kaynaklarının bakımını yapar.\nSinyalizasyon sistemlerindeki redresörlerin bakımını yapar.\nSinyalizasyon sistemlerindeki invertörlerin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKesintisiz güç kaynaklarının yapısı ve çalışması açıklanır.\n•\nKesintisiz güç kaynaklarının bakımı sağlanır.\n•\nRedresörlerin yapısı ve çalışması açıklanır.\n•\nRedresörlerin bakımı sağlanır.\n•\nİnvertörlerin yapısı ve çalışması açıklanır.\n•\nİnvertörlerin bakımı sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Kesintisiz güç kaynaklarının bakımını yapmak\n Redresörün bakımını yapmak\n İnvertörlerin bakımını yapmak\n Konvertörlerin bakımını yapmak\n Akümülatörlerin bakımını yapmak\n Jeneratörlerin bakımını yapmak\n Transformatörlerin bağlantılarını yapmak\n Transformatörlerin bakımını yapmak\n İstasyonlardaki besleme gruplarının montajını yapmak\n Enerji kaynaklarını bakımını yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Sinyalizasyon Sistemlerindeki Enerji Kaynakları",
+      "KONU": "4. Konvertörler / 5. Akü Grupları / 6. Jeneratörler",
+      "KAZANIM": "Sinyalizasyon sistemlerindeki konvertörlerin bakımını yapar.\nSinyalizasyon sistemlerindeki akü gruplarının bakımını yapar.\nSinyalizasyon sistemlerindeki jeneratörlerin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKonvertörlerin yapısı ve çalışması açıklanır.\n•\nKonvertörlerin bakımı sağlanır.\n•\nAkümülatörlerin yapısı ve çalışması açıklanır.\n•\nAkümülatörlerin bakımı sağlanır.\n•\nJeneratörlerin yapısı ve çalışması açıklanır.\n•\nJeneratörlerin bakımı sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Kesintisiz güç kaynaklarının bakımını yapmak\n Redresörün bakımını yapmak\n İnvertörlerin bakımını yapmak\n Konvertörlerin bakımını yapmak\n Akümülatörlerin bakımını yapmak\n Jeneratörlerin bakımını yapmak\n Transformatörlerin bağlantılarını yapmak\n Transformatörlerin bakımını yapmak\n İstasyonlardaki besleme gruplarının montajını yapmak\n Enerji kaynaklarını bakımını yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Sinyalizasyon Merkez Tesisleri",
+      "KONU": "1. Kumanda Merkezi / 2. Tren Tanıtım Ünitesi / 3. Trengraf",
+      "KAZANIM": "Raylı sistemlerdeki sinyalizasyon kontrol paneli ünitelerinin kontrolünü yapar.\nTren tanıtım ünitelerinin kontrolünü yapar.\nTrengraf ünitesinden aldığı çıktı ile bir trenin hareket saatlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKumanda merkezi kontrol paneli (CCP) yapısı ve üniteleri açıklanır.\n•\nKontrol panelinin çalışma prensibi açıklanır.\n•\nKumada merkezi süpervizörün görev ve sorumlulukları açıklanır.\n•\nKumanda merkezi iletişim operatörünün görev ve sorumlulukları açıklanır.\n•\nKumanda merkezi trafik operatörünün görev ve sorumlulukları açıklanır.\n•\nKumanda merkezi scada operatörünün görev ve sorumlulukları açıklanır.\n•\nTren tanıtma numarası işletim ünitesi (TINP) yapısı açıklanır.\n•\nTren tanıtma numarası işletim ünitesi (TINP) çalışması açıklanır.\n•\nTrengraf ünitesinin yapısı açıklanır.\n•\nTrengraf ünitesinin çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " CCP sisteminin montajını yapmak\n Kontrol paneli ünitelerinin kontrolünü yapmak\n Kumanda merkezi operatörlerinin görev ve sorumluluklarını sunmak\n Tren tanıtma numarası işletim ünitesi (TINP) kontrolünü yapmak\n Trengraf çıktısı üzerinde yataydaki ve düşeydeki bilgileri kontrol etmek\n Bilgi iletim ünitesi (DTS) elemanlarının kontrolünü yapmak\n Bilgi iletim ünitesinde (DTS) seviye ayarlarını yapmak\n Merkez bilgi işlem ünitelerinin kontrolünü yapmak\n Merkezi bilgi iletim ünitesinin (CDTU) hata panelinden arıza tespitini yapmak\n Merkezi bilgi iletim ünitesinin (CDTU) bakım programlarını sunmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Sinyalizasyon Merkez Tesisleri",
+      "KONU": "4. Protokol Kayıt Sistemleri / 5. Bilgi İletim Ünitesi / 6. Merkez Bilgi İşlem Sistemleri",
+      "KAZANIM": "Protokol kayıt sistemlerinin çalışmasını açıklar ve kontrolünü yapar.\nBilgi iletim ünitesinin çalışmasını açıklar ve kontrolünü yapar.\nMerkez bilgi işlem sistemlerinin çalışmasını açıklar ve kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProtokol kayıt ünitesinin yapısı açıklanır.\n•\nProtokol kayıt ünitesinin çalışması açıklanır.\n•\nBilgi iletim ünitesinin (DTS) yapısı açıklanır.\n•\nBilgi iletim ünitesi DTS-Amplifikatör tipi açıklanır.\n•\nBilgi İletim Uydusu DTS-Repertitör tipi açıklanır.\n•\nMerkez bilgi işlem sistemlerinin yapısı ve çalışması açıklanır.\n•\nMerkez bilgi işlem sistemlerinin üniteleri açıklanır.\n•\nMerkezi bilgi iletim ünitesinin (CDTU) hata panelinden arıza tespiti açıklanır.\n•\nMerkezi bilgi iletim ünitesinin (CDTU) bakım programlarının yapılması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış atölye ortamı, demiryolu veya kent içi raylı sistem sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, kumanda panosu, işletmelerde veya atölyede bulunan sinyalizasyon ve haberleşme araç gereçleri, kullanma kılavuzları, malzeme katalogları, modem, alıcı-verici devreleri, ağ donanımları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " CCP sisteminin montajını yapmak\n Kontrol paneli ünitelerinin kontrolünü yapmak\n Kumanda merkezi operatörlerinin görev ve sorumluluklarını sunmak\n Tren tanıtma numarası işletim ünitesi (TINP) kontrolünü yapmak\n Trengraf çıktısı üzerinde yataydaki ve düşeydeki bilgileri kontrol etmek\n Bilgi iletim ünitesi (DTS) elemanlarının kontrolünü yapmak\n Bilgi iletim ünitesinde (DTS) seviye ayarlarını yapmak\n Merkez bilgi işlem ünitelerinin kontrolünü yapmak\n Merkezi bilgi iletim ünitesinin (CDTU) hata panelinden arıza tespitini yapmak\n Merkezi bilgi iletim ünitesinin (CDTU) bakım programlarını sunmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

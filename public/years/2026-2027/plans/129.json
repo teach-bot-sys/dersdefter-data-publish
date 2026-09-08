@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Seçmeli Elektronik Uygulamaları",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/129/secmeli-elektronik-uygulamalari-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Devre Elemanları",
+      "KONU": "Devreye göre direnç seçimi işlemleri / Devreye göre kondansatör seçimi işlemleri",
+      "KAZANIM": "Devreye göre direnç seçimi yapar.\nDevreye göre kondansatör seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Direnç renklerine göre direnç değerini okumayı gösterir.\nKullanılacak devre gücüne göre direnç gücünü seçimini gösterir.\nDevrede kullanılacak gerilime göre kondansatör seçimini gösterir.\nKullanılacak devre gücüne göre kondansatör seçimini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Direnç yapısını ve çeşitlerini anlatan sunu hazırlamak.\nÖğrencilere rastgele verilen 20 adet çeşitli değerlerdeki dirençler için direnç renklerini, hesaplanan değer ve AVO metre ile ölçülen değer şeklinde bir tablo yapmak\nKondansatör yapısını ve çeşitlerini anlatan sunu hazırlamak.\nÖğrencilere rastgele verilen 20 adet çeşitli değerlerdeki kondansatör için kondansatör üzerinde yazılan kod, hesaplanan değer ve LCR metre ile ölçülen değer şeklinde bir tablo yapmak\nBobin yapısını ve çeşitlerini anlatan sunu hazırlamak.\nDiyot yapısını ve çeşitlerini anlatan sunu hazırlamak.\nMultimetre ile Diyot sağlamlık kontrolünü yapmak.\nTransistör yapısını ve çeşitlerini anlatan sunu hazırlamak.\nMultimetre ile Transistör sağlamlık kontrolünü yapmak.\nTransformatör yapısını ve çeşitlerini anlatan sunu hazırlamak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Devre Elemanları",
+      "KONU": "Devreye göre bobin seçimi işlemleri / Devreye göre diyot seçimi işlemleri",
+      "KAZANIM": "Devreye göre bobin seçimi yapar.\nDevreye göre diyot seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devrede kullanılacak akıma göre bobin seçimini gösterir.\nKullanılacak devre akımına göre bobin seçimini gösterir.\nDevrede kullanılacak gerilime göre diyotun seçimini gösterir.\nKullanılacak devreye göre diyot seçimini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Direnç yapısını ve çeşitlerini anlatan sunu hazırlamak.\nÖğrencilere rastgele verilen 20 adet çeşitli değerlerdeki dirençler için direnç renklerini, hesaplanan değer ve AVO metre ile ölçülen değer şeklinde bir tablo yapmak\nKondansatör yapısını ve çeşitlerini anlatan sunu hazırlamak.\nÖğrencilere rastgele verilen 20 adet çeşitli değerlerdeki kondansatör için kondansatör üzerinde yazılan kod, hesaplanan değer ve LCR metre ile ölçülen değer şeklinde bir tablo yapmak\nBobin yapısını ve çeşitlerini anlatan sunu hazırlamak.\nDiyot yapısını ve çeşitlerini anlatan sunu hazırlamak.\nMultimetre ile Diyot sağlamlık kontrolünü yapmak.\nTransistör yapısını ve çeşitlerini anlatan sunu hazırlamak.\nMultimetre ile Transistör sağlamlık kontrolünü yapmak.\nTransformatör yapısını ve çeşitlerini anlatan sunu hazırlamak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Analog Devre Elemanları",
+      "KONU": "Devreye göre transistör seçimi işlemleri / Devreye göre transformatör seçimi işlemleri",
+      "KAZANIM": "Devreye göre transistör seçimi yapar.\nDevreye göre transformatör seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devrede kullanılacak gerilime göre transistör seçimini gösterir.\nKullanılacak devreye göre transistör seçimini gösterir.\nDevrede kullanılacak gerilime göre Transformatör seçimini gösterir.\nTransformatörün devre bağlantılarını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Direnç yapısını ve çeşitlerini anlatan sunu hazırlamak.\nÖğrencilere rastgele verilen 20 adet çeşitli değerlerdeki dirençler için direnç renklerini, hesaplanan değer ve AVO metre ile ölçülen değer şeklinde bir tablo yapmak\nKondansatör yapısını ve çeşitlerini anlatan sunu hazırlamak.\nÖğrencilere rastgele verilen 20 adet çeşitli değerlerdeki kondansatör için kondansatör üzerinde yazılan kod, hesaplanan değer ve LCR metre ile ölçülen değer şeklinde bir tablo yapmak\nBobin yapısını ve çeşitlerini anlatan sunu hazırlamak.\nDiyot yapısını ve çeşitlerini anlatan sunu hazırlamak.\nMultimetre ile Diyot sağlamlık kontrolünü yapmak.\nTransistör yapısını ve çeşitlerini anlatan sunu hazırlamak.\nMultimetre ile Transistör sağlamlık kontrolünü yapmak.\nTransformatör yapısını ve çeşitlerini anlatan sunu hazırlamak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Devre Uygulamaları",
+      "KONU": "Seri devre kurma işlemleri",
+      "KAZANIM": "Seri bağlantı şekline uygun seri devreler kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seri devrelerde kullanılacak elemanlarının seçimini gösterir.\nSeri devre elemanlarının yerleşimini yaptırır.\nSeri devre üzerindeki elemanların ölçümlerini yaptırır.\nSeri devre giriş/çıkış ölçüm değerlerini tabloya aktarmayı gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak seri devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak paralel devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak karışık (seri-paralel) devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Devre Uygulamaları",
+      "KONU": "Paralel devre kurma işlemleri",
+      "KAZANIM": "Paralel bağlantı şekline göre paralel devreler kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paralel devrede kullanılacak elemanları seçimini gösterir.\nParalel devre elemanlarının yerleşimini yaptırır.\nParalel devre üzerindeki elemanların ölçümlerini yaptırır.\nParalel devre giriş/çıkış ölçüm değerlerini tabloya aktarmayı gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak seri devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak paralel devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak karışık (seri-paralel) devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Devre Uygulamaları",
+      "KONU": "Seri-paralel (karışık) devre kurma işlemleri",
+      "KAZANIM": "Seri-paralel bağlantı şekline göre seri-paralel (karışık) devreler kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seri-paralel devrede kullanılacak elemanları seçimini gösterir.\nParalel-Seri devre elemanlarının yerleşimini yaptırır.\nSeri-paralel devre üzerindeki elemanların ölçümlerini yaptırır.\nSeri-paralel devre giriş/çıkış ölçüm değerlerini tabloya aktarmayı gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak seri devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak paralel devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında üreteç, direnç, ampermetre ve voltmetre kullanarak karışık (seri-paralel) devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Doğru Akım Devreleri",
+      "KONU": "Tekniğe uygun doğru akım devre kurulumu işlemleri",
+      "KAZANIM": "Tekniğe uygun doğru akım devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım devresine transformatör, direnç, kondansatör, diyot gibi devre elemanlarını bağlantılarını yaptırır.\nDoğru akım devresi üzerindeki devre elamanlarının değerlerini ölçümlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında transformatör, diyot, direnç, kondansatör, ampermetre ve voltmetre kullanarak doğru akım devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında Transformatör, diyot, direnç, kondansatör ve osilaskop kullanarak doğru akım devresi kurmak ve osilaskop ekranında giriş-çıkış dalgalarını görmek",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Doğru Akım Devreleri",
+      "KONU": "Tekniğe uygun doğru akım devre kurulumu işlemleri / Ölçüm aygıtı yönergelerine göre doğru akım devresi ölçme işlemleri",
+      "KAZANIM": "Tekniğe uygun doğru akım devreleri kurar.\nÖlçüm aygıtı yönergelerine göre doğru akım devresi ölçme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım devresi devre çıkış sinyalini osilaskop ile ölçütürür.\nDoğru akım devresinde kullanılacak elemanları ölçümlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında transformatör, diyot, direnç, kondansatör, ampermetre ve voltmetre kullanarak doğru akım devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında Transformatör, diyot, direnç, kondansatör ve osilaskop kullanarak doğru akım devresi kurmak ve osilaskop ekranında giriş-çıkış dalgalarını görmek",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Doğru Akım Devreleri",
+      "KONU": "Ölçüm aygıtı yönergelerine göre doğru akım devresi ölçme işlemleri",
+      "KAZANIM": "Ölçüm aygıtı yönergelerine göre doğru akım devresi ölçme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım devresi elemanlarının ölçümü esnasında devre ve kendisinin güvenliğini sağlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında transformatör, diyot, direnç, kondansatör, ampermetre ve voltmetre kullanarak doğru akım devre örnekleri kurmak ve ölçü aletlerindeki değerleri okumak\nİlgili simülasyon programında Transformatör, diyot, direnç, kondansatör ve osilaskop kullanarak doğru akım devresi kurmak ve osilaskop ekranında giriş-çıkış dalgalarını görmek",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Lehimleme",
+      "KONU": "Lehim telini seçme / Havya seçme",
+      "KAZANIM": "Yapılan işin niteliğine uygun lehim telini seçer.\nYapılan işin niteliğine göre havya seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devrenin niteliğine göre lehim telini seçtirir.\nTekniğe uygun lehimleme yaptırır.\nİşin niteliğine göre havya seçtirir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çok damarlı bakır kabloların uçlarını soyup uygun bir şekilde lehimleme çalışmaları yapmak\nÇok damarlı bakır kabloların uçlarını soyup terminale uygun bir şekilde lehimleme çalışmaları yapmak\nBakır kablolardan belirli uzunluklarda kesilen parçaları lehimle birleştirerek piramit, küp, masa, sandalye gibi küçük modeller yapmak.\nDirenç, kondansatör, diyot, transistör gibi devre elemanlarını bakırlı delikli plakete uygun bir şekilde lehimleme çalışmaları yapmak kullanılmayan devre kartları üzerindeki devre elemanlarını zarar vermeden İşin niteliğine göre havya kullanarak sökme işlemini yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Lehimleme",
+      "KONU": "Havya seçme / Lehim yapma ve sökme işlemleri",
+      "KAZANIM": "Yapılan işin niteliğine göre havya seçer.\nDevre elemanları ile lehim yapma ve sökme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Havyaları çeşitlerine göre ayırmayı gösterir.\nİşin niteliğine uygun havya seçimini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çok damarlı bakır kabloların uçlarını soyup uygun bir şekilde lehimleme çalışmaları yapmak\nÇok damarlı bakır kabloların uçlarını soyup terminale uygun bir şekilde lehimleme çalışmaları yapmak\nBakır kablolardan belirli uzunluklarda kesilen parçaları lehimle birleştirerek piramit, küp, masa, sandalye gibi küçük modeller yapmak.\nDirenç, kondansatör, diyot, transistör gibi devre elemanlarını bakırlı delikli plakete uygun bir şekilde lehimleme çalışmaları yapmak kullanılmayan devre kartları üzerindeki devre elemanlarını zarar vermeden İşin niteliğine göre havya kullanarak sökme işlemini yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Lehimleme",
+      "KONU": "Lehim yapma ve sökme işlemleri",
+      "KAZANIM": "Devre elemanları ile lehim yapma ve sökme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devre elamanı bacakları ile bağlantı noktası arasına eşit sıcaklık ve yeterli lehim uygulaması yaptırır.\nSökme işlemi eşit ısıveren havya ile bağlantı noktasına temas ederek yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çok damarlı bakır kabloların uçlarını soyup uygun bir şekilde lehimleme çalışmaları yapmak\nÇok damarlı bakır kabloların uçlarını soyup terminale uygun bir şekilde lehimleme çalışmaları yapmak\nBakır kablolardan belirli uzunluklarda kesilen parçaları lehimle birleştirerek piramit, küp, masa, sandalye gibi küçük modeller yapmak.\nDirenç, kondansatör, diyot, transistör gibi devre elemanlarını bakırlı delikli plakete uygun bir şekilde lehimleme çalışmaları yapmak kullanılmayan devre kartları üzerindeki devre elemanlarını zarar vermeden İşin niteliğine göre havya kullanarak sökme işlemini yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Baskı Devre",
+      "KONU": "Devre elemanlarını seçme / Baskı devre çizimi yapma",
+      "KAZANIM": "İstenilen niteliğe göre devre elemanlarını seçer.\nDevrenin baskı devre çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devre şemasına göre baskı devre şeklini çizdirir.\nPertinaks çözeltisi hazırlatır.\nBaskı devre örnek çizimlerini yaptırır.\nPertinaks üzerine devreyi aktarmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Transistörlü flip flop devresinin baskı devre şeklini çizer ve pertinaks üzerine aktarır\nBaskı devre çözeltisi karışımı yardımıyla flip flop devresinin yollarını çıkartmak\nPertinaks üzerinde bağlantı noktası deliklerini açtırır ve devre elemanları üzerine yerleştirerek lehimleme yapmak.\nÖğretmen kontrolünde devreye enerji vererek devrenin çalışmasını izlemek.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Baskı Devre",
+      "KONU": "Baskı devre eritme çözeltisi hazırlama / Pertinaksın üzerinde bağlantı noktalarını delme",
+      "KAZANIM": "Baskı devre eritme çözeltisi hazırlar.\nPertinaksın üzerinde bağlantı noktalarının deliklerini açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Baskı devre çözeltisi karışımı hazırlatır.\nPertinaksı temizleyerek hazırlatır.\nPertinaks üzerinde bağlantı noktası deliklerini açtırır.\nPertinaks üzerinde lehimleme yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Transistörlü flip flop devresinin baskı devre şeklini çizer ve pertinaks üzerine aktarır\nBaskı devre çözeltisi karışımı yardımıyla flip flop devresinin yollarını çıkartmak\nPertinaks üzerinde bağlantı noktası deliklerini açtırır ve devre elemanları üzerine yerleştirerek lehimleme yapmak.\nÖğretmen kontrolünde devreye enerji vererek devrenin çalışmasını izlemek."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Güç Kaynağı",
+      "KONU": "Güç kaynağı baskı devre plaketini çıkarma",
+      "KAZANIM": "Güç kaynağı baskı devresi plaketini çıkarır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güç Kaynağı devresini sade ve küçük baskı devre çıkarmasını sağlar.\nGüç Kaynağı elemanlarının yerleşiminde elaman bacak büyüklüğüne göre delikleri oluşturulmasını sağlar.\nGüç Kaynağı devresi için plaket eritme işlemi sırasında maske takılmasını sağlar.\nGüç Kaynağı plaketi için elamanların bacak deliklerini matkap ile deldirir.\nGüç Kaynağı plaketi üzerinde elaman isimlerini anlaşılacak şekilde yazılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güç kaynağı devresinin baskı devre şeklini çizmek ve pertinaks üzerine aktarmak.\nBaskı devre çözeltisi karışımı yardımıyla güç kaynağı devresinin yollarını çıkartmak.\nPertinaks üzerinde bağlantı noktası deliklerini açtırır ve devre elemanları üzerine yerleştirerek lehimleme yapmak.\nGüç kaynağı devresini, transformatör ve diğer elemanları güç kaynağı kutusuna monte ederek, gerekli kablo bağlantılarını yapmak.\nÖğretmen kontrolünde güç kaynağına enerji vererek voltaj değerlerini ölçüp giriş-çıkış sinyallerini izlemek"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Güç Kaynağı",
+      "KONU": "Güç kaynağı baskı devre plaketini çıkarma / Güç kaynağını test etme",
+      "KAZANIM": "Güç kaynağı baskı devresi plaketini çıkarır.\nGüç kaynağının çıkış voltaj ve akım değerlerini test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güç Kaynağı elemanlarını plaketin yönüne göre yerleştirilmesini sağlar.\nGüç Kaynağı elemanlarını plakete lehimletir.\nGüç kaynağının giriş sinyalini ölçtürür.\nGüç kaynağının çıkış sinyalini ölçtürür.\nGüç kaynağı devresinin istenilen voltaj değerlerini kontrol edilmesini sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güç kaynağı devresinin baskı devre şeklini çizmek ve pertinaks üzerine aktarmak.\nBaskı devre çözeltisi karışımı yardımıyla güç kaynağı devresinin yollarını çıkartmak.\nPertinaks üzerinde bağlantı noktası deliklerini açtırır ve devre elemanları üzerine yerleştirerek lehimleme yapmak.\nGüç kaynağı devresini, transformatör ve diğer elemanları güç kaynağı kutusuna monte ederek, gerekli kablo bağlantılarını yapmak.\nÖğretmen kontrolünde güç kaynağına enerji vererek voltaj değerlerini ölçüp giriş-çıkış sinyallerini izlemek",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "SMD Elemanlar ve Çipsetler",
+      "KONU": "SMD elemanın lehimlenme işlemleri",
+      "KAZANIM": "SMD elemanlarına zarar vermeden lehimleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıcak havalı havyayı kullanarak SMD elemanını yüzeyden söktürür.\nPlaket üzerindeki SMD elemanın bacak yerlerine uygun lehim vererek sıcak havalı havya ile SMD'yi montajını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SMD deneme kartları üzerine krem lehim sürerek SMD direnç, SMD kondansatör, SMD diyot, SMD entegre gibi elemanları cımbız yardımıyla yerleştirmek.\nSıcak havalı havyayı kullanarak uygun sıcaklıkta SMD devre elemanları lehimlemek.\nSıcak havalı havyayı kullanarak SMD elemanları yüzeyden sökmek."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "SMD Elemanlar ve Çipsetler",
+      "KONU": "Küçük paket yapılı entegrelerin lehimlenme ve sökme işlemleri",
+      "KAZANIM": "Küçük paket yapılı entegrelere zarar vermeden lehimlemeve sökme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıcak havalı havyayı kullanarak küçük paket yapılı entegrelerin yüzeyden söktürür.\nPlaket üzerindeki küçük paket yapılı entegrelerin bacak yerlerine uygun lehim vererek sıcak havalı havya ile entegreyi montajını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SMD deneme kartları üzerine krem lehim sürerek SMD direnç, SMD kondansatör, SMD diyot, SMD entegre gibi elemanları cımbız yardımıyla yerleştirmek.\nSıcak havalı havyayı kullanarak uygun sıcaklıkta SMD devre elemanları lehimlemek.\nSıcak havalı havyayı kullanarak SMD elemanları yüzeyden sökmek."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "SMD Elemanlar ve Çipsetler",
+      "KONU": "Çipsetlerin lehimlenme işlemleri",
+      "KAZANIM": "Çipsetlerin yapısına zarar vermeden lehimleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıcak havalı havyayı kullanarak çipsetlerin yüzeyden söktürür.\nPlaket üzerindeki çipsetlerin bacak yerlerine uygun lehim vererek sıcak havalı havya ile entegreyi montajını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SMD deneme kartları üzerine krem lehim sürerek SMD direnç, SMD kondansatör, SMD diyot, SMD entegre gibi elemanları cımbız yardımıyla yerleştirmek.\nSıcak havalı havyayı kullanarak uygun sıcaklıkta SMD devre elemanları lehimlemek.\nSıcak havalı havyayı kullanarak SMD elemanları yüzeyden sökmek."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Mantık Devreleri",
+      "KONU": "Sayı sistemleri ile işlem yapma",
+      "KAZANIM": "Doğruluğunu kontrol ederek sayı sistemleri ile işlem yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İkili (binary) sayı sistemini onlu(decimal) sayı sistemine çevirmeyi gösterir.\nOnlu(decimal) sayı sistemini İkili (binary) sayı sistemine çevirmeyi gösterir.\nİkili (binary) sayı sistemini onaltılı (hexadesimal) sayı sitemine çevirmeyi gösterir..\nOnaltılı (hexadesimal) sayı sistemini İkili (binary ) sayı sitemine çevirmeyi gösterir..",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında mantıksal kapılar için uygun entegreyi seçmek ve devre bağlantılarını kurmak.\nİlgili simülasyon programında mantıksal kapıların girişlerine anahtarlama elemanı bağlamak\nİlgili simülasyon programında mantıksal kapıların çıkışlarına led bağlamak\nİlgili simülasyon programında devreye enerji vererek mantıksal kapıların giriş durumlarına göre çıkışlarını izlemek"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Mantık Devreleri",
+      "KONU": "Mantıksal kapı devrelerini kurma",
+      "KAZANIM": "Entegre bacaklarına zarar vermeden mantıksal kapı devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mantıksal kapılar için uygun entegreyi katalogdan buldurur.\nEntegre bacaklarına göre devre bağlantılarını yaptırır.\nMantıksal kapıların girişlerine anahtarlama elemanı taktırır.\nMantıksal kapıların çıkışlarına led, röle bağlantılarını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında mantıksal kapılar için uygun entegreyi seçmek ve devre bağlantılarını kurmak.\nİlgili simülasyon programında mantıksal kapıların girişlerine anahtarlama elemanı bağlamak\nİlgili simülasyon programında mantıksal kapıların çıkışlarına led bağlamak\nİlgili simülasyon programında devreye enerji vererek mantıksal kapıların giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Mantık Devreleri",
+      "KONU": "Mantıksal kapı devrelerini kurma / Mantık devrelerini boolean matematiği ile sadeleştirme",
+      "KAZANIM": "Entegre bacaklarına zarar vermeden mantıksal kapı devrelerini kurar.\nMantık devrelerini boolean matematiği ile sadeleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Entegrenin enerji giriş noktalarının bağlantılarını yaptırır.\nMantıksal kapı devresini çalıştırılmasını sağlar.\nVerilen mantıksal devresini sadeleştirilmesini yaptırır.\nSadeleştirilmiş devrenin dalga diyagramını çıkarttırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında mantıksal kapılar için uygun entegreyi seçmek ve devre bağlantılarını kurmak.\nİlgili simülasyon programında mantıksal kapıların girişlerine anahtarlama elemanı bağlamak\nİlgili simülasyon programında mantıksal kapıların çıkışlarına led bağlamak\nİlgili simülasyon programında devreye enerji vererek mantıksal kapıların giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Temel Mantık Devreleri",
+      "KONU": "Mantık devrelerini boolean matematiği ile sadeleştirme / Mantık devrelerini karnough haritası ile sadeleştirme",
+      "KAZANIM": "Mantık devrelerini boolean matematiği ile sadeleştirir.\nMantık devrelerini karnough haritası ile sadeleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sadeleştirilmiş devrenin doğruluk tablosunu çıkarttırır.\nKarnough haritasını çıkarmayı gösterir.\nSadeleştirilmiş lojik ifadeyi çizdirir.\nSadeleştirilmiş ifadenin lojik devresini yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında mantıksal kapılar için uygun entegreyi seçmek ve devre bağlantılarını kurmak.\nİlgili simülasyon programında mantıksal kapıların girişlerine anahtarlama elemanı bağlamak\nİlgili simülasyon programında mantıksal kapıların çıkışlarına led bağlamak\nİlgili simülasyon programında devreye enerji vererek mantıksal kapıların giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Tümleşik Devreler",
+      "KONU": "Kodlayıcı uygulamaları",
+      "KAZANIM": "Tümleşik entegreleri kullanarak kodlayıcı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "BCD kodlayıcı devresinin çalıştırılmasını sağlar.\nSekizli kodlayıcı devresinin çalıştırılmasını sağlar.\nOnaltılı kodlayıcı devresinin çalıştırılmasını sağlar.\nYedi segment display kod çeviricisinin devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında BCD kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Sekizli (octal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Onaltılı (hexadesimal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında yedi segment display kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında İkiden dörde kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında BCD kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Binary'den hexadecimal'e kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında dörtten bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında sekizden bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında onaltıdan bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden dörde demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden sekize demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden onaltıya demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Tümleşik Devreler",
+      "KONU": "Kod çözücü uygulamaları",
+      "KAZANIM": "Tümleşik entegreleri kullanarak kod çözücü uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kod (Dekoder) çözücü devresinin çalıştırılmasını sağlar.\nİkiden dörde kod çözücü devresinin çalıştırılmasını sağlar.\nBCD kod çözücü devresinin çalıştırılmasını gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında BCD kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Sekizli (octal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Onaltılı (hexadesimal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında yedi segment display kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında İkiden dörde kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında BCD kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Binary'den hexadecimal'e kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında dörtten bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında sekizden bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında onaltıdan bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden dörde demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden sekize demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden onaltıya demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Tümleşik Devreler",
+      "KONU": "Kod çözücü uygulamaları / Multiplexer uygulamaları",
+      "KAZANIM": "Tümleşik entegreleri kullanarak kod çözücü uygulamaları yapar.\nTümleşik entegreleri kullanarak multiplexer uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Binary'den hexadecimal kod çözücü devresinin çalıştırılmasını sağlar.\nDörtten Bire Multiplexer devresinin çalıştırılmasını sağlar.\nSekizden Bire Multiplexer devresinin çalıştırılmasını sağlar.\nOn Altıdan Bire Multiplexer devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında BCD kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Sekizli (octal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Onaltılı (hexadesimal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında yedi segment display kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında İkiden dörde kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında BCD kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Binary'den hexadecimal'e kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında dörtten bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında sekizden bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında onaltıdan bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden dörde demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden sekize demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden onaltıya demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Tümleşik Devreler",
+      "KONU": "Demultiplexer uygulamaları",
+      "KAZANIM": "Tümleşik entegreleri kullanarak demultiplexer uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Birden Dörde demultiplexer devresinin çalıştırılmasını sağlar.\nBirden Sekize demultiplexer devresinin çalıştırılmasını sağlar.\nBirden On Altıya demultiplexer devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında BCD kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Sekizli (octal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Onaltılı (hexadesimal) kodlayıcı devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında yedi segment display kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında İkiden dörde kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında BCD kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında Binary'den hexadecimal'e kod çözücü devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında dörtten bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında sekizden bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında onaltıdan bire multiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden dörde demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden sekize demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek\nİlgili simülasyon programında birden onaltıya demultiplexer devresini kurmak ve devrenin giriş durumlarına göre çıkışlarını izlemek",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Flip -Floplar",
+      "KONU": "Osilatör seçme",
+      "KAZANIM": "Flip-flopların çalışma frekansı için osilatör seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Osilatör devresinin çalıştırılmasını sağlar.\nMultivibratör devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında multivibratör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında kristal osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında 555 entegreli osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında flip flop devresini kurmak ve çıkışlarını osilaskop ekranından izlemek",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Flip -Floplar",
+      "KONU": "Entegre ve kristal ile osilatör devreleri yapma",
+      "KAZANIM": "Uygun devre osilatörü için entegre ve kristal ile osilatör devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kristal Osilatörün çalıştırılmasını sağlar.\n555 Osilatör entegresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında multivibratör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında kristal osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında 555 entegreli osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında flip flop devresini kurmak ve çıkışlarını osilaskop ekranından izlemek"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Flip -Floplar",
+      "KONU": "Flip -flop uygulamaları yapma",
+      "KAZANIM": "İstenilen niteliklere göre flip-flop uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Flip-flopları tetikleme yöntemlerini kullanarak çalıştırılmasını sağlar.\nFlip-flop çeşitleriyle devre tasarımları yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında multivibratör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında kristal osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında 555 entegreli osilatör devresini kurmak ve çıkışlarını osilaskop ekranından izlemek\nİlgili simülasyon programında flip flop devresini kurmak ve çıkışlarını osilaskop ekranından izlemek",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Sayıcılar",
+      "KONU": "Tetikleme işaretinin verilişine göre sayıcı uygulamaları yapma / Sayının kodlanmasına göre sayıcı uygulamaları yapma",
+      "KAZANIM": "Sayıcı devresi için tetikleme işaretinin verilişine göre sayıcı uygulamaları yapar.\nSayının kodlanmasına göre uygun sayıcı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayıcı devresini tasarlatır.\nİleri geri sayıcı yaptırır.\nAsenkron ileri geri sayıcı devresinin çalıştırılmasını sağlar.\nSenkron ileri geri sayıcı devresinin çalıştırılmasını sağlar.\nİkili sayıcı devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında ikili sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında BCD sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Mod sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Kaskat sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Halka sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Johnson sayıcı devresini kurmak ve devrenin çalışmasını izlemek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Sayıcılar",
+      "KONU": "Sayının kodlanmasına göre sayıcı uygulamaları yapma",
+      "KAZANIM": "Sayının kodlanmasına göre uygun sayıcı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bcd sayıcı devresinin çalıştırılmasını sağlar.\nMod sayıcı devresinin çalıştırılmasını sağlar.\nKaskat devresinin çalıştırılmasını sağlar.\nHalka(ring) devresinin çalıştırılmasını sağlar.\nJohnson devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında ikili sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında BCD sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Mod sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Kaskat sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Halka sayıcı devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Johnson sayıcı devresini kurmak ve devrenin çalışmasını izlemek",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Kaydediciler",
+      "KONU": "Bilginin yüklenmesine göre kaydedici uygulamaları yapma",
+      "KAZANIM": "Standartlara göre bilginin yüklenmesine uygun kaydedici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paralel girişli kaydedici devresinin çalıştırılmasını sağlar.\nSağa sola kaymalı/seri girişli kaydedici devresinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında paralel girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Sağa sola kaymalı/seri girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş- seri çıkış kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş-paralel çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-seri çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-paralel çıkışlı kaydedici devresini kurmak ve devrenin çalışmasını izlemek"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Kaydediciler",
+      "KONU": "Bilgi giriş-çıkış şekline göre kaydedici uygulamaları yapma",
+      "KAZANIM": "Standartlara göre bilgi giriş-çıkış şekline uygun kaydedici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seri giriş - seri çıkış kaymalı kaydedicinin özelliğinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında paralel girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Sağa sola kaymalı/seri girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş- seri çıkış kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş-paralel çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-seri çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-paralel çıkışlı kaydedici devresini kurmak ve devrenin çalışmasını izlemek"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Kaydediciler",
+      "KONU": "Bilgi giriş-çıkış şekline göre kaydedici uygulamaları yapma",
+      "KAZANIM": "Standartlara göre bilgi giriş-çıkış şekline uygun kaydedici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seri giriş-paralel çıkışlı kaymalı kaydedici özelliğinin çalıştırılmasını sağlar.\nParalel giriş-seri çıkışlı kaymalı kaydedici özelliğinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında paralel girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Sağa sola kaymalı/seri girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş- seri çıkış kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş-paralel çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-seri çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-paralel çıkışlı kaydedici devresini kurmak ve devrenin çalışmasını izlemek"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Kaydediciler",
+      "KONU": "Bilgi giriş-çıkış şekline göre kaydedici uygulamaları yapma",
+      "KAZANIM": "Standartlara göre bilgi giriş-çıkış şekline uygun kaydedici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paralel giriş-paralel çıkışlı kaymalı kaydedici özelliğinin çalıştırılmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İlgili simülasyon programında paralel girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Sağa sola kaymalı/seri girişli kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş- seri çıkış kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Seri giriş-paralel çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-seri çıkışlı kaymalı kaydedici devresini kurmak ve devrenin çalışmasını izlemek\nİlgili simülasyon programında Paralel giriş-paralel çıkışlı kaydedici devresini kurmak ve devrenin çalışmasını izlemek"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

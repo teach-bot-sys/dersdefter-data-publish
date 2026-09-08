@@ -1,0 +1,743 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Elektronik Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/279/elektronik-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Arıza Arama Yöntemleri / Röleli Anahtarlama Devreleri",
+      "KAZANIM": "Arıza arama yöntemlerini açıklar.\nRöleli anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Rölenin yapısı açıklanır.\nRölenin uçları tespit edilir.\nRölenin devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Transistörlü Anahtarlama Devreleri",
+      "KAZANIM": "Transistörlü anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transistör polarma çeşitleri açıklanır.\nTransistörün sağlamlık kontrolü yapılır.\nSchmitt trigger devresi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Transistörlü Anahtarlama Devreleri / FET ve MOSFET'li Anahtarlama Devreleri",
+      "KAZANIM": "Transistörlü anahtarlama devreleri yapar.\nFET ve MOSFET'li anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transistörlü anahtarlama devrelerin arızalarının giderilmesi açıklanır.\nFET ve MOSFET'in yapısı ve çeşitleri açıklanır.\nFET ve MOSFET'in sağlamlık kontrolü yapılır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "FET ve MOSFET'li Anahtarlama Devreleri / IGBT'li Anahtarlama Devreleri",
+      "KAZANIM": "FET ve MOSFET'li anahtarlama devreleri yapar.\nIGBT'li anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "FET ve MOSFET'li devrelerin arızalarının giderilmesi açıklanır.\nIGBT'nin yapısı açıklanır.\nIGBT devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Tristörlü Anahtarlama Devreleri",
+      "KAZANIM": "Tristörlü anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tristörün yapısı açıklanır.\nTristörün AC'de çalışması açıklanır.\nTristörün DC'de çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Tristörlü Anahtarlama Devreleri",
+      "KAZANIM": "Tristörlü anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tristörün DC'de durdurma yöntemleri açıklanır.\nUJT'nin yapısı ve çalışması açıklanır.\nTristörlü devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Triyaklı Anahtarlama Devreleri",
+      "KAZANIM": "Triyaklı anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Triyakın yapısı ve çalışması açıklanır.\nDiyakın yapısı ve çalışması açıklanır.\nTriyaklı devrelerin arızalarını giderir.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Anahtarlama Devre Uygulamaları",
+      "KONU": "Triyaklı Anahtarlama Devreleri / Optokuplörlü Anahtarlama Devreleri",
+      "KAZANIM": "Triyaklı anahtarlama devreleri yapar.\nOptokuplörlü anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Diyaklı devrelerin arızalarının giderilmesi açıklanır.\nOptokuplörün yapısı, çalışması ve çeşitleri açıklanır.\nOptokuplörlü devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek röle ile yük kontrolü\nRöle ile H köprülü DC motor kontrolü\nTransistör polarma uygulaması\nTransistörlü yük kontrolü uygulaması\nTransistörlü H köprüsü uygulaması\nTransistörün ardışık olarak kullanılması\nTransistörlü zamanlayıcı uygulamaları\nFET'li zamanlayıcı uygulaması\nMOSFET'li yük kontrolü uygulaması\nIGBT ile Dimmer uygulaması\nTristörün durdurulması uygulamaları\nUJT ile iğne pals uygulaması\nTristörün AC de yük kontrol uygulaması\nTriyakın DC tetiklemeli yük kontrolü uygulaması\nTriyaklı dimmer uygulaması\nOptokuplörlü anahtarlama uygulaması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Sensör Uygulamaları",
+      "KONU": "Sensörler ve Transdüserler",
+      "KAZANIM": "Sensörlerin ve transdüserlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sensör ve transdüser tanımlanır.\nSensör yapısı ve bağlantı şeması açıklanır.\nTransdüser yapısı ve bağlantı şeması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NTC ile ısı sensör uygulaması\nPTC ile ısı sensör uygulaması\nTermokupl ile ısı sensör uygulaması\nLM35 ile ısı sensör uygulaması\nHall efekt sensör uygulaması\nReed switch uygulaması\nStrain Gauge sensör uygulaması\nLoad Cell sensör uygulaması\nPiezo sensör uygulaması\nLDR sensör uygulaması\nFoto diyot uygulaması\nFoto transistör uygulaması\nPIR sensör uygulaması\nIR diyot uygulaması\nGüneş pilli uygulaması\nMikrofonlu ses sensör uygulaması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Sensör Uygulamaları",
+      "KONU": "Isı Sensör Uygulamaları / Manyetik Sensör Uygulamaları",
+      "KAZANIM": "Isı sensör uygulamalarını yapar.\nManyetik sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Isı sensör yapısı, çalışması ve çeşitleri açıklanır.\nIsı sensörlü devrelerin arızalarının giderilmesi açıklanır.\nManyetik sensörün yapısı, çalışması ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NTC ile ısı sensör uygulaması\nPTC ile ısı sensör uygulaması\nTermokupl ile ısı sensör uygulaması\nLM35 ile ısı sensör uygulaması\nHall efekt sensör uygulaması\nReed switch uygulaması\nStrain Gauge sensör uygulaması\nLoad Cell sensör uygulaması\nPiezo sensör uygulaması\nLDR sensör uygulaması\nFoto diyot uygulaması\nFoto transistör uygulaması\nPIR sensör uygulaması\nIR diyot uygulaması\nGüneş pilli uygulaması\nMikrofonlu ses sensör uygulaması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Sensör Uygulamaları",
+      "KONU": "Manyetik Sensör Uygulamaları / Basınç Sensör Uygulamaları",
+      "KAZANIM": "Manyetik sensör uygulamalarını yapar.\nBasınç sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Manyetik sensörlü devrelerin arızalarının giderilmesi açıklanır.\nBasınç sensörünün yapısı, çalışması ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NTC ile ısı sensör uygulaması\nPTC ile ısı sensör uygulaması\nTermokupl ile ısı sensör uygulaması\nLM35 ile ısı sensör uygulaması\nHall efekt sensör uygulaması\nReed switch uygulaması\nStrain Gauge sensör uygulaması\nLoad Cell sensör uygulaması\nPiezo sensör uygulaması\nLDR sensör uygulaması\nFoto diyot uygulaması\nFoto transistör uygulaması\nPIR sensör uygulaması\nIR diyot uygulaması\nGüneş pilli uygulaması\nMikrofonlu ses sensör uygulaması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Sensör Uygulamaları",
+      "KONU": "Basınç Sensör Uygulamaları / Optik Sensör Uygulamaları",
+      "KAZANIM": "Basınç sensör uygulamalarını yapar.\nOptik sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Basınç sensörlü devrelerin arızalarının giderilmesi açıklanır.\nOptik sensörün yapısı, çalışması ve çeşitleri açıklanır.\nOptik sensörlü devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NTC ile ısı sensör uygulaması\nPTC ile ısı sensör uygulaması\nTermokupl ile ısı sensör uygulaması\nLM35 ile ısı sensör uygulaması\nHall efekt sensör uygulaması\nReed switch uygulaması\nStrain Gauge sensör uygulaması\nLoad Cell sensör uygulaması\nPiezo sensör uygulaması\nLDR sensör uygulaması\nFoto diyot uygulaması\nFoto transistör uygulaması\nPIR sensör uygulaması\nIR diyot uygulaması\nGüneş pilli uygulaması\nMikrofonlu ses sensör uygulaması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Sensör Uygulamaları",
+      "KONU": "Ses Sensör Uygulamaları",
+      "KAZANIM": "Ses sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ses sensörünün yapısı, çalışması ve çeşitleri açıklanır.\nSes sensörlü devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NTC ile ısı sensör uygulaması\nPTC ile ısı sensör uygulaması\nTermokupl ile ısı sensör uygulaması\nLM35 ile ısı sensör uygulaması\nHall efekt sensör uygulaması\nReed switch uygulaması\nStrain Gauge sensör uygulaması\nLoad Cell sensör uygulaması\nPiezo sensör uygulaması\nLDR sensör uygulaması\nFoto diyot uygulaması\nFoto transistör uygulaması\nPIR sensör uygulaması\nIR diyot uygulaması\nGüneş pilli uygulaması\nMikrofonlu ses sensör uygulaması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "İşlemsel Yükselteç Devre Uygulamaları",
+      "KONU": "İşlemsel Yükselteçlerin Özellikleri",
+      "KAZANIM": "İşlemsel yükselteçlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteç yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Osiloskopla gerilim ölçme\nOsiloskopla frekans ölçme\nTek girişli fark yükselteç uygulaması\nÇift girişli fark yükselteç uygulaması\nOpamplı faz tersleyen yükselteç uygulaması\nOpamplı faz terslemeyen yükselteç uygulaması\nOpamplı karşılaştırıcı uygulaması\nOpamplı toplayıcı uygulaması\nOpamplı gerilim izleyici uygulaması\nOpamplı türev alıcı uygulaması\nOpamplı integral alıcı uygulaması\nOpamplı fark alıcı uygulaması\nOpamplı yarım dalga doğrultmaç uygulaması\nOpamplı tam dalga doğrultmaç uygulaması\nİşlemsel yükseltecin logaritmik olarak kullanılması devresini yapmak\nİşlemsel yükseltecin gerilim regülatör olarak kullanılması devresini yapmak\nİşlemsel yükseltecin voltaj kontrollü osilatör olarak kullanılması devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "İşlemsel Yükselteç Devre Uygulamaları",
+      "KONU": "İşlemsel Yükselteçlerin Özellikleri",
+      "KAZANIM": "İşlemsel yükselteçlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteç sembolü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Osiloskopla gerilim ölçme\nOsiloskopla frekans ölçme\nTek girişli fark yükselteç uygulaması\nÇift girişli fark yükselteç uygulaması\nOpamplı faz tersleyen yükselteç uygulaması\nOpamplı faz terslemeyen yükselteç uygulaması\nOpamplı karşılaştırıcı uygulaması\nOpamplı toplayıcı uygulaması\nOpamplı gerilim izleyici uygulaması\nOpamplı türev alıcı uygulaması\nOpamplı integral alıcı uygulaması\nOpamplı fark alıcı uygulaması\nOpamplı yarım dalga doğrultmaç uygulaması\nOpamplı tam dalga doğrultmaç uygulaması\nİşlemsel yükseltecin logaritmik olarak kullanılması devresini yapmak\nİşlemsel yükseltecin gerilim regülatör olarak kullanılması devresini yapmak\nİşlemsel yükseltecin voltaj kontrollü osilatör olarak kullanılması devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "İşlemsel Yükselteç Devre Uygulamaları",
+      "KONU": "İşlemsel Yükselteçlerin Özellikleri",
+      "KAZANIM": "İşlemsel yükselteçlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteç devre yapısı, çalışması ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Osiloskopla gerilim ölçme\nOsiloskopla frekans ölçme\nTek girişli fark yükselteç uygulaması\nÇift girişli fark yükselteç uygulaması\nOpamplı faz tersleyen yükselteç uygulaması\nOpamplı faz terslemeyen yükselteç uygulaması\nOpamplı karşılaştırıcı uygulaması\nOpamplı toplayıcı uygulaması\nOpamplı gerilim izleyici uygulaması\nOpamplı türev alıcı uygulaması\nOpamplı integral alıcı uygulaması\nOpamplı fark alıcı uygulaması\nOpamplı yarım dalga doğrultmaç uygulaması\nOpamplı tam dalga doğrultmaç uygulaması\nİşlemsel yükseltecin logaritmik olarak kullanılması devresini yapmak\nİşlemsel yükseltecin gerilim regülatör olarak kullanılması devresini yapmak\nİşlemsel yükseltecin voltaj kontrollü osilatör olarak kullanılması devresini yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "İşlemsel Yükselteç Devre Uygulamaları",
+      "KONU": "İşlemsel Yükselteç Devreleri",
+      "KAZANIM": "İşlemsel yükselteç devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteç devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Osiloskopla gerilim ölçme\nOsiloskopla frekans ölçme\nTek girişli fark yükselteç uygulaması\nÇift girişli fark yükselteç uygulaması\nOpamplı faz tersleyen yükselteç uygulaması\nOpamplı faz terslemeyen yükselteç uygulaması\nOpamplı karşılaştırıcı uygulaması\nOpamplı toplayıcı uygulaması\nOpamplı gerilim izleyici uygulaması\nOpamplı türev alıcı uygulaması\nOpamplı integral alıcı uygulaması\nOpamplı fark alıcı uygulaması\nOpamplı yarım dalga doğrultmaç uygulaması\nOpamplı tam dalga doğrultmaç uygulaması\nİşlemsel yükseltecin logaritmik olarak kullanılması devresini yapmak\nİşlemsel yükseltecin gerilim regülatör olarak kullanılması devresini yapmak\nİşlemsel yükseltecin voltaj kontrollü osilatör olarak kullanılması devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "İşlemsel Yükselteç Devre Uygulamaları",
+      "KONU": "İşlemsel Yükselteç Devreleri",
+      "KAZANIM": "İşlemsel yükselteç devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükselteçli devrelerin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Osiloskopla gerilim ölçme\nOsiloskopla frekans ölçme\nTek girişli fark yükselteç uygulaması\nÇift girişli fark yükselteç uygulaması\nOpamplı faz tersleyen yükselteç uygulaması\nOpamplı faz terslemeyen yükselteç uygulaması\nOpamplı karşılaştırıcı uygulaması\nOpamplı toplayıcı uygulaması\nOpamplı gerilim izleyici uygulaması\nOpamplı türev alıcı uygulaması\nOpamplı integral alıcı uygulaması\nOpamplı fark alıcı uygulaması\nOpamplı yarım dalga doğrultmaç uygulaması\nOpamplı tam dalga doğrultmaç uygulaması\nİşlemsel yükseltecin logaritmik olarak kullanılması devresini yapmak\nİşlemsel yükseltecin gerilim regülatör olarak kullanılması devresini yapmak\nİşlemsel yükseltecin voltaj kontrollü osilatör olarak kullanılması devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Osilatör ve Filtre Devreleri",
+      "KONU": "Osilatörler",
+      "KAZANIM": "Osilatör devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Osilatörün çalışması açıklanır.\nOsilatörün çeşitleri açıklanır.\nOsilatör devrelerinin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçü aleti ile frekans ölçmek\nOpamplı Wien köprü osilatör devresi yapmak\nTransistörlü faz kaymalı RC osilatör devresi yapmak\nTransistörlü Kolpits (LC) osilatör devresi yapmak\nTransistörlü kristal osilatör devresi yapmak\n555'li Schmitt Trigger devresi yapmak\nVoltaj kontrollü osilatör devresi yapmak\nKırpıcı uygulaması\nKenetleyici uygulaması\nTek kararlı (monostable) multivibratör devresi yapmak\nÇift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan kararsız (astable) multivibratör devresi yapmak\n555 entegresiyle yapılan tek kararlı (monostable) multivibratör devresi yapmak\n555 entegresiyle yapılan çift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan VCO devresi yapmak\n555 entegresiyle PWM yapmak\nPasif filtre devresi yapmak\nOpamp ile alçak geçiren filtre devresi yapmak\nOpamp ile yüksek geçiren filtre devresi yapmak\nOpamp ile bant geçiren filtre devresi yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Osilatör ve Filtre Devreleri",
+      "KONU": "Pals Devreleri",
+      "KAZANIM": "Pals devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kırpıcı devreleri açıklanır.\nKenetleyici devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçü aleti ile frekans ölçmek\nOpamplı Wien köprü osilatör devresi yapmak\nTransistörlü faz kaymalı RC osilatör devresi yapmak\nTransistörlü Kolpits (LC) osilatör devresi yapmak\nTransistörlü kristal osilatör devresi yapmak\n555'li Schmitt Trigger devresi yapmak\nVoltaj kontrollü osilatör devresi yapmak\nKırpıcı uygulaması\nKenetleyici uygulaması\nTek kararlı (monostable) multivibratör devresi yapmak\nÇift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan kararsız (astable) multivibratör devresi yapmak\n555 entegresiyle yapılan tek kararlı (monostable) multivibratör devresi yapmak\n555 entegresiyle yapılan çift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan VCO devresi yapmak\n555 entegresiyle PWM yapmak\nPasif filtre devresi yapmak\nOpamp ile alçak geçiren filtre devresi yapmak\nOpamp ile yüksek geçiren filtre devresi yapmak\nOpamp ile bant geçiren filtre devresi yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Osilatör ve Filtre Devreleri",
+      "KONU": "Pals Devreleri",
+      "KAZANIM": "Pals devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transistörlü pals devreleri açıklanır.\nEntegreli pals devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçü aleti ile frekans ölçmek\nOpamplı Wien köprü osilatör devresi yapmak\nTransistörlü faz kaymalı RC osilatör devresi yapmak\nTransistörlü Kolpits (LC) osilatör devresi yapmak\nTransistörlü kristal osilatör devresi yapmak\n555'li Schmitt Trigger devresi yapmak\nVoltaj kontrollü osilatör devresi yapmak\nKırpıcı uygulaması\nKenetleyici uygulaması\nTek kararlı (monostable) multivibratör devresi yapmak\nÇift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan kararsız (astable) multivibratör devresi yapmak\n555 entegresiyle yapılan tek kararlı (monostable) multivibratör devresi yapmak\n555 entegresiyle yapılan çift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan VCO devresi yapmak\n555 entegresiyle PWM yapmak\nPasif filtre devresi yapmak\nOpamp ile alçak geçiren filtre devresi yapmak\nOpamp ile yüksek geçiren filtre devresi yapmak\nOpamp ile bant geçiren filtre devresi yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Osilatör ve Filtre Devreleri",
+      "KONU": "Pals Devreleri / Filtre Devreleri",
+      "KAZANIM": "Pals devrelerini yapar.\nFiltre devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pals devrelerinin arızalarının giderilmesi açıklanır.\nFiltrelerin çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçü aleti ile frekans ölçmek\nOpamplı Wien köprü osilatör devresi yapmak\nTransistörlü faz kaymalı RC osilatör devresi yapmak\nTransistörlü Kolpits (LC) osilatör devresi yapmak\nTransistörlü kristal osilatör devresi yapmak\n555'li Schmitt Trigger devresi yapmak\nVoltaj kontrollü osilatör devresi yapmak\nKırpıcı uygulaması\nKenetleyici uygulaması\nTek kararlı (monostable) multivibratör devresi yapmak\nÇift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan kararsız (astable) multivibratör devresi yapmak\n555 entegresiyle yapılan tek kararlı (monostable) multivibratör devresi yapmak\n555 entegresiyle yapılan çift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan VCO devresi yapmak\n555 entegresiyle PWM yapmak\nPasif filtre devresi yapmak\nOpamp ile alçak geçiren filtre devresi yapmak\nOpamp ile yüksek geçiren filtre devresi yapmak\nOpamp ile bant geçiren filtre devresi yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Osilatör ve Filtre Devreleri",
+      "KONU": "Filtre Devreleri",
+      "KAZANIM": "Filtre devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Filtre devre çeşitleri açıklanır.\nFiltre devrelerinin arızalarının giderilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçü aleti ile frekans ölçmek\nOpamplı Wien köprü osilatör devresi yapmak\nTransistörlü faz kaymalı RC osilatör devresi yapmak\nTransistörlü Kolpits (LC) osilatör devresi yapmak\nTransistörlü kristal osilatör devresi yapmak\n555'li Schmitt Trigger devresi yapmak\nVoltaj kontrollü osilatör devresi yapmak\nKırpıcı uygulaması\nKenetleyici uygulaması\nTek kararlı (monostable) multivibratör devresi yapmak\nÇift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan kararsız (astable) multivibratör devresi yapmak\n555 entegresiyle yapılan tek kararlı (monostable) multivibratör devresi yapmak\n555 entegresiyle yapılan çift kararlı (bistable) multivibratör devresi yapmak\n555 entegresiyle yapılan VCO devresi yapmak\n555 entegresiyle PWM yapmak\nPasif filtre devresi yapmak\nOpamp ile alçak geçiren filtre devresi yapmak\nOpamp ile yüksek geçiren filtre devresi yapmak\nOpamp ile bant geçiren filtre devresi yapmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Ön Amplifikatör Yükselteçler",
+      "KAZANIM": "Ön amplifikatör (yükselteç) devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Ön Amplifikatör Yükselteçler",
+      "KAZANIM": "Ön amplifikatör (yükselteç) devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Güç Amplifikatör Yükselteçler",
+      "KAZANIM": "Güç amplifikatör (yükselteç) devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Güç Amplifikatör Yükselteçler",
+      "KAZANIM": "Güç amplifikatör (yükselteç) devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Baz-Tiz Devresi",
+      "KAZANIM": "Baz-tiz devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Baz-Tiz Devresi",
+      "KAZANIM": "Baz-tiz devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Echo Devresi",
+      "KAZANIM": "Echo devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Echo Devresi",
+      "KAZANIM": "Echo devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Vumetre Devresi",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Vumetre Devresi",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Vumetre Devresi",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Vumetre Devresi",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Ses Frekans Devre Uygulamaları",
+      "KONU": "Vumetre Devresi",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, transistörler, yarıiletken devre elemanları, sensörler, opamp, breadboard, lehimleme ve elemanları, matkap, perhidrol ve tuz ruhu, kap, temizlik ekipmanları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ön yükselteç devresini yapmak\nGüç yükselteç devresini yapmak\nBaz-tiz devresini yapmak\nEcho devresini yapmak\nVumetre devresini yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

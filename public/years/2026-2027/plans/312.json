@@ -1,0 +1,720 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Temel Robotik Uygulamalar",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/312/temel-robotik-uygulamalar-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistemler",
+      "KONU": "Robotik Sistemler ve Özellikleri / Robot Çeşitleri",
+      "KAZANIM": "Robotik sistemin tanımını, özelliğini açıklar.\nRobotik sistemde kullanılan robot çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik sistemin kullanım alanlarını belirlemek.\nKullanım alanlarına göre robot belirlemek.\nRobotik sistem elemanlarını belirlemek.\nRobotik sistem malzemelerini seçmek.\nRobotik sistem aksesuarlarını seçmek.\nRobotik sistem elemanlarını seçmek.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistemler",
+      "KONU": "Robotik Sistemin Yapısı ve Çalışması",
+      "KAZANIM": "Robotik sistemin çalışmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik sistemin kullanım alanlarını belirlemek.\nKullanım alanlarına göre robot belirlemek.\nRobotik sistem elemanlarını belirlemek.\nRobotik sistem malzemelerini seçmek.\nRobotik sistem aksesuarlarını seçmek.\nRobotik sistem elemanlarını seçmek."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistemler",
+      "KONU": "Robotik Sistemin Mekaniksel Parçaları",
+      "KAZANIM": "Robotik sistemde kullanılan mekaniksel parçaları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik sistemin kullanım alanlarını belirlemek.\nKullanım alanlarına göre robot belirlemek.\nRobotik sistem elemanlarını belirlemek.\nRobotik sistem malzemelerini seçmek.\nRobotik sistem aksesuarlarını seçmek.\nRobotik sistem elemanlarını seçmek.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistemler",
+      "KONU": "Robotik Sistemin Elektriksel Parçaları",
+      "KAZANIM": "Robotik sistemde kullanılan elektriksel parçaları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik sistemin kullanım alanlarını belirlemek.\nKullanım alanlarına göre robot belirlemek.\nRobotik sistem elemanlarını belirlemek.\nRobotik sistem malzemelerini seçmek.\nRobotik sistem aksesuarlarını seçmek.\nRobotik sistem elemanlarını seçmek.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistemler",
+      "KONU": "Robotik Sistemin Aksesuarları",
+      "KAZANIM": "Robotik sistemde kullanılan çeşitli aksesuarları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik sistemin kullanım alanlarını belirlemek.\nKullanım alanlarına göre robot belirlemek.\nRobotik sistem elemanlarını belirlemek.\nRobotik sistem malzemelerini seçmek.\nRobotik sistem aksesuarlarını seçmek.\nRobotik sistem elemanlarını seçmek.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistemler",
+      "KONU": "Robotik Sistemde Kullanılan Elemanlar",
+      "KAZANIM": "Robotik sistemde kullanılan elemanların özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik sistemin kullanım alanlarını belirlemek.\nKullanım alanlarına göre robot belirlemek.\nRobotik sistem elemanlarını belirlemek.\nRobotik sistem malzemelerini seçmek.\nRobotik sistem aksesuarlarını seçmek.\nRobotik sistem elemanlarını seçmek."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyiciler ve Donanımları",
+      "KONU": "Mikrodenetleyicilerin Yapısı ve Çalışması / Mikrodenetleyici Çeşitleri ve Donanımları",
+      "KAZANIM": "Mikrodenetleyicilerin özelliklerini açıklar.\nMikrodenetleyicilerin çeşitlerini ve donanımlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici seçmek.\nMikrodenetleyici kataloglarını incelemek.\nMikrodenetleyici donanımlarını seçmek.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama Dilleri",
+      "KAZANIM": "Mikrodenetleyicide kullanılan programlama dillerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama Dilleri",
+      "KAZANIM": "Mikrodenetleyicide kullanılan programlama dillerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "7",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü",
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama Dilleri",
+      "KAZANIM": "Mikrodenetleyicide kullanılan programlama dillerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama",
+      "KAZANIM": "Mikrodenetleyici ile değişik programlama dillerinde programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama",
+      "KAZANIM": "Mikrodenetleyici ile değişik programlama dillerinde programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama",
+      "KAZANIM": "Mikrodenetleyici ile değişik programlama dillerinde programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "7",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Programlama",
+      "KAZANIM": "Mikrodenetleyici ile değişik programlama dillerinde programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici programlarını seçmek.\nMikrodenetleyiciyi JAL ile programlamak.\nMikrodenetleyiciyi mBot ile programlamak.\nMikrodenetleyiciyi Scratch ile programlamak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistem Tasarımı ve Montajı",
+      "KONU": "Robotik Devre Tasarımı / Robotik Devre Planlama ve Yapım Aşamaları",
+      "KAZANIM": "Robotik devrenin projesinin tasarımını yapar.\nRobotik devre için gerekli planlamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik devrenin projesini çizmek.\nRobotik devrenin projesinin dosyasını hazırlamak.\nRobotik devre için planlama hazırlamak.\nRobotik devrenin baskı devresini hazırlamak.\nRobotik devrenin kart ve malzeme montajlarını yapmak.\nRobotik devresinin yazılımını mikrodenetleyiciye yüklemek.\nRobotik devreyi montaj sonrası çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistem Tasarımı ve Montajı",
+      "KONU": "Robotik Devrenin Baskı Devresi",
+      "KAZANIM": "Robotik devrenin baskı devresini hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik devrenin projesini çizmek.\nRobotik devrenin projesinin dosyasını hazırlamak.\nRobotik devre için planlama hazırlamak.\nRobotik devrenin baskı devresini hazırlamak.\nRobotik devrenin kart ve malzeme montajlarını yapmak.\nRobotik devresinin yazılımını mikrodenetleyiciye yüklemek.\nRobotik devreyi montaj sonrası çalıştırmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistem Tasarımı ve Montajı",
+      "KONU": "Robotik Devre Montajı / Robotik Devre Yazılımının Hazırlanması ve Yüklenmesi",
+      "KAZANIM": "Robotik devrenin kartların ve malzemelerin montajlarını yapar.\nRobotik devresinin yazılımını mikrodenetleyiciye yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik devrenin projesini çizmek.\nRobotik devrenin projesinin dosyasını hazırlamak.\nRobotik devre için planlama hazırlamak.\nRobotik devrenin baskı devresini hazırlamak.\nRobotik devrenin kart ve malzeme montajlarını yapmak.\nRobotik devresinin yazılımını mikrodenetleyiciye yüklemek.\nRobotik devreyi montaj sonrası çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "7",
+      "ÜNİTE": "Robotik Sistem Tasarımı ve Montajı",
+      "KONU": "Robotik Devrenin Çalıştırılması ve Testi",
+      "KAZANIM": "Robotik devrenin montaj sonrası gerekli testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robotik devrenin projesini çizmek.\nRobotik devrenin projesinin dosyasını hazırlamak.\nRobotik devre için planlama hazırlamak.\nRobotik devrenin baskı devresini hazırlamak.\nRobotik devrenin kart ve malzeme montajlarını yapmak.\nRobotik devresinin yazılımını mikrodenetleyiciye yüklemek.\nRobotik devreyi montaj sonrası çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "7",
+      "ÜNİTE": "Çizgi İzleyen Robot Projesi",
+      "KONU": "Çizgi İzleyen Robot Projesinin Tasarlanması / Çizgi İzleyen Robot Proje Malzemelerin Temin Edilmesi",
+      "KAZANIM": "Çizgi izleyen robot devresinin tasarımını yapar.\nÇizgi izleyen robot devresinin malzemelerinin sağlamlıklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çizgi izleyen robot devresini hazırlamak.\nÇizgi izleyen robot devresinin montajını yapmak.\nÇizgi izleyen robot devresini çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "7",
+      "ÜNİTE": "Çizgi İzleyen Robot Projesi",
+      "KONU": "Çizgi İzleyen Robot Devresinin Montajı / Çizgi İzleyen Robota Yazılım Yükleme",
+      "KAZANIM": "Çizgi izleyen robotun baskı devresini hazırlar ve malzemelerini monte eder.\nÇizgi izleyen robota yazılımı hazırlayarak yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çizgi izleyen robot devresini hazırlamak.\nÇizgi izleyen robot devresinin montajını yapmak.\nÇizgi izleyen robot devresini çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "7",
+      "ÜNİTE": "Çizgi İzleyen Robot Projesi",
+      "KONU": "Çizgi İzleyen Robotun Çalıştırılması ve Test Edilmesi",
+      "KAZANIM": "Çizgi izleyen robotun gerekli testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çizgi izleyen robot devresini hazırlamak.\nÇizgi izleyen robot devresinin montajını yapmak.\nÇizgi izleyen robot devresini çalıştırmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "7",
+      "ÜNİTE": "Sumo Robotu Projesi",
+      "KONU": "Sumo Robot Projesinin Tasarlanması / Sumo Robot Proje Malzemelerin Temin Edilmesi",
+      "KAZANIM": "Sumo robot devresinin tasarımını yapar.\nSumo robot devresinin malzemelerinin sağlamlıklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sumo robot devresini hazırlamak.\nSumo robot devresinin montajını yapmak.\nSumo robot devresini çalıştırmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "7",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü",
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "7",
+      "ÜNİTE": "Sumo Robotu Projesi",
+      "KONU": "Sumo Robot Devresinin Montajı / Sumo Robota Yazılım Yükleme",
+      "KAZANIM": "Sumo robotun baskı devresini hazırlar ve malzemelerini monte eder.\nSumo robota yazılımı hazırlayarak yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sumo robot devresini hazırlamak.\nSumo robot devresinin montajını yapmak.\nSumo robot devresini çalıştırmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "7",
+      "ÜNİTE": "Sumo Robotu Projesi",
+      "KONU": "Sumo Robotun Çalıştırılması ve Test Edilmesi",
+      "KAZANIM": "Sumo robotun gerekli testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sumo robot devresini hazırlamak.\nSumo robot devresinin montajını yapmak.\nSumo robot devresini çalıştırmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "7",
+      "ÜNİTE": "Altı Ayaklı Robot Projesi",
+      "KONU": "Altı Ayaklı Robot Projesinin Tasarlanması / Altı Ayaklı Robot Proje Malzemelerin Temin Edilmesi",
+      "KAZANIM": "Altı ayaklı robot devresinin tasarımını yapar.\nAltı ayaklı robot devresinin malzemelerinin sağlamlıklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Altı ayaklı robot devresini hazırlamak.\nAltı ayaklı robot devresinin montajını yapmak.\nAltı ayaklı robot devresini çalıştırmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "7",
+      "ÜNİTE": "Altı Ayaklı Robot Projesi",
+      "KONU": "Altı Ayaklı Robot Devresinin Montajı / Altı Ayaklı Robota Yazılım Yükleme",
+      "KAZANIM": "Altı ayaklı robotun baskı devresini hazırlar ve malzemelerini monte eder.\nAltı ayaklı robota yazılımı hazırlayarak yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Altı ayaklı robot devresini hazırlamak.\nAltı ayaklı robot devresinin montajını yapmak.\nAltı ayaklı robot devresini çalıştırmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "7",
+      "ÜNİTE": "Altı Ayaklı Robot Projesi",
+      "KONU": "Altı Ayaklı Robotun Çalıştırılması ve Test Edilmesi",
+      "KAZANIM": "Altı ayaklı robotun gerekli testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Altı ayaklı robot devresini hazırlamak.\nAltı ayaklı robot devresinin montajını yapmak.\nAltı ayaklı robot devresini çalıştırmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "7",
+      "ÜNİTE": "Robot Kol Projesi",
+      "KONU": "Robot Kol Projesinin Tasarlanması / Robot Kol Proje Malzemelerin Temin Edilmesi",
+      "KAZANIM": "Robot kol projesinin tasarımını yapar.\nRobot kol projesinin malzemelerinin sağlamlıklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot kol devresini hazırlamak.\nRobot kol devresinin montajını yapmak.\nRobot kol devresini çalıştırmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "7",
+      "ÜNİTE": "Robot Kol Projesi",
+      "KONU": "Robot Kol Devresinin Montajı / Robot Kol Projesine Yazılım Yükleme",
+      "KAZANIM": "Robot kol projesini hazırlar ve sonrasında malzemeleri monte eder.\nRobot kol projesinin yazılımını hazırlayarak yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot kol devresini hazırlamak.\nRobot kol devresinin montajını yapmak.\nRobot kol devresini çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "7",
+      "ÜNİTE": "Robot Kol Projesi",
+      "KONU": "Robot Kolun Çalıştırılması ve Test Edilmesi",
+      "KAZANIM": "Robot kol projesinin gerekli testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot kol devresini hazırlamak.\nRobot kol devresinin montajını yapmak.\nRobot kol devresini çalıştırmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "7",
+      "ÜNİTE": "Örümcek Robot Projesi",
+      "KONU": "Örümcek Robot Projesinin Tasarlanması / Örümcek Robot Proje Malzemelerin Temin Edilmesi",
+      "KAZANIM": "Örümcek robotun tasarımını yapar.\nÖrümcek robotun malzemelerinin sağlamlıklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Örümcek robot devresini hazırlamak.\nÖrümcek robot devresinin montajını yapmak.\nÖrümcek robot devresini çalıştırmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "7",
+      "ÜNİTE": "Örümcek Robot Projesi",
+      "KONU": "Örümcek Robot Devresinin Montajı / Örümcek Robota Yazılım Yükleme",
+      "KAZANIM": "Örümcek robotu hazırlar ve malzemelerini monte eder.\nÖrümcek robotun yazılımını hazırlayarak yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Örümcek robot devresini hazırlamak.\nÖrümcek robot devresinin montajını yapmak.\nÖrümcek robot devresini çalıştırmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "7",
+      "ÜNİTE": "Örümcek Robot Projesi",
+      "KONU": "Örümcek Robotun Çalıştırılması ve Test Edilmesi",
+      "KAZANIM": "Örümcek robotun gerekli testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Örümcek robot devresini hazırlamak.\nÖrümcek robot devresinin montajını yapmak.\nÖrümcek robot devresini çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "7",
+      "ÜNİTE": "Çeşitli Robot Projeleri",
+      "KONU": "Uzaktan Kontrollü Robot Projesi / Engel Algılayan Robot Projesi",
+      "KAZANIM": "Uzaktan kontrollü robot projesini yapar.\nEngel algılayan robot projesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uzaktan kontrollü robot devresini yapmak ve çalıştırmak.\nEngel algılayan robot devresini yapmak ve çalıştırmak.\nWebcam kameralı robot devresini yapmak ve çalıştırmak.\nIşığı takip eden robot devresini yapmak ve çalıştırmak.\nBilgisayar kontrollü robot devresini yapmak ve çalıştırmak.\nYön kontrollü robot devresini yapmak ve çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "7",
+      "ÜNİTE": "Çeşitli Robot Projeleri",
+      "KONU": "Webcam Kameralı Robot Projesi / Işığı Takip Eden Robot Projesi",
+      "KAZANIM": "Webcam kameralı robot projesini yapar.\nIşığı takip eden robot projesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uzaktan kontrollü robot devresini yapmak ve çalıştırmak.\nEngel algılayan robot devresini yapmak ve çalıştırmak.\nWebcam kameralı robot devresini yapmak ve çalıştırmak.\nIşığı takip eden robot devresini yapmak ve çalıştırmak.\nBilgisayar kontrollü robot devresini yapmak ve çalıştırmak.\nYön kontrollü robot devresini yapmak ve çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "7",
+      "ÜNİTE": "Çeşitli Robot Projeleri",
+      "KONU": "Bilgisayar Kontrollü Robot Projesi / Yön Kontrollü Robot Projesi",
+      "KAZANIM": "Bilgisayar kontrollü robot projesini yapar.\nYön kontrollü robot projesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Öğretim Teknikleri": "Ortam: Elektronik Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, robotik malzemeler, mikrodenetleyici programlama yazılımı, mikrodenetleyiciler, malzeme kataloğu, vb.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uzaktan kontrollü robot devresini yapmak ve çalıştırmak.\nEngel algılayan robot devresini yapmak ve çalıştırmak.\nWebcam kameralı robot devresini yapmak ve çalıştırmak.\nIşığı takip eden robot devresini yapmak ve çalıştırmak.\nBilgisayar kontrollü robot devresini yapmak ve çalıştırmak.\nYön kontrollü robot devresini yapmak ve çalıştırmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Etkinlik Haftası",
+        "Süreç Bileşenleri": "Etkinlik Haftası"
+      }
+    }
+  ]
+}

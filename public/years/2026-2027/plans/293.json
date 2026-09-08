@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Otomasyon Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/293/otomasyon-atolyesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Endüstriyel Sensörler",
+      "KAZANIM": "Endüstriyel sensörlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sensörlerin kullanıldıkları yerler açıklanır.\nSensörlerin tipleri (NPN-PNP) bağlantı şekli ile açıklanır.\nSensörlerin çeşitleri (2, 3 veya 4 kablolu) bağlantıları ile açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dijital çıkışlı sensörlerin özellikleri açıklanır.\nEndüktif sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nKapasitif sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Manyetik sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nOptik sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nRenk sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler / Analog Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörler ile devre uygulamaları yapar.\nAnalog çıkışlı sensörler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enkoderlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nAnalog çıkışlı sensörlerin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Analog Çıkışlı Sensörler",
+      "KAZANIM": "Analog çıkışlı sensörler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıcaklık sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nBasınç sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nMesafe (ultrasonik ve lazer) sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Analog Çıkışlı Sensörler / Sinyal Çeviriciler",
+      "KAZANIM": "Analog çıkışlı sensörler ile devre uygulamaları yapar.\nSinyal çeviriciler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seviye sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nSinyal çeviricilerin yapısı açıklanır.\nSinyal çeviricilerin çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Sinyal Çeviriciler",
+      "KAZANIM": "Sinyal çeviriciler ile devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sinyal çeviricilerin kullanım alanları sıralanır.\nSinyal çeviricilerin röleli sistemlere göre avantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "NPN-PNP sensör bağlantısı uygulaması\nEndüktif sensör uygulaması\nKapasitif sensör uygulaması\nManyetik sensör uygulaması\nOptik sensör uygulaması\nRenk sensör uygulaması\nEnkoder uygulaması\nSıcaklık sensörü uygulaması\nBasınç sensörü uygulaması\nMesafe (ultrasonik) sensörü uygulaması\nMesafe (lazer) sensörü uygulaması\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesi uygulaması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Özellikleri",
+      "KAZANIM": "PLC'nin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'nin tanımı yapılır.\nPLC yapısı ve çalışması açıklanır.\nPLC kullanım alanları sıralanır.\nPLC giriş ve çıkış adreslemeleri açıklanır.\nPLC programının yürütülmesi açıklanır.\nPLC seçiminde dikkat edilecek hususlar sıralanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "AC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nDC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nPLC giriş elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nPLC çıkış elemanlarını PLC klemens yapısına ve adreslerine çizmek\nPLC giriş ve çıkış elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nVerilen şemaya ve adreslere göre giriş elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre çıkış elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre giriş ve çıkış elemanlarını PLC ye bağlamak\nPLC'ye dijital ve analog modül bağlantılarını yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Giriş Elemanları / PLC Çıkış Elemanları",
+      "KAZANIM": "PLC'nin giriş elemanlarını seçer.\nPLC'nin çıkış elemanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'nin giriş elemanları sıralanır.\nButonların özellikleri ve bağlantıları açıklanır.\nAnahtarların özellikleri ve bağlantıları açıklanır.\nŞalterlerin özellikleri ve bağlantıları açıklanır.\nSensörlerin özellikleri ve bağlantıları açıklanır.\nPLC'nin çıkış elemanları sıralanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "AC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nDC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nPLC giriş elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nPLC çıkış elemanlarını PLC klemens yapısına ve adreslerine çizmek\nPLC giriş ve çıkış elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nVerilen şemaya ve adreslere göre giriş elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre çıkış elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre giriş ve çıkış elemanlarını PLC ye bağlamak\nPLC'ye dijital ve analog modül bağlantılarını yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Çıkış Elemanları",
+      "KAZANIM": "PLC'nin çıkış elemanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sinyal lambaların özellikleri ve bağlantıları açıklanır.\nSelenoid valflerin özellikleri ve bağlantıları açıklanır.\nRölelerin özellikleri ve bağlantıları açıklanır.\nKontaktörlerin özellikleri ve bağlantıları açıklanır.\nMotorların özellikleri ve bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "AC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nDC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nPLC giriş elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nPLC çıkış elemanlarını PLC klemens yapısına ve adreslerine çizmek\nPLC giriş ve çıkış elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nVerilen şemaya ve adreslere göre giriş elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre çıkış elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre giriş ve çıkış elemanlarını PLC ye bağlamak\nPLC'ye dijital ve analog modül bağlantılarını yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Giriş ve Çıkış Bağlantıları / PLC Donanımları ve Seçimi",
+      "KAZANIM": "PLC'nin giriş ve çıkış bağlantılarını yapar.\nPLC donanımlarını ve ekipmanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC devre sembollerinin çizimi açıklanır.\nPLC besleme bağlantısının çizimi açıklanır.\nPLC giriş eleman ve bağlantılarının çizimi açıklanır.\nPLC çıkış eleman ve bağlantılarının çizimi açıklanır.\nPLC giriş ve çıkış bağlantıları açıklanır.\nPLC dijital modülleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "AC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nDC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nPLC giriş elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nPLC çıkış elemanlarını PLC klemens yapısına ve adreslerine çizmek\nPLC giriş ve çıkış elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nVerilen şemaya ve adreslere göre giriş elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre çıkış elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre giriş ve çıkış elemanlarını PLC ye bağlamak\nPLC'ye dijital ve analog modül bağlantılarını yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Temel PLC İşlemleri",
+      "KONU": "PLC Donanımları ve Seçimi",
+      "KAZANIM": "PLC donanımlarını ve ekipmanlarını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC analog modülleri açıklanır.\nPLC enerji cihaz modülleri açıklanır.\nPLC haberleşme modülleri açıklanır.\nPLC kablo ve ekipmanları açıklanır.\nKatalogdan PLC seçim işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "AC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nDC beslemeli bir PLC'nin besleme bağlantılarını yapmak\nPLC giriş elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nPLC çıkış elemanlarını PLC klemens yapısına ve adreslerine çizmek\nPLC giriş ve çıkış elemanlarını PLC klemens yapısına ve adreslerine göre çizmek\nVerilen şemaya ve adreslere göre giriş elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre çıkış elemanlarını PLC ye bağlamak\nVerilen şemaya ve adreslere göre giriş ve çıkış elemanlarını PLC ye bağlamak\nPLC'ye dijital ve analog modül bağlantılarını yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "PLC Programlama Mantığı ve Yazılım Dili / Temel Editör İşlemleri",
+      "KAZANIM": "PLC programlama mantığını ve yazılım dilini açıklar.\nPLC programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC program işleme mantığı açıklanır.\nPLC program yazılım dilleri açıklanır.\nPLC programlamada hafıza alanları ve adreslemeleri açıklanır.\nPLC programlama yazılımının kurulumu açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "Temel Editör İşlemleri",
+      "KAZANIM": "PLC programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programlama yazılımı menüleri ve araç çubukları açıklanır.\nPLC programlama yazılımı pençelerinin özellikleri kullanımı ile açıklanır.\nPLC programlama yazılımda PLC tipi seçimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "Temel Editör İşlemleri",
+      "KAZANIM": "PLC programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programlama yazılımında kullanılan program komutları sıralanır.\nPLC programlama yazılımında donanım ayarları açıklanır.\nPLC ile PC haberleşmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "Temel Editör İşlemleri / PLC Dijital İşlemleri",
+      "KAZANIM": "PLC programlama editörünü kullanır.\nPLC ile dijital işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PC'den PLC'ye program yüklenmesi açıklanır.\nPLC'den PC'ye program aktarılması (yedeklenmesi) açıklanır.\nKomutların program alanına yerleştirilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "PLC Dijital İşlemleri",
+      "KAZANIM": "PLC ile dijital işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Komutlarda adres yazım işlemleri açıklanır.\nKomutlarda etiketleme işlemleri açıklanır.\nBit lojik komutları örneklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "PLC Dijital İşlemleri",
+      "KAZANIM": "PLC ile dijital işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Zamanlayıcı komutları örneklerle açıklanır.\nSayıcı komutları örneklerle açıklanır.\nKarşılaştırıcı komutları örneklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "PLC Dijital İşlemleri",
+      "KAZANIM": "PLC ile dijital işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mantıksal komutları örneklerle açıklanır.\nVeri taşıma komutları örneklerle açıklanır.\nVeri kaydırma komutları örneklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "PLC Dijital İşlemleri",
+      "KAZANIM": "PLC ile dijital işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri döndürme komutları örneklerle açıklanır.\nDönüştürme komutlar örneklerle açıklanır.\nMatematiksel komutlar örneklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "PLC Programlama",
+      "KONU": "PLC Analog İşlemleri",
+      "KAZANIM": "PLC ile analog işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editörde analog modül ekleme ve donanım ayar yapma işlemleri açıklanır.\nAnalog giriş adreslemeleri, sinyal türleri (akım-gerilim), sinyal işleme, dijital karşılıkları ve komutları açıklanır.\nAnalog çıkış adreslemeleri, sinyal türleri (akım-gerilim), sinyal işleme, dijital karşılıkları ve komutları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yeni bir PLC projesi oluşturarak donanım ayarlarını yapmak\nGiriş çıkış etiketleme listesini oluşturmak ve PC-PLC haberleşme ayarlarını yaparak PLC ye yükleme yapmak\nPLC ile bit lojik komutları ile ilgili uygulama yapmak\nPLC ile zamanlayıcı komutları ile ilgili uygulama yapmak\nPLC ile sayıcı komutları ile ilgili uygulama yapmak\nPLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak\nPLC ile mantıksal komutları ile ilgili uygulama yapmak\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak\nPLC ile matematiksel komutları ile ilgili uygulama yapmak\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "Frekans İnvertörlerin Özellikleri",
+      "KAZANIM": "Frekans invertörlerinin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans invertörlerin özellikleri açıklanır.\nFrekans invertörlerin kullanım amaçları açıklanır.\nFrekans invertörlerin kullanıldığı yerler açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini keypad üzerinden çalıştırma\nFrekans invertörü ve PLC ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ve PLC ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ve PLC ile motor rampalama uygulaması yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "Frekans İnvertörlerin Özellikleri / Frekans İnvertörlerin Bağlantıları ve Ayarları",
+      "KAZANIM": "Frekans invertörlerinin özelliklerini açıklar.\nFrekans invertörlerinin bağlantılarını ve ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans invertörlerin çeşitleri açıklanır.\nFrekans invertörlerin bağlantıları açıklanır.\nFrekans invertörlerin temel parametre ayarları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini keypad üzerinden çalıştırma\nFrekans invertörü ve PLC ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ve PLC ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ve PLC ile motor rampalama uygulaması yapmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Frekans İnvertörleri",
+      "KONU": "PLC ile Frekans İnvertörlerin kontrolü",
+      "KAZANIM": "PLC ile frekans invertörlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programı yazılır.\nPLC bağlantısını yapar.\nPLC ile frekans invertörü kontrolü için gerekli parametre ayarları yapılır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Frekans invertörlerini keypad üzerinden çalıştırma\nFrekans invertörü ve PLC ile motor hız kontrol uygulaması yapmak\nFrekans invertörü ve PLC ile motor yön değiştirme uygulaması yapmak\nFrekans invertörü ve PLC ile motor rampalama uygulaması yapmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Özellikleri",
+      "KAZANIM": "Operatör panellerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Operatör panelin yapısı açıklanır.\nOperatör panelin çalışması açıklanır.\nOperatör panelin çeşitleri açıklanır.\nOperatör panelin kullanım alanları açıklanır.\nOperatör panelin montajı ve besleme bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Temel Editör İşlemleri",
+      "KAZANIM": "Operatör panelleri programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Operatör paneli programlamada kullanılacak temel editör yazılımın kurulumu açıklanır.\nProgram editörün menüleri ve araç çubukları açıklanır.\nEditör üzerinde yeni bir proje oluşturma işlemi açıklanır.\nEditör üzerinde ekran ayarı açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Temel Editör İşlemleri",
+      "KAZANIM": "Operatör panelleri programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editör üzerinde sayfa dizayn işlemleri açıklanır.\nEditör ekranında display oluşturma işlemleri açıklanır.\nEditör ekranında grafik ve yazı oluşturma işlemleri açıklanır.\nEditör ekranında buton ve sinyal lamba objeleri oluşturma işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Temel Editör İşlemleri",
+      "KAZANIM": "Operatör panelleri programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editör ekranında animasyon oluşturma işlemleri açıklanır.\nEditör ekranında fonksiyon tuşu oluşturma işlemleri açıklanır.\nEditör ekranında görsel veri işlemleri açıklanır.\nEditörde veri gönderme işlemleri açıklanır.\nBirden çok sayfa arasında geçiş işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Temel Editör İşlemleri",
+      "KAZANIM": "Operatör panelleri programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Programlama editöründe donanım ayarları ve işlemleri açıklanır.\nPC-operatör paneli-PLC haberleştirme işlemi açıklanır.\nEditör ekranında ekran ekleme, ayarları değiştirme ve isim değiştirme işlemleri açıklanır.\nEditör yazılımda ekranlar arası geçiş ayarları açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Temel Editör İşlemleri",
+      "KAZANIM": "Operatör panelleri programlama editörünü kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Operatör paneli ile PLC kontrolü için PLC'deki programda adreslerin düzenlenmesi açıklanır.\nEditör ekranında buton oluşturma, ayarları yapma ve adresle bağlantı kurma işlemleri açıklanır.\nEditör ekranında giriş/çıkış alanları oluşturma, ayarları yapma ve adresle bağlantı kurma işlemleri açıklanır.\nEditör ekranında bar grafiği oluşturma, ayarları yapma ve adresle bağlantı kurma işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Operatör Panelleri",
+      "KONU": "Operatör Panellerin Temel Editör İşlemleri / Operatör Panellerin Programlanması",
+      "KAZANIM": "Operatör panelleri programlama editörünü kullanır.\nOperatör paneli programlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editör ekranında fonksiyon tuşları ayarlama işlemleri açıklanır.\nOperatör panel ile diğer cihazlarla bağlantıları ve ayarları açıklanır.\nProgramın panele yüklenmesi açıklanır.\nPanel üzerinden PLC'yi kontrol edilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Operatör panelinin besleme ve haberleşme bağlantılarını yapmak\nOperatör panelinde ayarları yaparak bir proje oluşturmak\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek\nZaman rölesindeki aktif zamanı operatör panelinden sayısal olarak takip etmek\nSayıcı değerlerini operatör panelinde sayısal olarak takip etmek\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde görsel ve sayısal olarak takip etmek\nOperatör panelinden tuş takımı veya slider ile PLC hafıza alanındaki veri değerini değiştirme\nMotor hızını operatör panelinde sayısal ve görsel takip etmek\nFonksiyon tuşlarına görev atamak\nOperatör panele yazılım yüklemek yükü programı çekmek ve yazılımı arşivlemek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Step Motorun PLC ile Kontrolü",
+      "KONU": "Step Motorların Özellikleri",
+      "KAZANIM": "Step motorları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Step motorların yapısı açıklanır.\nStep motorların çalışması açıklanır.\nStep motorların çeşitleri açıklanır.\nStep motorların kullanım alanları açıklanır.\nStep motorların sürme teknikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Step motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nStep motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Step Motorun PLC ile Kontrolü",
+      "KONU": "Step Motorların Özellikleri / Step Motorların Bağlantıları ve Ayarları / Step Motorların PLC ile Kontrol İşlemleri",
+      "KAZANIM": "Step motorları açıklar.\nStep motorların bağlantılarını ve ayarlarını yapar.\nStep motorların PLC ile kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Step motor sürücü devrelerinin yapısı ve çalışması açıklanır.\nStep motor kablo bağlantıları açıklanır.\nStep motorun temel parametre ayarları açıklanır.\nLimit switch kullanımı ve önemi açıklanır.\nHome pozisyonu ve önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Step motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nStep motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Step Motorun PLC ile Kontrolü",
+      "KONU": "Step Motorların PLC ile Kontrol İşlemleri",
+      "KAZANIM": "Step motorların PLC ile kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Step motoru kontrol edecek PLC'nin özellikleri açıklanır.\nStep motor kontrolünde kullanılacak PLC komutları açıklanır.\nStep motor için PLC kontrol programının yazılımı açıklanır.\nPLC ile step motor kontrolünde dikkat edilmesi gereken hususlar sıralanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Step motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nStep motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Servo Motorun PLC ile Kontrolü",
+      "KONU": "Servo Motorların Özellikleri",
+      "KAZANIM": "Servo motorların özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servo motorun yapısı açıklanır.\nServo motorun çeşitleri açıklanır.\nServo motorun kullanıldığı yerler açıklanır.\nServo motor sürücülerin teknik özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Servo motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nServo motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nPLC ile servo motorun pozisyon ve hız kontrol uygulamalarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Servo Motorun PLC ile Kontrolü",
+      "KONU": "Servo Motorların Bağlantıları ve Ayarları / Servo Motorların PLC ile Kontrol İşlemleri",
+      "KAZANIM": "Servo motorların bağlantılarını ve ayarlarını yapar.\nServo motorların PLC ile kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servo motor kablo bağlantıları açıklanır.\nServo motor temel parametre ayarları açıklanır.\nLimit switch kullanımı ve önemi açıklanır.\nHome pozisyonu ve önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Öğretim Teknikleri": "Ortam: PLC Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, PLC, PLC dijital ve analog modülleri, operatör panelleri, el aletleri, ölçü aletleri, kablolar, step motorlar, servo motorlar, frekans invertörleri, bağlantı kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Servo motorun besleme ve haberleşme kablolarının bağlantılarını yapmak\nServo motorun temel parametre ayarlarını yapmak\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak\nPLC ile servo motorun pozisyon ve hız kontrol uygulamalarını yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

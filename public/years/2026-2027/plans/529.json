@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Bilgisayar Destekli Tasarım (Cad)",
+  "grup": "Meslek Dersleri",
+  "brans": "Makine Ve Tasarım Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/makine-ve-tasarim-teknolojisi/529/bilgisayar-destekli-tasarim-cad-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "Bilgisayar destekli tasarım programlarını yükleme",
+      "KAZANIM": "CAD programını kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Orijinal program kullanmanın avantajları ve sahte program kullanmanın zararları açıklanır.\nCAD programını kurulumu aşamasını mutlaka öğrenci ile beraber yapar Bilgisayarlı tasarımın avantajları ve piyasadaki önemi ile ilgili bir tartışma ortamı oluşturulur.\nCAD programları ile alakalı araştırma yapmaları istenir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "Bilgisayar destekli tasarım programlarını yükleme / Çizim öncesi program ayarları",
+      "KAZANIM": "CAD programını kurar.\nÇizim öncesi program ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrenciye program ile ilgili internet kaynaklarından örnekler gösterilir.\nÇizim alanını sınırlama işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "Çizim öncesi program ayarları",
+      "KAZANIM": "Çizim öncesi program ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devamlı kullanılacak araç çubuklarının açılması ve yerlerine yerleştirilmesi sağlanır\nAçılan yeni çizim sayfası ve ayarları mutlaka kaydedilir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "Çizim öncesi program ayarları / İki boyutlu çizim komutları",
+      "KAZANIM": "Çizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dosya kayıt işlemleri açıklanır.\nÇizim komutlarına ulaşma yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "İki boyutlu çizim komutları",
+      "KAZANIM": "İki boyutlu çizim komutlarını kullanarak çizim yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizimi hızlandırmak için kısa yolları mutlaka anlatılır.\nÇizim komutu önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nBir komut tam olarak öğretilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "İki boyutlu çizim komutları",
+      "KAZANIM": "İki boyutlu çizim komutlarını kullanarak çizim yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "Çizim düzenleme komutları",
+      "KAZANIM": "İki boyutlu çizim düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizim düzenleme komutu önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nBir düzenleme komutu tam olarak öğretilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "İki Boyutlu Çizimler",
+      "KONU": "Çizim düzenleme komutları",
+      "KAZANIM": "İki boyutlu çizim düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirli aralıklarla öğrencilerin birden fazla düzenleme komutunu kullanabileceği resimler çizdirilir.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "CAD programını kurar\nÇizim öncesi program ayarlarını yapar.\nİki boyutlu çizim komutlarını kullanarak çizim yapar.\nİki boyutlu çizim düzenleme komutlarını kullanır",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Üç boyutlu katı modelleme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında katı model oluşturma komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İki boyutlu çizimleri katı modele dönüştürme mantığını açıklanır.\nKatı modelleme komutların alt parametrelerini açıklanır\nKatı model komutu önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Üç boyutlu katı modelleme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında katı model oluşturma komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bir komut tam olarak öğretilmeden diğer komuta geçilmez.\nBelirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Üç boyutlu katı modelleme / Katı model düzenleme komutları",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.\nHer düzenleme komutu önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Katı model düzenleme komutları",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bir komut tam olarak öğretilmeden diğer komuta geçilmez.\nBelirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Katı model düzenleme komutları / Katı model ağırlık, hacim ve kütle hesabı",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını, hacmini, ve kütlesini hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.\nHer hesaplama komutu önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nBir hesaplama komutu tam olarak öğretilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Katı model ağırlık, hacim ve kütle hesabı",
+      "KAZANIM": "Katı modellerin ağırlığını, hacmini, ve kütlesini hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Üç boyutlu yüzey modelleme",
+      "KAZANIM": "Yüzey model oluşturma işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yüzey modelleme komutu önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nBir komut tam olarak öğretilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Üç boyutlu yüzey modelleme",
+      "KAZANIM": "Yüzey model oluşturma işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Malzeme kaplama ve görüntü ayarları",
+      "KAZANIM": "Malzeme kaplama ve görüntü ayarları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Malzeme kaplama ve görüntü ayar komutları önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nBir komut tam olarak öğretilmeden diğer komuta geçilmez.\nBelirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği kaplamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "Malzeme kaplama ve görüntü ayarları / CAD programları arasında veri dönüşümleri",
+      "KAZANIM": "Malzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.\nVeri (Data) dönüşüm programlarını tanımlar.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "CAD programları arasında veri dönüşümleri",
+      "KAZANIM": "CAD programları arasında veri dönüşümleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Programları farklı uzantılarda kaydetme işlemini açıklar.\nHer veri dönüşüm formatı önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Katı ve Yüzey Model Çizimleri",
+      "KONU": "CAD programları arasında veri dönüşümleri",
+      "KAZANIM": "CAD programları arasında veri dönüşümleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında temel katı model oluşturma komutlarını kullanır.\nBilgisayar destekli tasarım programlarında katı model düzenleme komutlarını kullanır.\nKatı modellerin ağırlığını hacmini, ağırlığını ve kütlesini hesaplar.\nYüzey modelleme işlemleri yapar.\nMalzeme kaplama ve görüntü ayarları yapar.\nCAD programları arasında veri dönüşümleri yapar."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montaj sayfasına parça ve ilişki ekleme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Her komut önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nParçalar arasına ilişki ekleme mantığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montaj sayfasına parça ve ilişki ekleme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bir komut tam olarak öğrenilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montaj sayfasına parça ve ilişki ekleme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Belirli aralıklarla öğrencilerin birden fazla komutu kullanabileceği resimler çizdirilir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montaj sayfasına parça ve ilişki ekleme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montajlara hareket verme",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında montajlara hareket verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Her komut önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nÖğrencilerin ilgi duydukları ve kendi seçtikleri bir mekanizma üzerinden uygulama yapmasına fırsat verilir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montajların animasyonu",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Animasyon ve simülasyon kavramlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montajların animasyonu",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Her komut önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Montajı",
+      "KONU": "Montajların animasyonu",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilerin ilgi duydukları ve kendi seçtikleri bir mekanizma üzerinden uygulama yapmasına fırsat verilir.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar.\nBilgisayar destekli tasarım programlarında modele hareket verir.\nBilgisayar destekli tasarım programlarında montajların animasyonunu yapar.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Görünüş çıkarma",
+      "KAZANIM": "Katı modelden görünüşler elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Görünüş çıkarma komutları önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.\nBir komut tam olarak öğrenilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Görünüş çıkarma / Kesit görünüşler",
+      "KAZANIM": "Katı modelden görünüşler elde eder.\nKatı modellerden kesit görünüşler elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.\nKesit görünüş elde etme komutları önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Kesit görünüşler",
+      "KAZANIM": "Katı modellerden kesit görünüşler elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bir komut tam olarak öğrenilmeden diğer komuta geçilmez.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Kesit görünüşler / Görünüşlere detay ekleme",
+      "KAZANIM": "Katı modellerden kesit görünüşler elde eder.\nGörünüşlere detay bilgileri ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.\nKesit görünüş elde etme komutları önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Görünüşlere detay ekleme",
+      "KAZANIM": "Görünüşlere detay bilgileri ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bir komut tam olarak öğrenilmeden diğer komuta geçilmez.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Antet ve parça listesi",
+      "KAZANIM": "Antet ve parça listesi oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parça listesi elde etme komutları önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Antet ve parça listesi",
+      "KAZANIM": "Antet ve parça listesi oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bir komut tam olarak öğrenilmeden diğer komuta geçilmez.\nÖğrencinin çizdiği her örnek bir portfolyo dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Katıların Teknik Resmini Alma",
+      "KONU": "Çıktı alma",
+      "KAZANIM": "Çizimlerden çıktı alma işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizimlerden çıktı alma işlemleri önce gösterilir sonra öğrencilerin basit bir örnek yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Öğretim Teknikleri": "Ortam: İmalat işlemleri atelyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, bilgisayar donanımı, resim masası, örnek model parçalar, makine parçaları, çizim araç gereçleri, ölçme ve kontrol araç gereçleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Katı modelden görünüş elde eder.\nKatı modelden kesit görünüş elde eder\nGörünüşlere detay bilgileri ekler.\nAntet ve parça listesi oluşturur.\nÇizimlerden çıktı alır."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

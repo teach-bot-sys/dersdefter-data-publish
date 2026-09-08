@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Gaz Türbinli Motorlar Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Uçak Bakım",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/ucak-bakim/935/gaz-turbinli-motorlar-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "1. Termodinamik birim hesaplamaları",
+      "KAZANIM": "Termodinamik birim hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTermodinamik kavramı açıklanır.\n•\nSıcaklık ölçü birimleri açıklanır.\n•\nSıcaklık ölçü aletleri kullanarak farklı birimlerde sıcaklıkları ölçmeleri sağlanır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "1. Termodinamik birim hesaplamaları",
+      "KAZANIM": "Termodinamik birim hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSıcaklık formüllerini kullanarak birim çevirme hesaplamaları yaptırılır.\n•\nTermodinamik birim hesaplamaları yaptırılır.\n•\nIsı transferi hesaplamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "2. Termodinamik kanun hesaplamaları",
+      "KAZANIM": "Termodinamik kanun hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTermodinamiğin birinci kanunu ile ilgili hesaplamalar yaptırılır.\n•\nTermodinamiğin ikinci kanunu ile ilgili hesaplamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "3. İdeal gaz kanunu hesaplamaları",
+      "KAZANIM": "Termodinamik kanunlarına uygun olarak ideal gaz kanunu hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGazların durum değişikliği hesaplamaları yaptırılır.\n•\nMotor çevrimleri ilgili hesaplamalar yaptırılır.\n•\nBrayton çevrimi ile ilgili hesaplamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "4. Soğutucular ve ısı pompaları hesaplamaları",
+      "KAZANIM": "Termodinamik kanunlarına uygun olarak soğutucular ve ısı pompaları hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nCarnot çevrimi hesaplamaları yaptırılır.\n•\nSoğutucularla ilgili hesaplamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "4. Soğutucular ve ısı pompaları hesaplamaları / 5. Buharlaşma hesaplamaları",
+      "KAZANIM": "Termodinamik kanunlarına uygun olarak soğutucular ve ısı pompaları hesaplamalarını yapar.\nTermodinamik kanunlarına uygun olarak buharlaşma hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nIsı pompaları hesaplamaları yaptırılır.\n•\nBuhar sıkıştırmalı soğutma çevrimi hesaplamaları yaptırılır.\n•\nDoymuş buhar basınç tablosundan gerekli değerlerin tespiti gösterilir.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Termodinamik Hesaplamalar",
+      "KONU": "5. Buharlaşma hesaplamaları",
+      "KAZANIM": "Termodinamik kanunlarına uygun olarak buharlaşma hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBuharlaşma ile ilgili hesaplamalar yaptırılır.\n•\nBuharlaşma ısısı ile ilgili hesaplamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Termometre kullanarak farklı birimlerde sıcaklıkları ölçmek, sıcaklık birim çevirme hesaplamaları, termodinamik birim hesaplamaları ve ısı transferi hesaplamalarını yapmak\n2. Termodinamiğin I. ve II. kanun hesaplamalarını yapmak\n3. İdeal gaz kanunlarını kullanarak gazların durum değişikliği hesaplamalarını ve Brayton çevrimi hesaplamalarını yapmak\n4. Carnot çevrimi ve buhar sıkıştırmalı çevrim hesaplamalarını yapmak\n5. Buharlaşma ve buharlaşma ısısı ile ilgili hesaplamaları yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Performans Hesabı",
+      "KONU": "1. Dinamiğin temel esasları ile ilgili hesaplamalar",
+      "KAZANIM": "Dinamiğin temel esasları ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPotansiyel enerji hesaplamaları yaptırılır.\n•\nKinetik enerji hesaplamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Potansiyel enerji, Kinetik enerji, Newton’un hareket kanunları ve dinamik kavramlarla ilgili hesaplamaları yapmak\n2. Motor performans ve verim hesaplamalarını yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Performans Hesabı",
+      "KONU": "1. Dinamiğin temel esasları ile ilgili hesaplamalar",
+      "KAZANIM": "Dinamiğin temel esasları ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nNewton’un hareket kanunları hesaplamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Potansiyel enerji, Kinetik enerji, Newton’un hareket kanunları ve dinamik kavramlarla ilgili hesaplamaları yapmak\n2. Motor performans ve verim hesaplamalarını yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Performans Hesabı",
+      "KONU": "1. Dinamiğin temel esasları ile ilgili hesaplamalar",
+      "KAZANIM": "Dinamiğin temel esasları ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDinamik kavramlarla ilgili hesaplamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Potansiyel enerji, Kinetik enerji, Newton’un hareket kanunları ve dinamik kavramlarla ilgili hesaplamaları yapmak\n2. Motor performans ve verim hesaplamalarını yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Performans Hesabı",
+      "KONU": "2. Motor performans hesaplamaları",
+      "KAZANIM": "Motor performans hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMotor performans hesaplamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Potansiyel enerji, Kinetik enerji, Newton’un hareket kanunları ve dinamik kavramlarla ilgili hesaplamaları yapmak\n2. Motor performans ve verim hesaplamalarını yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Performans Hesabı",
+      "KONU": "2. Motor performans hesaplamaları",
+      "KAZANIM": "Motor performans hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMotor verim hesaplamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Potansiyel enerji, Kinetik enerji, Newton’un hareket kanunları ve dinamik kavramlarla ilgili hesaplamaları yapmak\n2. Motor performans ve verim hesaplamalarını yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Turbofan Motorlar ve Kısımları",
+      "KONU": "1. Hava giriş kısmı kontrolleri",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, hava giriş kısmı kontrollerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMotor hava giriş kısmı (inlet cowl) söktürülür.\n•\nHava giriş kısmının temizliği yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Motor hava giriş kısmının (inlet cowl) temizlemek ve motor hava alıklarının kontrol işlemlerini yapmak\n2. Motorun kompresörünü yıkamak, kompresörü el feneri ve kontrol aynası ile kontrol etmek, motor giriş/çıkış valflerini ayarlamak\n3. Motorda çalışırken gerekli emniyet tedbirlerini alarak yanma odası parçalarını sökmek ve bakımlarını yapmak\n4. Türbin kısmının baroskop kontrolünü yapmak, parçalarını sökmek ve bakımlarını yapmak\n5. Egzoz kısmında EGT sıcaklık sensörlerini sökmek, bakım ve değiştirme işlemlerini yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Turbofan Motorlar ve Kısımları",
+      "KONU": "1. Hava giriş kısmı kontrolleri / 2. Kompresör kısmının bakımı",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, hava giriş kısmı kontrollerini yapar.\nİlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak kompresör kısmının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMotor hava alıklarının kontrol işlemleri yaptırılır.\n•\nKompresörün yıkanması işlemi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Motor hava giriş kısmının (inlet cowl) temizlemek ve motor hava alıklarının kontrol işlemlerini yapmak\n2. Motorun kompresörünü yıkamak, kompresörü el feneri ve kontrol aynası ile kontrol etmek, motor giriş/çıkış valflerini ayarlamak\n3. Motorda çalışırken gerekli emniyet tedbirlerini alarak yanma odası parçalarını sökmek ve bakımlarını yapmak\n4. Türbin kısmının baroskop kontrolünü yapmak, parçalarını sökmek ve bakımlarını yapmak\n5. Egzoz kısmında EGT sıcaklık sensörlerini sökmek, bakım ve değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Turbofan Motorlar ve Kısımları",
+      "KONU": "2. Kompresör kısmının bakımı",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak kompresör kısmının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKompresör kısmı söktürülür.\n•\nKompresör kısmının bakımı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Motor hava giriş kısmının (inlet cowl) temizlemek ve motor hava alıklarının kontrol işlemlerini yapmak\n2. Motorun kompresörünü yıkamak, kompresörü el feneri ve kontrol aynası ile kontrol etmek, motor giriş/çıkış valflerini ayarlamak\n3. Motorda çalışırken gerekli emniyet tedbirlerini alarak yanma odası parçalarını sökmek ve bakımlarını yapmak\n4. Türbin kısmının baroskop kontrolünü yapmak, parçalarını sökmek ve bakımlarını yapmak\n5. Egzoz kısmında EGT sıcaklık sensörlerini sökmek, bakım ve değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Turbofan Motorlar ve Kısımları",
+      "KONU": "3. Yanma odası kısmının bakımı",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yanma odası kısmının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYanma odası parçaları söktürülür.\n•\nYanma odasının bakımları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Motor hava giriş kısmının (inlet cowl) temizlemek ve motor hava alıklarının kontrol işlemlerini yapmak\n2. Motorun kompresörünü yıkamak, kompresörü el feneri ve kontrol aynası ile kontrol etmek, motor giriş/çıkış valflerini ayarlamak\n3. Motorda çalışırken gerekli emniyet tedbirlerini alarak yanma odası parçalarını sökmek ve bakımlarını yapmak\n4. Türbin kısmının baroskop kontrolünü yapmak, parçalarını sökmek ve bakımlarını yapmak\n5. Egzoz kısmında EGT sıcaklık sensörlerini sökmek, bakım ve değiştirme işlemlerini yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Turbofan Motorlar ve Kısımları",
+      "KONU": "4. Türbin kısmının bakımı",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak türbin kısmının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTürbin kısmının parçaları söktürülür.\n•\nTürbin kısmının bakımları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Motor hava giriş kısmının (inlet cowl) temizlemek ve motor hava alıklarının kontrol işlemlerini yapmak\n2. Motorun kompresörünü yıkamak, kompresörü el feneri ve kontrol aynası ile kontrol etmek, motor giriş/çıkış valflerini ayarlamak\n3. Motorda çalışırken gerekli emniyet tedbirlerini alarak yanma odası parçalarını sökmek ve bakımlarını yapmak\n4. Türbin kısmının baroskop kontrolünü yapmak, parçalarını sökmek ve bakımlarını yapmak\n5. Egzoz kısmında EGT sıcaklık sensörlerini sökmek, bakım ve değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Turbofan Motorlar ve Kısımları",
+      "KONU": "5. Egzoz kısmının bakımını yaparak test etme",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak egzoz kısmının bakımını yapıp test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEgzoz kısmının parçaları söktürülür.\n•\nEgzoz kısmının bakımları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Motor hava giriş kısmının (inlet cowl) temizlemek ve motor hava alıklarının kontrol işlemlerini yapmak\n2. Motorun kompresörünü yıkamak, kompresörü el feneri ve kontrol aynası ile kontrol etmek, motor giriş/çıkış valflerini ayarlamak\n3. Motorda çalışırken gerekli emniyet tedbirlerini alarak yanma odası parçalarını sökmek ve bakımlarını yapmak\n4. Türbin kısmının baroskop kontrolünü yapmak, parçalarını sökmek ve bakımlarını yapmak\n5. Egzoz kısmında EGT sıcaklık sensörlerini sökmek, bakım ve değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Turboprop Motorlar",
+      "KONU": "1. Gaz kuplajlı /serbest türbinlerin bakım onarımını yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, gaz kuplajlı /serbest türbinlerin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGaz kuplajlı / serbest türbinin parçaları söktürülür.\n•\nGaz kuplajlı / serbest türbinin bakım onarımı yaptırılır.\n•\nGaz kuplajlı / serbest türbinin parçaları yerlerine taktırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Gaz kuplajlı / serbest türbinin parçalarını sökmek, bakım onarımını yapmak ve parçalarını yerlerine takmak\n2. Dişli kuplajlı türbinin parçalarını sökmek, bakım onarımını yapmak ve türbinin parçalarını takmak\n3. Redüksiyon dişli kutusunu sökmek, bakım onarımını yapmak ve dişli kutusunu yerine takmak\n4. Pervane kumanda mekanizmasını sökmek, bakım onarımını yapmak ve yerine takmak\n5. Aşırı hız emniyet tertibatını sökmek, bakım onarımını yapmak ve yerine takmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Turboprop Motorlar",
+      "KONU": "2. Dişli kuplajlı türbinlerin bakım onarımını yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, dişli kuplajlı türbinlerin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDişli kuplajlı türbinin parçaları söktürülür.\n•\nDişli kuplajlı türbinin bakım onarımı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Gaz kuplajlı / serbest türbinin parçalarını sökmek, bakım onarımını yapmak ve parçalarını yerlerine takmak\n2. Dişli kuplajlı türbinin parçalarını sökmek, bakım onarımını yapmak ve türbinin parçalarını takmak\n3. Redüksiyon dişli kutusunu sökmek, bakım onarımını yapmak ve dişli kutusunu yerine takmak\n4. Pervane kumanda mekanizmasını sökmek, bakım onarımını yapmak ve yerine takmak\n5. Aşırı hız emniyet tertibatını sökmek, bakım onarımını yapmak ve yerine takmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Turboprop Motorlar",
+      "KONU": "2. Dişli kuplajlı türbinlerin bakım onarımını yapma / 3. Redüksiyon dişlilerinin bakım onarımını yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, dişli kuplajlı türbinlerin bakım onarımını yapar.\nİlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, redüksiyon dişlilerinin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDişli kuplajlı türbinin parçaları taktırılır.\n•\nRedüksiyon dişli kutusu söktürülür.\n•\nRedüksiyon dişlilerinin bakım onarımı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Gaz kuplajlı / serbest türbinin parçalarını sökmek, bakım onarımını yapmak ve parçalarını yerlerine takmak\n2. Dişli kuplajlı türbinin parçalarını sökmek, bakım onarımını yapmak ve türbinin parçalarını takmak\n3. Redüksiyon dişli kutusunu sökmek, bakım onarımını yapmak ve dişli kutusunu yerine takmak\n4. Pervane kumanda mekanizmasını sökmek, bakım onarımını yapmak ve yerine takmak\n5. Aşırı hız emniyet tertibatını sökmek, bakım onarımını yapmak ve yerine takmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Turboprop Motorlar",
+      "KONU": "3. Redüksiyon dişlilerinin bakım onarımını yapma / 4. Pervane kumandalarının bakım onarımını yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, redüksiyon dişlilerinin bakım onarımını yapar.\nİlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, pervane kumandalarının bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRedüksiyon dişli kutusu taktırılır.\n•\nPervane kumanda mekanizması söktürülür.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Gaz kuplajlı / serbest türbinin parçalarını sökmek, bakım onarımını yapmak ve parçalarını yerlerine takmak\n2. Dişli kuplajlı türbinin parçalarını sökmek, bakım onarımını yapmak ve türbinin parçalarını takmak\n3. Redüksiyon dişli kutusunu sökmek, bakım onarımını yapmak ve dişli kutusunu yerine takmak\n4. Pervane kumanda mekanizmasını sökmek, bakım onarımını yapmak ve yerine takmak\n5. Aşırı hız emniyet tertibatını sökmek, bakım onarımını yapmak ve yerine takmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Turboprop Motorlar",
+      "KONU": "4. Pervane kumandalarının bakım onarımını yapma / 5. Aşırı hız emniyet tertibatının bakım onarımını yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, pervane kumandalarının bakım onarımını yapar.\nİlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, aşırı hız emniyet tertibatının bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPervane kumanda mekanizmasının bakımı yaptırılır.\n•\nPervane kumanda mekanizması taktırılır.\n•\nAşırı hız emniyet tertibatı söktürülür.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Gaz kuplajlı / serbest türbinin parçalarını sökmek, bakım onarımını yapmak ve parçalarını yerlerine takmak\n2. Dişli kuplajlı türbinin parçalarını sökmek, bakım onarımını yapmak ve türbinin parçalarını takmak\n3. Redüksiyon dişli kutusunu sökmek, bakım onarımını yapmak ve dişli kutusunu yerine takmak\n4. Pervane kumanda mekanizmasını sökmek, bakım onarımını yapmak ve yerine takmak\n5. Aşırı hız emniyet tertibatını sökmek, bakım onarımını yapmak ve yerine takmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Turboprop Motorlar",
+      "KONU": "5. Aşırı hız emniyet tertibatının bakım onarımını yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak, aşırı hız emniyet tertibatının bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAşırı hız emniyet tertibatının bakım onarımı yaptırılır.\n•\nAşırı hız emniyet tertibatı taktırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Gaz kuplajlı / serbest türbinin parçalarını sökmek, bakım onarımını yapmak ve parçalarını yerlerine takmak\n2. Dişli kuplajlı türbinin parçalarını sökmek, bakım onarımını yapmak ve türbinin parçalarını takmak\n3. Redüksiyon dişli kutusunu sökmek, bakım onarımını yapmak ve dişli kutusunu yerine takmak\n4. Pervane kumanda mekanizmasını sökmek, bakım onarımını yapmak ve yerine takmak\n5. Aşırı hız emniyet tertibatını sökmek, bakım onarımını yapmak ve yerine takmak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Yardımcı Güç Ünitesi (APU)",
+      "KONU": "1. Yardımcı güç ünitesini (APU) uçaktan sökme",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesini (APU) uçaktan söker.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYardımcı güç ünitesinin (APU) uçak üzerindeki bağlantıları söktürülür.\n•\nYardımcı güç ünitesi uçak üzerinden indirilir.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yardımcı güç ünitesinin (APU) uçak üzerindeki bağlantılarını sökmek ve yardımcı güç ünitesini uçak üzerinden indirmek\n2. Yardımcı güç ünitesinin kısımlarını sökmek, temizlik/kontrol işlemlerini yapmak ve yerlerine takmak\n3. Yardımcı güç ünitesi sistemlerinin temizliğini ve kontrol işlemlerini yapmak\n4. Yardımcı güç ünitesini (APU) uçağa takmak için gerekli emniyet tedbirlerini alarak uçağa takmak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yardımcı Güç Ünitesi (APU)",
+      "KONU": "2. Yardımcı güç ünitesi (APU) kısımlarının kontrollerini yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesi kısımlarının kontrollerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYardımcı güç ünitesinin kısımları söktürülür.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yardımcı güç ünitesinin (APU) uçak üzerindeki bağlantılarını sökmek ve yardımcı güç ünitesini uçak üzerinden indirmek\n2. Yardımcı güç ünitesinin kısımlarını sökmek, temizlik/kontrol işlemlerini yapmak ve yerlerine takmak\n3. Yardımcı güç ünitesi sistemlerinin temizliğini ve kontrol işlemlerini yapmak\n4. Yardımcı güç ünitesini (APU) uçağa takmak için gerekli emniyet tedbirlerini alarak uçağa takmak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yardımcı Güç Ünitesi (APU)",
+      "KONU": "2. Yardımcı güç ünitesi (APU) kısımlarının kontrollerini yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesi kısımlarının kontrollerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYardımcı güç ünitesi kısımlarının temizlik/kontrol işlemleri yaptırılır.\n•\nYardımcı güç ünitesi kısımları taktırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yardımcı güç ünitesinin (APU) uçak üzerindeki bağlantılarını sökmek ve yardımcı güç ünitesini uçak üzerinden indirmek\n2. Yardımcı güç ünitesinin kısımlarını sökmek, temizlik/kontrol işlemlerini yapmak ve yerlerine takmak\n3. Yardımcı güç ünitesi sistemlerinin temizliğini ve kontrol işlemlerini yapmak\n4. Yardımcı güç ünitesini (APU) uçağa takmak için gerekli emniyet tedbirlerini alarak uçağa takmak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yardımcı Güç Ünitesi (APU)",
+      "KONU": "3. Yardımcı güç ünitesi (APU) sistemlerinin kontrollerini yapma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesi sistemlerinin kontrollerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYardımcı güç ünitesi sistemlerinin temizliği yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yardımcı güç ünitesinin (APU) uçak üzerindeki bağlantılarını sökmek ve yardımcı güç ünitesini uçak üzerinden indirmek\n2. Yardımcı güç ünitesinin kısımlarını sökmek, temizlik/kontrol işlemlerini yapmak ve yerlerine takmak\n3. Yardımcı güç ünitesi sistemlerinin temizliğini ve kontrol işlemlerini yapmak\n4. Yardımcı güç ünitesini (APU) uçağa takmak için gerekli emniyet tedbirlerini alarak uçağa takmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Yardımcı Güç Ünitesi (APU)",
+      "KONU": "3. Yardımcı güç ünitesi (APU) sistemlerinin kontrollerini yapma / 4. Yardımcı güç ünitesini (APU) uçağa takma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesi sistemlerinin kontrollerini yapar.\nİlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesini uçağa takar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYardımcı güç ünitesi sistemlerinin kontrol işlemleri yaptırılır.\n•\nYardımcı güç ünitesini (APU) uçağa takma işlemleri için gerekli emniyet tedbirleri aldırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yardımcı güç ünitesinin (APU) uçak üzerindeki bağlantılarını sökmek ve yardımcı güç ünitesini uçak üzerinden indirmek\n2. Yardımcı güç ünitesinin kısımlarını sökmek, temizlik/kontrol işlemlerini yapmak ve yerlerine takmak\n3. Yardımcı güç ünitesi sistemlerinin temizliğini ve kontrol işlemlerini yapmak\n4. Yardımcı güç ünitesini (APU) uçağa takmak için gerekli emniyet tedbirlerini alarak uçağa takmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Yardımcı Güç Ünitesi (APU)",
+      "KONU": "4. Yardımcı güç ünitesini (APU) uçağa takma",
+      "KAZANIM": "İlgili Uçak bakım el kitabı (AMM) talimatlarına uygun olarak yardımcı güç ünitesini uçağa takar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYardımcı güç ünitesini (APU) uçağa takma işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yardımcı güç ünitesinin (APU) uçak üzerindeki bağlantılarını sökmek ve yardımcı güç ünitesini uçak üzerinden indirmek\n2. Yardımcı güç ünitesinin kısımlarını sökmek, temizlik/kontrol işlemlerini yapmak ve yerlerine takmak\n3. Yardımcı güç ünitesi sistemlerinin temizliğini ve kontrol işlemlerini yapmak\n4. Yardımcı güç ünitesini (APU) uçağa takmak için gerekli emniyet tedbirlerini alarak uçağa takmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Turboshaft Motorlar",
+      "KONU": "1. Turboshaft motor kısımlarının bakımını yapma / 2. Redüksiyon dişlilerini kontrol ederek bakımını yapma",
+      "KAZANIM": "İlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun kısımlarının bakımını yapar.\nİlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun redüksiyon dişlilerini kontrol edip bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTurboshaft motor kısımlarının kontrolleri yaptırılır.\n•\nMotor kısımlarının bakımı yaptırılır.\n•\nTurboshaft motorun ana rotoru söktürülerek bakımları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Turboshaft motor kısımlarının kontrollerini ve bakımını yapmak\n2. Turboshaft motorun ana rotorunu ve redüksiyon dişli kutusunu sökmek, kontrol-bakım işlemlerini yapmak ve sökülen parçaları yerlerine takmak\n3. Motor–MGB (Main Gear Box) arası bağlantı şaftlarını, güç aktarma dişlilerini ve ana dişli kutusunu sökerek kontrollerini yapmak\n4. Turboshaft motor yağlama sisteminde chip dedektör kontrolü, yağ seviye kontrolü, yağ ikmali ve yağ değiştirme işlemlerini yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Turboshaft Motorlar",
+      "KONU": "2. Redüksiyon dişlilerini kontrol ederek bakımını yapma",
+      "KAZANIM": "İlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun redüksiyon dişlilerini kontrol edip bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRedüksiyon dişli kutusu söktürülür.\n•\nRedüksiyon dişlilerinin kontrolleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Turboshaft motor kısımlarının kontrollerini ve bakımını yapmak\n2. Turboshaft motorun ana rotorunu ve redüksiyon dişli kutusunu sökmek, kontrol-bakım işlemlerini yapmak ve sökülen parçaları yerlerine takmak\n3. Motor–MGB (Main Gear Box) arası bağlantı şaftlarını, güç aktarma dişlilerini ve ana dişli kutusunu sökerek kontrollerini yapmak\n4. Turboshaft motor yağlama sisteminde chip dedektör kontrolü, yağ seviye kontrolü, yağ ikmali ve yağ değiştirme işlemlerini yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Turboshaft Motorlar",
+      "KONU": "2. Redüksiyon dişlilerini kontrol ederek bakımını yapma",
+      "KAZANIM": "İlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun redüksiyon dişlilerini kontrol edip bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRedüksiyon dişlilerinin bakımı yaptırılır.\n•\nSökülen parçalar yerlerine taktırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Turboshaft motor kısımlarının kontrollerini ve bakımını yapmak\n2. Turboshaft motorun ana rotorunu ve redüksiyon dişli kutusunu sökmek, kontrol-bakım işlemlerini yapmak ve sökülen parçaları yerlerine takmak\n3. Motor–MGB (Main Gear Box) arası bağlantı şaftlarını, güç aktarma dişlilerini ve ana dişli kutusunu sökerek kontrollerini yapmak\n4. Turboshaft motor yağlama sisteminde chip dedektör kontrolü, yağ seviye kontrolü, yağ ikmali ve yağ değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Turboshaft Motorlar",
+      "KONU": "3. Turboshaft motor bağlantılarını kontrol ederek bakımını yapma",
+      "KAZANIM": "İlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun bağlantılarını kontrol edip bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMotor–MGB (Main Gear Box) arası bağlantı şaftları söktürülerek kontrolleri yaptırılır.\n•\nGüç aktarma dişlileri söktürülerek kontrolleri yaptırılır.\n•\nAna dişli kutusu söktürülerek kontrolleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Turboshaft motor kısımlarının kontrollerini ve bakımını yapmak\n2. Turboshaft motorun ana rotorunu ve redüksiyon dişli kutusunu sökmek, kontrol-bakım işlemlerini yapmak ve sökülen parçaları yerlerine takmak\n3. Motor–MGB (Main Gear Box) arası bağlantı şaftlarını, güç aktarma dişlilerini ve ana dişli kutusunu sökerek kontrollerini yapmak\n4. Turboshaft motor yağlama sisteminde chip dedektör kontrolü, yağ seviye kontrolü, yağ ikmali ve yağ değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Turboshaft Motorlar",
+      "KONU": "4. Turboshaft motor sistemlerinin bakımını yapma",
+      "KAZANIM": "İlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun sistemlerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTurboshaft motor sistemleri söktürülür.\n•\nMotor sistemlerinin kontrolleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Turboshaft motor kısımlarının kontrollerini ve bakımını yapmak\n2. Turboshaft motorun ana rotorunu ve redüksiyon dişli kutusunu sökmek, kontrol-bakım işlemlerini yapmak ve sökülen parçaları yerlerine takmak\n3. Motor–MGB (Main Gear Box) arası bağlantı şaftlarını, güç aktarma dişlilerini ve ana dişli kutusunu sökerek kontrollerini yapmak\n4. Turboshaft motor yağlama sisteminde chip dedektör kontrolü, yağ seviye kontrolü, yağ ikmali ve yağ değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Turboshaft Motorlar",
+      "KONU": "4. Turboshaft motor sistemlerinin bakımını yapma",
+      "KAZANIM": "İlgili uçak bakım el kitabı (AMM) talimatlarına uygun olarak turboshaft motorun sistemlerinin bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMotor sistemlerinin bakımı yaptırılır.\n•\nSökülen motor sistemleri taktırılır.",
+        "Ortam ve Donanım": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Gaz Türbinli Motorlar Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, Gaz Türbinli Motorlar (Turbojet, Turbofan, Turboprop, Turboshaft ve APU), Uçak Bakım El\nKitapları (AMM), teknisyen takım çantası, takım ve avadanlıklar sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Turboshaft motor kısımlarının kontrollerini ve bakımını yapmak\n2. Turboshaft motorun ana rotorunu ve redüksiyon dişli kutusunu sökmek, kontrol-bakım işlemlerini yapmak ve sökülen parçaları yerlerine takmak\n3. Motor–MGB (Main Gear Box) arası bağlantı şaftlarını, güç aktarma dişlilerini ve ana dişli kutusunu sökerek kontrollerini yapmak\n4. Turboshaft motor yağlama sisteminde chip dedektör kontrolü, yağ seviye kontrolü, yağ ikmali ve yağ değiştirme işlemlerini yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Kumanda Ve Kontrol Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/282/kumanda-ve-kontrol-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda Devre Elemanları",
+      "KAZANIM": "Kumanda devre elemanlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "3 fazlı Asenkron motorların yapısı ve çeşitleri açıklanır.\n1 fazlı Asenkron motorların yapısı ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama\nAsenkron motor klemensini üçgen bağlama\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırma\nAsenkron motoru ideal kesik çalıştırma\nAsenkron motoru bir yönde sürekli çalıştırma\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırma\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirme\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirme\nPaket şalterle devir yönü değiştirme\nAsenkron motoru zaman ayarlı çalıştırma\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırma\nAsenkron motoru motor koruma rölesi ile çalıştırma\nAsenkron motoru faz sırası rölesi ile çalıştırma\nAsenkron motoru gerilim koruma rölesi ile çalıştırma\nAsenkron motoru sağ sol rölesi ile çalıştırma\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda Devre Elemanları",
+      "KAZANIM": "Kumanda devre elemanlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devrelerinin malzemeleri açıklanır.\nKumanda devrelerinde kullanılan kablolar ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama\nAsenkron motor klemensini üçgen bağlama\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırma\nAsenkron motoru ideal kesik çalıştırma\nAsenkron motoru bir yönde sürekli çalıştırma\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırma\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirme\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirme\nPaket şalterle devir yönü değiştirme\nAsenkron motoru zaman ayarlı çalıştırma\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırma\nAsenkron motoru motor koruma rölesi ile çalıştırma\nAsenkron motoru faz sırası rölesi ile çalıştırma\nAsenkron motoru gerilim koruma rölesi ile çalıştırma\nAsenkron motoru sağ sol rölesi ile çalıştırma\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda ve Güç Devresi Sembollerinin Çizimi",
+      "KAZANIM": "Kumanda ve güç devresi sembollerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devresinde kullanılan sembol normları açıklanır.\nKumanda ve güç devresinde kullanılan sembollerin çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama\nAsenkron motor klemensini üçgen bağlama\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırma\nAsenkron motoru ideal kesik çalıştırma\nAsenkron motoru bir yönde sürekli çalıştırma\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırma\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirme\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirme\nPaket şalterle devir yönü değiştirme\nAsenkron motoru zaman ayarlı çalıştırma\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırma\nAsenkron motoru motor koruma rölesi ile çalıştırma\nAsenkron motoru faz sırası rölesi ile çalıştırma\nAsenkron motoru gerilim koruma rölesi ile çalıştırma\nAsenkron motoru sağ sol rölesi ile çalıştırma\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda ve Güç Devreleri Çizimi",
+      "KAZANIM": "Kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devresinin özellikleri kullanım alanlarıyla açıklanır.\nKumanda ve güç devresinin çizim yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama\nAsenkron motor klemensini üçgen bağlama\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırma\nAsenkron motoru ideal kesik çalıştırma\nAsenkron motoru bir yönde sürekli çalıştırma\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırma\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirme\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirme\nPaket şalterle devir yönü değiştirme\nAsenkron motoru zaman ayarlı çalıştırma\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırma\nAsenkron motoru motor koruma rölesi ile çalıştırma\nAsenkron motoru faz sırası rölesi ile çalıştırma\nAsenkron motoru gerilim koruma rölesi ile çalıştırma\nAsenkron motoru sağ sol rölesi ile çalıştırma\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motor Kumanda Teknikleri",
+      "KONU": "Kumanda ve Güç Devreleri",
+      "KAZANIM": "Kumanda ve güç devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devrelerinin bağlantısı şemaya göre kurmada dikkat edilecek hususlar açıklanır.\nKumanda ve güç devrelerinin bağlantısı şemaya göre yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motor etiket bilgilerini açıklamak\nAsenkron motor klemensini yıldız bağlama\nAsenkron motor klemensini üçgen bağlama\nKontaktörün sağlamlık kontrolü ve açık ve kapalı kontaklarının ölçü aleti ile tespiti\nAşırı akım rölesinin açık kapalı ve faz uçlarının ölçü aleti ile tespiti\nZaman rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nMotor koruma rölesinin açık ve kapalı kontaklarının ölçü aleti ile tespiti\nKumanda kablo seçimini kataloglardan yapmak\nKumanda ve güç devre elemanlarının sembollerini çizmek\nÖrnek kumanda ve güç devresini normlara göre çizmek\nAsenkron motoru kesik çalıştırma\nAsenkron motoru ideal kesik çalıştırma\nAsenkron motoru bir yönde sürekli çalıştırma\nAsenkron motoru birden çok kumanda merkezinden bir yönde sürekli çalıştırma\nAsenkron motoru paket şalter ile çalıştırma\nAsenkron motoru elektriksel kilitlemeli devir yönü değiştirme\nAsenkron motoru butonsal (mekanik) kilitlemeli devir yönü değiştirme\nPaket şalterle devir yönü değiştirme\nAsenkron motoru zaman ayarlı çalıştırma\nAsenkron motoru, hareket sınırlamalı (sınır anahtarı) çalıştırma\nAsenkron motoru motor koruma rölesi ile çalıştırma\nAsenkron motoru faz sırası rölesi ile çalıştırma\nAsenkron motoru gerilim koruma rölesi ile çalıştırma\nAsenkron motoru sağ sol rölesi ile çalıştırma\nBir fazlı yardımcı sargılı asenkron motorun çalıştırılması\nBir fazlı yardımcı sargılı asenkron motorun ileri geri çalıştırılması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "Asenkron Motorlarda Kalkınma ve Etkileri / Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "Asenkron motorların kalkınmasını ve etkilerini açıklar.\nAsenkron motorlara yol verme yöntemleri uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorların güçlerine göre ilk kalkış anının etkisi açıklanır.\nAsenkron motorlarda ilk kalkış akımının şebekeye etkileri çalışma şeklinde açıklanır ve motora etkileri örneklendirilir.\nAsenkron motorlarda kalkış akımının azaltılması yöntemleri sıralanır.\nAsenkron motorlara yol vermenin önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nÇift devirli (dahlender) motorun devir yönü değişimi\nPaket şalterle dahlender motorun çalıştırılması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "Asenkron motorlara yol verme yöntemleri uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorlara yol verme yöntemleri sıralanır.\nAsenkron motorlara yıldız-üçgen yol verme devresi açıklanır.\nAsenkron motorlara sürücüler ile yol verme devresi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nÇift devirli (dahlender) motorun devir yönü değişimi\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "AC Motor Sürücüleri ile Devir Ayarı",
+      "KAZANIM": "AC motor sürücüleri ile devir ayarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frekans ile asenkron motor devir sayısı değişimi örneklerle hesaplar.\nAsenkron motorların devir sayısı değiştirme yöntemleri sıralanır.\nİnvertörlerin özellikleri açıklanır.\nİnvertörlerin bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nÇift devirli (dahlender) motorun devir yönü değişimi\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "AC Motor Sürücüleri ile Devir Ayarı / Çift Devirli Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "AC motor sürücüleri ile devir ayarını yapar.\nÇift devirli asenkron motorlara yol verme uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asenkron motorları invertörlerle devir ayarı değiştirme devresi açıklanır.\nÇift devirli asenkron motorların özellikleri ve kullanım alanları açıklanır.\nÇift devirli asenkron motorların klemensi ve bağlantı şekilleri görsellerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nÇift devirli (dahlender) motorun devir yönü değişimi\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlara Yol Verme Teknikleri",
+      "KONU": "Çift Devirli Asenkron Motorlara Yol Verme Yöntemleri",
+      "KAZANIM": "Çift devirli asenkron motorlara yol verme uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çift devirli asenkron motor çalıştırılması devresi açıklanır.\nÇift devirli asenkron motorlarda yol verme devresi açıklanır.\nÇift devirli asenkron motorlarda devir yönü değiştirme devresi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asenkron motora yıldız üçgen yol verme\nYıldız üçgen röle ile üç fazlı asenkron motora yol verme\nYıldız/üçgen paket şalterle yol verme\nİnvertörde keypad kullanarak asenkron motorun çalıştırılması\nİnvertöre buton bağlantısı yaparak Asenkron motorun I/O çalıştırılması\nÇift devirli (dahlender) asenkron motorun çalıştırılması\nÇift devirli (dahlender) motorun devir yönü değişimi\nPaket şalterle dahlender motorun çalıştırılması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlarda Frenleme",
+      "KONU": "Frenleme Sistemleri / Balatalı Frenleme Sistemleri / Dinamik Frenleme Sistemleri",
+      "KAZANIM": "Frenleme sisteminin özelliklerini açıklar.\nÜç fazlı asenkron motora balatalı frenleme ile durdurur.\nÜç fazlı asenkron motora dinamik frenleme ile durdurur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frenlemenin önemi ve kullanım alanı açıklanır.\nFrenleme sisteminde kullanılan malzemeler ve montaj teknikleri açıklanır.\nBalatalı frenleme devreleri açıklanır.\nDinamik frenleme sisteminin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motoru balatalı frenleme ile durdurulması\nÜç fazlı asenkron motoru dinamik frenleme ile durdurulması\nÜç fazlı ileri geri çalışan asenkron motorun dinamik frenleme ile durdurulması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Asenkron Motorlarda Frenleme",
+      "KONU": "Dinamik Frenleme Sistemleri",
+      "KAZANIM": "Üç fazlı asenkron motora dinamik frenleme ile durdurur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Frenleme gerilim ve akımının doğru hesapladığı kontrol edilmelidir.\nDinamik frenlemede motora uygulanacak gerilim hesabı açıklanır.\nDinamik frenleme devreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç fazlı asenkron motoru balatalı frenleme ile durdurulması\nÜç fazlı asenkron motoru dinamik frenleme ile durdurulması\nÜç fazlı ileri geri çalışan asenkron motorun dinamik frenleme ile durdurulması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik Devre Elemanları ve Özellikleri / Pnömatik Devrelerin Bilgisayarla Simülasyonu",
+      "KAZANIM": "Pnömatik sistemlerin devre elemanlarını kullanıma hazırlar.\nPnömatik devrelerin bilgisayarla simülasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik sistemlerde kullanılan malzeme özellikleri açıklanır.\nPnömatik devre sembolleri ve şemalarının çizimi açıklanır.\nYapılacak işe uygun pnömatik devre şemasının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanları sembolleri çizimi\nTek etkili silindirin direkt kontrolü\nTek etkili silindirin dolaylı kontrolü\nÇift etkili silindirin direkt kontrolü\nÇift etkili silindirin dolaylı kontrolü\nTek etkili silindirin (VE) mantığı ile kontrolü\nTek etkili silindirin (VEYA) mantığı ile kontrolü\nÇift etkili silindirin AKIŞ KISMA VALFİ ile kontrolü\nÇift etkili silindirin sınır anahtarı ile tek çevrim kontrolü\nÇift etkili silindirin sınır anahtarı ile sürekli çevrim kontrolü\nÇift etkili silindirin mühürleme devresi ile kontrolü\nÇift etkili silindirin zaman geciktirme valfi ile kontrolü\nÇift etkili silindirin basınç ayar valfi ile kontrolü\nÇift etkili silindirin mafsal makara valfi sinyal çakışmasının önlenmesi\nÇift etkili silindirin sinyal çakışmasının mafsal makara valfi ile önlenmesinde VE VALFİ kullanılması\nÇift etkili silindirin sinyal çakışmasının mafsal makara valfi ile önlenmesinde BASINÇ AYAR VALFİ kullanılması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik Devrelerin Bilgisayarla Simülasyonu / Pnömatik Devre Kurulumu",
+      "KAZANIM": "Pnömatik devrelerin bilgisayarla simülasyonunu yapar.\nPnömatik sistem kurulumunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Simülasyon programında pnömatik devre şemalarının çizimi açıklanır.\nPnömatik devre şemalarını okuyarak devre kurulumu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanları sembolleri çizimi\nTek etkili silindirin direkt kontrolü\nTek etkili silindirin dolaylı kontrolü\nÇift etkili silindirin direkt kontrolü\nÇift etkili silindirin dolaylı kontrolü\nTek etkili silindirin (VE) mantığı ile kontrolü\nTek etkili silindirin (VEYA) mantığı ile kontrolü\nÇift etkili silindirin AKIŞ KISMA VALFİ ile kontrolü\nÇift etkili silindirin sınır anahtarı ile tek çevrim kontrolü\nÇift etkili silindirin sınır anahtarı ile sürekli çevrim kontrolü\nÇift etkili silindirin mühürleme devresi ile kontrolü\nÇift etkili silindirin zaman geciktirme valfi ile kontrolü\nÇift etkili silindirin basınç ayar valfi ile kontrolü\nÇift etkili silindirin mafsal makara valfi sinyal çakışmasının önlenmesi\nÇift etkili silindirin sinyal çakışmasının mafsal makara valfi ile önlenmesinde VE VALFİ kullanılması\nÇift etkili silindirin sinyal çakışmasının mafsal makara valfi ile önlenmesinde BASINÇ AYAR VALFİ kullanılması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik Devre Kurulumu",
+      "KAZANIM": "Pnömatik sistem kurulumunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm pnömatik devre elemanlarının montaj ve bağlantı teknikleri açıklanır.\nPnömatik devre kurulum teknikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanları sembolleri çizimi\nTek etkili silindirin direkt kontrolü\nTek etkili silindirin dolaylı kontrolü\nÇift etkili silindirin direkt kontrolü\nÇift etkili silindirin dolaylı kontrolü\nTek etkili silindirin (VE) mantığı ile kontrolü\nTek etkili silindirin (VEYA) mantığı ile kontrolü\nÇift etkili silindirin AKIŞ KISMA VALFİ ile kontrolü\nÇift etkili silindirin sınır anahtarı ile tek çevrim kontrolü\nÇift etkili silindirin sınır anahtarı ile sürekli çevrim kontrolü\nÇift etkili silindirin mühürleme devresi ile kontrolü\nÇift etkili silindirin zaman geciktirme valfi ile kontrolü\nÇift etkili silindirin basınç ayar valfi ile kontrolü\nÇift etkili silindirin mafsal makara valfi sinyal çakışmasının önlenmesi\nÇift etkili silindirin sinyal çakışmasının mafsal makara valfi ile önlenmesinde VE VALFİ kullanılması\nÇift etkili silindirin sinyal çakışmasının mafsal makara valfi ile önlenmesinde BASINÇ AYAR VALFİ kullanılması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Elektropnömatik Sistemler",
+      "KONU": "Elektropnömatik Sistemin Devre Elemanları / Elektropnömatik Devrelerin Bilgisayarla Simülasyonu",
+      "KAZANIM": "Elektropnömatik sistemlerin devre elemanlarını kullanıma hazırlar.\nElektropnömatik devrelerin bilgisayarla simülasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektropnömatik devre elemanlarını seçimi açıklanır.\nElektropnömatik devre sembolleri ve şemalarının çizimi açıklanır.\nYapılacak işe uygun Elektropnömatik devre şemasının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektropnömatik devre elemanları sembolleri çizimi\nTek etkili silindirin 5/2 selenoid valf ile doğrudan kontrolü\nÇift etkili silindirin 5/2 selenoid valf ile doğrudan kontrolü\nÇift etkili silindirin 5/2 selenoid valf ile dolaylı kontrolü\nÇift etkili silindirin VE mantığı ile kontrolü\nÇift etkili silindirin VEYA mantığı ile kontrolü\nÇift etkili silindirin lojik HAYIR (İŞARET TERSLENMESİ) ile kontrolü\nÇift etkili silindirin Baskın-1- bellek devresi ile kontrolü\nÇift etkili silindirin zaman rölesi ile kontrolü\nÇift etkili silindirin Baskın-0- bellek devresi ile kontrolü\nÇift etkili silindirin İMPULS (Bellek) ile kontrolü\nÇift etkili silindirin sınır anahtarı ile kontrolü\nÇift etkili silindirin endüktif sensör (Temassız Sınır Anahtarı) ile kontrolü\nİki silindir kontrolü (A+B+A-B-)",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Elektropnömatik Sistemler",
+      "KONU": "Elektropnömatik Devrelerin Bilgisayarla Simülasyonu / Elektropnömatik Devre Kurulumu",
+      "KAZANIM": "Elektropnömatik devrelerin bilgisayarla simülasyonunu yapar.\nElektropnömatik sistemleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Simülasyon programında Elektropnömatik devre şemalarının çizimi açıklanır.\nElektropnömatik devre şemalarını okunarak devre kurulumu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektropnömatik devre elemanları sembolleri çizimi\nTek etkili silindirin 5/2 selenoid valf ile doğrudan kontrolü\nÇift etkili silindirin 5/2 selenoid valf ile doğrudan kontrolü\nÇift etkili silindirin 5/2 selenoid valf ile dolaylı kontrolü\nÇift etkili silindirin VE mantığı ile kontrolü\nÇift etkili silindirin VEYA mantığı ile kontrolü\nÇift etkili silindirin lojik HAYIR (İŞARET TERSLENMESİ) ile kontrolü\nÇift etkili silindirin Baskın-1- bellek devresi ile kontrolü\nÇift etkili silindirin zaman rölesi ile kontrolü\nÇift etkili silindirin Baskın-0- bellek devresi ile kontrolü\nÇift etkili silindirin İMPULS (Bellek) ile kontrolü\nÇift etkili silindirin sınır anahtarı ile kontrolü\nÇift etkili silindirin endüktif sensör (Temassız Sınır Anahtarı) ile kontrolü\nİki silindir kontrolü (A+B+A-B-)"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Elektropnömatik Sistemler",
+      "KONU": "Elektropnömatik Devre Kurulumu",
+      "KAZANIM": "Elektropnömatik sistemleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm elektropnömatik devre elemanlarının montaj ve bağlantı teknikleri açıklanır.\nElektropnömatik devre kurulum teknikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektropnömatik devre elemanları sembolleri çizimi\nTek etkili silindirin 5/2 selenoid valf ile doğrudan kontrolü\nÇift etkili silindirin 5/2 selenoid valf ile doğrudan kontrolü\nÇift etkili silindirin 5/2 selenoid valf ile dolaylı kontrolü\nÇift etkili silindirin VE mantığı ile kontrolü\nÇift etkili silindirin VEYA mantığı ile kontrolü\nÇift etkili silindirin lojik HAYIR (İŞARET TERSLENMESİ) ile kontrolü\nÇift etkili silindirin Baskın-1- bellek devresi ile kontrolü\nÇift etkili silindirin zaman rölesi ile kontrolü\nÇift etkili silindirin Baskın-0- bellek devresi ile kontrolü\nÇift etkili silindirin İMPULS (Bellek) ile kontrolü\nÇift etkili silindirin sınır anahtarı ile kontrolü\nÇift etkili silindirin endüktif sensör (Temassız Sınır Anahtarı) ile kontrolü\nİki silindir kontrolü (A+B+A-B-)"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik Sistemin Devre Elemanları / Hidrolik Sistem Devre Tasarımı",
+      "KAZANIM": "Hidrolik sistem devre elemanlarını kullanıma hazırlar.\nHidrolik sistemlerin bilgisayarla simülasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik devre elemanlarının yapılacak işe uygun olarak seçimi açıklanır.\nHidrolik devre elemanlarının kullanıma hazırlanması açıklanır.\nHidrolik devre sembolleri ve şemalarının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanları sembollerinin çizimi\nTek etkili silindirin kontrolü\nÇift etkili silindirin kontrolü\nTek etkili silindirin (VE) mantığı ile kontrolü\nTek etkili silindirin (VEYA) mantığı ile kontrolü"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik Sistem Devre Tasarımı / Hidrolik Sistem Kurulumu",
+      "KAZANIM": "Hidrolik sistemlerin bilgisayarla simülasyonunu yapar.\nHidrolik sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak işe uygun hidrolik devre şemasının çizimi açıklanır.\nSimülasyon programında hidrolik devre şemalarının çizimi açıklanır.\nHidrolik devre şemalarını okuyarak devre kurulumu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanları sembollerinin çizimi\nTek etkili silindirin kontrolü\nÇift etkili silindirin kontrolü\nTek etkili silindirin (VE) mantığı ile kontrolü\nTek etkili silindirin (VEYA) mantığı ile kontrolü"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik Sistem Kurulumu",
+      "KAZANIM": "Hidrolik sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm Hidrolik devre elemanlarının montaj ve bağlantı teknikleri açıklanır.\nHidrolik devre kurulum teknikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanları sembollerinin çizimi\nTek etkili silindirin kontrolü\nÇift etkili silindirin kontrolü\nTek etkili silindirin (VE) mantığı ile kontrolü\nTek etkili silindirin (VEYA) mantığı ile kontrolü",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Elektrohidrolik Sistemler",
+      "KONU": "Elektrohidrolik Sistemin Devre Elemanları / Elektrohidrolik Sistem Devre Tasarımı",
+      "KAZANIM": "Elektrohidrolik sistemlerin devre elemanlarını kullanıma hazırlar.\nElektrohidrolik sistemin bilgisayarla simülasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrohidrolik devre elemanlarının yapılacak işe uygun olarak seçimi açıklanır.\nElektrohidrolik devre elemanlarının kullanıma hazırlanması açıklanır.\nElektrohidrolik devre sembolleri ve şemalarının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanları sembollerinin çizimi\nTek etkili silindirin 4/2 hidrolik valf ile kontrolü\nTek etkili silindirin (VE) valfi ile kontrolü\nTek etkili silindirin (VEYA) valfi ile kontrolü\nHidromotorun 4/3 açık merkez valf ile kontrolü",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Elektrohidrolik Sistemler",
+      "KONU": "Elektrohidrolik Sistem Devre Tasarımı / Elektrohidrolik Sistem Kurulumu",
+      "KAZANIM": "Elektrohidrolik sistemin bilgisayarla simülasyonunu yapar.\nElektrohidrolik sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak işe uygun Elektrohidrolik devre şemasının çizimi açıklanır.\nSimülasyon programında Elektrohidrolik devre şemalarının çizimi açıklanır.\nElektrohidrolik devre şemalarını okuyarak devre kurulumu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanları sembollerinin çizimi\nTek etkili silindirin 4/2 hidrolik valf ile kontrolü\nTek etkili silindirin (VE) valfi ile kontrolü\nTek etkili silindirin (VEYA) valfi ile kontrolü\nHidromotorun 4/3 açık merkez valf ile kontrolü",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Elektrohidrolik Sistemler",
+      "KONU": "Elektrohidrolik Sistem Kurulumu",
+      "KAZANIM": "Elektrohidrolik sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm elektrohidrolik devre elemanlarının montaj ve bağlantı teknikleri açıklanır.\nElektrohidrolik devre kurulum teknikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanları sembollerinin çizimi\nTek etkili silindirin 4/2 hidrolik valf ile kontrolü\nTek etkili silindirin (VE) valfi ile kontrolü\nTek etkili silindirin (VEYA) valfi ile kontrolü\nHidromotorun 4/3 açık merkez valf ile kontrolü",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Kumanda Panoları ve Montajı",
+      "KONU": "Pano İçi kablo kanalları ve rayların ölçülendirilmesi kesilmesi / Pano içi kablo kanalları ve rayların montajı / Pano kapağı üzerine sinyal lambalarının montajı",
+      "KAZANIM": "Pano içi kablo kanallarını ve raylarını keser.\nPano içi kablo kanallarını ve rayların montajını yapar.\nSinyal lambalarının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pano krokisine göre kanal ve rayların ölçülendirilmesi açıklanır.\nÖlçüye göre kanal ve rayların kesilmesi açıklanır.\nPano içerisinde kullanılan montaj ekipmanları açıklanır.\nKanal ve rayların pano içerisine montajı açıklanır.\nSinyal lambaları için pano kapağının ölçülerek işaretlenmesi ve delinmesi açıklanır.\nSinyal lambalarının elektrik devresi bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda panosu kablo kanalları ve sigorta raylarının kesilmesi ve panoya montajı\nKablolara yüzük ve pabuç sıkma\nKablolara numaratör ile numara verme\nPanoya sinyal lambası montajı yapma\nKaçak akım rölesi, sigortalar ve kontaktörlerin montaj ve bağlantıları ile numaralandırılması\nPanoya cihazların kablo bağlantılarını yapma\nPano test ölçümlerini yapma\nDeğişik kumanda devrelerinin pano içerisinde toplanması",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Kumanda Panoları ve Montajı",
+      "KONU": "Kaçak akım röleleri, giriş sigortası ve linye sigortalarının montajı / Kontaktör ve aşırı akım rölelerinin montaj ve bağlantıları / Kabloya pabuç/yüksük ve kablo numaratörü takma",
+      "KAZANIM": "Kaçak akım rölesinin ve sigortaların montajını yapar.\nKontaktörün ve aşırı akım rölesinin montajını yapar.\nKablolara pabuç ve yüksük çakma ile numaralandırma işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sigortaların pano krokisinde gösterildiği şekliyle montaj yapılması açıklanır.\nSigorta sayısına ve faz grubu uyumuna dikkat ederek sigorta barasının kesilmesi ve montajı açıklanır.\nAşırı akım rölesinin akım sigorta rayına montajı ve akım ayarı açıklanır.\nKablo pabucu ve yüzük çeşitleri ve kullanımında dikkat edilecek hususlara açıklanır.\nKablo yüzük ve pabuç pensi kullanımı açıklanır.\nProjeye veya krokiye göre cihazlara numara verilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda panosu kablo kanalları ve sigorta raylarının kesilmesi ve panoya montajı\nKablolara yüzük ve pabuç sıkma\nKablolara numaratör ile numara verme\nPanoya sinyal lambası montajı yapma\nKaçak akım rölesi, sigortalar ve kontaktörlerin montaj ve bağlantıları ile numaralandırılması\nPanoya cihazların kablo bağlantılarını yapma\nPano test ölçümlerini yapma\nDeğişik kumanda devrelerinin pano içerisinde toplanması",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Kumanda Panoları ve Montajı",
+      "KONU": "Kabloya pabuç/yüksük ve kablo numaratörü takma / Kabloların cihazlara bağlantısı / Kablo bağı, spiral bağlama / Panoyu test etme",
+      "KAZANIM": "Kablolara pabuç ve yüksük çakma ile numaralandırma işlemlerini yapar.\nKabloların cihazlara bağlantısını yapar.\nKabloları kablo bağı ve spiral ile düzenler.\nPano testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablo yüzük ve pabuçlarının pense ile sıkılması açıklanır.\nKabloların cihazlara ve klemensleri sıkılırken gerekli tork ile sıkılmasının önemi açıklanır.\nKabloların kablo bağı ve spiral ile pano içi kablo bağlantıların düzenli hale getirilmesi açıklanır.\nGövdeye kaçak ve fazlar arası kısa devre ölçümleri açıklanır.\nMeğer veya izolasyon cihazı ile izolasyon ölçümlerinin yapılması açıklanır ve yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kumanda panosu kablo kanalları ve sigorta raylarının kesilmesi ve panoya montajı\nKablolara yüzük ve pabuç sıkma\nKablolara numaratör ile numara verme\nPanoya sinyal lambası montajı yapma\nKaçak akım rölesi, sigortalar ve kontaktörlerin montaj ve bağlantıları ile numaralandırılması\nPanoya cihazların kablo bağlantılarını yapma\nPano test ölçümlerini yapma\nDeğişik kumanda devrelerinin pano içerisinde toplanması",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sayaçlar",
+      "KONU": "Sayaç endekslerinin okunması ve değerlendirilmesi / Üç fazlı sayaç bağlantısı / Üç fazlı direkt kombine sayaç bağlantısı",
+      "KAZANIM": "Sayaç endekslerini okur.\nÜç fazlı sayaç bağlantısını yapar.\nÜç fazlı direkt kombine sayaç bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayaç endeks değerleri anlamları ve sayaç üzerinden okunması açıklanır.\nOptik port ile ve uzaktan sayaç okuma yöntemleri açıklanır.\nÜç fazlı aktif sayaç özellikleri açıklanır.\nÜç fazlı aktif sayaç bağlantısı yaptırılır.\nKombi sayaç özellikleri açıklanır.\nDirek kombi sayaç bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayaç endekslerini okuma ve endekslerden ceza oranı hesaplama\nÜç fazlı aktif sayaç bağlantısını yapma\nÜç fazlı direk kombine sayaç bağlantısını yapma\nAkım trafoları ile X/5 kombine sayaç bağlantılarını test klemensleri kullanarak yapmak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Endüstriyel Sayaçlar",
+      "KONU": "X/5 kombine sayaç bağlantısı",
+      "KAZANIM": "X5 kombine sayaç bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "X5 kombi sayaç bağlantısında kullanılan malzemeler açıklanır.\nX5 kombi sayaç akım uçlarının bağlantısı açıklanır.\nX5 kombi sayaç gerilim uçlarının bağlantısı açıklanır.\nAkım trafolarının sekonder uçlarının köprülenmesi ve topraklanması açıklanır.\nX5 kombi sayaç bağlantısında enerji vermeden ve verdikten sonra yapılması gereken kontroller açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sayaç endekslerini okuma ve endekslerden ceza oranı hesaplama\nÜç fazlı aktif sayaç bağlantısını yapma\nÜç fazlı direk kombine sayaç bağlantısını yapma\nAkım trafoları ile X/5 kombine sayaç bağlantılarını test klemensleri kullanarak yapmak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Dağıtım Panoları",
+      "KONU": "Dağıtım pano krokisi çizimi / Dağıtım panosu malzemeleri / Dağıtım panosu mesnet izolatörü ve baraların delinerek montajı / Pano içi kablo kanalları ve rayların ölçülendirilmesi kesilmesi ve montajı / Termik manyetik şalter montajı / Yangın koruma eşikli kaçak akım koruma rölelerinin ve kolon sigortalarının montajı",
+      "KAZANIM": "Dağıtım panosu iç yerleşim ve bağlantı krokisini çizer.\nDağıtım panosu malzemelerinin seçimini yapar.\nDağıtım panosu mesnet izolatörünün ve baraların montajını yapar.\nPano içi kanalların ve rayların montajını yapar.\nTermik manyetik şalterin montajını yapar.\nYangın koruma eşikli kaçak akım koruma rölesinin ve kolon sigortalarının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dağıtım panosu iç yerleşim ve bağlantı krokisi çiziminde dikkat edilmesi gereken huşular açıklanır.\nÖrnek dağıtım panosu bağlantı krokisi (TSE/IEC) standartlarına uygun olarak yaptırılır.\nDağıtım panosu malzemeleri seçiminde dikkat edilmesi gereken huşular açıklanır.\nDağıtım panosu baraların montajında dikkat edilmesi gereken hususlar açıklanır.\nDağıtım panosu baralarının gövdeye kaçak kontrolü açıklanır.\nPano içi kanal ve rayların ölçülerinin alınması ve kesilmesi açıklanır.\nPano içi sabitleme işleminde kullanılan vida ve aksesuarların açıklanır.\nPano içerisine kanal ve rayların montajı açıklanır.\nTermik manyetik şalter yapısı ve kullanım yerleri açıklanır.\nTermik manyetik şalter akım değerinin belirlenmesi açıklanır.\nTermik Manyetik Şalterin montaj ve kablo bağlantısı açıklanır.\nKaçak akım rölesi yapısı çalışması ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "5 kolon hat çıkışlı dağıtım pano krokisinin çizimi\nMesnet izolatörleri ve baraların montajı\nPano içi kanal ve sigorta raylarının montajı\nTermik manyetik şalter montajı\nYangın koruma rölesi ve kolon sigortalarının montajı\nParafudr ve parafudr sigortalarının montaj ve bağlantılarını yapma\nDağıtım panosu içi kablo bağlantılarını yapma\nPano kapağı üzerine sinyal lambaları montaj ve bağlantısı",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Dağıtım Panoları",
+      "KONU": "Yangın koruma eşikli kaçak akım koruma rölelerinin ve kolon sigortalarının montajı / Parafudr ve parafudr sigortalarının montaj ve bağlantısı / Dağıtım panosu içi kablo bağlantılarının yapılması / Pano kapağı üzerine sinyal lambalarının montajı",
+      "KAZANIM": "Yangın koruma eşikli kaçak akım koruma rölesinin ve kolon sigortalarının montajını yapar.\nParafudr ve parafudr sigortalarının montajını ve bağlantısını yapar.\nDağıtım panosu içinin kablo bağlantılarını yapar.\nSinyal lambalarının montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Raya yangın koruma eşikli kaçak akım koruma rölesinin ve kolon sigortalarının montajı açıklanır.\nSigorta barası montajı ve kablo bağlantıları açıklanır.\nPanolarda parafudr tesisatı kullanım amacı ve kullanılan ekipmanlar açıklanır.\nParafudr topraklamasının amacı ve standartları açıklanır ve kullanılan ekipmanın özellikleri açıklanır.\nAlçak gerilim pano içi parafudr tesisatı yaptırılır.\nBaralara ve kablo bağlantılarında kablo pabucu kullanımı açıklanır.\nSomunlu cıvata kullanımı, alyen anahtar kullanımı ile montaj yapılan kablolarda teknik açıklanır.\nKablo numaralandırma standardı ve işlemi açıklanır.\nTüm bağlantı noktalarında yaşanabilecek gevşek irtibat sorunları ve neden olduğu sorunlar açıklanır.\nSinyal lambası montajında dikkat edilecek hususlar açıklanır.\nSinyal lambası montaj ve elektrik devresi bağlantısı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "5 kolon hat çıkışlı dağıtım pano krokisinin çizimi\nMesnet izolatörleri ve baraların montajı\nPano içi kanal ve sigorta raylarının montajı\nTermik manyetik şalter montajı\nYangın koruma rölesi ve kolon sigortalarının montajı\nParafudr ve parafudr sigortalarının montaj ve bağlantılarını yapma\nDağıtım panosu içi kablo bağlantılarını yapma\nPano kapağı üzerine sinyal lambaları montaj ve bağlantısı",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Kompanzasyon Panoları",
+      "KONU": "Kompanzasyon Sistemi Hesaplamaları / Kompanzasyon Panosu Malzemeleri / Kompanzasyon Panosu Mesnet İzolatörü ve Baraların Montajı / Kondansatör Kademe Bağlantısı",
+      "KAZANIM": "Kompanzasyon sisteminin hesaplamalarını yapar.\nKompanzasyon panosunun malzemelerini seçer.\nKompanzasyon panosuna mesnet izolatörünün ve baralarının montajını yapar.\nKondansatör kademeleri elemanlarının montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kompanzasyon sistemi hesaplarının hali hazırda yürürlükte olan Aktif/Reaktif/Kapasitif sınır değerlerine göre açıklanır.\nKompanzasyon sistemi toplam kondansatör gücü hesabı açıklanır.\nGüce göre TMŞ seçimi açıklanır.\nKompanzasyon sistemi TMŞ, sigorta, Kontaktör, iletkenlerin sahip olması gereken özellik ve standartlar açıklanır.\nBara ve izolatörlerin montaj ve kablo bağlantıları açıklanır.\nGövdeye kaçak kontrolü yapımı açıklanır.\nKondansatör kademelerinin güç dağıtımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kompanzasyon hesabı yapmak ve kondansatör kademelerini güç değerlerini tespit etmek\n3 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yapmak\nReaktif güç kontrol rölesi (Regler) ayarları yapmak\n7 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yaparak, Regler ayarlarını yapmak\n12 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yapmak\n12 kademeli kompanzasyon sistemi Reaktif güç kontrol rölesi (Regler) ayarlarını yapmak ve sistemi devreye almak\nKompanzasyon sistemine kompanzasyon reaktörü bağlamak, röle üzerinde ayarlarını yapmak\nKompanzasyon sistemini çalıştırarak, sayaç endeks değerlerini değerlendirmek\nKompanzasyon panosu havalandırma ve aydınlatma sistemini yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Kompanzasyon Panoları",
+      "KONU": "Kondansatör Kademe Bağlantısı / Kompanzasyon Panolarına Reaktör Bağlanması",
+      "KAZANIM": "Kondansatör kademeleri elemanlarının montajını ve bağlantılarını yapar.\nReaktörlü kompanzasyon panolarında reaktör bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörler gücüne göre kontaktör ve koruma sigortası ve iletken akım değerleri tespiti açıklanır.\nKondansatörlerin topraklama bağlantıları açıklanır.\nKompanzasyon sisteminde kullanılan reaktörlerin görevi ve yapısı açıklanır.\nReaktör değerinin nasıl tespit edildiği hesaplanır.\nReaktörün elektriksel bağlantısı açıklanır.\nReaktör topraklamalarının ve ısı kontrol termostatlarının bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kompanzasyon hesabı yapmak ve kondansatör kademelerini güç değerlerini tespit etmek\n3 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yapmak\nReaktif güç kontrol rölesi (Regler) ayarları yapmak\n7 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yaparak, Regler ayarlarını yapmak\n12 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yapmak\n12 kademeli kompanzasyon sistemi Reaktif güç kontrol rölesi (Regler) ayarlarını yapmak ve sistemi devreye almak\nKompanzasyon sistemine kompanzasyon reaktörü bağlamak, röle üzerinde ayarlarını yapmak\nKompanzasyon sistemini çalıştırarak, sayaç endeks değerlerini değerlendirmek\nKompanzasyon panosu havalandırma ve aydınlatma sistemini yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Kompanzasyon Panoları",
+      "KONU": "Reaktif Güç Kontrol Rölesinin Montajı, Akım Trafoları ile Bağlantıları ve Röle Ayarları / Kombi Sayaç Endekslerinden Sistemin Ceza Oranı Hesabı / Kompanzasyon Panolarının Havalandırılması ve Aydınlatılması",
+      "KAZANIM": "Reaktif güç kontrol rölesinin ve akım trafolarının montajını, bağlantılarını ve ayarlarını yapar.\nKombi sayaç endekslerinden sistemin ceza oranını hesaplar.\nKompanzasyon panolarının havalandırılmasını ve aydınlatılmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Reaktif gün kontrol rölesine ait akım trafolarının bağlantı noktası ve bağlantısı açıklanır.\nRöle ölçü trafolarının S2/l uçlarının topraklamalarının yapıldığı kontrol edilmelidir.\nReaktif güç kontrol rölesi ayarları açıklanır ve yaptırılır.\nHali hazırda yürürlükte bulunan ceza oranlarına göre alınan tüketim değerlerinden sistemin ceza oranı hesaplanır.\nHavalandırma sisteminde kullanılan fan termostat ve bunlara ait ayarlar açıklanır.\nHavalandırma sisteminde bulunan malzemelerin montaj ve elektriksel bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kompanzasyon hesabı yapmak ve kondansatör kademelerini güç değerlerini tespit etmek\n3 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yapmak\nReaktif güç kontrol rölesi (Regler) ayarları yapmak\n7 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yaparak, Regler ayarlarını yapmak\n12 kademeli kompanzasyon panosu malzemelerinin montaj ve bağlantılarını yapmak\n12 kademeli kompanzasyon sistemi Reaktif güç kontrol rölesi (Regler) ayarlarını yapmak ve sistemi devreye almak\nKompanzasyon sistemine kompanzasyon reaktörü bağlamak, röle üzerinde ayarlarını yapmak\nKompanzasyon sistemini çalıştırarak, sayaç endeks değerlerini değerlendirmek\nKompanzasyon panosu havalandırma ve aydınlatma sistemini yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Trafo Üniteleri",
+      "KONU": "Kesicilerin Özellikleri ve Bakımı / Kesici Manevraları / Ayırıcıların Özellikleri ve Bakım Onarımları / Ayırıcı Manevraları / Parafudrların Montajı ve Bakımı",
+      "KAZANIM": "Kesicilerin bakımını yapar.\nKesici manevralarını yapar.\nAyırıcıların bakım ve onarımını yapar.\nAyırıcı manevralarını yapar.\nParafudrların montaj ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yürürlükte bulunan MYD şartnameleri açıklanır.\nManevra redresörlerinin görev ve çeşitleri açıklanır.\nKesicilerin çeşitleri yapısı ve çalışması açıklanır.\nKesicilerde aranan özellikler açıklanır.\nKesicilerde montaj aşamaları açıklanır.\nKesicilerde bakım işlemleri açıklanır.\nKesicileri devreye alma ve devreden çıkarma işlemleri açıklanır.\nAyırıcıların yapısı ve çalışması açıklanır.\nAyırıcıların çeşitleri açıklanır.\nAyırıcılarda aranan özellikler açıklanır.\nAyırıcılarda montaj aşamaları sıralanır.\nAyırıcılarda bakım onarım işlemleri sıralanır.\nAyırıcıları devreye alma ve devreden çıkarma işlemleri açıklanır.\nİletim hatlardaki gerilimlerin yükselme nedenleri açıklanır.\nParafudurların yapısı ve çalışması açıklanır.\nParafudur çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kesici montajını yapmak\nKesiciyi devreye almak ve devreden (manevra) çıkarmak\nAyırıcı montajını yapmak\nAyırıcıyı açma – kapama (manevra) işlemleri yapmak\nParafudrların montaj ve topraklama bağlantısını yapmak\nYG sigorta demontaj ve montajını yapmak\nTrafo sargıları bağlantı (λ-Δ-zigzag) deneylerini yapmak\nDağıtım trafosundan yağ numunesi alarak kontrolünü yapmak\nDağıtım trafoları kablo buşinglerinin kontrol ve bakımını yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Trafo Üniteleri",
+      "KONU": "Parafudrların Montajı ve Bakımı / YG Sigortalar ve Montajı / Dağıtım Trafoları ve Bakım Onarımları",
+      "KAZANIM": "Parafudrların montaj ve bağlantılarını yapar.\nYG sigortaların montaj ve bağlantılarını yapar.\nDağıtım trafoların bakım ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parafudurların kullanıldığı yerler sıralanır.\nParafudur montaj işlemleri açıklanır.\nYüksek gerilimde (YG) aşırı akımın oluşma nedenleri sıralanır.\nYG sigortaların yapısı ve çalışması açıklanır.\nYG sigorta seçim kriterleri açıklanır.\nYG sigortaların standartları açıklanır.\nYG sigortaların montaj ve demontaj işlemleri açıklanır.\nDağıtım trafolarının yapısı ve çalışması açıklanır.\nYürürlükte bulunan MYD şartnameleri açıklanır.\nDağıtım trafolarının çeşitleri sıralanır.\nDağıtım trafolarının etiket değerleri incelenir.\nDağıtım trafolarının sargı dirençlerinin ölçüm aşamaları sıralanır.\nDağıtım trafolarda verim hesabı açıklanır.\nDağıtım trafosu ve donanımlarının bağlantıları şekillerle açıklanır.\nDağıtım trafolarının bakım onarım işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Kumanda Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, kumanda devre elemanları, asenkron motor, invertörler, kumanda koruma röleleri, hidrolik-pnömatik devre elemanları, trafo ünitesi, dağıtım panoları, kompanzasyon panosu, kompanzasyon kondansatörleri, el aletleri, ölçü aletleri, çeşitli kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kesici montajını yapmak\nKesiciyi devreye almak ve devreden (manevra) çıkarmak\nAyırıcı montajını yapmak\nAyırıcıyı açma – kapama (manevra) işlemleri yapmak\nParafudrların montaj ve topraklama bağlantısını yapmak\nYG sigorta demontaj ve montajını yapmak\nTrafo sargıları bağlantı (λ-Δ-zigzag) deneylerini yapmak\nDağıtım trafosundan yağ numunesi alarak kontrolünü yapmak\nDağıtım trafoları kablo buşinglerinin kontrol ve bakımını yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

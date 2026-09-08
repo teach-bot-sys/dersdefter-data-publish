@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Mobil Uygulamalar",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/1485/mobil-uygulamalar-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Mobil Uygulamaya Giriş",
+      "KONU": "1. İşletim sistemine uygun uygulama geliştirme",
+      "KAZANIM": "İşletim sistemine uygun uygulama geliştirme ortamını kurar.\nGeliştirilen uygulama için en uygun aktivity ekranını seçtirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nJava geliştirme paketinin kurulumunu yaptırır.\n•\nUygulama geliştirme ortamının kurulumunu yaptırır.\n•\nSanal makineyi yapılandırmasını gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Java geliştirme paketinin kurulumunu yapmak\n2. Kurulum sonrasında işletim sistemi ortam değişkenini oluşturmak\n3. Uygulama geliştirme ortamının kurulumunu yapmak\n4. İşletim sistemi bileşenlerini geliştirme ortamına eklemek\n5. Sanal makineyi yapılandırmak\n6. Uygulama geliştirme ortamının doğru kurulduğunu test etmek\n7. Yeni bir proje oluşturmak.\n8. Kütüphane ekleme komutlarını kullanarak harici kütüphaneleri eklemek",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Mobil Uygulamaya Giriş",
+      "KONU": "2. Uygulama geliştirme ortamını kullanarak proje oluşturma",
+      "KAZANIM": "Uygulamada kullanılacak farklı aktivity ekranlarına ulaştırır.\nUygulama geliştirme ortamını kullanarak proje oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYeni bir proje oluşturma adımlarını gösterir.\n•\nKütüphane ekleme komutlarını kullanarak harici kütüphaneleri ekletir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Java geliştirme paketinin kurulumunu yapmak\n2. Kurulum sonrasında işletim sistemi ortam değişkenini oluşturmak\n3. Uygulama geliştirme ortamının kurulumunu yapmak\n4. İşletim sistemi bileşenlerini geliştirme ortamına eklemek\n5. Sanal makineyi yapılandırmak\n6. Uygulama geliştirme ortamının doğru kurulduğunu test etmek\n7. Yeni bir proje oluşturmak.\n8. Kütüphane ekleme komutlarını kullanarak harici kütüphaneleri eklemek"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "5",
+      "ÜNİTE": "Temel Komutlar",
+      "KONU": "1. Veri tipi isimlendirme kurallarına ve ihtiyaca uygun veri tipleri ve sabitleri kullanma",
+      "KAZANIM": "Veri tipi isimlendirme kurallarına ve ihtiyaca uygun veri tipleri ve sabitleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİhtiyaca uygun yapıda veri tipi tanımını gösterir.\n•\nİhtiyaca uygun yapıda sabit tanımını gösterir.\n•\nVeri tipine uygun veri atama işleminin yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İhtiyaca uygun yapıda veri tipi tanımlamak\n2. İhtiyaca uygun yapıda sabit tanımlamak\n3. Veri tipine uygun veri atama işleminin yapmak\n4. Klavyeden veri tipine değer atama işlemini yapmak\n5. Kod bloklarına açıklama satırları eklemek\n6. Tekli operatörleri kullanarak aritmetiksel işlemleri yapmak\n7. İkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n8. Aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n9. Mantıksal operatörleri kullanarak koşul ifadeleri oluşturmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Temel Komutlar",
+      "KONU": "1. Veri tipi isimlendirme kurallarına ve ihtiyaca uygun veri tipleri ve sabitleri kullanma",
+      "KAZANIM": "Veri tipi isimlendirme kurallarına ve ihtiyaca uygun veri tipleri ve sabitleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKlavyeden veri tipine değer atama işlemini uygulatır.\n•\nKod bloklarına açıklama satırları ekletir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İhtiyaca uygun yapıda veri tipi tanımlamak\n2. İhtiyaca uygun yapıda sabit tanımlamak\n3. Veri tipine uygun veri atama işleminin yapmak\n4. Klavyeden veri tipine değer atama işlemini yapmak\n5. Kod bloklarına açıklama satırları eklemek\n6. Tekli operatörleri kullanarak aritmetiksel işlemleri yapmak\n7. İkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n8. Aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n9. Mantıksal operatörleri kullanarak koşul ifadeleri oluşturmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Temel Komutlar",
+      "KONU": "2. Operatörleri kullanma",
+      "KAZANIM": "İşlem önceliğini dikkate alarak operatörleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTekli operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n•\nİkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İhtiyaca uygun yapıda veri tipi tanımlamak\n2. İhtiyaca uygun yapıda sabit tanımlamak\n3. Veri tipine uygun veri atama işleminin yapmak\n4. Klavyeden veri tipine değer atama işlemini yapmak\n5. Kod bloklarına açıklama satırları eklemek\n6. Tekli operatörleri kullanarak aritmetiksel işlemleri yapmak\n7. İkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n8. Aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n9. Mantıksal operatörleri kullanarak koşul ifadeleri oluşturmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Temel Komutlar",
+      "KONU": "2. Operatörleri kullanma",
+      "KAZANIM": "İşlem önceliğini dikkate alarak operatörleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAritmetiksel operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n•\nMantıksal operatörleri kullanarak koşul ifadeleri oluşturulmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İhtiyaca uygun yapıda veri tipi tanımlamak\n2. İhtiyaca uygun yapıda sabit tanımlamak\n3. Veri tipine uygun veri atama işleminin yapmak\n4. Klavyeden veri tipine değer atama işlemini yapmak\n5. Kod bloklarına açıklama satırları eklemek\n6. Tekli operatörleri kullanarak aritmetiksel işlemleri yapmak\n7. İkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n8. Aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yapmak\n9. Mantıksal operatörleri kullanarak koşul ifadeleri oluşturmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "5",
+      "ÜNİTE": "Kontrol İfadeleri",
+      "KONU": "1. Algoritmaya uygun karar kontrol yapıları",
+      "KAZANIM": "Algoritmaya uygun karar kontrol yapılarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlgoritmaya uygun karar kontrol yapısını yaptırır.\n•\nMantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Algoritmaya uygun karar kontrol yapısını kullanmak\n2. Mantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde kullanmak\n3. Algoritmaya uygun döngü komutunu kullanmak\n4. İç içe döngüleri kullanmak\n5. Belirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Kontrol İfadeleri",
+      "KONU": "2. Algoritmaya uygun döngü kontrolleri",
+      "KAZANIM": "Algoritmaya uygun döngü kontrollerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlgoritmaya uygun döngü komutunu seçtirir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Algoritmaya uygun karar kontrol yapısını kullanmak\n2. Mantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde kullanmak\n3. Algoritmaya uygun döngü komutunu kullanmak\n4. İç içe döngüleri kullanmak\n5. Belirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Kontrol İfadeleri",
+      "KONU": "2. Algoritmaya uygun döngü kontrolleri",
+      "KAZANIM": "Algoritmaya uygun döngü kontrollerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİç içe döngüleri uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Algoritmaya uygun karar kontrol yapısını kullanmak\n2. Mantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde kullanmak\n3. Algoritmaya uygun döngü komutunu kullanmak\n4. İç içe döngüleri kullanmak\n5. Belirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Kontrol İfadeleri",
+      "KONU": "2. Algoritmaya uygun döngü kontrolleri",
+      "KAZANIM": "Algoritmaya uygun döngü kontrollerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBelirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Algoritmaya uygun karar kontrol yapısını kullanmak\n2. Mantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde kullanmak\n3. Algoritmaya uygun döngü komutunu kullanmak\n4. İç içe döngüleri kullanmak\n5. Belirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "1. Algoritma yapısına ve kod okunabilirliğine uygun sınıflar",
+      "KAZANIM": "Algoritma yapısına ve kod okunabilirliğine uygun sınıflar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİstenen özelliklere göre sınıf tanımlama işleminin yaptırır.\n•\nBelirtilen sınıftan yeni bir nesne oluşturulmasını sağlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "1. Algoritma yapısına ve kod okunabilirliğine uygun sınıflar",
+      "KAZANIM": "Algoritma yapısına ve kod okunabilirliğine uygun sınıflar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSınıflarda kapsülleme, kalıtım, çok biçimlilik işlemlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "2. Metot yapıları",
+      "KAZANIM": "Tekrarlanan kodları engellemek için metotlar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTekrarlayan kodlar için metot yapısı oluşturulmasını sağlar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "2. Metot yapıları",
+      "KAZANIM": "Tekrarlanan kodları engellemek için metotlar ile çalışır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOluşturulan metotları proje içinde kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "3. Hazır metotları kullanma.",
+      "KAZANIM": "Parametreleri doğru girerek hazır metotları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYapılacak işe uygun metinsel metotları kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "3. Hazır metotları kullanma.",
+      "KAZANIM": "Parametreleri doğru girerek hazır metotları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYapılacak işe uygun tarih metotlarını kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "4. Dizilerle çalışma",
+      "KAZANIM": "İhtiyaca uygun dizileri tanımlar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYapılacak işe uygun dizileri tanımlattırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Komutlar",
+      "KONU": "4. Dizilerle çalışma",
+      "KAZANIM": "İhtiyaca uygun dizileri tanımlar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProje içinde oluşturulan dizilere kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. İstenen özelliklere göre sınıf tanımlama işleminin yapmak\n2. Belirtilen sınıftan yeni bir nesne türetmek\n3. Tekrarlayan kodlar için metot yapısı oluşturmak\n4. Oluşturulan metotları proje içinde kullanmak\n5. Yapılacak işe uygun metinsel metotları kullanmak\n6. Yapılacak işe uygun tarih metotlarını kullanmak\n7. Algoritmaya uygun dizi tanımlamasını yapmak\n8. İşe uygun dizi metotlarını kullanmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Tasarımı",
+      "KONU": "1. Yapılandırma bilgilerinin doğruluğunda proje oluşturma",
+      "KAZANIM": "Yapılandırma bilgilerinin doğruluğuna dikkat ederek proje oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulama projesi hazırlatır.\n•\nÖnceden oluşturulmuş projeyi geliştirme ortamına ekletir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Uygulama projesi oluşturmak\n2. Önceden oluşturulmuş projeyi geliştirme ortamına eklemek\n3. Projeyi sanal makine üzerinde çalıştırmak\n4. Görsel elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n5. Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n6. Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Tasarımı",
+      "KONU": "1. Yapılandırma bilgilerinin doğruluğunda proje oluşturma / 2. Görsel elemanları kullanarak ara yüz tasarlama",
+      "KAZANIM": "Yapılandırma bilgilerinin doğruluğuna dikkat ederek proje oluşturur.\nGörsel elemanları kullanarak arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProjenin sanal makine üzerinde çalışmasını sağlatır.\n•\nGörsel elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Uygulama projesi oluşturmak\n2. Önceden oluşturulmuş projeyi geliştirme ortamına eklemek\n3. Projeyi sanal makine üzerinde çalıştırmak\n4. Görsel elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n5. Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n6. Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Tasarımı",
+      "KONU": "2. Görsel elemanları kullanarak ara yüz tasarlama",
+      "KAZANIM": "Görsel elemanları kullanarak arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nLayout elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Uygulama projesi oluşturmak\n2. Önceden oluşturulmuş projeyi geliştirme ortamına eklemek\n3. Projeyi sanal makine üzerinde çalıştırmak\n4. Görsel elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n5. Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n6. Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Tasarımı",
+      "KONU": "2. Görsel elemanları kullanarak ara yüz tasarlama",
+      "KAZANIM": "Görsel elemanları kullanarak arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nArayüz elemanlarının yapacağı iş ile ilgili kodlarını yazdırır.\n•\nÇoklu Aktiviteler kullanarak uygulama tasarımını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Uygulama projesi oluşturmak\n2. Önceden oluşturulmuş projeyi geliştirme ortamına eklemek\n3. Projeyi sanal makine üzerinde çalıştırmak\n4. Görsel elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n5. Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n6. Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Tasarımı",
+      "KONU": "2. Görsel elemanları kullanarak ara yüz tasarlama",
+      "KAZANIM": "Görsel elemanları kullanarak arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFragments kullanarak uygulama tasarımını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Uygulama projesi oluşturmak\n2. Önceden oluşturulmuş projeyi geliştirme ortamına eklemek\n3. Projeyi sanal makine üzerinde çalıştırmak\n4. Görsel elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n5. Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yapmak\n6. Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazmak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "1. Farklı uygulamalar ile etkileşime geçen uygulama tasarlama.",
+      "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYeni bir activity başlatma işlemini gerçekleştirtir\n•\nIntent'leri kullanarak uygulamalar ile etkileşim kurdurur.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "1. Farklı uygulamalar ile etkileşime geçen uygulama tasarlama.",
+      "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nServisleri kullanarak arka plan uygulamaları oluşturtur.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "1. Farklı uygulamalar ile etkileşime geçen uygulama tasarlama.",
+      "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYayın alıcılarını kullanarak sistemden gelen bildirimleri işletir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "1. Farklı uygulamalar ile etkileşime geçen uygulama tasarlama.",
+      "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullandırır.\n•\nUygulamada e-posta ve sms kullanımını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "2. Uygulamada kullanılacak sensörler ile çalışma.",
+      "KAZANIM": "Uygulamada kullanılacak sensörlerin varlığını kontrol eder ve doğru şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSensörleri kullanarak uygulama geliştirme işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "2. Uygulamada kullanılacak sensörler ile çalışma.",
+      "KAZANIM": "Uygulamada kullanılacak sensörlerin varlığını kontrol eder ve doğru şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSensörleri yazılım ile uyumlu olarak çalışmasını gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "3. Uygulamadan gelen verileri veritabanına kaydetme",
+      "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulama için uygun veritabanı oluşturma işlemini yaptırır.\n•\nOluşturulan veritabanına uygulamadan veri aktarma işlemini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "3. Uygulamadan gelen verileri veritabanına kaydetme",
+      "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulamada yerel veritabanı işlemlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "3. Uygulamadan gelen verileri veritabanına kaydetme",
+      "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulamada uzak veritabanı işlemlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
+      "KONU": "3. Uygulamadan gelen verileri veritabanına kaydetme",
+      "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulamada SharedPrefences yapısını kullandırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Yeni bir activity başlatma işlemini gerçekleştirmek\n2. Intent'leri kullanarak uygulamalar ile etkileşim kurmak\n3. Servisleri kullanarak arka plan uygulamaları oluşturmak\n4. Yayın alıcılarını kullanarak sistemden gelen bildirimleri işlemek\n5. İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullanmak\n6. Sensörleri kullanarak uygulama geliştirme işlemini yapmak\n7. Sensörleri yazılım ile uyumlu olarak çalıştırmak\n8. Uygulama verilerini dosyaya kayıt etmek\n9. Uygulama verilerini SQL veritabanına kayıt etmek"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Paylaşımı",
+      "KONU": " Uygulamayı güvenli hale getirerek paketleme",
+      "KAZANIM": "Sensörleri kullanarak uygulama geliştirme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulama güvenliği prosedürlerini uygulatır.\n•\nUygulama için manifesto dosyasını oluşturulmasını gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Uygulama güvenliği prosedürlerini uygulamak\n2.Uygulama için manifesto dosyasını oluşturmak 3.Uygulamayı paketleyerek dağıtım için hazırlamak\n4.Market üzerinde geliştirici hesabı tanımlamak 5.Uygulamayı markete yüklemek\n6.Market üzerindeki uygulamayı güncelleştirmek"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Paylaşımı",
+      "KONU": " Uygulamayı güvenli hale getirerek paketleme /  Uygulamayı markette yayınlama",
+      "KAZANIM": "Sensörleri kullanarak uygulama geliştirme işlemini yapar.\nSensörleri yazılım ile uyumlu olarak çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulamayı paketleyerek dağıtım için hazırlatır.\n•\nMarket üzerinde geliştirici hesabı tanımlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Uygulama güvenliği prosedürlerini uygulamak\n2.Uygulama için manifesto dosyasını oluşturmak 3.Uygulamayı paketleyerek dağıtım için hazırlamak\n4.Market üzerinde geliştirici hesabı tanımlamak 5.Uygulamayı markete yüklemek\n6.Market üzerindeki uygulamayı güncelleştirmek"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Uygulama Paylaşımı",
+      "KONU": " Uygulamayı markette yayınlama",
+      "KAZANIM": "Sensörleri yazılım ile uyumlu olarak çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUygulamayı markete yükletir.\n•\nMarket üzerindeki uygulamayı güncelleştirmeyi gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Switch",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1.Uygulama güvenliği prosedürlerini uygulamak\n2.Uygulama için manifesto dosyasını oluşturmak 3.Uygulamayı paketleyerek dağıtım için hazırlamak\n4.Market üzerinde geliştirici hesabı tanımlamak 5.Uygulamayı markete yüklemek\n6.Market üzerindeki uygulamayı güncelleştirmek"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

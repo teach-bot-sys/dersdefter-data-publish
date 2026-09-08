@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Bilgisayarla Yapı Maliyet Hesapları",
+  "grup": "Meslek Dersleri",
+  "brans": "İnşaat Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/insaat-teknolojisi/726/bilgisayarla-yapi-maliyet-hesaplari-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Şantiye Kurulum Planı",
+      "KONU": "1. Yapı arsa ve ruhsatı hazırlıkları",
+      "KAZANIM": "Yapı arsası belirleme ve yapı ruhsatı alma ile ilgili iş ve işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapı arsa seçim kriterleri, ruhsat dosyasında bulunması gereken projeler ve finansman kaynaklarının sunumu yaptırılır.\nÖrnek yapı ruhsat dosyasını hazırlatılır ve firma ve eleman seçiminde piyasa araştırması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yapı arsa ve ruhsat hazırlıklarının yapılması\nBilgisayarla şantiye kurulum planlarının hazırlaması\nBilgisayarla iş programlarının yapılması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Şantiye Kurulum Planı",
+      "KONU": "2. Bilgisayarla şantiye kurulum planlarının hazırlaması",
+      "KAZANIM": "Bilgisayarla şantiye kurulum planları ile ilgili iş ve işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Şantiye çeşitleri, çalışanları ve görevlerini araştırarak sınıf ortamında paylaşılmasını sağlar.\nŞantiye yerleşim krokisinin çizim/paket programında çizdirilmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yapı arsa ve ruhsat hazırlıklarının yapılması\nBilgisayarla şantiye kurulum planlarının hazırlaması\nBilgisayarla iş programlarının yapılması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Şantiye Kurulum Planı",
+      "KONU": "3. Bilgisayarla iş programlarının yapımı",
+      "KAZANIM": "Bilgisayarla projenin yürütülmesi için iş programları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İş programı yönetmelik ve şartnameler ile ilgili sunum yaptırır.\nBilgisayarla iş programlarının elektronik tablolama/paket programla hazırlanması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yapı arsa ve ruhsat hazırlıklarının yapılması\nBilgisayarla şantiye kurulum planlarının hazırlaması\nBilgisayarla iş programlarının yapılması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kazı Metraj ve Keşfi",
+      "KONU": "1. Bilgisayarla serbest kazı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre serbest kazı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraj cetvellerini ve metraj programlarını elektronik tablolama/paket programla kullandırılır.\nSerbest kazı metrajı elektronik tablolama/paket programla yaptırır.\nBirim fiyat cetvellerini kullandırarak metraj sonucuna göre serbest kazı keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla serbest kazı metrajı ve keşfinin yapılması\nBilgisayarla derin kazı metrajı ve keşfi yapılması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kazı Metraj ve Keşfi",
+      "KONU": "2. Bilgisayarla derin kazı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre derin kazı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Derin kazı metrajını projeye uygun olarak elektronik tablolama/paket programla yaptırır.\nMetraj sonucuna göre derin kazı keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla serbest kazı metrajı ve keşfinin yapılması\nBilgisayarla derin kazı metrajı ve keşfi yapılması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "1. Bilgisayarla kalıp metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre kalıp metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Beton ve betonarmeden yapılan yapı elemanlarının kalıp metrajlarını projeye göre elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "1. Bilgisayarla kalıp metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre kalıp metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kalıp metrajına göre keşfi elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "2. Bilgisayarla beton metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre beton metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye göre beton metrajlarını elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "2. Bilgisayarla beton metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre beton metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre beton keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "3. Bilgisayarla donatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre donatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye göre donatı metrajlarını elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "3. Bilgisayarla donatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre donatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre donatı keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "4. Bilgisayarla duvar metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre duvar metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye göre ince duvar metrajlarını elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "4. Bilgisayarla duvar metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre duvar metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye göre kalın duvar metrajlarını elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "4. Bilgisayarla duvar metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre duvar metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre duvar keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla çatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre çatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak çatı iskeleti ve çatı kaplaması metrajlarını elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla çatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre çatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak çatı da tenekecilik işleri, yağmur oluğu ve iniş borularının metrajlarını elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla çatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre çatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre çatı keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla çatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre çatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre çatı keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Kaba Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla çatı metrajı ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre çatı metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre çatı keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kalıp metrajı ve keşfinin yapılması\nBilgisayarla beton metrajı ve keşfinin yapılması\nBilgisayarla donatı metrajı ve keşfinin yapılması\nBilgisayarla duvar metrajı ve keşfinin yapılması\nBilgisayarla çatı metrajı ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "1. Bilgisayarla sıva, iskele metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre sıva, iskele metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak sıva metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.\nProjeye uygun olarak sıva iskelesi metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "2. Bilgisayarla boya metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre boya metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak boya metrajlarını elektronik tablolama/paket programla hesaplatır.\nMetraja göre boya keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "3. Bilgisayarla yüzey kaplama metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre yüzey kaplama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak kâgir esaslı yüzey kaplama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatır.\nProjeye uygun olarak ahşap esaslı yüzey kaplama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "3. Bilgisayarla yüzey kaplama metraj ve keşfi / 4. Bilgisayarla doğrama metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre yüzey kaplama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.\nBilgisayarla plana göre doğrama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak PVC esaslı yüzey kaplama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.\nProjeye uygun olarak ahşap doğrama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "4. Bilgisayarla doğrama metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre doğrama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak PVC doğrama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatır.\nProjeye uygun olarak çelik-metal doğrama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "4. Bilgisayarla doğrama metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre doğrama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak alüminyum doğrama metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla alçı sıva, kartonpiyer metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre alçı sıva, kartonpiyer metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak alçı sıva metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.\nProjeye uygun olarak alçı asma tavan metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "5. Bilgisayarla alçı sıva, kartonpiyer metraj ve keşfi / 6. Bilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre alçı sıva, kartonpiyer metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.\nBilgisayarla plana göre küpeşte, söve, korkuluk, limonluk, denizlik metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak alçı kartonpiyer metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatır.\nProjeye uygun olarak küpeşte ve korkuluk metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "6. Bilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfi / 7. Bilgisayarla cam metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre küpeşte, söve, korkuluk, limonluk, denizlik metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.\nBilgisayarla plana göre cam metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Projeye uygun olarak söve, limonluk ve denizlik metrajlarını ve keşfini elektronik tablolama/paket programla hesaplatılır.\nProjeye uygun olarak cam metrajlarını elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "7. Bilgisayarla cam metraj ve keşfi / 8. Bilgisayarla yalıtım metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre cam metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.\nBilgisayarla plana göre yalıtım metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre cam keşfini elektronik tablolama/paket programla hazırlatılır.\nProjeye uygun olarak yalıtım metrajlarını elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "8. Bilgisayarla yalıtım metraj ve keşfi / 9. Bilgisayarla cephe-giydirme cephe kaplama metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre yalıtım metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.\nBilgisayarla plana göre cephe giydirme, cephe kaplama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre yalıtım keşfini elektronik tablolama/paket programla hazırlatılır.\nProjeye uygun olarak cephe-giydirme ve cephe kaplama metrajlarını elektronik tablolama/paket programla hesaplatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla İnce Yapı Elemanlarının Metraj ve Keşfi",
+      "KONU": "9. Bilgisayarla cephe-giydirme cephe kaplama metraj ve keşfi",
+      "KAZANIM": "Bilgisayarla plana göre cephe giydirme, cephe kaplama metrajı ve keşfini birim fiyatlara uygun olarak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metraja göre cephe-giydirme ve cephe kaplama keşfini elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla sıva, iskele metraj ve keşfinin yapılması\nBilgisayarla boya metraj ve keşfinin yapılması\nBilgisayarla yüzey kaplama metraj ve keşfinin yapılması\nBilgisayarla doğrama metraj ve keşfinin yapılması\nBilgisayarla alçı sıva, kartonpiyer metraj ve keşfinin yapılması\nBilgisayarla küpeşte-söve-korkuluk-limonluk-denizlik metraj ve keşfinin yapılması\nBilgisayarla cam metraj ve keşfinin yapılması\nBilgisayarla yalıtım metraj ve keşfinin yapılması\nBilgisayarla cephe-giydirme cephe kaplama metraj ve keşfinin yapılması",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Fiyat Teklifi ve Sözleşme",
+      "KONU": "1. Bilgisayarla fiyat teklifi hazırlama",
+      "KAZANIM": "Bilgisayarla yönetmelik ve şartnamelere uygun olarak fiyat teklifi hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fiyat teklifinin yazılı/sözlü olarak açıklanması sağlanır.\nFiyat teklifi evraklarını elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla fiyat teklifinin hazırlanması\nBilgisayarla ihale dosyasının hazırlanması\nBilgisayarla sözleşmenin hazırlanması",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Fiyat Teklifi ve Sözleşme",
+      "KONU": "2. Bilgisayarla ihale dosyası hazırlama",
+      "KAZANIM": "Bilgisayarla yönetmelik ve şartnamelere uygun olarak ihale dosyasını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İhale dosyası evraklarını elektronik tablolama/paket programla hazırlatılır.\nİhale dosyasının oluşturulması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla fiyat teklifinin hazırlanması\nBilgisayarla ihale dosyasının hazırlanması\nBilgisayarla sözleşmenin hazırlanması"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Fiyat Teklifi ve Sözleşme",
+      "KONU": "3. Bilgisayarla sözleşme hazırlama",
+      "KAZANIM": "Bilgisayarla yönetmelik ve şartnamelere uygun olarak sözleşme hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sözleşme için gerekli evrakları hazırlatılır.\nSözleşmeyi yönetmeliklere uygun olarak elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla fiyat teklifinin hazırlanması\nBilgisayarla ihale dosyasının hazırlanması\nBilgisayarla sözleşmenin hazırlanması"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Hakediş ve Kabulleri",
+      "KONU": "1. Bilgisayarla hakediş ve iş teslimatı evraklarını hazırlama",
+      "KAZANIM": "Bilgisayarla yönetmelik ve şartnamelere uygun olarak hakediş hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hakediş için gerekli evrakları hazırlatılır.\nHakedişi yönetmeliklere uygun olarak elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla fiyat teklifinin hazırlanması\nBilgisayarla ihale dosyasının hazırlanması\nBilgisayarla sözleşmenin hazırlanması"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayarla Hakediş ve Kabulleri",
+      "KONU": "2. Bilgisayarla geçici ve kesin kabulleri işlemleri belgelerini hazırlama",
+      "KAZANIM": "Bilgisayarla yönetmelik ve şartnamelere uygun olarak iş teslimatı, geçici ve kesin kabul ile ilgili iş ve işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İş teslimatı için gerekli evrakları hazırlatılır.\nGeçici ve kesin kabul evraklarını elektronik tablolama/paket programla hazırlatılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları, paket programlar ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla fiyat teklifinin hazırlanması\nBilgisayarla ihale dosyasının hazırlanması\nBilgisayarla sözleşmenin hazırlanması"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

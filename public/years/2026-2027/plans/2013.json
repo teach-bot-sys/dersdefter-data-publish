@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Krank Mili Ve Piston Biyel Yenileştirme (Mesem Motorla Araçlar)",
+  "grup": "MESEM Dersleri",
+  "brans": "Motorlu Araçlar Teknolojisi (Mesem)",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/motorlu-araclar-teknolojisi-mesem/2013/krank-mili-ve-piston-biyel-yenilestirme-mesem-motorla-araclar-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "1. Krank milleri kontrolü",
+      "KAZANIM": "Krank millerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Krank milinin görevlerini ve yapısal özelliklerini açıklar.\nKrank milinin başlıca arızaları ve nedenlerini sıralar.\nKomparatör ve mikrometreler ile ölçüm aşamalarını sıralar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "1. Krank milleri kontrolü",
+      "KAZANIM": "Krank millerini kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Krank milinde yapılan kontrolleri sıralar.\nMuyluları ölçümü ve değerlerinin hesaplanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "2. Krank mili taşlama tezgâhları ve taşlama taşları",
+      "KAZANIM": "Krank mili taşlama tezgâhını hazırlayıp krank milini bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Krank mili taşlama tezgâhının özelliklerini ve elemanlarını listeler.\nTaşlama taşının tanımı ve elemanlarını açıklar.\nTaşlama taşının dengelemesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "2. Krank mili taşlama tezgâhları ve taşlama taşları",
+      "KAZANIM": "Krank mili taşlama tezgâhını hazırlayıp krank milini bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Taşın dengelenmesinde dikkat edilecek hususları sıralar.\nTaşlama taşını bileme aşamalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "2. Krank mili taşlama tezgâhları ve taşlama taşları",
+      "KAZANIM": "Krank mili taşlama tezgâhını hazırlayıp krank milini bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Taşın bilenmesinde dikkat edilecek hususlar\nKrank milini tezgâha bağlama aşamalarını açıklar.\nDüşey ve yatay eksen ayarını yapar iken dikkat edilecek hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "3. Ana ve kol yatak muylularını taşlanması",
+      "KAZANIM": "Ana ve kol yatak muylularını taşlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kurs ayarının tanımı ve aşamalarını açıklar.\nKurs ayarı yaparken dikkat edilecek hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "3. Ana ve kol yatak muylularını taşlanması",
+      "KAZANIM": "Ana ve kol yatak muylularını taşlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ana yatak muylularının taşlanmasının aşamalarını açıklar..\nKol yatak muylularının taşlanmasındadengeleme ayarını ve aşamalarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "3. Ana ve kol yatak muylularını taşlanması",
+      "KAZANIM": "Ana ve kol yatak muylularını taşlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kol muylularının düşey ve yatay eksen ayarlarını açıklar.\nKol muylularının taşlama aşamalarını açıklar.\nAna ve kol yatak muylularını taşlarken dikkat edilecek hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "3. Ana ve kol yatak muylularını taşlanması / 4. Polisaj",
+      "KAZANIM": "Ana ve kol yatak muylularını taşlar.\nPolisajlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Taşlama hatalarını listeler.\nPolisajı ve önemini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "4. Polisaj / 5. Kam milleri taşlama",
+      "KAZANIM": "Polisajlama yapar.\nKam millerini yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Polisaj makinelerini ve çeşitlerini açıklar\nPolisaj yaparken dikkat edilecek hususları açıklar.\nKam milleriningörevini ve özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "5. Kam milleri taşlama",
+      "KAZANIM": "Kam millerini yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kam muylularının ve kamların kontrollerini listeler.\nKam mili taşlama tezgâhlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Krank ve Kam Mili Yenileştirme",
+      "KONU": "5. Kam milleri taşlama",
+      "KAZANIM": "Kam millerini yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kam milinin taşlanması aşamalarını açıklar.\nTaşlama hataları ve giderilmesi işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini temizler ve fiziki kontrollerini yapar.\n2. Krank milinin V yataklar üzerinde komparatörle eğiklik kontrolünü yapar.\n3. Krank mili ana ve kol muylularını ölçer.\n4. Ovallik koniklik ve aşıntı miktarını tespit eder.\n5. Yapılan kontrol değerlerini katalog değerleri ile karşılaştırır.\n6. Tespit edilen değerlere göre yenileştirme veya değişim yapar.\n7. Krank taşlama taşını tezgâha bağlar ve bağlanan /bağlı olan taşı fiziki kontrollerini yapar.\n8. Statik ve dinamik denge kontrolü yapar.\n9. Soğutma sıvısını tamamlar/ kontrol eder.\n10. Taşlama taşını geri çeker ve destek ayaklarını yerleştirir.\n11. Krank milini tezgâha bağlar.\n12. Tezgâhta ana yatak düşey ve yatay eksen ayarı yapar.\n13. Komparatörü taşlanacak muylu karşısına yerleştirir ve komparatörü sıfırlar.\n14. Tezgâhta son kontrolleri yapar.\n15. Katalog değerlerini tespit eder.\n16. Destek ayaklarını yerleştirir.\n17. Tezgâhta kurs ve sıfırlama ayarı yapar.\n18. Ana yatak muylusunu taşlar.\n19. Kol muylu düşey ve yatay eksen ayarlarını yapar.\n20. Kol yatak muylusunu taşlar.\n21. Ölçüm yaparak taşlama işlemlerini tamamlar.\n22. Diğer taşlanacak muylu/muyluları ayarlar ve taşlar.\n23. Muylu/kol muylu düşey yatay eksen ayarlarını yapar.\n24. Polisaj makinesini muyluya göre ayarlar.\n25. Muylu ölçümü yapar.\n26. Tezgâhı ve polisaj makinesini çalıştırarak muyluları/kol muylularını polisajlar.\n27. Tüm muylu ve kol muyluları için aynı işlemi tekrarlamak.\n28. Kam milinin fiziki kontrollerini yapar.\n29. Kam muylularının ve kamlarının ölçümünü yapar.\n30. Kam mili kamlarının onarımını yapar.\n31. Kam milini tezgâha bağlayarak taşlar.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "1. Yağ ve krank mili eksenel boşluğu",
+      "KAZANIM": "Yağ ve krank mili eksenel boşluğunu ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatakların görevi, çeşitlerini ve yapısını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "1. Yağ ve krank mili eksenel boşluğu",
+      "KAZANIM": "Yağ ve krank mili eksenel boşluğunu ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatak gerecinde aranan özellikleri listeler.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "1. Yağ ve krank mili eksenel boşluğu",
+      "KAZANIM": "Yağ ve krank mili eksenel boşluğunu ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yağ boşluğunun önemini ve tespit yöntemini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "1. Yağ ve krank mili eksenel boşluğu",
+      "KAZANIM": "Yağ ve krank mili eksenel boşluğunu ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Krank mili eksenel boşluğunu ve ölçüm yöntemini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "1. Yağ ve krank mili eksenel boşluğu",
+      "KAZANIM": "Yağ ve krank mili eksenel boşluğunu ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Krank mili gezinti yataklarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "1. Yağ ve krank mili eksenel boşluğu",
+      "KAZANIM": "Yağ ve krank mili eksenel boşluğunu ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatak arızaları ve belirtilerini listeler.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "2. Yatak arızaları ve nedenleri",
+      "KAZANIM": "Ana yatak arızalarını tespit edip yatakları değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatak arızaları ve nedenlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "2. Yatak arızaları ve nedenleri",
+      "KAZANIM": "Ana yatak arızalarını tespit edip yatakları değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatakların değiştirilmesi işlemini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "2. Yatak arızaları ve nedenleri",
+      "KAZANIM": "Ana yatak arızalarını tespit edip yatakları değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yeni yatak ölçüsünün belirlenmesini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "3. Kam mili yatakları",
+      "KAZANIM": "Kam mili yataklarını yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kam mili yataklarının görevi, özelliklerini ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "3. Kam mili yatakları",
+      "KAZANIM": "Kam mili yataklarını yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kam mili yataklarının yenileştirilmesi işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Motor Yataklarını Yenileştirme",
+      "KONU": "3. Kam mili yatakları",
+      "KAZANIM": "Kam mili yataklarını yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kam mili yataklarının yenileştirilmesi işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Krank milini yerine takar ve yağ boşluğunu tespit eder.\n2. Eksenel boşluğu ölçer.\n3. Değeri katalog değeri ile kıyaslayarak yenileştirme yapar.\n4. Direksiyon sistemini test eder.\n5. Yatakların ve krank mili fiziki kontrollerini yapar.\n6. Krank ve motor gövde yağ kanallarının kontrollerini yapar.\n7. Yatakları yuvalarına takarak kepleri torkunda sıkar.\n8. Komparatörle yatak çapları ölçülerek aşıntı miktarı tespiti yapar.\n9. Yatakların değerlerini katalog değerlerine göre kıyaslar.\n10. Onarım/değişim için yapılacak işlemlere karar verir.\n11. Kol yatakları için işlemleri tekrarlar.\n12. Kam mili ve yataklarının kontrollerini yapar.\n13. Komparatörle yatak çaplarını ölçer ve değerlendirir.\n14. Arıza tespiti yapar.\n15. Yeni yatakları temin eder ve yatakları değiştirir.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "1. Piston arızalarının tespitive yenileştirilmesi",
+      "KAZANIM": "Piston arızalarını tespit edip pistonları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pistonların görevlerini, yapım özelliklerini ve çeşitlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "1. Piston arızalarının tespitive yenileştirilmesi",
+      "KAZANIM": "Piston arızalarını tespit edip pistonları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Piston üzerindeki sembol ve rakamların anlamlarını açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "1. Piston arızalarının tespitive yenileştirilmesi",
+      "KAZANIM": "Piston arızalarını tespit edip pistonları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Piston boşluğu ve ölçüm işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "1. Piston arızalarının tespitive yenileştirilmesi",
+      "KAZANIM": "Piston arızalarını tespit edip pistonları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pistonların kontrolleri ve arızaları listeler.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "1. Piston arızalarının tespitive yenileştirilmesi",
+      "KAZANIM": "Piston arızalarını tespit edip pistonları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Piston pimleri görevi, yapım özellikleri ve kontrollerini listeler.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "1. Piston arızalarının tespitive yenileştirilmesi",
+      "KAZANIM": "Piston arızalarını tespit edip pistonları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Piston pim yuvalarının yenileştirilmesi işlemini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "2. Segman arızalarının tespiti ve yenileştirilmesi",
+      "KAZANIM": "Segman arızalarını tespit edip segmanları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Segmanların görevlerini, özelliklerini ve çeşitlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "2. Segman arızalarının tespiti ve yenileştirilmesi",
+      "KAZANIM": "Segman arızalarını tespit edip segmanları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Segman arızalarını listeler.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "2. Segman arızalarının tespiti ve yenileştirilmesi",
+      "KAZANIM": "Segman arızalarını tespit edip segmanları yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Segmanların değiştirilmesi ve kontrollerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "3. Biyel arızalarının tespiti ve yenileştirilmesi",
+      "KAZANIM": "Biyel arızalarını tespit edip biyelleri yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyelin görevleri ve yapısal özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "3. Biyel arızalarının tespiti ve yenileştirilmesi",
+      "KAZANIM": "Biyel arızalarını tespit edip biyelleri yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyellerde eğiklik ve burukluk nedenlerini, kontrollerini ve düzeltme işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Piston ve Biyel Yenileştirme",
+      "KONU": "3. Biyel arızalarının tespiti ve yenileştirilmesi",
+      "KAZANIM": "Biyel arızalarını tespit edip biyelleri yenileştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyellerde eğiklik ve burukluk nedenlerini, kontrollerini ve düzeltme işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Motor Yenileştirme Atölyesi\nDonanım: Etkileşimli Tahta/ Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, el aletleri ve avadanlıklar Özel Aparatlar, krank milleri, ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Pistonların ve silindirlerin fiziki kontrollerini yapar.\n2. Şekil değişikliklerini ve aşınmaları belirler.\n3. Pistonları ve piston boşluklarını ölçer.\n4. Segman yuvalarında aşıntı tepsi yapar.\n5. Piston pimlerini ve pim yuvalarını ölçer.\n6. Değerleri ve aşınmaları katalog değerleri ile karşılaştırır.\n7. Değiştirme/yenileştirme için yapılacak işlemleri belirler.\n8. Segmanların gözle kontrollerini yapar.\n10. Segman ve yuvası arasındaki boşluğu ölçer.\n11. Segman ağız açıklığını tespit eder.\n12. Segman aşıntı miktarını ölçer.\n13. Değişim / yenileştirme için yapılacak işlemleri belirler.\n14. Yeni segmanları özelliklerine ve katalog değerlerine göre tedarik ederek montaj işlemini gerçekleştirir.\n15. Biyellerin fiziki kontrollerini yapar.\n16. Biyelin düzgünlük kontrolünü yapar.\n17. Krank bağlantısı ve pim bağlantısı eksenlerinden burukluk kontrolü yapar.\n18. Onarım işlemlerini belirler ve onarım işlemini yapar."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

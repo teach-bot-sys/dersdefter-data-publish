@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Mikrodenetleyici Ve Kodlama",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/291/mikrodenetleyici-ve-kodlama-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Sayı Sistemleri",
+      "KAZANIM": "Sayı sistemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Onlu sayı sistemi açıklanır.\nİkili sayı sistemi açıklanır.\nOnaltılı sayı sistemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Sayı Sistemleri / Sayı Sistemlerinin Dönüştürülmesi",
+      "KAZANIM": "Sayı sistemlerini açıklar.\nSayı sistemleri arasında dönüştürme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayı sistemleri ve kodlar açıklanır.\nOnlu, ikili ve on altılı sayı sistemleri arasında dönüştürme yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Sayı Sistemlerinin Dönüştürülmesi / Lojik Entegreler",
+      "KAZANIM": "Sayı sistemleri arasında dönüştürme işlemlerini yapar.\nLojik entegreleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayı sistemleri arasında dört işlemler yapılır.\nTTL lojik entegreler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Lojik Entegreler / Lojik Kapılar",
+      "KAZANIM": "Lojik entegreleri açıklar.\nLojik kapıları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CMOS lojik entegreler açıklanır.\nLow aktif, high aktif giriş ve çıkışlar açıklanır.\nLojik kapıların sembolleri ve doğruluk tablosu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Lojik Kapılar / Lojik Kapı Uygulamaları",
+      "KAZANIM": "Lojik kapıları açıklar.\nLojik kapı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Lojik kapıların elektriksel eşdeğeri açıklanır.\nBoolean matematiği ile lojik ifadelerin cebirsel gösterimleri ve açınımları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Lojik Kapı Uygulamaları",
+      "KAZANIM": "Lojik kapı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Lojik kapı entegrelerinin bacak bağlantıları açıklanır.\nLojik ifadeden lojik devre çizilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Lojik Kapı Uygulamaları",
+      "KAZANIM": "Lojik kapı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Lojik devreden lojik ifade yazılır.\nKarnough haritası ile devre sadeleştirilmesi yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Verilen sayı sistemin türünü (binary, desimal vb.) belirlemek\nFarklı sayı sistemleri arası dönüşüm problemleri yapmak\nSayı sistemlerde dört işlemler yapmak\nKodlar arası dönüşüm problemleri yapmak\nPull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması\nMantıksal ifadelerin mantıksal kapılara dönüştürülmesi\nMantıksal kapıların mantıksal ifadelere dönüştürülmesi\nLojik ifadelerin cebirsel gösterimlerini yapmak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirmek\nVerilen lojik sinyali denklem çıkararak sadeleştirmek\nLojik kapılarla sayısal devre tasarlamak\nVerilen lojik denklemi cebirsel gösterimlerle sadeleştirerek uygulamak\nVerilen lojik sinyali denklem çıkarıp sadeleştirerek uygulamak\nVerilen denklem ile sayısal devre tasarlamak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikroişlemciler ve Mikrodenetleyiciler",
+      "KAZANIM": "Mikroişlemcileri ve mikrodenetleyicileri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroişlemcilerin özellikleri açıklanır.\nMikrodenetleyicilerin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikroişlemciler ve Mikrodenetleyiciler / Mikrodenetleyici Kartının Donanım Yapısı ve Özellikleri",
+      "KAZANIM": "Mikroişlemcileri ve mikrodenetleyicileri açıklar.\nMikrodenetleyici kartının donanım yapısını ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroişlemciler ve mikrodenetleyiciler arasındaki farklar açıklanır.\nBesleme bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyici Kartının Donanım Yapısı ve Özellikleri",
+      "KAZANIM": "Mikrodenetleyici kartının donanım yapısını ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "USB bağlantısı açıklanır.\nPort yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyici Editör Programı",
+      "KAZANIM": "Mikrodenetleyicinin editör programını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editör programının kurulumu gösterilir.\nEditör programının menüleri ve özellikleri tanıtılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyiciye Program Yükleme",
+      "KAZANIM": "Mikrodenetleyiciye program yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editörde kart tanıtımı yapılır.\nEditörde port tanıtımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyiciye Program Yükleme",
+      "KAZANIM": "Mikrodenetleyiciye program yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Örnek program editöre yüklenir.\nÖrnek program derlenir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyiciye Program Yükleme / Algoritma Hazırlama",
+      "KAZANIM": "Mikrodenetleyiciye program yükler.\nAlgoritmayı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciye yüklenir.\nProgram akış diyagramı çizilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Temel Programlama İşlemleri",
+      "KAZANIM": "Temel programlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kodlama yazım kuralları açıklanır.\nOperatörler tanıtılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Temel Programlama İşlemleri",
+      "KAZANIM": "Temel programlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sabit ve değişken tipleri tanıtılır.\nKarar yapıları verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Temel Programlama İşlemleri",
+      "KAZANIM": "Temel programlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Döngüler açıklanır.\nDizi yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Temel Programlama İşlemleri / Dijital Giriş Çıkış İşlemleri",
+      "KAZANIM": "Temel programlama işlemlerini yapar.\nDijital giriş çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Programda fonksiyon yapıları açıklanır.\nPort tanımlama komutu verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Dijital Giriş Çıkış İşlemleri",
+      "KAZANIM": "Dijital giriş çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dijital çıkış komutu verilir.\nDijital giriş komutu verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Dijital Giriş Çıkış İşlemleri / Seri Port İşlemleri",
+      "KAZANIM": "Dijital giriş çıkış işlemlerini yapar.\nSeri port işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Zaman gecikmesi komutları verilir.\nSeri port hız tanımlama komutu verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Seri Port İşlemleri / Analog Giriş Çıkış İşlemleri",
+      "KAZANIM": "Seri port işlemlerini yapar.\nAnalog giriş çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seri port giriş çıkış komutları verilir.\nAnalog çıkış komutu verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Analog Giriş Çıkış İşlemleri / Kesme İşlemleri",
+      "KAZANIM": "Analog giriş çıkış işlemlerini yapar.\nKesme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog giriş komutu verilir.\nKesme komutları verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "EEPROM İşlemleri",
+      "KAZANIM": "EEPROM işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EEPROM okuma yazma komutları verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Kütüphane Dosyası Yükleme / Keypad Uygulamaları",
+      "KAZANIM": "Kütüphane dosyalarını yükler.\nMikrodenetleyici ile keypad uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kütüphane dosyalarını yükleme çeşitleri ve aşamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Isı sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Işık sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Nem sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hareket sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ultrasonik sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "LCD Ekran Uygulamaları",
+      "KAZANIM": "LCD uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "LCD'nin pin yapısı açıklanır.\nLCD kütüphanesinde bulunan komutlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Elektrik Motor Uygulamaları",
+      "KAZANIM": "Elektrik motor uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor sürücü bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Elektrik Motor Uygulamaları",
+      "KAZANIM": "Elektrik motor uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor sürücü kütüphanelerinde bulunan komutlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Haberleşme Uygulamaları",
+      "KAZANIM": "Haberleşme uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Haberleşme modüllerinin bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Haberleşme Uygulamaları",
+      "KAZANIM": "Haberleşme uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Haberleşme modüllerinin kütüphanelerinde bulunan komutlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Robot Uygulamaları",
+      "KAZANIM": "Robot uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Robot çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Robot Uygulamaları",
+      "KAZANIM": "Robot uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Robot uygulaması yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi ve Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nÇeşitli mikrodenetleyicili uygulamalar\n2x16 LCD uygulamaları\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nSıcaklık ölçüm uygulaması\nAlarm projesi uygulaması\nKapı kilidi projesi uygulaması\nÇeşitli robot uygulamaları"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

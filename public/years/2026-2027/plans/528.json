@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Bilgisayar Destekli Modelleme",
+  "grup": "Meslek Dersleri",
+  "brans": "Makine Ve Tasarım Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/makine-ve-tasarim-teknolojisi/528/bilgisayar-destekli-modelleme-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Cnc Torna İçin CAM Programlama",
+      "KONU": "2 eksen CAM Programıyla Tornalama",
+      "KAZANIM": "2 eksen CAM programıyla tornalama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parçanın cam programına aktarılması ve kaydedilmesi açıklanır.\nCam programına aktarılan parçanın operasyona hazırlanması açıklanır.\nTakım yollarının oluşturulması ve takım yolu simülasyonu açıklanır.\nG Kodlarının oluşturulması ve düzenlenmesi açıklanır.\nÖğrencilere; 2 eksen CAM programıyla tornalama ile ilgili uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "2 eksen CAM programıyla tornalama ile ilgili uygulama yapmak.\nC eksen CAM programıyla tornalama ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Cnc Torna İçin CAM Programlama",
+      "KONU": "C eksen CAM Programıyla Tornalama",
+      "KAZANIM": "C eksen CAM programıyla tornalama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parçanın cam programına aktarılması ve kaydedilmesi açıklanır.\nCam programına aktarılan parçanın operasyona hazırlanması açıklanır.\nTakım yollarının oluşturulması ve takım yolu simülasyonu açıklanır.\nG Kodlarının oluşturulması ve düzenlenmesi açıklanır.\nÖğrencilere; C eksen CAM programıyla tornalama ile ilgili uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "2 eksen CAM programıyla tornalama ile ilgili uygulama yapmak.\nC eksen CAM programıyla tornalama ile ilgili uygulama yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Cnc Freze İçin CAM Programlama",
+      "KONU": "2 ½ eksen CAM Programıyla frezeleme",
+      "KAZANIM": "2 ½ eksen CAM programıyla frezeleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parçanın cam programına aktarılması ve kaydedilmesi açıklanır.\nCam programına aktarılan parçanın operasyona hazırlanması açıklanır.\nTakım yollarının oluşturulması ve takım yolu simülasyonu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "2 ½ eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.\n3 eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Cnc Freze İçin CAM Programlama",
+      "KONU": "2 ½ eksen CAM Programıyla frezeleme",
+      "KAZANIM": "2 ½ eksen CAM programıyla frezeleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "G Kodlarının oluşturulması ve düzenlenmesi açıklanır.\nÖğrencilere; 2 ½ eksen CAM Programıyla frezeleme ile ilgili uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "2 ½ eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.\n3 eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Cnc Freze İçin CAM Programlama",
+      "KONU": "3 Eksen CAM Programıyla frezeleme",
+      "KAZANIM": "3 Eksen CAM programıyla frezeleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Parçanın cam programına aktarılması ve kaydedilmesi açıklanır.\nCam programına aktarılan parçanın operasyona hazırlanması açıklanır.\nTakım yollarının oluşturulması ve takım yolu simülasyonu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "2 ½ eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.\n3 eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Cnc Freze İçin CAM Programlama",
+      "KONU": "3 Eksen CAM Programıyla frezeleme",
+      "KAZANIM": "3 Eksen CAM programıyla frezeleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "G Kodlarının oluşturulması ve düzenlenmesi açıklanır.\nÖğrencilere; 3 eksen CAM Programıyla frezeleme ile ilgili uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "2 ½ eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak.\n3 eksen CAM Programıyla frezeleme ile ilgili uygulama yapmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "Dik Maçalı Modelleme",
+      "KONU": "Dik Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "Dik maçalı modelleme resimlerini cad ortamında çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dik maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nDik maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan dik maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dik maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nDik maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan dik maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nDik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nDik maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dik Maçalı Modelleme",
+      "KONU": "Dik Maçalı Modelleme Resimlerini CAD Ortamında Çizme. / Dik Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması.",
+      "KAZANIM": "Dik maçalı modelleme resimlerini cad ortamında çizer.\nDik maçalı modellemenin CAM programında işleme operasyonunun oluşturulmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere dik maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nÖğrencilere; CAD ortamında çizilmiş olan dik maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dik maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nDik maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan dik maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nDik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nDik maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dik Maçalı Modelleme",
+      "KONU": "Dik Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması. / Dik Maçalı Modellemeyi Yapma.",
+      "KAZANIM": "Dik maçalı modellemenin CAM programında işleme operasyonunun oluşturulmasını sağlar.\nDik maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nDik maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda dik maçalı modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dik maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nDik maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan dik maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nDik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nDik maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Yatık Maçalı Modelleme",
+      "KONU": "Yatık Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında yatık maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatık maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nYatık maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan yatık maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yatık maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nYatık maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan yatık maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nYatık maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nYatık maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Yatık Maçalı Modelleme",
+      "KONU": "Yatık Maçalı Modelleme Resimlerini CAD Ortamında Çizme. / Yatık Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması.",
+      "KAZANIM": "CAD ortamında yatık maçalı modelleme resimleri çizer.\nCAM programında yatık maçalı modelleme İşleme operasyonunun oluşturulmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere yatık maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nÖğrencilere; CAD ortamında çizilmiş olan yatık maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yatık maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nYatık maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan yatık maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nYatık maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nYatık maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Yatık Maçalı Modelleme",
+      "KONU": "Yatık Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması. / Yatık Maçalı Modellemeyi yapma.",
+      "KAZANIM": "CAM programında yatık maçalı modelleme İşleme operasyonunun oluşturulmasını yapar.\nYatık maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatık maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nYatık maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yatık maçalı modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yatık maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nYatık maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan yatık maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nYatık maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nYatık maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Topuk Maçalı Modelleme",
+      "KONU": "Topuk Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında topuk maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topuk maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nTopuk maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan topuk maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Topuk maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nTopuk maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan topuk maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTopuk maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTopuk maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Topuk Maçalı Modelleme",
+      "KONU": "Topuk Maçalı Modelleme Resimlerini CAD Ortamında Çizme. / Topuk Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması.",
+      "KAZANIM": "CAD ortamında topuk maçalı modelleme resimleri çizer.\nCAM programında topuk maçalı modellemenin operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere topuk maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nÖğrencilere; CAD ortamında çizilmiş olan topuk maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Topuk maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nTopuk maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan topuk maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTopuk maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTopuk maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Topuk Maçalı Modelleme",
+      "KONU": "Topuk Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması. / Topuk Maçalı Modellemeyi yapma.",
+      "KAZANIM": "CAM programında topuk maçalı modellemenin operasyonunun oluşturulmasını açıklar.\nTopuk maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Topuk maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nTopuk maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda topuk maçalı modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Topuk maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nTopuk maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan topuk maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTopuk maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTopuk maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Asma Maçalı Modelleme",
+      "KONU": "Asma Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında asma maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asma maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nAsma maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan asma maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asma maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nAsma maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan asma maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nAsma maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nAsma maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Asma Maçalı Modelleme",
+      "KONU": "Asma Maçalı Modelleme Resimlerini CAD Ortamında Çizme. / Asma Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması",
+      "KAZANIM": "CAD ortamında asma maçalı modelleme resimleri çizer.\nCAM programında asma maçalı modellemenin operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere asma maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nÖğrencilere; CAD ortamında çizilmiş olan asma maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asma maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nAsma maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan asma maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nAsma maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nAsma maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Asma Maçalı Modelleme",
+      "KONU": "Asma Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması / Asma Maçalı Modellemeyi yapma.",
+      "KAZANIM": "CAM programında asma maçalı modellemenin operasyonunun oluşturulmasını açıklar.\nAsma maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asma maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nAsma maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda asma maçalı modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Asma maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nAsma maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan asma maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nAsma maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nAsma maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Birleşik Maçalı Modelleme",
+      "KONU": "Birleşik Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında birleşik maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Birleşik maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nBirleşik maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan birleşik maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Birleşik maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nBirleşik maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan birleşik maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nBirleşik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nBirleşik maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Birleşik Maçalı Modelleme",
+      "KONU": "Birleşik Maçalı Modelleme Resimlerini CAD Ortamında Çizme. / Birleşik Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması",
+      "KAZANIM": "CAD ortamında birleşik maçalı modelleme resimleri çizer.\nCAM programında Birleşik maçalı modellemenin İşleme operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere birleşik maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nÖğrencilere; CAD ortamında çizilmiş olan birleşik maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Birleşik maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nBirleşik maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan birleşik maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nBirleşik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nBirleşik maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Birleşik Maçalı Modelleme",
+      "KONU": "Birleşik Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması / Birleşik Maçalı Modellemeyi yapma.",
+      "KAZANIM": "CAM programında Birleşik maçalı modellemenin İşleme operasyonunun oluşturulmasını açıklar.\nBirleşik maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Birleşik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nBirleşik maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda birleşik maçalı modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Birleşik maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nBirleşik maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan birleşik maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nBirleşik maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nBirleşik maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Tamamen Maçalardan Oluşan Modelleme",
+      "KONU": "Tamamen Maçalardan Oluşan Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında tamamen maçalardan oluşan modelleme resimlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tamamen maçalardan oluşan modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nTamamen maçalardan oluşan modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan tamamen maçalardan oluşan modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tamamen maçalardan oluşan modellemenin, CAD ortamında modelleme resimlerini çizmek\nTamamen maçalardan oluşan modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan tamamen maçalardan oluşan modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTamamen maçalardan oluşan modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTamamen maçalardan oluşan modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Tamamen Maçalardan Oluşan Modelleme",
+      "KONU": "Tamamen Maçalardan Oluşan Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında tamamen maçalardan oluşan modelleme resimlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere tamamen maçalardan oluşan modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tamamen maçalardan oluşan modellemenin, CAD ortamında modelleme resimlerini çizmek\nTamamen maçalardan oluşan modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan tamamen maçalardan oluşan modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTamamen maçalardan oluşan modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTamamen maçalardan oluşan modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Tamamen Maçalardan Oluşan Modelleme",
+      "KONU": "Tamamen Maçalardan Oluşan Modellemenin CAM programında İşleme Operasyonunun Oluşturulması",
+      "KAZANIM": "CAM programında tamamen maçalardan oluşan modellemenin İşleme operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere; CAD ortamında çizilmiş olan tamamen maçalardan oluşan modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.\nTamamen maçalardan oluşan modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tamamen maçalardan oluşan modellemenin, CAD ortamında modelleme resimlerini çizmek\nTamamen maçalardan oluşan modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan tamamen maçalardan oluşan modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTamamen maçalardan oluşan modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTamamen maçalardan oluşan modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Tamamen Maçalardan Oluşan Modelleme",
+      "KONU": "Tamamen Maçalardan Oluşan Modellemeyi yapma.",
+      "KAZANIM": "Tamamen maçalardan oluşan modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tamamen maçalardan oluşan modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda tamamen maçalardan oluşan modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tamamen maçalardan oluşan modellemenin, CAD ortamında modelleme resimlerini çizmek\nTamamen maçalardan oluşan modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan tamamen maçalardan oluşan modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nTamamen maçalardan oluşan modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nTamamen maçalardan oluşan modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Montaj Maçalı Modelleme",
+      "KONU": "Montaj Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında montaj maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Montaj maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nMontaj maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan montaj maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Montaj maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nMontaj maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan montaj maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nMontaj maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nMontaj maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Montaj Maçalı Modelleme",
+      "KONU": "Montaj Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında montaj maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere montaj maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Montaj maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nMontaj maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan montaj maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nMontaj maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nMontaj maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Montaj Maçalı Modelleme",
+      "KONU": "Montaj Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması",
+      "KAZANIM": "CAM programında montaj maçalı modellemenin işleme operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere; CAD ortamında çizilmiş olan montaj maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.\nMontaj maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Montaj maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nMontaj maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan montaj maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nMontaj maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nMontaj maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Montaj Maçalı Modelleme",
+      "KONU": "Montaj Maçalı Modellemeyi yapma.",
+      "KAZANIM": "Montaj maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Montaj maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda montaj maçalı modellemeyi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Montaj maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nMontaj maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan montaj maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nMontaj maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nMontaj maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Gömlek Maçalı Modelleme",
+      "KONU": "Gömlek Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında gömlek maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gömlek maçalı modellemenin; maçabaşları, maça ve maçasandığı yapımıyla ilgili gerekli bilgiler açıklanır.\nGömlek maçalı modellemenin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan gömlek maçalı modellemenin, CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Gömlek maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nGömlek maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan gömlek maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nGömlek maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Gömlek Maçalı Modelleme",
+      "KONU": "Gömlek Maçalı Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında gömlek maçalı modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere gömlek maçalı modellemenin; CAD ortamında kalıplama resimleri çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Gömlek maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nGömlek maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan gömlek maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nGömlek maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Gömlek Maçalı Modelleme",
+      "KONU": "Gömlek Maçalı Modellemenin CAM programında İşleme Operasyonunun Oluşturulması",
+      "KAZANIM": "CAM programında gömlek maçalı modellemenin işleme operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere; CAD ortamında çizilmiş olan gömlek maçalı modellemeye ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Gömlek maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nGömlek maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan gömlek maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nGömlek maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Gömlek Maçalı Modelleme",
+      "KONU": "Gömlek Maçalı Modellemeyi yapma.",
+      "KAZANIM": "Gömlek maçalı modelleme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gömlek maçalı modellemeye ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda gömlek maçalı modelleme yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Gömlek maçalı modellemenin, CAD ortamında modelleme resimlerini çizmek\nGömlek maçalı modellemenin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan gömlek maçalı modellemeye ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nGömlek maçalı modellemeyi; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Helis ve Pervane Modellemeleri",
+      "KONU": "Helis ve Pervane Modelleme Resimlerini CAD Ortamında Çizme.",
+      "KAZANIM": "CAD ortamında helis ve pervane modelleme resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Helis ve Pervane modellemeleriyle ilgili gerekli bilgiler açıklanır.\nHelis ve Pervane modellemelerinin kalıplanması ile ilgili ayrıntılar açıklanır.\nÖğrencilere imalatı yapılacak olan Helis ve Pervane modellemelerinin; CAD ortamında modelleme resimleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Helis ve Pervane modellemelerinin, CAD ortamında modelleme resimlerini çizmek\nHelis ve Pervane modellemelerinin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan Helis ve Pervane modellemelerine ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nHelis ve Pervane modellemelerini; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Helis ve Pervane Modellemeleri",
+      "KONU": "Helis ve Pervane Modelleme Resimlerini CAD Ortamında Çizme. / Helis ve Pervane Modellemenin CAM programında İşleme Operasyonunun Oluşturulması.",
+      "KAZANIM": "CAD ortamında helis ve pervane modelleme resimleri çizer.\nCAM programında helis ve pervane modellemenin işleme operasyonunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Öğrencilere Helis ve Pervane modellemelerinin; CAD ortamında kalıplama çizdirilir.\nCAD ortamında modelleme resimleri ve kalıplama resimleri çizilen örnek, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nÖğrencilere; CAD ortamında çizilmiş olan Helis ve Pervane modellemelerine ait her bir parçanın CAM programına kaydedilmesi ve işleme operasyonlarının oluşturulması işlemleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Helis ve Pervane modellemelerinin, CAD ortamında modelleme resimlerini çizmek\nHelis ve Pervane modellemelerinin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan Helis ve Pervane modellemelerine ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nHelis ve Pervane modellemelerini; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Helis ve Pervane Modellemeleri",
+      "KONU": "Helis ve Pervane Modellemenin CAM programında İşleme Operasyonunun Oluşturulması. / Operasyonun oluşturulması / Helis ve Pervane Modellemelerini Yapma.",
+      "KAZANIM": "CAM programında helis ve pervane modellemenin işleme operasyonunun oluşturulmasını açıklar.\nOperasyonunun oluşturulmasını açıklar.\nHelis ve pervane modellemeleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Helis ve Pervane modellemelerine ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler, öğrenci ürün dosyasına kaydedilir ve bir örneğini öğretmen alır.\nHelis ve Pervane modellemelerine ait parçaların; CAM programında işleme operasyonundan elde edilen verilerden de yararlanılarak, hangi yöntemle nasıl yapılacağı açıklanır.\nÖğrencilere; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda Helis ve Pervane modellemeleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Destekli Endüstriyel Modelleme Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, ahşap ve metal işleyen makine araç ve gereçler, CNC torna, CNC freze, 3D Yazıcı ve Tarayıcı, ahşap yontma ve kesme el aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar hem bilgisayar ortamında hem de çıktı olarak saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Helis ve Pervane modellemelerinin, CAD ortamında modelleme resimlerini çizmek\nHelis ve Pervane modellemelerinin; CAD ortamında kalıplama resimlerini çizmek.\nÖğrencinin CAD ortamında çizdiği modelleme resimleri ve kalıplama resimleri için öğrenci ürün dosyası oluşturmak.\nCAD ortamında çizilmiş olan Helis ve Pervane modellemelerine ait her bir parçayı CAM programına kaydetmek ve işleme operasyonlarını oluşturmak.\nGömlek maçalı modellemeye ait parçaların CAM programında, işleme operasyonunun oluşturulmasından elde edilen veriler için öğrenci ürün dosyası oluşturmak.\nHelis ve Pervane modellemelerini; geleneksel yöntemlerle, CNC tezgâhlarında veya 3D Yazıcıda yapmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

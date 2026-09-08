@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Web Tabanli Uygulama Geliştirme",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/1486/web-tabanli-uygulama-gelistirme-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Temel Kavramlar",
+      "KONU": "1. Web Sayfası Yayınlamada Temel Kavramlar / 2. Web Yazılımcısı rolleri / 3. İşaretleme Dili(HTML) / 4. Basamaklı Stil Şablonu (CSS) / 5. What You See İs What You Get (WYSIWYG) Editör",
+      "KAZANIM": "Web Sayfası yayınlama ile ilgili temel kavramları açıklar.\nWeb yazılımcısı rollerini açıklar.\nİşaretleme Dili(HTML) kodlarının kullanılabileceği editörlere örnek verir.\nBasamaklı stil şablonu (CSS – Cascaded Style Sheet) kavramını açıklar.\nWYSIWYG (What you see is what you get) editör kullanımını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nWeb sayfası kavramı açıklanır.\n•\nWeb sitesi kavramı açıklanır.\n•\nAlan adı(domain) kavramı açıklanır.\n•\nAlan adı uzantıları açıklanır.\n•\nAlan adı alma işlemi açıklanır.\n•\nHosting(web sitesi barındırma)kavramı açıklanır.\n•\nFront-end yazılımcı rolü açıklanır.\n•\nBack-end yazılımcı rolü açıklanır.\n•\nFull-stack yazılımcı rolü açıklanır.\n•\nHTML kavramı açıklanır.\n•\nHTML kodlarının kullanılabileceği editörler açıklanır.\n•\nCSS kavramı açıklanır.\n•\nWYSIWYG kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Boş alan adı sorgulamak.\n2. Kişisel alan adı almak.\n3. Barındırma (Hosting) almak.\n4. ASP.NET Hosting ayarları yapmak. (.Net Core Runtime kurmak)\n5. ASP.net Core örnek web siteleri incelemek.\n6. Front-end, back-end, full stack kavramları hakkında sunum hazırlamak.\n7. Basit bir HTML sayfası oluşturmak.\n8. Oluşturulan HTML sayfasına basit bir CSS kodu yerleştirmek.\n9. Oluşturulan HTML sayfasına basit bir Javascript kodu yerleştirmek.\n10. Visual Studio (Community Edition) programını kurmak.\n11. Server/Client iletişimi hakkındaki sunuları ve videoları incelemek.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "Web Tasarım İlkeleri",
+      "KONU": "1. İçerik / 2. Tasarım / 3. Biçimsellik / 4. İşlevsellik ve Kullanılabilirlik / 5 Güncellik / 6 Uygunluk ve Güvenilirlik / 7. Uyumluluk",
+      "KAZANIM": "Tasarım açısından içeriğin önemini açıklar.\nTasarımda yerleşim planını uygun bir şekilde olmasını sağlar.\nRenk düzeni, okunabilirlik, içerik - tasarım ilişkisini kurar.\nWeb sitesinin kullanıcı dostu olmasını ve erişim kolaylığını sağlar.\nYeni teknolojilerin kullanılmasının önemini açıklar.\nWeb sitesinin, alan adı, içerik vb konularda uygunluğunu açıklar.\nWeb sitesinin tüm platformlarda sorunsuz çalışması ilkesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTasarım açısından içeriğin önemi açıklanır.\n•\nİçerikte kullanılacak resim ve metinlerin belirlenmesi açıklanır.\n•\nYerleşim planının uygunluğunun sağlanması gerektiği açıklanır.\n•\nSitede kullanılacak logo ve menü gibi site bileşenlerinin nasıl kullanılacağı açıklanır.\n•\nSitenin renk ve tipografi düzeninin nasıl olacağı açıklanır.\n•\nİçerik-tasarım ilişkisinin kurdurulması ile ilgili detaylar anlatılır.\n•\nUyumlu renk düzeni yaptırılır.\n•\nOkunaklı yazı seçimi yaptırılır.\n•\nWeb sitesinin nasıl kullanıcı dostu olacağı açıklanır.\n•\nWeb sitesine erişimin nasıl kolay olacağı açıklanır.\n•\nSite haritalarının oluşturulması açıklanır.\n•\nWeb sitesi ziyaretçilerinin siteyi nasıl rahat kullanacağı açıklanır.\n•\nSite içerik ve teknolojilerinin güncel olması gerektiği açıklanır.\n•\nYeni teknolojilerin kullanılmasının gerekliliği açıklanır.\n•\nÇalışılacak platformun yeni nesil teknolojilere uygun seçilmesi gerekliliği açıklanır.\n•\nAlan adının(domain name) nasıl olması gerektiği açıklanır.\n•\nÖzgün içerik oluşturulması gerektiği açıklanır.\n•\nDilbilgisi kurallarına uyulmasının önemi açıklanır.\n•\nWeb sitelerinde tarayıcı uyumluluğunun önemi açıklanır.\n•\nTarayıcı uyumluluk testinin önemi açıklanır.\n•\nResponsive tasarım açıklanır.\n•\nMedia query kullanımı gerekliliği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kütüphane takip sistemi için yapılmış örnek web sitelerini incelemek.\n2. Kütüphane takip sistemi için web tasarım ilkelerine uygun tasarım kurgulamak.\n3. Uyumlu renk düzeni seçmek.\n4. Yazı fontlarını belirlemek.\n5. Web sitesinde kullanılacak içerikleri hazırlamak. (Metin, ses, resim, video, vd.)"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "8",
+      "ÜNİTE": "HTML5",
+      "KONU": "1. HTML5 belge yapısı",
+      "KAZANIM": "HTML5 belge yapısını kullanarak basit bir web sayfası hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHTML kavramı açıklanır.\n•\nEtiket (Tag) kavramı açıklanır.\n•\nHTML5 kavramı açıklanır.\n•\nHTML5 belge yapısı açıklanır.\n•\nHTML sayfasında bulunması gereken standart etiketler açıklanır.\n•\nDOCTYPE kavramı açıklanır",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. HTML5 belge yapısını kullanarak sayfa hazırlamak.\n2. H1-H6 elemanlarının sayfa içerisinde yerleşimini yapmak.\n3. Paragraflar ve metin biçimlendirme elemanlarını web sayfasında kullanmak.\n4. Sayfa görünümünü tasarlamak.\n5. Resim, video ve ses elemanlarını sayfada kullanmak.\n6. Site içi ve site dışı bağlantıları yapmak.\n7. Kütüphane takip sisteminde kullanılacak kitap listesi için tablo hazırlamak.\n8. Kütüphane takip sisteminde kullanılacak yeni kitap kaydı için form oluşturmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "HTML5",
+      "KONU": "1. HTML5 belge yapısı / 2. Başlık elemanları",
+      "KAZANIM": "HTML5 belge yapısını kullanarak basit bir web sayfası hazırlar.\nH1-H6 elemanlarını web sayfasında uygun bir şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTemel meta etiketleri açıklanır.\n•\nHTML’de açıklama satırı kullanmanın gerekliliği açıklanır.\n•\nHTMl5’deki yeni özellikler açıklanır.\n•\nHTML5 belge yapısı kullanılarak basit bir web sayfası hazırlatılır.\n•\nem kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. HTML5 belge yapısını kullanarak sayfa hazırlamak.\n2. H1-H6 elemanlarının sayfa içerisinde yerleşimini yapmak.\n3. Paragraflar ve metin biçimlendirme elemanlarını web sayfasında kullanmak.\n4. Sayfa görünümünü tasarlamak.\n5. Resim, video ve ses elemanlarını sayfada kullanmak.\n6. Site içi ve site dışı bağlantıları yapmak.\n7. Kütüphane takip sisteminde kullanılacak kitap listesi için tablo hazırlamak.\n8. Kütüphane takip sisteminde kullanılacak yeni kitap kaydı için form oluşturmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "HTML5",
+      "KONU": "2. Başlık elemanları / 3. Paragraflar ve metin biçimlendirme",
+      "KAZANIM": "H1-H6 elemanlarını web sayfasında uygun bir şekilde kullanır.\nParagraflar ve metin biçimlendirme elemanlarını uygun bir şekilde web sayfasında kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nH1-H6 elemanlarının özellikleri açıklanır.\n•\nMetin biçimlendirme etiketleri açıklanır.\n•\nGörünüm düzenleme etiketleri açıklanır\n•\nParagraflar ve metin biçimlendirme elemanlarını web sayfasında kullanımı açıklanır.\n•\nListeleme etiketleri açıklanır.\n•\nMadde işaretleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. HTML5 belge yapısını kullanarak sayfa hazırlamak.\n2. H1-H6 elemanlarının sayfa içerisinde yerleşimini yapmak.\n3. Paragraflar ve metin biçimlendirme elemanlarını web sayfasında kullanmak.\n4. Sayfa görünümünü tasarlamak.\n5. Resim, video ve ses elemanlarını sayfada kullanmak.\n6. Site içi ve site dışı bağlantıları yapmak.\n7. Kütüphane takip sisteminde kullanılacak kitap listesi için tablo hazırlamak.\n8. Kütüphane takip sisteminde kullanılacak yeni kitap kaydı için form oluşturmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "HTML5",
+      "KONU": "3. Paragraflar ve metin biçimlendirme / 4. Yerleşim elemanları",
+      "KAZANIM": "Paragraflar ve metin biçimlendirme elemanlarını uygun bir şekilde web sayfasında kullanır.\nYerleşim (Layout) elemanlarını kullanarak örnek web uygulamaları geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTabloların kullanım amacı açıklanır.\n•\nTablo etiketlerinde kullanılan özellikler açıklanır.\n•\nDiv ve span kavramları açıklanır.\n•\nHTML tasarım şablonu açıklanır.\n•\nHTML5 tasarım şablonu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. HTML5 belge yapısını kullanarak sayfa hazırlamak.\n2. H1-H6 elemanlarının sayfa içerisinde yerleşimini yapmak.\n3. Paragraflar ve metin biçimlendirme elemanlarını web sayfasında kullanmak.\n4. Sayfa görünümünü tasarlamak.\n5. Resim, video ve ses elemanlarını sayfada kullanmak.\n6. Site içi ve site dışı bağlantıları yapmak.\n7. Kütüphane takip sisteminde kullanılacak kitap listesi için tablo hazırlamak.\n8. Kütüphane takip sisteminde kullanılacak yeni kitap kaydı için form oluşturmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "8",
+      "ÜNİTE": "HTML5",
+      "KONU": "4. Yerleşim elemanları / 5. Resim, video ve ses (medya) elemanları",
+      "KAZANIM": "Yerleşim (Layout) elemanlarını kullanarak örnek web uygulamaları geliştirir.\nWeb sayfası içerisinde resim, ses/video gösteren HTML5 kodlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYerleşim elemanlarının kullanımı açıklanır.\n•\nResim ekleme etiketi ve özellikleri açıklanır.\n•\nSes ekleme etiketi ve özellikleri açıklanır.\n•\nVideo ekleme etiketi ve özellikleri açıklanır.\n•\nSlider ekleme açıklanır.\n•\nResim, video ve ses elemanlarını sayfaya nasıl ekleneceği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. HTML5 belge yapısını kullanarak sayfa hazırlamak.\n2. H1-H6 elemanlarının sayfa içerisinde yerleşimini yapmak.\n3. Paragraflar ve metin biçimlendirme elemanlarını web sayfasında kullanmak.\n4. Sayfa görünümünü tasarlamak.\n5. Resim, video ve ses elemanlarını sayfada kullanmak.\n6. Site içi ve site dışı bağlantıları yapmak.\n7. Kütüphane takip sisteminde kullanılacak kitap listesi için tablo hazırlamak.\n8. Kütüphane takip sisteminde kullanılacak yeni kitap kaydı için form oluşturmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "HTML5",
+      "KONU": "6. Bağlantı elemanları / 7. Form elemanları",
+      "KAZANIM": "Web sayfaları arasında bağlantı sağlayan HTML kodunu uygular.\nForm elemanlarının özelliklerini gösteren HTML5 kodunu uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBağlantı(köprü) özellikleri açıklanır.\n•\nBağlantı elemanlarının özellikleri ve kullanım şekilleri açıklanır.\n•\nFormların yapısı açıklanır.\n•\nForm nesnelerinin görevleri açıklanır.\n•\nForm elemanları özellikleri ve çalışma prensipleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. HTML5 belge yapısını kullanarak sayfa hazırlamak.\n2. H1-H6 elemanlarının sayfa içerisinde yerleşimini yapmak.\n3. Paragraflar ve metin biçimlendirme elemanlarını web sayfasında kullanmak.\n4. Sayfa görünümünü tasarlamak.\n5. Resim, video ve ses elemanlarını sayfada kullanmak.\n6. Site içi ve site dışı bağlantıları yapmak.\n7. Kütüphane takip sisteminde kullanılacak kitap listesi için tablo hazırlamak.\n8. Kütüphane takip sisteminde kullanılacak yeni kitap kaydı için form oluşturmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Basamaklı Stil Şablonu (CSS)",
+      "KONU": "1. CSS Ekleme Yönemleri / 2. Kutu Modeli Özellikleri ve Çalışma Prensipleri",
+      "KAZANIM": "Stil uygulanacak olan elemanların seçimini yapar.\nKutu modeli özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nStil uygulanacak elemanların seçiminin nasıl yapılacağı açıklanır.\n•\nKutu modeli özellikleri ve çalışma prensipleri açıklanır.\n•\nGörünüm ve pozisyon ayarlarının nasıl yapıldığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm HTML elemanlarına görünüm stilleri uygulamak.\n2. Sayfayı sütunlara bölmek.\n3. Çeşitli ekran çözünürlüklerine göre sayfayı duyarlı hale getirmek.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Basamaklı Stil Şablonu (CSS)",
+      "KONU": "2. Kutu Modeli Özellikleri ve Çalışma Prensipleri / 3. Renk kullanımı ve Tipografi",
+      "KAZANIM": "Kutu modeli özelliklerini açıklar.\nRGB (Red, Green, Blue / Kırmızı, Yeşil, Mavi) değerleri ile renk tanımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGörünüm ve pozisyon ayarları yaptırılır.\n•\nWeb sayfasında kullanılacak renk tanımlamasını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm HTML elemanlarına görünüm stilleri uygulamak.\n2. Sayfayı sütunlara bölmek.\n3. Çeşitli ekran çözünürlüklerine göre sayfayı duyarlı hale getirmek.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "8",
+      "ÜNİTE": "Basamaklı Stil Şablonu (CSS)",
+      "KONU": "3. Renk kullanımı ve Tipografi",
+      "KAZANIM": "RGB (Red, Green, Blue / Kırmızı, Yeşil, Mavi) değerleri ile renk tanımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTipografi özellikleri açıklanır.\n•\nTipografi kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm HTML elemanlarına görünüm stilleri uygulamak.\n2. Sayfayı sütunlara bölmek.\n3. Çeşitli ekran çözünürlüklerine göre sayfayı duyarlı hale getirmek.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Basamaklı Stil Şablonu (CSS)",
+      "KONU": "4. Duyarlılık (Responsivity)",
+      "KAZANIM": "Duyarlılık (Responsivity) kavramının önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDuyarlılık kavramı açıklanır.\n•\nFarklı ortamlar için medya sorguları (media query) oluşturulur.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm HTML elemanlarına görünüm stilleri uygulamak.\n2. Sayfayı sütunlara bölmek.\n3. Çeşitli ekran çözünürlüklerine göre sayfayı duyarlı hale getirmek.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Basamaklı Stil Şablonu (CSS)",
+      "KONU": "4. Duyarlılık (Responsivity)",
+      "KAZANIM": "Duyarlılık (Responsivity) kavramının önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPopüler frameworkler listelenir.(Bootstrap, UI Kit, Materialize, vd.)\n•\nCSS frameworkleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Tüm HTML elemanlarına görünüm stilleri uygulamak.\n2. Sayfayı sütunlara bölmek.\n3. Çeşitli ekran çözünürlüklerine göre sayfayı duyarlı hale getirmek.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "8",
+      "ÜNİTE": "Etkileşim (Javascript)",
+      "KONU": "1. Javascript kod yapısı ve Değişkenler",
+      "KAZANIM": "Değişkenler ve veri tiplerini kullanarak etkileşimli sayfalar geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nJavascript kod yazım kurallarını açıklar.\n•\nJavascript eleman seçicilerini sıralar.\n•\nDeğişken ve veri tipleri açıklanır",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çok seviyeli açılır menü yapmak.\n2. Aşağı açılır menü yapmak.\n3. jQuery ile dinamik HTML işlemleri uygulamak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Etkileşim (Javascript)",
+      "KONU": "1. Javascript kod yapısı ve Değişkenler / 2. Olaylar ve Fonksiyonlar",
+      "KAZANIM": "Değişkenler ve veri tiplerini kullanarak etkileşimli sayfalar geliştirir.\nFonksiyon türlerini kullanarak etkileşimli sayfa geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOperatörlerin kullanımı ve kullanım yerleri açıklanır\n•\nOlayların kullanımını açıklar\n•\nOlay çeşitlerini sıralar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çok seviyeli açılır menü yapmak.\n2. Aşağı açılır menü yapmak.\n3. jQuery ile dinamik HTML işlemleri uygulamak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Etkileşim (Javascript)",
+      "KONU": "2. Olaylar ve Fonksiyonlar / 3. Kontrol yapıları",
+      "KAZANIM": "Fonksiyon türlerini kullanarak etkileşimli sayfa geliştirir.\nKontrol yapılarını kullanarak etkileşimli sayfa geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFonksiyon kullanımı açıklanır.\n•\nKoşullu ifadelerin kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çok seviyeli açılır menü yapmak.\n2. Aşağı açılır menü yapmak.\n3. jQuery ile dinamik HTML işlemleri uygulamak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Etkileşim (Javascript)",
+      "KONU": "4. Diziler / 5. Döngüler, Zamanlayıcılar, ve Popüler Javascript Kütüphanaleri",
+      "KAZANIM": "Dizileri kullanarak etkileşimli sayfa geliştirir.\nDöngüleri kullanarak etkileşimli sayfa geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDizilerin kullanımı açıklanır.\n•\nDöngülerin kullanımı ve özellikleri açıklanır.\n•\nZamanlayıcıların kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çok seviyeli açılır menü yapmak.\n2. Aşağı açılır menü yapmak.\n3. jQuery ile dinamik HTML işlemleri uygulamak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Etkileşim (Javascript)",
+      "KONU": "5. Döngüler, Zamanlayıcılar, ve Popüler Javascript Kütüphanaleri",
+      "KAZANIM": "Döngüleri kullanarak etkileşimli sayfa geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPopüler javascript kütüphanelerini listeler\n•\nPopüler kütüphaneler açıklanır. (jQuery, React, Angular, Vue, Ember, Backbone, vd.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çok seviyeli açılır menü yapmak.\n2. Aşağı açılır menü yapmak.\n3. jQuery ile dinamik HTML işlemleri uygulamak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "1. .Net Core teknolojisi",
+      "KAZANIM": ".Net Core özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\n.Net Core teknolojisi ile ilgili özellikler açıklanır.\n•\nDiğer teknolojilerden farkları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "2. MVC tasarım deseni",
+      "KAZANIM": "MVC tasarım desenini kullanarak web uygulamaları geliştirir",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nModel katmanı kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "2. MVC tasarım deseni",
+      "KAZANIM": "MVC tasarım desenini kullanarak web uygulamaları geliştirir",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nView katmanı kullanımı açıklanır.\n•\nController katmanı kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "2. MVC tasarım deseni",
+      "KAZANIM": "MVC tasarım desenini kullanarak web uygulamaları geliştirir",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRazor sayfaları özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "2. MVC tasarım deseni",
+      "KAZANIM": "MVC tasarım desenini kullanarak web uygulamaları geliştirir",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMVC ve Razor sayfaları aralarındaki ilişki açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "3. Standart klasör ve sayfalar",
+      "KAZANIM": "Standart klasör ve sayfaları kullanarak web uygulamaları geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nStandart klasör ve sayfaların kullanımıyla ilgili özellikler açıklanır.\n•\nKonfigürasyon yöntemlerinin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "4. Ara katman (Middleware)",
+      "KAZANIM": "Ara katman (Middleware) yapısını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAra katman yapısının kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "5. Yönlendirme (Routing) / 6 Form İşlemleri",
+      "KAZANIM": "Yönlendirme (Routing) mekanizmasını kullanır.\nForm işlemleri ve model doğrulama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYönlendirme mekanizmasının özellikleri kullanılır.\n•\nForm işlemleri ve form özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "6 Form İşlemleri",
+      "KAZANIM": "Form işlemleri ve model doğrulama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nForm doğrulama özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "6 Form İşlemleri",
+      "KAZANIM": "Form işlemleri ve model doğrulama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nForm kullandırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "7. Etiket yardımcıları (Tag Helpers) / 8. Doğrulama İşlemleri",
+      "KAZANIM": "Etiket yardımcılarını (Tag Helpers) kullanır.\nDoğrulama işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEtiket yardımcılarının kullanımı açıklanır\n•\nSunucu taraflı doğrulama işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "8. Doğrulama İşlemleri",
+      "KAZANIM": "Doğrulama işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİstemci taraflı doğrulama işlemlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "9. Paket yöneticisi (Nuget)",
+      "KAZANIM": "Paket yöneticisini (Nuget) kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPaket yöneticisi özellikleri açıklanır.\n•\nPaket yöneticisi kullandırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "10. Entity framework core ile veri tabanı işlemleri",
+      "KAZANIM": "Entity Framework Core ile veri tabanı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEF Core özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "10. Entity framework core ile veri tabanı işlemleri",
+      "KAZANIM": "Entity Framework Core ile veri tabanı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVeri tabanı bağlantısı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "10. Entity framework core ile veri tabanı işlemleri / 11.Web servisleri",
+      "KAZANIM": "Entity Framework Core ile veri tabanı işlemlerini yapar.\nWeb servislerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVeri tabanı işlemleri gerçekleştirilir.\n•\nWeb servisleri özellikleri ve çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "11.Web servisleri",
+      "KAZANIM": "Web servislerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nWeb servisi ile nasıl haberleşileceği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Arka Uç Yazılım Geliştirme",
+      "KONU": "12. Yayınlama (Publish) İşlemleri",
+      "KAZANIM": "Yayınlama (Publish) işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYayınlama işlemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun ol anlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kütüphane takip sisteminde\n1. Kitapları listelemek\n2. Listelemede sayfalama kullanmak\n3. Kitap adına göre, yazara göre ve benzeri kriterlere göre arama yapmak\n4. Yeni kitap kaydı eklemek\n5. Kitap kaydı güncellemek\n6. Kitap listesinden kayıt silmek\n7. Veri tabanını oluşturmak\n8. Veri tabanı bağlantısını konfigürasyon özelliklerini kullanarak sağlamak.\n9. Paket yöneticisinden gerekli paketleri projeye eklemek\n10. Kitap listesinin web servisini hazırlamak ve bu servisi bir istemci üzerinden çağırmak.\n11. Biten web sitesini yayınlamak.\n12. Biten sitenin SEO skorunu belirlemek, sitedeki SEO hatalarını düzeltmek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "8",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

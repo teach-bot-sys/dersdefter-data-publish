@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Dizel Motor Pompa Ayarlari (Mesem Motorla Araçlar)",
+  "grup": "MESEM Dersleri",
+  "brans": "Motorlu Araçlar Teknolojisi (Mesem)",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/motorlu-araclar-teknolojisi-mesem/1979/dizel-motor-pompa-ayarlari-mesem-motorla-araclar-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "1. Sıra tipi pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Sıra tipi pompaların pompa ayar tezgâhında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıra tipi pompaların görevlerini, çeşitlerini ve yapısal özelliklerini açıklar.\nSıra tipi pompaların ayarlarını ve ayar şekillerini açıklar.\nSıra tipi pompalarda yapılan kontrol açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "1. Sıra tipi pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Sıra tipi pompaların pompa ayar tezgâhında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıra tipi pompaların tezgâhta yapılan ayarları açıklar.\nSıra tipi pompaların ayar şekillerine göre cihaza bağlantı şekillerini izah açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "1. Sıra tipi pompanın tezgahta ayarlarının kontrolleri. / 2. Arıza teşhisi ve onarımı.",
+      "KAZANIM": "Sıra tipi pompaların pompa ayar tezgâhında ayarlarını kontrol eder.\nSıra tipi pompada arıza tespiti ve pompa onarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıra tipi pompaların ayar cihaza bağlarken dikkat edilecek hususları açıklar.\nSıra tipi pompaların arızalarını açıklar.\nSıra tipi pompalarda arıza tespiti yaparken dikkat edilecek hususları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı. / 3. Periyodik bakımı.",
+      "KAZANIM": "Sıra tipi pompada arıza tespiti ve pompa onarımı yapar.\nSıra tipi pompada periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıra tipi pompalarda teşpit edilen arızaları onarma yöntemlerini açıklar.\nSıra tipi yakıt enjeksiyon pompalarının sökülme sırasını bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "3. Periyodik bakımı.",
+      "KAZANIM": "Sıra tipi pompada periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıra tipi yakıt enjeksiyon pompalarının parçalarını tanır.\nSıra tipi yakıt enjeksiyon pompalarında yapılan periyodik bakımları bilir.\nSıra tipi yakıt enjeksiyon pompalarının periyodik olarak değişmesi gereken parçalarını listeler.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "4. Sıra tipi pompanın ayarları.",
+      "KAZANIM": "Sıra tipi pompa ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa ayar tezgahlarının özelliklerini listeler.\nSıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına bağlarken kullanılan aparatları bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "4. Sıra tipi pompanın ayarları. / 5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Sıra tipi pompa ayarlarını yapar.\nSıra tipi pompayı motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygun aparat kullanmanın önemini açıklar.\nSıra tipi yakıt enjeksiyon pompalarını motora bağlarken dikkat edilecek hususları sıralar.\nYakıt sistemindeki hava alma işleminin yapılışını açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Sıra Tipi Pompa Ayarları",
+      "KONU": "5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Sıra tipi pompayı motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Performans testinin önemini ve yapılışını bilir.\nFarklı devir ve yüklerde pompa testlerini listeler.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Sıra tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına sıra tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına sıra tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar\n7. Onarım işlemlerini yapar\n8. Sıra tipi yakıt enjeksiyon pompalarını söker.\n9. Ölçü aletlerini kullanarak parçaları ölçer\n10. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur\n11. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir\n12. Sıra tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n13. Sıra tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar\n14. Sıra tipi yakıt enjeksiyon pompalarını ayarlar.\n15. Sıra tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n16. Yakıt sisteminin havasını alır.\n17. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Distribütör Tipi Pompa Ayarları",
+      "KONU": "1. Distribütör tipi pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Distribütör tipi pompaların pompa ayar tezgâhında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Distribütör tipi pompaların görevlerini, çeşitlerini ve yapısal özelliklerini açıklar.\nDistribütör tipi pompaların ayarlarını ve ayar şekillerini açıklar.\nDistribütör tipi pompalarda yapılan kontrol açıklar.\nDistribütör tipi pompaların tezgâhta yapılan ayarları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Distribütör tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına distribütör tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına distribütör tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları katalog değerleri ile karşılaştırır.\n5. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n6. Onarım işlemlerini yapar.\n7. Distribütör tipi yakıt enjeksiyon pompalarını söker.\n8. Ölçü aletlerini kullanarak parçaları ölçer.\n9. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n10. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n11. Distribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n12. Distribütör tipi yakıt enjeksiyon pompalarını ayarlar.\n13. Distribütör tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n14. Yakıt sisteminin havasını alır.\n15. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Distribütör Tipi Pompa Ayarları",
+      "KONU": "1. Distribütör tipi pompanın tezgahta ayarlarının kontrolleri. / 2. Arıza teşhisi ve onarımı.",
+      "KAZANIM": "Distribütör tipi pompaların pompa ayar tezgâhında ayarlarını kontrol eder.\nDistribütör tipi pompada arıza tespit ve onarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Distribütör tipi pompaların ayar şekillerine göre cihaza bağlantı şekillerini izah açıklar.\nDistribütör tipi pompaların ayar cihaza bağlarken dikkat edilecek hususları açıklar.\nDistribütör tipi pompaların arızalarını açıklar",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Distribütör tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına distribütör tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına distribütör tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları katalog değerleri ile karşılaştırır.\n5. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n6. Onarım işlemlerini yapar.\n7. Distribütör tipi yakıt enjeksiyon pompalarını söker.\n8. Ölçü aletlerini kullanarak parçaları ölçer.\n9. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n10. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n11. Distribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n12. Distribütör tipi yakıt enjeksiyon pompalarını ayarlar.\n13. Distribütör tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n14. Yakıt sisteminin havasını alır.\n15. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Distribütör Tipi Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı. / 3. Periyodik bakımı.",
+      "KAZANIM": "Distribütör tipi pompada arıza tespit ve onarımı yapar.\nDistribütör tipi pompada periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Distribütör tipi pompalarda arıza tespiti yaparken dikkat edilecek hususları açıklar.\nDistribütör tipi pompalarda teşpit edilen arızaları onarma yöntemlerini açıklar.\nDistribütör tipi yakıt enjeksiyon pompalarının sökülme sırasını bilir.\nDistribütör tipi yakıt enjeksiyon pompalarının parçalarını tanır.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Distribütör tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına distribütör tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına distribütör tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları katalog değerleri ile karşılaştırır.\n5. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n6. Onarım işlemlerini yapar.\n7. Distribütör tipi yakıt enjeksiyon pompalarını söker.\n8. Ölçü aletlerini kullanarak parçaları ölçer.\n9. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n10. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n11. Distribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n12. Distribütör tipi yakıt enjeksiyon pompalarını ayarlar.\n13. Distribütör tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n14. Yakıt sisteminin havasını alır.\n15. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Distribütör Tipi Pompa Ayarları",
+      "KONU": "3. Periyodik bakımı.",
+      "KAZANIM": "Distribütör tipi pompada periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Distribütör tipi yakıt enjeksiyon pompalarında yapılan periyodik bakımları bilir.\nDistribütör tipi yakıt enjeksiyon pompalarının periyodik olarak değişmesi gereken parçalarını listeler.\nDistribütör tipi yakıt enjeksiyon pompalarının periyodik bakımları yapar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Distribütör tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına distribütör tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına distribütör tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları katalog değerleri ile karşılaştırır.\n5. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n6. Onarım işlemlerini yapar.\n7. Distribütör tipi yakıt enjeksiyon pompalarını söker.\n8. Ölçü aletlerini kullanarak parçaları ölçer.\n9. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n10. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n11. Distribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n12. Distribütör tipi yakıt enjeksiyon pompalarını ayarlar.\n13. Distribütör tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n14. Yakıt sisteminin havasını alır.\n15. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Distribütör Tipi Pompa Ayarları",
+      "KONU": "4. Distribütör tipi pompanın ayarları. / 5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Distribütör tipi pompa ayarlarını yapar.\nDistribütör tipi pompayı motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa ayar tezgahlarının özelliklerini listeler.\nDistribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına bağlarken kullanılan aparatları bilir.\nUygun aparat kullanmanın önemini açıklar.\nDistribütör tipi yakıt enjeksiyon pompalarını motora bağlarken dikkat edilecek hususları sıralar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Distribütör tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına distribütör tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına distribütör tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları katalog değerleri ile karşılaştırır.\n5. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n6. Onarım işlemlerini yapar.\n7. Distribütör tipi yakıt enjeksiyon pompalarını söker.\n8. Ölçü aletlerini kullanarak parçaları ölçer.\n9. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n10. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n11. Distribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n12. Distribütör tipi yakıt enjeksiyon pompalarını ayarlar.\n13. Distribütör tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n14. Yakıt sisteminin havasını alır.\n15. Motoru çalıştırarak duman kontrolü yapar.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Distribütör Tipi Pompa Ayarları",
+      "KONU": "5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Distribütör tipi pompayı motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yakıt sistemindeki hava alma işleminin yapılışını açıklar.\nPerformans testinin önemini ve yapılışını bilir.\nFarklı devir ve yüklerde pompa testlerini listeler.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Distribütör tipi pompaları ayırt eder.\n2. Yakıt pompası ayar tezgâhına distribütör tipi pompaları bağlar.\n3. Yakıt pompası ayar tezgâhına distribütör tipi pompaların ayarını kontrol eder.\n4. Elde edilen sonuçları katalog değerleri ile karşılaştırır.\n5. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n6. Onarım işlemlerini yapar.\n7. Distribütör tipi yakıt enjeksiyon pompalarını söker.\n8. Ölçü aletlerini kullanarak parçaları ölçer.\n9. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n10. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n11. Distribütör tipi yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n12. Distribütör tipi yakıt enjeksiyon pompalarını ayarlar.\n13. Distribütör tipi yakıt enjeksiyon pompasını motora uygun bağlantı yöntemleriyle bağlar.\n14. Yakıt sisteminin havasını alır.\n15. Motoru çalıştırarak duman kontrolü yapar."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Radyal Tip Pompa Ayarları",
+      "KONU": "1. Radyal tip pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Radyal tip pompaların pompa ayar tezgâhında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Radyal tip dizel yakıt enjeksiyon pompalarının görevlerini ve çeşitlerini açıklar\nSisteminin genel yapısını ve özelliklerini açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarının kullanıldığı sistemlerin çalışmasını ve devre şemasını açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarının ilişkili olduğu elektronik hatları ve çalışma şeklini bilir.\nRadyal tip dizel yakıt enjeksiyon pompalarında kullanılan sensörlerin tanımını ve yapısal özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli radyal tip dizel yakıt enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına radyal tip dizel yakıt enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Radyal tip dizel yakıt enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları .katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Radyal tip dizel yakıt enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Radyal tip dizel yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n14. Radyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Radyal tip dizel yakıt enjeksiyon pompalarını ayarlar.\n16. Radyal tip dizel yakıt enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak duman kontrolü yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Radyal tip dizel yakıt enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Radyal tip dizel yakıt enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Radyal tip dizel yakıt enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Radyal Tip Pompa Ayarları",
+      "KONU": "1. Radyal tip pompanın tezgahta ayarlarının kontrolleri. / 2. Arıza teşhisi ve onarımı.",
+      "KAZANIM": "Radyal tip pompaların pompa ayar tezgâhında ayarlarını kontrol eder.\nRadyal tip pompada arıza tespiti ve pompanın onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Radyal tip dizel yakıt enjeksiyon pompalarının mekanik kısmının parçalarını sıralar.\nRadyal tip dizel yakıt enjeksiyon pompalarının yapılan mekaniki ve elektrikli kontrolleri açıklar.\nRadyal tip dizel yakıt enjeksiyon pompaları mekanik parçalarının arızalarını açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarını elektriki arızalarını açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarında arıza tespiti yaparken dikkat edilecek hususları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli radyal tip dizel yakıt enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına radyal tip dizel yakıt enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Radyal tip dizel yakıt enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları .katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Radyal tip dizel yakıt enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Radyal tip dizel yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n14. Radyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Radyal tip dizel yakıt enjeksiyon pompalarını ayarlar.\n16. Radyal tip dizel yakıt enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak duman kontrolü yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Radyal tip dizel yakıt enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Radyal tip dizel yakıt enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Radyal tip dizel yakıt enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Radyal Tip Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı. / 3. Periyodik bakımı.",
+      "KAZANIM": "Radyal tip pompada arıza tespiti ve pompanın onarımını yapar.\nRadyal tip pompada periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Radyal tip dizel yakıt enjeksiyon pompalarında tespit edilen arızaları onarma yöntemlerini açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarının sökülme sırasını bilir.\nRadyal tip dizel yakıt enjeksiyon pompalarının parçalarını tanır.\nRadyal tip dizel yakıt enjeksiyon pompalarınıda yapılan periyodik bakımları bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli radyal tip dizel yakıt enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına radyal tip dizel yakıt enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Radyal tip dizel yakıt enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları .katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Radyal tip dizel yakıt enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Radyal tip dizel yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n14. Radyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Radyal tip dizel yakıt enjeksiyon pompalarını ayarlar.\n16. Radyal tip dizel yakıt enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak duman kontrolü yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Radyal tip dizel yakıt enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Radyal tip dizel yakıt enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Radyal tip dizel yakıt enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Radyal Tip Pompa Ayarları",
+      "KONU": "3. Periyodik bakımı. / 4. Radyal tip pompanın ayarları.",
+      "KAZANIM": "Radyal tip pompada periyodik bakım yapar.\nRadyal tip pompa ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Radyal tip dizel yakıt enjeksiyon pompalarının periyodik olarak değişmesi gereken parçalarını listeler.\nYakıt pompa ayar tezgâhlarının özelliklerini listeler.\nRadyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına bağlarken kullanılan aparatları bilir.\nUygun aparat kullanmanın önemini açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarının ayar şekillerini açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli radyal tip dizel yakıt enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına radyal tip dizel yakıt enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Radyal tip dizel yakıt enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları .katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Radyal tip dizel yakıt enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Radyal tip dizel yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n14. Radyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Radyal tip dizel yakıt enjeksiyon pompalarını ayarlar.\n16. Radyal tip dizel yakıt enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak duman kontrolü yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Radyal tip dizel yakıt enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Radyal tip dizel yakıt enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Radyal tip dizel yakıt enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Radyal Tip Pompa Ayarları",
+      "KONU": "4. Radyal tip pompanın ayarları. / 5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Radyal tip pompa ayarlarını yapar.\nRadyal tip pompayı motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tezgâhta yapılan ayarları açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarını motora bağlarken dikkat edilecek hususları sıralar.\nYakıt sistem alçak basınç hattındaki hava alma işleminin yapılışını açıklar.\nPerformans testinin önemini ve yapılışını bilir.\nRadyal tip dizel yakıt enjeksiyon pompalarının çalışma testlerini listeler.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli radyal tip dizel yakıt enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına radyal tip dizel yakıt enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Radyal tip dizel yakıt enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları .katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Radyal tip dizel yakıt enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Radyal tip dizel yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n14. Radyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Radyal tip dizel yakıt enjeksiyon pompalarını ayarlar.\n16. Radyal tip dizel yakıt enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak duman kontrolü yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Radyal tip dizel yakıt enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Radyal tip dizel yakıt enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Radyal tip dizel yakıt enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Radyal Tip Pompa Ayarları",
+      "KONU": "6. Diagnostik cihazla kontroller.",
+      "KAZANIM": "Radyal tipi pompayı diagnostik cihazı ile kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik kontrol üniteleri arasında haberleşme yöntemlerini açıklar.\nCAN-BUS hattının görevini ve yapısal özelliklerini açıklar.\nRadyal tip dizel yakıt enjeksiyon pompalarında diagnostik cihazı ile bulunan arıza ve belirtilerini sıralar.\nRadyal tip dizel yakıt enjeksiyon pompaları elektronik kontrol ünitesine tanıtılmasının önemini ve yapılışını bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli radyal tip dizel yakıt enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına radyal tip dizel yakıt enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Radyal tip dizel yakıt enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları .katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Radyal tip dizel yakıt enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Radyal tip dizel yakıt enjeksiyon pompalarının periyodik bakımları yapar.\n14. Radyal tip dizel yakıt enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Radyal tip dizel yakıt enjeksiyon pompalarını ayarlar.\n16. Radyal tip dizel yakıt enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak duman kontrolü yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Radyal tip dizel yakıt enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Radyal tip dizel yakıt enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Radyal tip dizel yakıt enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "1. Birim pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Birim pompa enjektörlerin ayar tezgâhında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa enjektörlerin görevlerini ve çeşitlerini açıklar.\nSisteminin genel yapısını ve özelliklerini açıklar.\nPompa enjektörlerin kullanıldığı sistemlerin çalışmasını ve devre şemasını açıklar.\nPompa enjektörlerin ilişkili olduğu elektronik hatları ve çalışma şeklini bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "1. Birim pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Birim pompa enjektörlerin ayar tezgâhında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa enjektörlerde kullanılan selenoid ve sensörlerin tanımını ve yapısal özelliklerini açıklar.\nPompa enjektörlerin mekanik kısmının parçalarını sıralar.\nPompa enjektörlerde yapılan mekaniki ve elektrikli kontrolleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı.",
+      "KAZANIM": "Birim pompa enjektörlerin arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa enjektörlerin mekanik parçalarının arızalarını açıklar.\nPompa enjektörlerin elektriki arızalarını açıklar.\nPompa enjektörlerin arıza tespiti yaparken dikkat edilecek hususları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı. / 3. Periyodik bakımı.",
+      "KAZANIM": "Birim pompa enjektörlerin arıza tespiti ve onarımını yapar.\nBirim pompa enjektörlerin periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa enjektörlerin tespit edilen arızaları onarma yöntemlerini açıklar.\nPompa enjektörlerin sökülme sırasını bilir.\nPompa enjektörlerin parçalarını tanır.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "3. Periyodik bakımı. / 4. Birim pompanın ayarları.",
+      "KAZANIM": "Birim pompa enjektörlerin periyodik bakım yapar.\nBirim pompa enjektörlerin ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa enjektörlerin de yapılan periyodik bakımları bilir.\nPompa enjektörlerin periyodik olarak değişmesi gereken parçalarını listeler.\nYakıt pompa ayar tezgâhlarının özelliklerini listeler.\nPompa enjektörleri ayar tezgâhına bağlarken kullanılan aparatları bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "4. Birim pompanın ayarları.",
+      "KAZANIM": "Birim pompa enjektörlerin ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygun aparat kullanmanın önemini açıklar.\nPompa enjektörlerin ayar şekillerini açıklar.\nTezgâhta yapılan ayarları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Birim pompa enjektörleri motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompa enjektörleri motora bağlarken dikkat edilecek hususları sıralar.\nYakıt sisteminde alçak basınç hattında hava alma işleminin yapılışını açıklar.\nPerformans testinin önemini ve yapılışını bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Birim Pompa Ayarları",
+      "KONU": "6. Diagnostik cihazla kontroller.",
+      "KAZANIM": "Birim pompa enjektörleri diagnostik cihazı ile kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik kontrol üniteleri arasında CAN-BUS (Merkezi veri hattını) kontrolünün önemini ve yapılışını bilir.\nPompa enjektörlerde diagnostik cihazı ile bulunan arıza ve belirtilerini sıralar.\nPompa enjektörlerin elektronik kontrol ünitesine tanıtılmasının önemini ve yapılışını bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Pompa enjektörleri ayırt eder.\n2. Pompa ayar tezgahına pompa enjektörleri bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Selenoidlerin kontrollerini yapar.\n5. Pompa enjektörlerin ayarlarını kontrol eder\n6. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n7. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n8. Sensörlerin arıza tespitini yapar.\n9. Selenoidlerin arıza tespitini yapar.\n10. Onarım işlemlerini yapar.\n11. Pompa enjektörlerin söker.\n12. Ölçü aletlerini kullanarak parçaları ölçer.\n13. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n14. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n15. Pompa enjektörlerin periyodik bakımları yapar.\n16. Pompa enjektörleri ayar tezgâhına uygun şekilde bağlar.\n17. Pompa enjektörleri ayarlar.\n18. Pompa enjektörleri motora uygun bağlantı yöntemleriyle bağlar.\n19. Yakıt sisteminin havasını alır.\n20. Motoru çalıştırarak duman kontrolü yapar.\n21. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n22. Pompa enjektörlerin diagnostik cihazı ile kontrollerini yapar.\n23. Diagnostik cihazı kullanarak Pompa enjektörlerin arızalarını bulup giderir.\n24. Yakıt enjeksiyon sisteminde Pompa enjektörlerin kodlama işlemini yapar.\n25. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "1. Common Rail pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasının pompa ayar tezgahında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Common Rail Dizel Enjeksiyon pompalarının görevlerini ve çeşitlerini açıklar.\nCommon Rail Dizel Enjeksiyon Sisteminin genel yapısını ve özelliklerini açıklar.\nCommon Rail Dizel Enjeksiyon pompalarının kullanıldığı sistemlerin çalışmasını ve devre şemasını açıklar.\nCommon Rail Dizel Enjeksiyon pompalarının ilişkili olduğu elektronik hatları ve çalışma şeklini bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "1. Common Rail pompanın tezgahta ayarlarının kontrolleri.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasının pompa ayar tezgahında ayarlarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Common Rail Dizel Enjeksiyon pompalarında kullanılan sensörlerin tanımını ve yapısal özelliklerini açıklar.\nCommon Rail Dizel Enjeksiyon pompalarının mekanik kısmının parçalarını sıralar.\nCommon Rail Dizel Enjeksiyon pompalarının yapılan mekaniki ve elektrikli kontrolleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasının arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Common Rail Dizel Enjeksiyon pompaları mekanik parçalarının arızalarını açıklar.\nCommon Rail Dizel Enjeksiyon pompalarını elektriki arızalarını açıklar.\nCommon Rail Dizel Enjeksiyon pompalarında arıza tespiti yaparken dikkat edilecek hususları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "2. Arıza teşhisi ve onarımı. / 3. Periyodik bakımı.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasının arıza tespiti ve onarımını yapar.\nCommon rail dizel enjeksiyon pompasının periyodik bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Common Rail Dizel Enjeksiyon pompalarında tespit edilen arızaları onarma yöntemlerini açıklar.\nCommon Rail Dizel Enjeksiyon pompalarının sökülme sırasını bilir.\nCommon Rail Dizel Enjeksiyon pompalarının parçalarını tanır.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "3. Periyodik bakımı. / 4. Common Rail pompanın ayarları.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasının periyodik bakım yapar.\nCommon rail dizel enjeksiyon pompasının ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Common Rail Dizel Enjeksiyon pompalarınıda yapılan periyodik bakımları bilir.\nCommon Rail Dizel Enjeksiyon pompalarının periyodik olarak değişmesi gereken parçalarını listeler.\nYakıt pompa ayar tezgâhlarının özelliklerini listeler.\nCommon Rail Dizel Enjeksiyon pompalarını ayar tezgâhına bağlarken kullanılan aparatları bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "4. Common Rail pompanın ayarları.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasının ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygun aparat kullanmanın önemini açıklar.\nCommon Rail Dizel Enjeksiyon pompalarının ayar şekillerini açıklar.\nTezgâhta yapılan ayarları açıklar.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "5. Motor bağlanması ve performans testi.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasını motora bağlayıp performans testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Common Rail Dizel Enjeksiyon pompalarını motora bağlarken dikkat edilecek hususları sıralar.\nYakıt sistem alçak basınç hattındaki hava alma işleminin yapılışını açıklar.\nPerformans testinin önemini ve yapılışını bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Common Rail Pompa Ayarları",
+      "KONU": "6. Diagnostik cihazla kontroller.",
+      "KAZANIM": "Common rail dizel enjeksiyon pompasını diagnostik cihazı ile kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektronik kontrol üniteleri arasında haberleşme yöntemlerini açıklar.\nCommon Rail Dizel Enjeksiyon pompalarında diagnostik cihazı ile bulunan arıza ve belirtilerini sıralar.\nCommon Rail Dizel Enjeksiyon pompaları elektronik kontrol ünitesine tanıtılmasının önemini ve yapılışını bilir.",
+        "Ortam ve Donanım": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Öğretim Teknikleri": "Ortam: Dizel Motor Atölyesi\nDonanım: Etkileşimli Tahta / Projeksiyon Cihazı, Bilgisayar, Yazıcı/Tarayıcı, İlgili Videolar, İlgili katologlar, Lift, Ölçme aletleri, Dizel yakıt enjeksiyon pompaları ve enjektörleri, El aletleri ve takımları, Diyagnostik cihazı, Elektronik ölçü aletleri",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Çeşitli Common Rail Dizel Enjeksiyon pompalarını ayırt eder.\n2. Pompa ayar tezgahına Common Rail Dizel Enjeksiyon pompalarını bağlar.\n3. Sensörlerin kontrolü yapar.\n4. Common Rail Dizel Enjeksiyon pompalarının ayarlarını kontrol eder.\n5. Elde edilen sonuçları. katalog değerleri ile karşılaştırır.\n6. Ayar tezgâhında çıkan ölçüm sonuçlarına göre arıza tespiti yapar.\n7. Sensörlerin arıza tespitini yapar.\n8. Onarım işlemlerini yapar.\n9. Common Rail Dizel Enjeksiyon pompalarını söker.\n10. Ölçü aletlerini kullanarak parçaları ölçer.\n11. Katalog veya teknik bültenlerden işlem sırasını ve bilgilerini bulur.\n12. Değişmesi gereken parçaları doğru ölçü ve numaralı yenisi ile değiştirir.\n13. Common Rail Dizel Enjeksiyon pompalarının periyodik bakımları yapar.\n14. Common Rail Dizel Enjeksiyon pompalarını ayar tezgâhına uygun şekilde bağlar.\n15. Common Rail Dizel Enjeksiyon pompalarını ayarlar.\n16. Common Rail Dizel Enjeksiyon pompalarını motora uygun bağlantı yöntemleriyle bağlar.\n17. Yakıt sisteminin havasını alır.\n18. Motoru çalıştırarak performans testlerini yapar.\n19. Diagnostik arıza teşhis cihazı ile CAN-BUS (Merkezi veri hattını) kontrolünü yapar.\n20. Common Rail Dizel Enjeksiyon pompalarının diagnostik cihazı ile kontrollerini yapar.\n21. Diagnostik cihazı kullanarak Common Rail Dizel Enjeksiyon pompaları arızalarını bulup giderir.\n22. Yakıt enjeksiyon sisteminde Common Rail Dizel Enjeksiyon pompaları kodlama işlemini yapar.\n23. Diagnostik cihazı ile kontrolleri yapar."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

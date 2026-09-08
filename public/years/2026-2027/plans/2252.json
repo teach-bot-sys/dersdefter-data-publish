@@ -1,0 +1,744 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Bilgisayarla Statik Proje Çizim Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "İnşaat Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/insaat-teknolojisi/2252/bilgisayarla-statik-proje-cizim-atolyesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "İkamet Amaçlı Olmayan Bina Etüdü",
+      "KONU": "1. İhtiyaç listesi ve fizibilite / 2. İnsan ve eşya ölçülerini dikkate alarak mekân alanlarını belirleme / 3. Kat planı etüdü / 4. Çizgisel ve kotlu ölçülendirme",
+      "KAZANIM": "İhtiyaç listesi ve fizibilite çalışmasını mimari proje düzenleme esaslarına uygun olarak yapar.\nMimari proje düzenleme esaslarına uygun, insan ve eşya ölçülerini dikkate alarak mekânların alanlarını tespit eder.\nMimari proje düzenleme esaslarına uygun olarak kat planı etüdü yapar.\nTeknik resim kurallarına uygun olarak çizgisel ölçülendirme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Konut ve toplu kullanım bina mahalleri açıklanır.\nBina etüdü ihtiyaç listesi hazırlaması sağlanır.\nFizibilite raporları doğrultusunda istek ve ihtiyaçlara göre etüt tasarımı yaptırılır.\nErgonomik açıdan mekân ölçülerini tespit etmesi sağlanır.\nMekân ölçülerine göre tefriş elemanları boyutlarını belirlemesi sağlanır.\nKat planı bölme duvarları mahalleri oluşturacak şekilde planlanır ve çizdirilir.\nPlanda üzerinde oluşturulan mahallerin tefrişleri yaptırılır.\nİç, dış ve kotlu ölçülendirme kuralları açıklanır.\nKat planı iç çizgisel ölçülendirmesi yaptırılır.\nKat planı dış çizgisel ölçülendirmesi yaptırılır.\nKat planı kotlu ölçülendirilmesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İhtiyaç listesinin ve fizibilitenin tespit edilmesi\nİnsan ve eşya ölçülerini dikkate alarak mekân alanlarının oluşturulması\nKat planı etüdünün yapılması\nÇizgisel ve kotlu ölçülendirme yapılması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Zemin Kat Planı Çizimi",
+      "KONU": "1. Bilgisayarla zemin kat planı elemanları / 2. Ölçülendirme ve yazı ayarları / 3. Bilgisayarla zemin kat planı iç ve dış ölçülendirme",
+      "KAZANIM": "Zemin kat planını CAD programında komutlarla çizer.\nZemin kat planı ölçülendirme ve yazı ayarlarını CAD programındaki ilgili komutlarla yapar.\nZemin kat planının iç ve dış ölçülendirmesini CAD programında yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Katman ayarları yaptırılır.\nKat planını oluşturan elemanlar çizdirilir.\nÖlçülendirme ve yazı yazma komutları açıklanır.\nÖlçülendirme ayarları yaptırılır.\nYazı sitillerini oluşturması sağlanır.\nZemin kat planı iç ve dış ölçülendirmesi yaptırılır.\nZemin kat planı kotlu ölçülendirmesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülendirme ve yazı ayarlarının yapılması\nBilgisayarla zemin kat planı iç ve dış ölçülendirme yapılması\nBilgisayarla zemin kat eleman ve mahal yazılarının yazılması\nBilgisayarla zemin kat planı tefriş ve taramalarının yapılması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Zemin Kat Planı Çizimi",
+      "KONU": "4. Bilgisayarla zemin kat eleman ve mahal yazıları / 5. Bilgisayarla zemin kat planı tefriş ve taramaları / 6. Bilgisayarla Zemin Kat Mahal listesi ve anted",
+      "KAZANIM": "Zemin kat planı eleman ve mahal isimlerini CAD programında oluşturduğu yazı stilleri ile yazar.\nZemin kat planı tefriş ve taramalarını CAD programında yapar.\nZemin kat planı mahal listesi ve antedini CAD programında çeşitli komutlarla yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mahal bilgileri yazdırılır.\nPafta ismi ve ölçeği yazdırılır.\nSabit eşya tefrişi yaptırılır.\nHareketli eşya tefrişleri yaptırılır.\nTarama ayarları ve mahal taramaları yaptırılır.\nZemin kat planı antedi yaptırılır.\nZemin kat planı mahal listesi tablosu oluşturması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülendirme ve yazı ayarlarının yapılması\nBilgisayarla zemin kat planı iç ve dış ölçülendirme yapılması\nBilgisayarla zemin kat eleman ve mahal yazılarının yazılması\nBilgisayarla zemin kat planı tefriş ve taramalarının yapılması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Normal Kat Planı Çizimi",
+      "KONU": "1. Bilgisayarla normal kat planı elemanları / 2. Bilgisayarla normal kat planı iç ve dış ölçülendirme / 3. Bilgisayarla normal kat eleman ve mahal yazıları",
+      "KAZANIM": "Normal kat planını CAD programında komutlarla çizer.\nNormal kat planının iç ve dış ölçülendirmesini CAD programında yapar.\nNormal kat planı eleman ve mahal isimlerini CAD programında oluşturduğu yazı stilleri ile yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Katman ayarları yaptırılır.\nKat planını oluşturan elemanlar çizilir.\nNormal kat planı iç ve dış ölçülendirmesi yaptırılır.\nNormal kat planı kotlu ölçülendirmesi yaptırılır.\nMahal bilgileri yazdırılır.\nPafta ismi ve ölçeği yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla normal kat planı iç ve dış ölçülendirme yapılması\nBilgisayarla normal kat eleman ve mahal yazılarının yazılması\nBilgisayarla normal kat planı tefriş ve taramalarını yapılması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Normal Kat Planı Çizimi",
+      "KONU": "4. Bilgisayarla normal kat planı tefriş ve taramaları / 5. Bilgisayarla normal kat mahal listesi ve anted",
+      "KAZANIM": "Normal kat planı tefriş ve taramalarını CAD programında yapar.\nNormal kat planı mahal listesi ve antedini CAD programında çeşitli komutlarla yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sabit eşya tefrişi yaptırılır.\nHareketli eşya tefrişleri yaptırılır.\nTarama ayarları ve mahal taramaları yaptırılır.\nNormal kat planı antedi yaptırılır.\nNormal kat planı mahal listesi tablosu oluşturması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla normal kat planı iç ve dış ölçülendirme yapılması\nBilgisayarla normal kat eleman ve mahal yazılarının yazılması\nBilgisayarla normal kat planı tefriş ve taramalarını yapılması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Bodrum Kat Planı Çizimi",
+      "KONU": "1. Bilgisayarla bodrum kat planı elemanları çizimi / 2. Bilgisayarla bodrum kat planı iç ve dış ölçülendirmesi / 3. Bilgisayarla bodrum kat eleman ve mahal yazıları",
+      "KAZANIM": "Bodrum kat planını CAD programında komutlarla çizer.\nBodrum kat planını iç ve dış ölçülendirmesini CAD programında yapar.\nBodrum kat planının eleman ve mahal isimlerini CAD programında oluşturduğu yazı stilleri ile yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Katman ayarları yaptırılır.\nKat planını oluşturan elemanlar çizdirilir.\nBodrum kat planı iç ve dış ölçülendirmesi yaptırılır.\nBodrum kat planı kotlu ölçülendirmesi yaptırılır.\nMahal bilgileri yazdırılır.\nPafta ismi ve ölçeği yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla bodrum kat planı iç ve dış ölçülendirme yapılması\nBilgisayarla bodrum kat eleman ve mahal yazılarının yazılması\nBilgisayarla bodrum kat planı tefriş ve taramalarının yapılması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Bodrum Kat Planı Çizimi",
+      "KONU": "4. Bilgisayarla bodrum kat planı tefriş ve taramaları / 5. Bilgisayarla bodrum kat mahal listesi ve anted",
+      "KAZANIM": "Bodrum kat planı tefriş ve taramalarını CAD programında yapar.\nBodrum kat planı mahal listesi ve antedini CAD programında çeşitli komutlarla yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sabit eşya tefrişi yaptırılır.\nHareketli eşya tefrişleri yaptırılır.\nTarama ayarları ve mahal taramaları yaptırılır.\nBodrum kat planı antedi yaptırılır.\nBodrum kat planı mahal listesi tablosu oluşturması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla bodrum kat planı iç ve dış ölçülendirme yapılması\nBilgisayarla bodrum kat eleman ve mahal yazılarının yazılması\nBilgisayarla bodrum kat planı tefriş ve taramalarının yapılması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Derin Temel Planı Çizimi",
+      "KONU": "1. Bilgisayarla düz radye temel planı çizimi / 2. Bilgisayarla alttan kirişli radye temel planı çizimi",
+      "KAZANIM": "Düz radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.\nAlttan kirişli radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Düz radye temeller açıklanır.\nDüz radye temel donatı planı, açılımları, detay ve kesitleri çizdirilir.\nDüz radye temel ölçülendirmesi yaptırılır.\nAlttan kirişli radye temeller açıklanır.\nAlttan kirişli radye temel donatı planı, açılımları, detay ve kesitleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla düz radye temel planının çizilmesi\nBilgisayarla alttan kirişli radye temel planının çizilmesi\nBilgisayarla üstten kirişli radye temel planının çizilmesi",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Derin Temel Planı Çizimi",
+      "KONU": "2. Bilgisayarla alttan kirişli radye temel planı çizimi / 3. Bilgisayarla üstten kirişli radye temel planı çizimi",
+      "KAZANIM": "Alttan kirişli radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.\nÜstten kirişli radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alttan kirişli radye temel ölçülendirmesi yaptırılır.\nÜstten kirişli radye temeller açıklanır.\nÜstten kirişli radye temel donatı planı, açılımları, detay ve kesitleri çizdirilir.\nÜstten kirişli radye temel ölçülendirmesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla düz radye temel planının çizilmesi\nBilgisayarla alttan kirişli radye temel planının çizilmesi\nBilgisayarla üstten kirişli radye temel planının çizilmesi",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Kolon Aplikasyon Planı Çizimi",
+      "KONU": "1. Bilgisayarla aks ve kolonları çizimi / 2. Bilgisayarla kolon ve perde donatılarını çizimi / 3. Bilgisayarla kolon ve perde duvar donatı detayları çizimi",
+      "KAZANIM": "Kolon aplikasyon planını CAD programında komutlarla kurallara uygun olarak çizer.\nKolon ve perde duvar donatılarını CAD programında komutlarla kurallara uygun olarak çizer.\nKolon ve perde duvar donatı detaylarını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kolon aplikasyon planı açıklanır.\nKolon aplikasyon planı aks, kolon ve perdeler çizdirilir.\nKolon aks ve toplam ölçüleri yazdırılır.\nPoligon kolon ve betonarme perde başlık bölgesi yatay ve düşey donatılarını çizdirilir.\nKolon, perde enine, boyuna ve çiroz donatılarını çizdirilir.\nEnine ve boyuna donatı; adet, çap ve aralıkları yazdırılır.\nFarklı ölçü ve donatıya sahip kolon ve perde etriyeleri çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla aks ve kolonlarının çizilmesi\nBilgisayarla kolon ve perde donatılarının çizilmesi\nBilgisayarla kolon ve perde duvar donatı detayların çizilmesi\nBilgisayarla Deprem Bölgesi kolon-kiriş birleşim detayının çizilmesi",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Kolon Aplikasyon Planı Çizimi",
+      "KONU": "3. Bilgisayarla kolon ve perde duvar donatı detayları çizimi / 4. Bilgisayarla Deprem Bölgesi kolon-kiriş birleşim detayını çizimi / 5. Bilgisayarla plan bilgilerini yazmak ve anted çizimi",
+      "KAZANIM": "Kolon ve perde duvar donatı detaylarını CAD programında komutlarla kurallara uygun olarak çizer.\nDeprem bölgesi kolon-kiriş birleşim detaylarını CAD programında kurallara uygun olarak çizer.\nPlan ve anted bilgilerini CAD programında kurallara uygun olarak oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kolon ve perde katlar arası boyuna filiz donatı şeması çizdirilir.\nKolon aplikasyon planı iç ve dış ölçülendirmesi yaptırılır.\nDeprem bölgesi, farklı boyut ve türdeki kolon-kiriş birleşimleri çizdirilir.\nKolon-kiriş birleşimleri kritik detayları çizdirilir.\nKolon aplikasyon planı antedi çizdirilir.\nKolon aplikasyon planı eleman bilgileri yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla aks ve kolonlarının çizilmesi\nBilgisayarla kolon ve perde donatılarının çizilmesi\nBilgisayarla kolon ve perde duvar donatı detayların çizilmesi\nBilgisayarla Deprem Bölgesi kolon-kiriş birleşim detayının çizilmesi",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Plak Döşeme Donatı Planı Çizimi",
+      "KONU": "1. Bilgisayarla plak döşeme aks ve kolonları çizimi / 2. Bilgisayarla plak döşeme kirişleri çizimi / 3. Bilgisayarla plak döşeme donatılarını çizimi",
+      "KAZANIM": "Plak döşeme aks ve kolonlarını CAD programında komutlarla kurallara uygun olarak çizer.\nPlak döşeme kirişlerini CAD programında kurallara uygun olarak çizer.\nPlak döşeme donatılarını CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Plak döşeme planında akslar çizdirilerek, kolonları ölçülüsüne uygun olarak yerleştirmesi sağlanır\nPlak döşemenin çalışma sistemi (hurdi - dal) hesap ve tespiti yaptırılır.\nPlak döşeme X-X ve Y-Y yönü ana kirişler çizdirilir.\nPlak döşeme X-X ve Y-Y yönü ara kirişler çizdirilir.\nPlanda yer alan konsol kirişler çizdirilir.\nTek ve çift yönde çalışan plak döşeme ve düşük döşeme donatılar çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla plak döşeme aks ve kolonların çizilmesi\nBilgisayarla plak döşeme kirişlerinin çizilmesi\nBilgisayarla plak döşeme donatılarının çizilmesi\nBilgisayarla plak döşeme kesitlerinin çizilmesi",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Plak Döşeme Donatı Planı Çizimi",
+      "KONU": "3. Bilgisayarla plak döşeme donatılarını çizimi / 4. Bilgisayarla plak döşeme kesitleri çizimi / 5. Bilgisayarla plak döşeme plan bilgileri yazımı",
+      "KAZANIM": "Plak döşeme donatılarını CAD programında kurallara uygun olarak çizer.\nPlak döşeme kesitlerini CAD programında komutlarla kurallara uygun olarak çizer.\nPlak döşeme planı bilgilerini CAD programında kurallara uygun olarak yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mesnet ilave ve saçak ilave donatıları çizdirilir.\nPlak döşeme plan enine kesit (X-X) ve boyuna kesit (Y-Y) çizimi yaptırılır.\nPlak döşeme kesiti iç ve dış ölçülendirmesini yapması sağlanır.\nPlak döşeme kesiti kotlu ölçülendirmesi yaptırılır.\nPlak döşeme donatı planı enine kesit ve boyuna kesit elemanlarının bilgilerini yazması sağlanır.\nPlak döşeme donatı planı tablosu çizdirilerek bilgileri yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla plak döşeme aks ve kolonların çizilmesi\nBilgisayarla plak döşeme kirişlerinin çizilmesi\nBilgisayarla plak döşeme donatılarının çizilmesi\nBilgisayarla plak döşeme kesitlerinin çizilmesi",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Asmolen Döşeme Donatı Planı Çizimi",
+      "KONU": "1. Bilgisayarla asmolen döşeme aks ve kolonları çizimi / 2. Bilgisayarla asmolen döşeme kirişleri çizimi / 3. Bilgisayarla asmolen döşeme donatılarını çizimi / 4. Bilgisayarla asmolen döşeme kesitleri çizimi / 5. Bilgisayarla asmolen döşeme plan bilgileri yazımı",
+      "KAZANIM": "Asmolen döşeme aks ve kolonlarını CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme kirişlerini CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme donatılarını CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme kesitlerini CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme planı bilgilerini CAD programında komutlarla kurallara uygun olarak yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Asmolen döşeme planı aksları çizerek kolonlar ölçüsüne uygun yerleştirmesi sağlanır.\nAsmolen döşemenin çalışma sistemine göre nervür yönleri tespit ettirilir.\nAsmolen döşeme X-X ve Y-Y yönü ana kirişleri çizdirilir.\nAsmolen döşeme X-X ve Y-Y yönü ara kirişleri çizdirilir.\nPlanda yer alan nervür kirişleri çizdirilir.\nAsmolen döşeme planında kullanılacak esas donatıları çizdirilir.\nAsmolen döşeme planında kullanılacak ilave donatılar çizdirilir.\nÇizim programında asmolen döşeme plan enine kesit (X-X) ve (Y-Y) çizimi yaptırılır.\nPlak ve nervür kısımlarının ölçülerinin verilmesi sağlanır.\nAsmolen döşeme donatı planı enine kesit ve boyuna kesit elemanlarının bilgilerini yazması sağlanır.\nAsmolen döşeme donatı planı tablosu çizdirilerek bilgileri yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla asmolen döşeme aks ve kolonların çizilmesi\nBilgisayarla asmolen döşeme kirişlerinin çizilmesi\nBilgisayarla asmolen döşeme donatılarının çizilmesi\nBilgisayarla asmolen döşeme kesitlerinin çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Kaset Döşeme Donatı Planı Çizimi",
+      "KONU": "1. Bilgisayarla kaset döşeme aks ve kolonları çizimi / 2. Bilgisayarla kaset döşeme kirişleri çizimi / 3. Bilgisayarla kaset döşeme donatılarını çizimi / 4. Bilgisayarla kaset döşeme kesitleri çizimi / 5. Bilgisayarla kaset döşeme plan bilgileri yazımı",
+      "KAZANIM": "Kaset döşeme aks ve kolonlarını CAD programında komutlarla kurallara uygun olarak çizer.\nKaset döşeme kirişlerini CAD programında komutlarla kurallara uygun olarak çizer.\nKaset döşeme donatılarını CAD programında komutlarla kurallara uygun olarak çizer.\nKaset döşeme kesitlerini CAD programında komutlarla kurallara uygun olarak çizer.\nKaset döşeme planı bilgilerini CAD programında komutlarla kurallara uygun olarak yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kaset döşeme planı aks çizimleri yaptırılır.\nKaset döşeme planında yer alan kolonlar ölçüsüne uygun olarak çizdirilir.\nKaset döşeme X-X ve Y-Y yönü ana kirişleri çizdirilir.\nKaset döşeme X-X ve Y-Y yönü ara kirişler çizdirilir.\nKaset döşeme planında yer alan nervür kirişleri her iki yönde de çizdirilir.\nKaset döşeme planında kullanılacak esas donatılar çizdirilir.\nKaset döşeme planında kullanılacak ilave donatılar çizdirilir.\nÇizim programında kaset döşeme plan enine kesit (X-X) ve (Y-Y) çizimi yaptırılır.\nKaset döşeme plak ve nervür kısımların ölçülerini vermesi sağlanır.\nKaset döşeme donatı planı enine ve boyuna kesit elemanlarının bilgilerini yazması sağlanır.\nKaset döşeme donatı planı tablosunu çizdirilerek bilgileri yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla kaset döşeme aks ve kolonların çizilmesi\nBilgisayarla kaset döşeme kirişlerinin çizilmesi\nBilgisayarla kaset döşeme donatılarının çizilmesi\nBilgisayarla kaset döşeme kesitlerinin çizilmesi\nBilgisayarla kaset döşeme plan bilgilerinin yazılması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Dikdörtgen ve Tablalı Kiriş Donatı Açılım Detayları Çizimi",
+      "KONU": "1. Bilgisayarla dikdörtgen kesitli kiriş açılım ve detayları çizimi / 2. Bilgisayarla tablalı kiriş açılım ve detayları çizimi / 3. Bilgisayarla ters kiriş açılım ve detayları çizimi",
+      "KAZANIM": "Dikdörtgen kesitli kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nTablalı kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nTers kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dikdörtgen kesitli kiriş detay, donatıları ve kiriş donatı açılımı çizdirilir.\nDikdörtgen kesitli kirişlerin detay ölçülendirmesi yaptırılır.\nTers kiriş detay, donatıları ve kiriş donatı açılımı çizdirilir.\nTers kirişlerin detay ölçülendirmesi yaptırılır.\nTers kiriş detay, donatıları ve kiriş donatı açılımı çizdirilir.\nTers kesitli kirişlerin detay ölçülendirmesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla dikdörtgen kesitli kiriş açılım ve detayların çizilmesi\nBilgisayarla tablalı kiriş açılım ve detayların çizilmesi\nBilgisayarla ters kiriş açılım ve detaylarının çizilmesi",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Nervürlü ve Konsollu Kiriş Donatı Açılım Detayları Çizimi",
+      "KONU": "1. Bilgisayarla nervürlü kiriş açılım ve detayları çizimi / 2. Bilgisayarla konsol kiriş açılım ve detayları çizimi / 3. Bilgisayarla yatık kiriş açılım ve detayları çizimi",
+      "KAZANIM": "Nervürlü kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nKonsol kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nYatık kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Nervürlü kiriş detay, donatıları ve kiriş donatı açılımı çizdirilir.\nNervürlü kesitli kirişlerin detay ölçülendirmesi yaptırılır.\nKonsol kiriş detay, donatıları ve kiriş donatı açılımı çizdirilir.\nKonsol kesitli kirişlerin detay ölçülendirmesi yaptırılır.\nYatık kiriş detay, donatıları ve kiriş donatı açılımı çizdirilir.\nYatık kesitli kirişlerin detay ölçülendirmesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla nervürlü kiriş açılım ve detaylarının çizilmesi\nBilgisayarla konsol kiriş açılım ve detaylarının çizilmesi\nBilgisayarla yatık kiriş açılım ve detaylarının çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla İkamet Amaçlı Olmayan Bina Merdiven ve Asansör Perde Duvar Detayları Çizimi",
+      "KONU": "1. Bilgisayarla merdiven donatı planı, merdiven kiriş detayı ve açılımlar çizimi / 2. Bilgisayarla asansör perde duvar ve donatı detayları çizimi / 3. Bilgisayarla betonarme perde duvar donatı ve açılım detayları çizimi",
+      "KAZANIM": "Merdiven donatı planı, merdiven kiriş detayı ve açılımlarını CAD programında kurallara uygun olarak çizer.\nBilgisayarla asansör perde duvar ve donatı detaylarını CAD programında kurallara uygun olarak çizer.\nBetonarme perde duvar donatı ve açılımlarını CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Merdiven planı ve kesiti çizdirilir.\nMerdiven donatıları çizdirilir.\nMerdiven plan ve kesit donatı açılımları, kirişi donatı detayları çizdirilir.\nMerdiven ve asansör perde duvarı donatıları çizdirilir.\nMerdiven ve asansör perde duvarı donatı detayları ve açılımları çizdirilir.\nBetonarme perde duvarda kullanılan donatılar çizdirilir.\nBetonarme perde duvar altı hatılını, kuranglez donatılarını ve açılımları çizdirilir.\nBetonarme perde duvar donatı açılımları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarla merdiven donatı planı, merdiven kiriş detayı ve açılımlarının çizilmesi\nBilgisayarla asansör perde duvar ve donatı detaylarının çizilmesi\nBilgisayarla betonarme perde duvar donatı ve açılım detaylarının çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Belirlenen İstikamete Göre Yol Güzergâhı Çizimi",
+      "KONU": "1. Belirlenen güzergâhın profilini alarak yapılabilirliğinin tespiti / 2. Belirlenen güzergâhı topoğrafik harita üzerinde belirtme / 3. Tespit edilen koridordan etüt alarak yol plan profilini geçirme / 4. Sıfır poligonunun /poligonlarının çizimi",
+      "KAZANIM": "Bilgisayarla belirlenen güzergâhın profilini alarak yapılabilirliğini tespit eder.\nBilgisayarla belirlenen güzergâhı topoğrafik harita üzerinde belirtir.\nBilgisayarla tespit edilen koridordan etüt alarak yol plan profilini geçirir.\nBilgisayarla sıfır poligonunu/poligonlarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yol güzergâhı profili alma yapılabilirliği açıklanır.\nBelirlenen güzergâhın yapılabilirliğini teknik şartlar çerçevesinde tespit edilmesi sağlanır.\nYol güzergâhın topoğrafik haritalarda belirlenmesi ile ilgili kurallar açıklanır.\nBelirlenen güzergâh üzerinde güzergâhı belirtilmesi sağlanır.\nYol plan profili özellikleri açıklanır.\nEtüt aldırılarak yol plan profilinin oluşturulması sağlanır.\nSıfır poligonu ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen güzergâhın profilini alarak yapılabilirliğinin tespit edilmesi\nBelirlenen güzergâhı topoğrafik harita üzerinde belirlenmesi\nTespit edilen koridordan etüt alarak yol plan profilinin geçirilmesi\nSıfır poligonunun /poligonlarının çiziminin yapılması\nÇizilen sıfır poligonlarında etüt yaparak en uygun poligon/poligonların seçiminin yapılması\nBelirlenen sıfır poligonlarını dikkate alarak proje esaslarına göre kesin güzergâhı, some noktaları ve aliymanlarının çiziminin yapılması"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Belirlenen İstikamete Göre Yol Güzergâhı Çizimi",
+      "KONU": "4. Sıfır poligonunun /poligonlarının çizimi / 5. Çizilen sıfır poligonlarında etüt yaparak en uygun poligon/poligonların seçimi / 6. Belirlenen sıfır poligonlarını dikkate alarak proje esaslarına göre kesin güzergâhı, some noktaları ve aliymanlarının çizimi",
+      "KAZANIM": "Bilgisayarla sıfır poligonunu/poligonlarını çizer.\nBilgisayarla çizilen sıfır poligonlarında etüt yaparak en uygun poligon/poligonların seçimini yapar.\nBilgisayarla belirlenen sıfır poligonlarını dikkate alarak proje esaslarına göre kesin güzergâhı, some noktaları ve aliymanlarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıfır poligonu/poligonları teknik kurallara uygun olarak çizdirilir.\nSıfır poligonları etüt ve uygun poligon seçim kuralları açıklanır.\nEtüt yaparak en uygun poligon/poligonlar seçtirilir.\nKesin güzergâh, some noktası ve aliymanların belirlenmesi kuralları açıklanır.\nKesin güzergâh teknik kurallara göre çizdirilir.\nSome noktaları teknik kurallara göre çizdirilir.\nAliymanlar teknik kurallara göre çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Belirlenen güzergâhın profilini alarak yapılabilirliğinin tespit edilmesi\nBelirlenen güzergâhı topoğrafik harita üzerinde belirlenmesi\nTespit edilen koridordan etüt alarak yol plan profilinin geçirilmesi\nSıfır poligonunun /poligonlarının çiziminin yapılması\nÇizilen sıfır poligonlarında etüt yaparak en uygun poligon/poligonların seçiminin yapılması\nBelirlenen sıfır poligonlarını dikkate alarak proje esaslarına göre kesin güzergâhı, some noktaları ve aliymanlarının çiziminin yapılması"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Yol Projelerinde Boy Kesit Çizimleri",
+      "KONU": "1. Boy kesitte çizilecek yatay ve düşey mesafeler için amaca uygun yatay uzunluk, düşey yükseklik farklarını çizim ölçeğine göre belirleme / 2. Yatay eksende uzunlukları, düşey eksende yükseklikleri gösterme / 3. Yatay eksene çizime uygun bir kot verme / 4. Plandaki güzergâhın tesviye eğrilerini ve kestiği noktaların başlangıca uzaklıklarını yatay eksen üzerinde işaretleme / 5. Plandaki güzergâhın tesviye eğrilerini ve kestiği noktaların kotlarını düşey eksen üzerinde işaretlememe / 6. İşaretlenen noktalar birleştirilerek tabii zemin çizgisini (siyah ve kırmızı çizgi), yol güzergâhının geçeceği çizgi (kırmızı çizgi)",
+      "KAZANIM": "Bilgisayarla boy kesitte çizilecek yatay ve düşey mesafeler için amaca uygun yatay uzunluk, düşey yükseklik farklarını çizim ölçeğine göre belirler.\nBilgisayarla yatay eksende uzunlukları, düşey eksende yükseklikleri gösterir.\nBilgisayarla yatay eksene çizime uygun bir kot verir.\nBilgisayarla plandaki güzergâhın tesviye eğrilerini ve kestiği noktaların başlangıca uzaklıklarını yatay eksen üzerinde işaretler.\nBilgisayarla plandaki güzergâhın tesviye eğrilerini ve kestiği noktaların kotlarını düşey eksen üzerinde işaretler.\nBilgisayarla boy kesitte işaretlenen noktalar birleştirilerek tabii zemin çizgisini (siyah ve kırmızı çizgi), yol güzergâhının geçeceği çizgiyi (kırmızı çizgi) çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Boy kesit yatay ve düşey ölçü farklılıkları belirleme esasları açıklanır.\nYatay uzunluk ve düşey yükseklik çizim ölçeğinin belirlenmesi sağlanır.\nYol ekseni üzerinde yatay uzunlukların gösterilmesi sağlanır.\nYol ekseni üzerinde düşey yüksekliklerin gösterilmesi sağlanır.\nYatay eksene çizime uygun kot verme kuralları açıklanır.\nYatay eksene uygun kot verilmesi sağlanır.\nYol güzergâhı tesviye eğrilerinin başlangıç noktasına uzaklığının yatay eksen üzerinde işaretlenmesi sağlanır.\nYol güzergâhının yatayda kestiği noktaların başlangıç noktasına uzaklığının yatay eksen üzerinde işaretlenmesi sağlanır.\nYol güzergâhı tesviye eğrilerinin başlangıç noktasına uzaklığının düşey eksen üzerinde işaretlenmesi sağlanır.\nYol güzergâhının düşeyde kestiği noktaların başlangıç noktasına uzaklığının yatay eksen üzerinde işaretlenmesi sağlanır.\nBoy kesitte belirlenen noktalar birleştirilmesi tabi zemin çizgisini çizdirilir.\nYol güzergâhının geçeceği kırmızı çizgi çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Boy kesitte çizilecek yatay ve düşey mesafeler için amaca uygun yatay uzunluk, düşey yükseklik farklarını çizim ölçeğine göre belirlenmesi\nYatay eksende uzunlukları, düşey eksende yüksekliklerin gösterilmesi\nYatay eksene çizime uygun bir kot verilmesi\nPlandaki güzergâhın tesviye eğrilerini ve kestiği noktaların başlangıca uzaklıklarının yatay eksen üzerinde işaretlenmesi\nPlandaki güzergâhın tesviye eğrilerini ve kestiği noktaların kotlarınının düşey eksen üzerinde işaretlenmesi\nİşaretlenen noktalar birleştirilerek tabii zemin çizgisini (siyah ve kırmızıçizgi), yol güzergâhının geçeceği çizginin (kırmızıçizgi) çizilmesi",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Yol Projelerinde En Kesit Çizimleri",
+      "KONU": "1. Planda, güzergâha dik doğrultuların tesviye eğrilerini kestikleri noktaların arasındaki uzunlukları yatay eksen üzerinde işaretleme / 2. Planda, güzergâha dik doğrultuların tesviye eğrilerini kestikleri noktaların kotlarını düşey eksen üzerinde işaretleme / 3. İşaretlenen noktaları birleştirerek tabii zeminin en kesitinin çizimi / 4. En kesit üzerinde uygun yol eksenini belirtme ve yol platformunu çizme / 5. En kesit üzerinde, şevleri çizer ve tabii zemin ile yol platformu arasındaki alanları hesaplama / 6. Güzergâh üzerindeki, çizilen ve alanları hesaplanan en kesitler arasındaki hacimleri hesaplama",
+      "KAZANIM": "Bilgisayarla planda, güzergâha dik doğrultuların tesviye eğrilerini kestikleri noktaların arasındaki uzunlukları yatay eksen üzerinde işaretler.\nBilgisayarla planda, güzergâha dik doğrultuların tesviye eğrilerini kestikleri noktaların kotlarını düşey eksen üzerinde işaretler.\nBilgisayarla güzergâhta işaretlenen noktaları birleştirerek tabii zeminin en kesitini çizer.\nBilgisayarla yol en kesiti üzerinde uygun yol eksenini belirtir ve yol platformunu çizer.\nBilgisayarla en kesit üzerinde şevleri çizer ve tabii zemin ile yol platformu arasındaki alanları hesaplar.\nBilgisayarla güzergâh üzerindeki çizilen ve alanları hesaplanan en kesitler arasındaki hacimleri hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Planda yol güzergâhına dik doğrultuda tesviye eğrilerini kestikleri noktaların işaretlenmesini açıklanır.\nDoğrultuların tesviye eğrilerini kestikleri noktaların arasındaki uzunlukları yatay eksen üzerinde işaretlenmesini sağlanır.\nPlanda yol güzergâhına dik doğrultuda tesviye eğrilerinin kestikleri noktaların kotlarının belirlenmesini açıklanır.\nDoğrultuların tesviye eğrilerini kestikleri noktaların arasındaki uzunlukları dikey eksen üzerinde işaretlenmesini sağlanır.\nYol güzergâhı tabii zemin en kesit çizim kurallarını açıklanır.\nYol güzergâhı tabii zemin en kesiti çizdirilir.\nYol en kesiti üzerinde yol ekseninin uygun şekilde belirlenmesi sağlanır.\nYol platformu çizim kuralları doğrultusunda çizdirilir.\nYol en kesiti üzerinde şevler çizdirilir.\nTabii zemin ile yol platformu arasında kalan alanların hesaplanması sağlanır.\nYol güzergâhı en kesiti üzerinden hacim hesaplama esasları açıklanır.\nGüzergâh üzerinde alanları hesaplanan en kesitler arasındaki hacimlerin hesaplanması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Planda, güzergâha dik doğrultuların tesviye eğrilerini kestikleri noktaların arasındaki uzunlukları yatay eksen üzerinde işaretlenmesi\nPlanda, güzergâha dik doğrultuların tesviye eğrilerini kestikleri noktaların kotlarını düşey eksen üzerinde işaretlenmesi\nİşaretlenen noktaları birleştirerek tabii zeminin en kesitinin çizilmesi\nEn kesit üzerinde uygun yol eksenini belirtme ve yol platformunun çizilmesi\nEn kesit üzerinde, şevleri çizer ve tabii zemin ile yol platformu arasındaki alanların hesaplanması\nGüzergâh üzerindeki, çizilen ve alanların hesaplanan en kesitler arasındaki hacimlerin hesaplanması",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Yatay ve Düşey Kurp Çizimleri",
+      "KONU": "1. Kırmızı hat çiziminden sonra oluşabilecek düşey açık ve düşey kapalı kurp hesapları / Düşey açık ve düşey kapalı kurp kırmızı hat çizimi / 2. Kırmızı hat çiziminden sonra oluşabilecek yatay kurp hesapları / 3. Yatay kurp kırmızı hat çizimi",
+      "KAZANIM": "Bilgisayarla kırmızı hat çiziminden sonra oluşabilecek düşey açık ve düşey kapalı kurp hesaplarını tekniğine uygun bir şekilde yapar.\nBilgisayarla düşey açık ve düşey kapalı kurp kırmızı hat çizimini yapar.\nBilgisayarla kırmızı hat çiziminden sonra oluşabilecek yatay kurp hesaplarını tekniğine uygun bir şekilde yapar.\nBilgisayarla yatay kurp kırmızı hat çizimini mesleki çizim kurallarına göre yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kırmızı hat çizimi ile oluşan düşey açık kurp hesaplarını tekniğine uygun olarak yaptırır.\nKırmızı hat çizimi ile oluşan kapalı kurp hesaplarını tekniğine uygun olarak yaptırır.\nDüşey açık kurp kırmızı hattı çizim kurallarına göre çizdirilir.\nDüşey kapalı kurp kırmızı hattı çizim kurallarına göre çizdirilir.\nKırmızı hat çizimi ile oluşan yatay kurp hesap kurallarını açıklanır.\nKırmızı hat çizimi ile oluşan yatay kurp hesaplarını yaptırır.\nYatay kurplarda kırımızı hat çizim esasları açıklanır.\nYatay kurplarda kırmızı hat çizimlerini yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kırmızı hat çiziminden sonra oluşabilecek düşey açık ve düşey kapalı kurp hesaplarının yapılması\nDüşey açık ve düşey kapalı kurp kırmızı hat çiziminin yapılması\nKırmızı hat çiziminden sonra oluşabilecek yatay kurp hesaplarının yapılması\nYatay kurp kırmızı hat çiziminin yapılması",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Kübaj Cetvelini Dikkate Alarak Brükner Eğrisi (Kitleler Diyagramı) Çizimi",
+      "KONU": "1. Kabul edilen yatay ölçeğe göre kesitlerin yerlerinin işaretlenmesi / 2. Kabul edilen düşey ölçeğe göre her kesit noktasından çıkılan dik üzerinde tabloda (Kübaj cetveli) bulunan Brükner değerlerini işaretleme / İşaretlenen noktaları birleştirerek Brükner eğrisinin çizimi / 3. Brükner eğrisine göre ortalama taşıma mesafelerinin hesabı",
+      "KAZANIM": "Bilgisayarla kabul edilen yatay ölçeğe göre kesitlerin yerlerini işaretler.\nBilgisayarla kabul edilen düşey ölçeğe göre her kesit noktasından çıkılan dik üzerinde tabloda (Kübaj cetveli) bulunan Brükner değerlerini işaretler.\nBilgisayarla işaretlenen noktaları birleştirerek Brükner Eğrisini çizer.\nBilgisayarla Brükner Eğrisine göre ortalama taşıma mesafelerini hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yatay ölçeğe göre kesit yerlerinin işaretlenmesi kuralları açıklanır.\nYatay ölçeğe göre kesit yerlerinin işaretlenmesi sağlanır.\nKübaj cetveli değerleri okuma esasları açıklanır.\nDüşey ölçeğe göre kesit noktalarından çıkılan dik üzerinde bulunan Brükner değerlerinin işaretlenmesi sağlanır.\nBrükner eğrisi çizim kuralları açıklanır.\nBrükner Eğrisi işaretlenen noktalar birleşecek şekilde çizdirilir.\nBrükner Eğrisine göre ortalama taşıma mesafeleri hesap kuralları açıklanır.\nBrükner Eğrisine göre ortalama taşıma mesafelerini hesaplatır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kabul edilen yatay ölçeğe göre kesitlerin yerlerinin işaretlenmesi\nKabul edilen düşey ölçeğe göre her kesit noktasından çıkılan dik üzerinde tabloda (Kübaj cetveli) bulunan Brükner değerlerinin işaretlenmesi\nİşaretlenen noktaları birleştirerek Brükner eğrisinin çizilmesi\nBrükner eğrisine göre ortalama taşıma mesafelerinin hesabının yapılması",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış Köprü ve Kutu Menfez Çizimleri",
+      "KONU": "1. Tasarımı yapılmış köprünün yol projesi üzerine yerleşimi",
+      "KAZANIM": "Bilgisayarla tasarımı yapılmış köprünün yol projesi üzerine yerleşim çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tasarımı yapılmış köprünün yol projesi üzerine yerleşim kuralları açıklanır.\nTasarımı yapılmış köprünün yol projesi üzerine yerleşim çizimi yaptırılır.\nKöprü üzerine yol projesinde.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tasarlanan köprünün yol projesi üzerine yerleşiminin yapılması\nBetonarme köprünün kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları hazırlanan betonarme köprünün donatı detaylarının çizilmesi\nTasarlanan kutu menfezin yol projesi üzerine yerleşiminin yapılması\nBetonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları, hazırlanan betonarme kutu menfezin donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış Köprü ve Kutu Menfez Çizimleri",
+      "KONU": "2. Betonarme köprünün kalıp planı, en kesit ve boy kesitlerinin çizimi",
+      "KAZANIM": "Bilgisayarla betonarme köprünün kalıp planı, en kesit ve boy kesitlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Betonarme köprü kalıp planı çizim kurallarına göre çizdirilir.\nBetonarme köprünün en kesitini çizim kurallarına göre çizdirilir.\nBetonarme köprünün boy kesitini çizim kurallarına göre çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tasarlanan köprünün yol projesi üzerine yerleşiminin yapılması\nBetonarme köprünün kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları hazırlanan betonarme köprünün donatı detaylarının çizilmesi\nTasarlanan kutu menfezin yol projesi üzerine yerleşiminin yapılması\nBetonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları, hazırlanan betonarme kutu menfezin donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış Köprü ve Kutu Menfez Çizimleri",
+      "KONU": "3. Kalıp planları hazırlanan betonarme köprünün donatı detaylarının çizimi / 4. Tasarlanan kutu menfezin yol projesi üzerine yerleşimi",
+      "KAZANIM": "Bilgisayarla kalıp planları hazırlanan betonarme köprünün donatı detaylarını çizer.\nBilgisayarla tasarlanan kutu menfezin yol projesi üzerine yerleşimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Betonarme köprülerde kullanılan donatılar ve çizim kuralları açıklanır.\nBetonarme köprülerde donatı detay ve açılımları çizdirilir.\nTasarımı yapılmış kutu menfezin yol projesi üzerine yerleşim kuralları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tasarlanan köprünün yol projesi üzerine yerleşiminin yapılması\nBetonarme köprünün kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları hazırlanan betonarme köprünün donatı detaylarının çizilmesi\nTasarlanan kutu menfezin yol projesi üzerine yerleşiminin yapılması\nBetonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları, hazırlanan betonarme kutu menfezin donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış Köprü ve Kutu Menfez Çizimleri",
+      "KONU": "4. Tasarlanan kutu menfezin yol projesi üzerine yerleşimi / 5. Betonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizimi",
+      "KAZANIM": "Bilgisayarla tasarlanan kutu menfezin yol projesi üzerine yerleşimini yapar.\nBilgisayarla betonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tasarımı yapılmış kutu menfezin yol projesi üzerine yerleşim çizimi yaptırılır.\nBetonarme kutu menfez kalıp planı çizim kurallarına göre çizdirilir.\nBetonarme kutu menfez en kesitini çizim kurallarına göre çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tasarlanan köprünün yol projesi üzerine yerleşiminin yapılması\nBetonarme köprünün kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları hazırlanan betonarme köprünün donatı detaylarının çizilmesi\nTasarlanan kutu menfezin yol projesi üzerine yerleşiminin yapılması\nBetonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları, hazırlanan betonarme kutu menfezin donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış Köprü ve Kutu Menfez Çizimleri",
+      "KONU": "5. Betonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizimi / 6. Kalıp planları hazırlanan betonarme kutu menfezin donatı detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla betonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerini çizer.\nBilgisayarla kalıp planları hazırlanan betonarme kutu menfezin donatı detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Betonarme kutu menfez boy kesitini çizim kurallarına göre çizdirilir.\nBetonarme kutu menfezlerde kullanılan donatılar ve çizim kuralları açıklanır.\nBetonarme kutu menfezlerde donatı detay ve açılımları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tasarlanan köprünün yol projesi üzerine yerleşiminin yapılması\nBetonarme köprünün kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları hazırlanan betonarme köprünün donatı detaylarının çizilmesi\nTasarlanan kutu menfezin yol projesi üzerine yerleşiminin yapılması\nBetonarme kutu menfezin kalıp planı, en kesit ve boy kesitlerinin çizilmesi\nKalıp planları, hazırlanan betonarme kutu menfezin donatı detaylarının çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış İstinat Duvarı, İksa, Kazıklı Perde Duvar Çizimleri",
+      "KONU": "1. Yol projesinde belirtilen yerlere koyulan istinat duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planı ve donatı detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla yol projesinde belirtilen yerlere konulan istinat duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planı ve donatı detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yol projesi üzerinde bulunan istinad duvarlarının hesaplanan boyutları plana işletilir.\nYol projesi İstinad duvarı kalıp planı projesine uygun olarak çizdirilir.\nYol projesi İstinad duvarı donatı detay ve açılımları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yol projesinde belirtilen yerlere koyulan istinat duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planı ve donatı detaylarının çizilmesi\nKarayolu projesinde belirtilen yerlere koyulan iksa duvarlarının hesaplanan boyutlarını plan üzerine işlenerek kalıp planlarının ve bağlantı detaylarının çizilmesi\nYol projesinde belirtilen yerlere koyulan kazıklı perde duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planlarının ve donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış İstinat Duvarı, İksa, Kazıklı Perde Duvar Çizimleri",
+      "KONU": "2. Karayolu projesinde belirtilen yerlere koyulan iksa duvarlarının hesaplanan boyutlarını plan üzerine işlenerek kalıp planlarının ve bağlantı detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla karayolu projesinde belirtilen yerlere konulan iksa duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planlarını ve bağlantı detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yol projesi üzerinde bulunan iksa duvarlarının hesaplanan boyutları plana işletilir.\nYol projesi iksa duvarı kalıp planı projesine uygun olarak çizdirilir.\nYol projesi iksa duvarı bağlantı detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yol projesinde belirtilen yerlere koyulan istinat duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planı ve donatı detaylarının çizilmesi\nKarayolu projesinde belirtilen yerlere koyulan iksa duvarlarının hesaplanan boyutlarını plan üzerine işlenerek kalıp planlarının ve bağlantı detaylarının çizilmesi\nYol projesinde belirtilen yerlere koyulan kazıklı perde duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planlarının ve donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Tasarımı Yapılmış İstinat Duvarı, İksa, Kazıklı Perde Duvar Çizimleri",
+      "KONU": "3. Yol projesinde belirtilen yerlere koyulan kazıklı perde duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planlarının ve donatı detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla yol projesinde belirtilen yerlere koyulan kazıklı perde duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planlarını ve donatı detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yol projesi üzerinde bulunan kazıklı perde duvarların hesaplanan boyutları plana işletilir.\nYol projesi kazıklı perde duvarların kalıp planı projesine uygun olarak çizdirilir.\nYol projesi kazıklı perde duvar bağlantı detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yol projesinde belirtilen yerlere koyulan istinat duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planı ve donatı detaylarının çizilmesi\nKarayolu projesinde belirtilen yerlere koyulan iksa duvarlarının hesaplanan boyutlarını plan üzerine işlenerek kalıp planlarının ve bağlantı detaylarının çizilmesi\nYol projesinde belirtilen yerlere koyulan kazıklı perde duvarlarının hesaplanan boyutlarını plan üzerine işleyerek kalıp planlarının ve donatı detaylarının çizilmesi",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Sulama, Drenaj, İçme Suyu ve Kanalizasyon Şebeke Genel Vaziyet Planı Çizimleri",
+      "KONU": "1. Harita üzerinde ana kanal güzergâhlarının çizimi / 2. Şebeke üzerinde ana kanal, tersiyer ve yedek kanal güzergâhlarının belirlenmesi / 3. Yedek ve ana drenaj kanallarının haritalar üzerine çizimi / 4. İçme suyu şebeke güzergâhı belirlenerek vaziyet planında çizimi / 5. Kanalizasyon şebeke güzergâhı belirlenerek vaziyet planı çizimi",
+      "KAZANIM": "Bilgisayarla harita üzerinde ana kanal güzergâhlarını çizer.\nBilgisayarla şebeke üzerinde ana kanal, tersiyer ve yedek kanal güzergâhlarını belirler.\nBilgisayarla yedek ve ana drenaj kanallarını haritalar üzerine çizer.\nBilgisayarla içme suyu şebeke güzergâhını belirleyerek vaziyet planını çizer.\nBilgisayarla kanalizasyon şebeke güzergâhını belirleyerek vaziyet planını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Harita üzerinde ana kanal güzergâh çizim esasları açıklanır.\nHarita üzerinde ana kanal güzergâhı çizdirilir.\nŞebeke üzerinde ana kanal tersiyer güzergâhlarını belirlemesi sağlanır.\nŞebeke üzerinde yedek kanal güzergâhını belirlemesi sağlanır.\nAna drenaj kanalları tekniğine uygun olarak çizdirilir.\nYedek drenaj kanalları tekniğine uygun olarak çizdirilir.\nAna drenaj kanalları tekniğine uygun olarak çizdirilir.\nYedek drenaj kanalları tekniğine uygun olarak çizdirilir.\nKanalizasyon şebeke güzergâhını belirlenmesi sağlanır.\nKanalizasyon şebeke güzergâh vaziyet planı çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Harita üzerinde ana kanal güzergâhlarının çiziminin yapılması\nŞebeke üzerinde ana kanal, tersiyer ve yedek kanal güzergâhlarının belirlenmesi\nYedek ve ana drenaj kanallarının haritalar üzerine çiziminin yapılması\nİçme suyu şebeke güzergâhı belirlenerek vaziyet planında çizilmesi\nKanalizasyon şebeke güzergahı belirlenerek vaziyet planının çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Sulama ve İçme Suyu Projelerinin Kanal ve Boru (Ana, Yedek, Tersiyer Kanal, Ana Boru, Tali Boru vb.) En Kesitlerinin Çizimleri",
+      "KONU": "1. Sulama ana kanal, tersiyer ve yedek kanal en kesit ve detaylarının çizimi / 2. Sulama yedek ve ana drenaj kanallarının en kesit ve detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla sulama ana kanal, tersiyer ve yedek kanal en kesit ve detaylarını çizer.\nBilgisayarla sulama, yedek ve ana drenaj kanallarının en kesit ve detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sulama ana kanal en kesit ve detayları çizdirilir.\nSulama tersiyer kanal en kesit ve detayları çizdirilir.\nSulama yedek kanal en kesit ve detayları çizdirilir.\nSulama ana drenaj kanal en kesit ve detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sulama, ana kanal, tersiyer ve yedek kanal en kesit ve detaylarının çizilmesi\nSulama, yedek ve ana drenaj kanallarının en kesit ve detaylarının çizilmesi\nİçme suyu şebeke güzergahının en kesit ve detaylarının çiziminin yapılması"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Sulama ve İçme Suyu Projelerinin Kanal ve Boru (Ana, Yedek, Tersiyer Kanal, Ana Boru, Tali Boru vb.) En Kesitlerinin Çizimleri",
+      "KONU": "2. Sulama yedek ve ana drenaj kanallarının en kesit ve detaylarının çizimi / 3. İçme suyu şebeke güzergâhının en kesit ve detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla sulama, yedek ve ana drenaj kanallarının en kesit ve detaylarını çizer.\nBilgisayarla içme suyu şebeke güzergâhının en kesit ve detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sulama yedek kanalları en kesit ve detayları çizdirilir.\nİçme suyu şebeke güzergâhı en kesiti çizdirilir.\nİçme suyu şebeke güzergâhı en kesit detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sulama, ana kanal, tersiyer ve yedek kanal en kesit ve detaylarının çizilmesi\nSulama, yedek ve ana drenaj kanallarının en kesit ve detaylarının çizilmesi\nİçme suyu şebeke güzergahının en kesit ve detaylarının çiziminin yapılması"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Bilgisayarla Kanalizasyon Projelerinin Kanal ve Boru (ana, yedek, tersiyer kanal, ana boru, tali boru vb.) En Kesitlerinin Çizimleri",
+      "KONU": "1. Kanalizasyon ana kanal, tersiyer ve yedek kanal en kesit ve detaylarının çizimi / 2. Kanalizasyon yedek ve ana drenaj kanallarının en kesit ve detaylarının çizimi / 3. Kanalizasyon şebeke güzergâhının en kesit ve detaylarının çizimi",
+      "KAZANIM": "Bilgisayarla kanalizasyon ana kanal, tersiyer ve yedek kanal en kesit ve detaylarını çizer.\nBilgisayarla kanalizasyon, yedek ve ana drenaj kanallarının en kesit ve detaylarını çizer.\nBilgisayarla kanalizasyon şebeke güzergâhının en kesit ve detaylarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kanalizasyon ana kanal en kesit ve detayları çizdirilir.\nKanalizasyon tersiyer kanal en kesit ve detayları çizdirilir.\nKanalizasyon yedek kanal en kesit detayları çizdirilir.\nKanalizasyon ana kanal drenaj en kesit ve detayları çizdirilir.\nKanalizasyon tersiyer kanal drenaj en kesit ve detayları çizdirilir.\nKanalizasyon şebeke güzergâhının en kesitleri çizdirilir.\nKanalizasyon şebeke güzergâhının en kesit detayları çizdirilir.",
+        "Ortam ve Donanım": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Öğretim Teknikleri": "Ortam: Uygun aydınlatma ortamı ve sıcaklığı olan bilgisayarla çizim atölyesi\nDonanım: Bilgisayarla çizim atölyesi standart donatımları, etkileşimli tahta, gönyeler, çizim kâğıtları, çizim kalemleri, silgi, bant, bilgisayar, projeksiyon cihazı, CAD tabanlı çizim programları ve temizlik bezi.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kanalizasyon, ana kanal, tersiyer ve yedek kanal en kesit ve detaylarının çiziminin yapılması\nKanalizasyon, yedek ve ana drenaj kanallarının en kesit ve detaylarının çiziminin yapılması\nKanalizasyon şebeke güzergahının en kesit ve detaylarının çiziminin yapılması"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Elektrik Tesisat Projeleri",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/286/elektrik-tesisat-projeleri-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Menüleri / Bilgisayarlı Çizim (CAD) Programı Ayarları",
+      "KAZANIM": "Bilgisayarlı çizim programını kullanır.\nBilgisayarlı çizim programının ayarlarını yaparak çizimleri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarlı çizim (CAD) yazılımın menüleri açıklanır.\nBilgisayarlı çizim (CAD) programında obje yakalama ayarları çizim çalışmasına başlamadan önce yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Ayarları",
+      "KAZANIM": "Bilgisayarlı çizim programının ayarlarını yaparak çizimleri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarlı çizim (CAD) programındaki katman kavramı (layer) ve kullanım amacı açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Ayarları",
+      "KAZANIM": "Bilgisayarlı çizim programının ayarlarını yaparak çizimleri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarlı çizim (CAD) programındaki çizgi stilleri ve biçimlendirme işlemleri açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Ayarları",
+      "KAZANIM": "Bilgisayarlı çizim programının ayarlarını yaparak çizimleri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarlı çizim (CAD) programında çizim üzerine standart yazı ayarları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Ayarları",
+      "KAZANIM": "Bilgisayarlı çizim programının ayarlarını yaparak çizimleri uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarlı çizim (CAD) programında çizim çıktı alma ve ölçülendirme ayarları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Uygulamaları",
+      "KAZANIM": "Bilgisayarlı çizim programında çeşitli çizimler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bilgisayarlı çizim (CAD) programı temel çizim komutları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Çizim (CAD)",
+      "KONU": "Bilgisayarlı Çizim (CAD) Programı Uygulamaları",
+      "KAZANIM": "Bilgisayarlı çizim programında çeşitli çizimler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD programında yapılacak temel çizim uygulamalarında elektrik tesisat sembolleri ve tesisat temel çizimleri öncellikli olarak örneklendirilmelidir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Bilgisayarlı çizim (CAD) yazılımının kurulması\nBilgisayarlı çizim (CAD) yazılımının menülerini incelenmesi\nBilgisayarlı çizim (CAD) programında katman oluşturmak ve çizgi stilli ayarlarını yapılması\nBilgisayarlı çizim (CAD) programında Temel geometrik şekillerin çizimi\nBilgisayarlı çizim (CAD) programında projeye özel standart yazı ayarlarının yapılması\nBilgisayarlı çizim (CAD) programında A4 kâğıdı ölçülerinde sembol tablosunun hazırlanması\nSembol tablosu içerisine elektrik iç tesisatlarında kullanılan sembolleri normlara uygun olarak çizimi",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Sistemleri",
+      "KONU": "Aydınlatma Sistemleri",
+      "KAZANIM": "Aydınlatmanın etkilerini inceler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatmanın önemi ve gereği örneklerle açıklanmalıdır.\nIşık kaynaklarının çeşitleri örneklerle açıklanmalıdır.\nFotometrik büyükler ve açıklanır ve gerekli yerler vurgulanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Armatür ve lamba kataloglarının incelenmesi\nLamba ve armatür bağlantılarının incelenmesi\nÖrnek bir aydınlatma tesisatının incelenmesi\nÖlçüleri verilen bir sınıfın aydınlatma hesabının yapılması\nÖlçüleri verilen bir atölyenin aydınlatma hesabının yapılması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Sistemleri",
+      "KONU": "Aydınlatma Sistemleri / Aydınlatma Lambaları ve Armatürleri",
+      "KAZANIM": "Aydınlatmanın etkilerini inceler.\nArmatür ve lamba özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatmanın sınıflandırılması örneklerle açıklanmalıdır.\nAydınlatma çeşitleri açıklanmalıdır.\nAydınlatma armatürlerinin çeşit ve özellikleri açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Armatür ve lamba kataloglarının incelenmesi\nLamba ve armatür bağlantılarının incelenmesi\nÖrnek bir aydınlatma tesisatının incelenmesi\nÖlçüleri verilen bir sınıfın aydınlatma hesabının yapılması\nÖlçüleri verilen bir atölyenin aydınlatma hesabının yapılması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Sistemleri",
+      "KONU": "Aydınlatma Lambaları ve Armatürleri / Aydınlatma Hesapları",
+      "KAZANIM": "Armatür ve lamba özelliklerini açıklar.\nElektrik tesisat projesi aydınlatma hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "LED teknolojisi ile imal edilmiş armatür tipleri açıklanmalıdır.\nArmatür çeşitlerine ait kullanım alanları ve özelliklerine ait örnekler verilmelidir.\nAydınlatma hesabı formüllerle açıklanmalı ve örnekle hesaplamaları yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Armatür ve lamba kataloglarının incelenmesi\nLamba ve armatür bağlantılarının incelenmesi\nÖrnek bir aydınlatma tesisatının incelenmesi\nÖlçüleri verilen bir sınıfın aydınlatma hesabının yapılması\nÖlçüleri verilen bir atölyenin aydınlatma hesabının yapılması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Sistemleri",
+      "KONU": "Aydınlatma Hesapları",
+      "KAZANIM": "Elektrik tesisat projesi aydınlatma hesaplamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "En az aydınlık düzeyleri tablosu, mahal ve kullanım yerlerine göre armatür seçimi ve aydınlatma hesapları açıklanmalıdır.\nTüm aydınlatma hesaplamaları EN 12464-1 standardına göre (en az aydınlık düzeyleri standardı) yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Armatür ve lamba kataloglarının incelenmesi\nLamba ve armatür bağlantılarının incelenmesi\nÖrnek bir aydınlatma tesisatının incelenmesi\nÖlçüleri verilen bir sınıfın aydınlatma hesabının yapılması\nÖlçüleri verilen bir atölyenin aydınlatma hesabının yapılması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Simülasyonu",
+      "KONU": "Aydınlatma Simülasyon Yazılımı ve Işıklık Dosyalarının Kurulumu",
+      "KAZANIM": "Aydınlatma simülasyon yazılımını ve armatürlerin ışıklık dosyalarını kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma simülasyon yazılımının kullanımında doğru aydınlatma armatürlerinin seçim esasları dikkate alınmalıdır.\nKolay çizim asistanların kullanımı açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma simülasyon programının kurulması\nAydınlatma simülasyon programının menüleri ve kullanım özelliklerinin incelenmesi\nIşıklık dosyalarının kurulumu ve programa aktarılması\nAydınlatma asistanı kullanılarak bir odanın aydınlatma simülasyonu hesabı yapılması\nAydınlatma simülasyon programında iç mekân planı oluşturma\nİç mekâna uygun aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nBir mekâna ait CAD çiziminin aydınlatma simülasyon programına aktarılması ve simülasyonu\nSpor sahasının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nYol aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nPark alanının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Simülasyonu",
+      "KONU": "Aydınlatma Simülasyon Yazılımı ve Işıklık Dosyalarının Kurulumu",
+      "KAZANIM": "Aydınlatma simülasyon yazılımını ve armatürlerin ışıklık dosyalarını kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma simülasyon yazılımının kullanımında mekân ölçülerinin doğru olduğundan emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma simülasyon programının kurulması\nAydınlatma simülasyon programının menüleri ve kullanım özelliklerinin incelenmesi\nIşıklık dosyalarının kurulumu ve programa aktarılması\nAydınlatma asistanı kullanılarak bir odanın aydınlatma simülasyonu hesabı yapılması\nAydınlatma simülasyon programında iç mekân planı oluşturma\nİç mekâna uygun aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nBir mekâna ait CAD çiziminin aydınlatma simülasyon programına aktarılması ve simülasyonu\nSpor sahasının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nYol aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nPark alanının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Simülasyonu",
+      "KONU": "Aydınlatma Simülasyon Yazılımı ve Işıklık Dosyalarının Kurulumu / Aydınlatma Simülasyon Yazılım Menüleri ve Ayarları",
+      "KAZANIM": "Aydınlatma simülasyon yazılımını ve armatürlerin ışıklık dosyalarını kurar.\nAydınlatma simülasyon programını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD ortamında simülasyon ortamına aktarma işlemi açıklanmalıdır.\nAydınlatma simülasyon yazılımının kullanımında mekân ölçülerinin doğru olduğundan emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma simülasyon programının kurulması\nAydınlatma simülasyon programının menüleri ve kullanım özelliklerinin incelenmesi\nIşıklık dosyalarının kurulumu ve programa aktarılması\nAydınlatma asistanı kullanılarak bir odanın aydınlatma simülasyonu hesabı yapılması\nAydınlatma simülasyon programında iç mekân planı oluşturma\nİç mekâna uygun aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nBir mekâna ait CAD çiziminin aydınlatma simülasyon programına aktarılması ve simülasyonu\nSpor sahasının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nYol aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nPark alanının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Simülasyonu",
+      "KONU": "Aydınlatma Simülasyon Yazılım Menüleri ve Ayarları",
+      "KAZANIM": "Aydınlatma simülasyon programını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CAD ortamında simülasyon ortamına aktarma işlemi açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma simülasyon programının kurulması\nAydınlatma simülasyon programının menüleri ve kullanım özelliklerinin incelenmesi\nIşıklık dosyalarının kurulumu ve programa aktarılması\nAydınlatma asistanı kullanılarak bir odanın aydınlatma simülasyonu hesabı yapılması\nAydınlatma simülasyon programında iç mekân planı oluşturma\nİç mekâna uygun aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nBir mekâna ait CAD çiziminin aydınlatma simülasyon programına aktarılması ve simülasyonu\nSpor sahasının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nYol aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nPark alanının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Simülasyonu",
+      "KONU": "Aydınlatma Simülasyon Yazılım Menüleri ve Ayarları",
+      "KAZANIM": "Aydınlatma simülasyon programını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mekân ve mahal özelliklerine göre uygun armatürün seçildiği kontrol edilmelidir.\nTüm aydınlatma hesaplamaları EN 12464-1 standardına göre (en az aydınlık düzeyleri standardı) yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma simülasyon programının kurulması\nAydınlatma simülasyon programının menüleri ve kullanım özelliklerinin incelenmesi\nIşıklık dosyalarının kurulumu ve programa aktarılması\nAydınlatma asistanı kullanılarak bir odanın aydınlatma simülasyonu hesabı yapılması\nAydınlatma simülasyon programında iç mekân planı oluşturma\nİç mekâna uygun aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nBir mekâna ait CAD çiziminin aydınlatma simülasyon programına aktarılması ve simülasyonu\nSpor sahasının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nYol aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nPark alanının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Aydınlatma Simülasyonu",
+      "KONU": "Aydınlatma Simülasyon Yazılım Uygulamaları",
+      "KAZANIM": "Aydınlatma simülasyon programında çeşitli uygulamalar yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm aydınlatma hesaplamaları EN 12464-1 standardına göre (en az aydınlık düzeyleri standardı) yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma simülasyon programının kurulması\nAydınlatma simülasyon programının menüleri ve kullanım özelliklerinin incelenmesi\nIşıklık dosyalarının kurulumu ve programa aktarılması\nAydınlatma asistanı kullanılarak bir odanın aydınlatma simülasyonu hesabı yapılması\nAydınlatma simülasyon programında iç mekân planı oluşturma\nİç mekâna uygun aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nBir mekâna ait CAD çiziminin aydınlatma simülasyon programına aktarılması ve simülasyonu\nSpor sahasının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nYol aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması\nPark alanının aydınlatma armatürü ve ışıklık seçilerek aydınlatma simülasyonun ve hesapların yapılması"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Bina Kuvvetli Akım Elektrik İç Tesisat Projeleri",
+      "KAZANIM": "Bilgisayarlı çizim programı üzerinde bina kuvvetli akım elektrik iç tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizim çalışmalarının elektrik iç tesisat yönetmeliği ve elektrik proje hazırlama yönetmeliğine uygunluğuna dikkat edilmelidir. Bu yönetmelikler ile ilgili açıklamalar yapılmalıdır.\nYapılan Elektrik tesisat proje çalışmalarında bina mimari planının öğrenci tarafından çizilmesi sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Bina Kuvvetli Akım Elektrik İç Tesisat Projeleri",
+      "KAZANIM": "Bilgisayarlı çizim programı üzerinde bina kuvvetli akım elektrik iç tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mimari proje çizimlerinde temel yapı kuralları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Bina Kuvvetli Akım Elektrik İç Tesisat Projeleri",
+      "KAZANIM": "Bilgisayarlı çizim programı üzerinde bina kuvvetli akım elektrik iç tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tüm çizim aşamalarında öğrencilerin çizim katmanlarını doğru kullanması sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Bina Kuvvetli Akım Elektrik İç Tesisat Projeleri / Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Bilgisayarlı çizim programı üzerinde bina kuvvetli akım elektrik iç tesisat projesini çizer.\nÇizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizimlerde teknik resim kurallarına uygun olarak çizgi sitilleri ve kalınlık ayarlarının yapıldığından emin olunmalıdır.\nÇizim çalışmalarının elektrik iç tesisat yönetmeliği, Kuvvetli akım tesisleri yönetmeliği ve elektrik proje hazırlama yönetmeliğine uygunluğuna dikkat edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Çizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik Tesislerinde Topraklamalar Yönetmeliği açıklanmalı, topraklama projelerinin bu kapsamda hazırladığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Çizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kuvvet tesisat projelerinin çizimlerinde mekanik tesisatların yerleşimi ve güçlerine göre projenin çizilmesi gerektiği açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Çizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yükleme cetveli tablosu açıklanmalıdır.\nGerilim düşümü hesabı formüllerle açıklanmalı ve örnekle hesaplamaları yapılmalıdır, oluşturma ve hesaplama teknikleri açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Çizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hesaplamalarda eş zamanlı güç ve diversite kurallarına dikkat edildiği kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Çizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kolon şemaları çizim esasları açıklanmalıdır. Kesici ve koruma elemanlarında Selektivite kuralına uyulduğu kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Kuvvet Tesisatı Projeleri",
+      "KAZANIM": "Çizim programı üzerinde kuvvet tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Akım yönünden kontrol hesabı formüllerle açıklanmalı ve örnekle hesaplamaları yapılmalıdır.\nYükleme cetvelinin oluşturma aşamaları kolon şeması üzerinden açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Zayıf Akım Tesisat Projeleri",
+      "KAZANIM": "Çizim programı üzerinde zayıf akım tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizim çalışmalarının elektrik iç tesisat yönetmeliği, Çevre ve şehircilik bakanlığı genel teknik şartnameleri, Bina içi elektronik haberleşme tesisatı teknik şartnamesi ve elektrik proje hazırlama yönetmeliğine uygunluğuna dikkat edilmelidir. İlgili yönetmelikler ile ilgili açıklamalar yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Zayıf Akım Tesisat Projeleri",
+      "KAZANIM": "Çizim programı üzerinde zayıf akım tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Zayıf akım projelerinde telefon, televizyon ve data kablolama genel prensipleri dikkate alınarak projelerin çizilmesi sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Zayıf Akım Tesisat Projeleri",
+      "KAZANIM": "Çizim programı üzerinde zayıf akım tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Binadaki zayıf akım abone sayısına göre dağıtım kutusu, santral ve panellerin kapasitelerinin belirlendiğinden emin olunmalıdır.\nProjede kullanılan kablo tiplerinin doğru seçildiğinden ve projelendirildiğinden emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Dış Aydınlatma Tesisat Projeleri",
+      "KAZANIM": "Çizim programı üzerinde dış aydınlatma tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizim çalışmalarının elektrik iç tesisat yönetmeliği, Çevre ve Şehircilik Bakanlığı Genel Teknik Şartnameleri, Elektrik Kuvvetli Akım Tesisleri Yönetmeliği, Topraklama Tesisleri Yönetmeliği ve Elektrik Proje Hazırlama Yönetmeliği'ne uygunluğuna dikkat edilmelidir. İlgili yönetmelikler ile ilgili açıklamalar yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Dış Aydınlatma Tesisat Projeleri",
+      "KAZANIM": "Çizim programı üzerinde dış aydınlatma tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dış aydınlatma projesinin hazırlandığı mahallerin özellik ve ihtiyaçlarına göre armatür, direk tipi ve boyutlarının seçildiğinden emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı Tesisat Projeleri",
+      "KONU": "Dış Aydınlatma Tesisat Projeleri",
+      "KAZANIM": "Çizim programı üzerinde dış aydınlatma tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dış aydınlatma direk topraklamalarının proje üzerinde gösterildiğinden emin olunmalıdır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Üç katlı üç daireli bir binanın mimari planının çizilmesi\nProje kapağının çizilmesi\nVaziyet planının çizilmesi\nTopraklama planının çizilmesi\nBinanın kuvvetli akım tesisatının çizilmesi\nBinanın bildirim tesisatının çizilmesi\nBinanın telefon, TV ve data tesisatlarının çizilmesi\nBinanın güvenlik tesisatlarının çizilmesi\nBinanın dış aydınlatma tasarımının yapılarak projesinin çizilmesi\nYükleme cetveli çizimi\nKolon şemasının çizimi\nGerilim düşümü ve akım kontrol hesabı çizimi\nAydınlatma hesabının yapılarak çizime aktarılması\nBir caddenin aydınlatma tesisatı projesinin çizilmesi\nBir park ve bahçenin aydınlatma tesisatı projesinin çizilmesi\nSpor salonun tesisat projesinin çizilmesi\nBir atölyeye ait mimari ve kuvvet tesisat planlarının aydınlatma ve CAD ortamında tasarlanarak çizilmesi"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı YG Sistemleri Tek Hat Projeleri",
+      "KONU": "YG Tesis Proje Sembol ve Anlamları / YG Tesis Tek Hat Şemaları Çizimi",
+      "KAZANIM": "YG tesis proje sembol ve anlamlarını açıklar.\nYG tesis tek hat şemaları çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "YG tesisinde kullanılan semboller ve özellikleri açıklanır.\nTEDAŞ Proje yapımı Teknik Şartnameleri ve Elektrik Tesisleri Proje Yönetmeliği'ne göre proje hazırlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "YG tesis sembollerini çizme\nYG tesis tek hat şemalarını çizme\nDirek tipi trafo tesis tek hat şemasının çizimini yapma"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı YG Sistemleri Tek Hat Projeleri",
+      "KONU": "Direk Tipi Trafo Tesis Tek Hat Şemasının Çizimi",
+      "KAZANIM": "Direk tipi trafo tesis tek hat şemasının çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "TEDAŞ proje yapımı Teknik Şartnameleri ve Elektrik Tesisleri Proje Yönetmeliği'ne göre proje hazırlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "YG tesis sembollerini çizme\nYG tesis tek hat şemalarını çizme\nDirek tipi trafo tesis tek hat şemasının çizimini yapma"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayarlı YG Sistemleri Tek Hat Projeleri",
+      "KONU": "Mevcut Bulunan Nakil Hatlarında Yapılacak Değişikliklere Ait Deplase Projeleri",
+      "KAZANIM": "Deplase projelerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "TEDAŞ proje yapımı Teknik Şartnameleri ve Elektrik Tesisleri Proje Yönetmeliği'ne göre proje hazırlanır.",
+        "Ortam ve Donanım": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Bilgisayar Laboratuvarı\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, bilgisayarlı çizim (CAD) yazılımı, aydınlatma simülasyon yazılımı, Office yazılımları, yazıcı, plotter kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "YG tesis sembollerini çizme\nYG tesis tek hat şemalarını çizme\nDirek tipi trafo tesis tek hat şemasının çizimini yapma"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

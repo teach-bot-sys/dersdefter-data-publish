@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Gemi Elektroniği Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Denizcilik",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/denizcilik/1380/gemi-elektronigi-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
+      "KONU": "1. Osiloskop ile ölçüm / 2. Direnç bağlantısı",
+      "KAZANIM": "Osiloskop ile ölçüm yapar.\nDirenç bağlantısı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOsiloskop kullanımı ile ilgili bilgi verilir\n•\nSinyal jenaratörü açıklanır.\n•\nOsiloskop ve sinyal jenaratörünü kullanarak ölçüm yapması sağlanır.\n•\nDirençlerin gövde bağlantıları açıklanır\n•\nDirenç ile seri bağlantı yapılması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik ölçme.\n2. Alternans ölçme.\n3. Ölçülen değerlerle frekans, ortalama ve etkin değer hesapları yapma.\n4. Dirençleri seri bağlama.\n5. Dirençleri paralel bağlama.\n6. Dirençleri karışık bağlama.\n7. Dirençleri yıldız, üçgen bağlama\n8. Kondansatörleri seri bağlama\n9. Kondansatörleri paralel bağlama. Kondansatörleri karışık bağlama.\n10. Bobin bağlantısı yapma\n11. Rezonans devresi kurma\n12. Elektromanyetizma deneyi yapma",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
+      "KONU": "2. Direnç bağlantısı / 3. Kondansatör bağlantısı",
+      "KAZANIM": "Direnç bağlantısı yapar.\nKondansatör bağlantısı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDirenç ile paralel bağlantı yapılması sağlanır\n•\nDirenç ile karışık bağlantı yapılması sağlanır\n•\nKondansatörlerin gövde bağlantıları açıklanır\n•\nKondansatör ile seri bağlantı yapılması sağlanır\n•\nKondansatör ile paralel bağlantı yapılması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik ölçme.\n2. Alternans ölçme.\n3. Ölçülen değerlerle frekans, ortalama ve etkin değer hesapları yapma.\n4. Dirençleri seri bağlama.\n5. Dirençleri paralel bağlama.\n6. Dirençleri karışık bağlama.\n7. Dirençleri yıldız, üçgen bağlama\n8. Kondansatörleri seri bağlama\n9. Kondansatörleri paralel bağlama. Kondansatörleri karışık bağlama.\n10. Bobin bağlantısı yapma\n11. Rezonans devresi kurma\n12. Elektromanyetizma deneyi yapma"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
+      "KONU": "3. Kondansatör bağlantısı / 4. Bobin bağlantısı",
+      "KAZANIM": "Kondansatör bağlantısı yapar.\nBobin Kondansatör bağlantısı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKondansatör ile karışık bağlantı yapılması sağlanır\n•\nBobinlerin gövde bağlantıları açıklanır\n•\nBobin ile seri bağlantı yapılması sağlanır\n•\nBobin ile paralel bağlantı yapılması sağlanır\n•\nBobin ile karışık bağlantı yapılması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik ölçme.\n2. Alternans ölçme.\n3. Ölçülen değerlerle frekans, ortalama ve etkin değer hesapları yapma.\n4. Dirençleri seri bağlama.\n5. Dirençleri paralel bağlama.\n6. Dirençleri karışık bağlama.\n7. Dirençleri yıldız, üçgen bağlama\n8. Kondansatörleri seri bağlama\n9. Kondansatörleri paralel bağlama. Kondansatörleri karışık bağlama.\n10. Bobin bağlantısı yapma\n11. Rezonans devresi kurma\n12. Elektromanyetizma deneyi yapma",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
+      "KONU": "5. Rezonans devresi / 6. Elektromanyetizma deneyi",
+      "KAZANIM": "Rezonans devresi kurar.\nElektromanyetizma deneyi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRLC devresi kurması sağlanır.\n•\nRezonans ölçümü yapması sağlanır\n•\nBobin üzerinde oluşan elektromanyetizma açıklanır.\n•\nİletken ile bobin yapması sağlanır.\n•\nBobin üzerinde oluşan manyetik alan gözlemlenmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik ölçme.\n2. Alternans ölçme.\n3. Ölçülen değerlerle frekans, ortalama ve etkin değer hesapları yapma.\n4. Dirençleri seri bağlama.\n5. Dirençleri paralel bağlama.\n6. Dirençleri karışık bağlama.\n7. Dirençleri yıldız, üçgen bağlama\n8. Kondansatörleri seri bağlama\n9. Kondansatörleri paralel bağlama. Kondansatörleri karışık bağlama.\n10. Bobin bağlantısı yapma\n11. Rezonans devresi kurma\n12. Elektromanyetizma deneyi yapma",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Elektrik-Elektronik Resmi",
+      "KONU": "1. Zayıf akım elektrik tesisatı",
+      "KAZANIM": "Zayıf akım elektrik tesisatı çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nZayıf akım devre elemanları sembolleri açıklanır.\n•\nZayıf akım elektrik tesisatı çizmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Elektronik devre elemanlarının teknik resmini çizme\n2. Zayıf akım devrelerini çizme\n3. Sembolleri çizme\n4. Çağırma ve Bildirim tesisat şemalarını çizme\n5. Direnç sembolleri çizme\n6. Bobin ve transformatör çizme\n7. Kondansatör sembolleri çizme\n8. Transistor sembolleri çizme\n9. Tetikleme elemanları sembolleri çizme\n10. Anahtarlama elemanları sembolleri çizme",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Elektrik-Elektronik Resmi",
+      "KONU": "2. Elektronik devre",
+      "KAZANIM": "Elektronik devre çizer",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektronik devre çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Elektronik devre elemanlarının teknik resmini çizme\n2. Zayıf akım devrelerini çizme\n3. Sembolleri çizme\n4. Çağırma ve Bildirim tesisat şemalarını çizme\n5. Direnç sembolleri çizme\n6. Bobin ve transformatör çizme\n7. Kondansatör sembolleri çizme\n8. Transistor sembolleri çizme\n9. Tetikleme elemanları sembolleri çizme\n10. Anahtarlama elemanları sembolleri çizme"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Elektrik-Elektronik Resmi",
+      "KONU": "2. Elektronik devre",
+      "KAZANIM": "Elektronik devre çizer",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDevre elemanların bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Elektronik devre elemanlarının teknik resmini çizme\n2. Zayıf akım devrelerini çizme\n3. Sembolleri çizme\n4. Çağırma ve Bildirim tesisat şemalarını çizme\n5. Direnç sembolleri çizme\n6. Bobin ve transformatör çizme\n7. Kondansatör sembolleri çizme\n8. Transistor sembolleri çizme\n9. Tetikleme elemanları sembolleri çizme\n10. Anahtarlama elemanları sembolleri çizme",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Elektrik-Elektronik Resmi / Lehimleme ve Baskı Devre",
+      "KONU": "2. Elektronik devre / 1. Devre elemanlarını lehimleme",
+      "KAZANIM": "Elektronik devre çizer\nBasit elektronik devreyi bakır plaket üzerine çıkarır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektronik devre çizmesi sağlanır.\n•\nElektronik devrenin nasıl çizilmesi gerekleri açıklanır.\n•\nAsetatlı kalem ile plaket üzerine devre çizmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Elektronik devre elemanlarının teknik resmini çizme\n2. Zayıf akım devrelerini çizme\n3. Sembolleri çizme\n4. Çağırma ve Bildirim tesisat şemalarını çizme\n5. Direnç sembolleri çizme\n6. Bobin ve transformatör çizme\n7. Kondansatör sembolleri çizme\n8. Transistor sembolleri çizme\n9. Tetikleme elemanları sembolleri çizme\n10. Anahtarlama elemanları sembolleri çizme\n1. Devre elemanlarını lehimleme\n2. Lehim sökme\n3. Elektronik devre çizimini plakete aktarma\n4. Baskı devreyi hazırlama",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Lehimleme ve Baskı Devre",
+      "KONU": "1. Devre elemanlarını lehimleme",
+      "KAZANIM": "Basit elektronik devreyi bakır plaket üzerine çıkarır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAsit ile gerçekleşecek işlemler anlatılır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Devre elemanlarını lehimleme\n2. Lehim sökme\n3. Elektronik devre çizimini plakete aktarma\n4. Baskı devreyi hazırlama",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Lehimleme ve Baskı Devre",
+      "KONU": "1. Devre elemanlarını lehimleme / 2. Basit elektronik devreyi bakır plaket üzerine çıkarma",
+      "KAZANIM": "Basit elektronik devreyi bakır plaket üzerine çıkarır.\nDevre elemanlarını lehimler",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBaskı devre çıkarması sağlanır.\n•\nDevre elemanlarını lehimleme açıklanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Devre elemanlarını lehimleme\n2. Lehim sökme\n3. Elektronik devre çizimini plakete aktarma\n4. Baskı devreyi hazırlama",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Lehimleme ve Baskı Devre / Sayısal Elektronik Temelleri",
+      "KONU": "2. Basit elektronik devreyi bakır plaket üzerine çıkarma / 1. Mantıksal kapı devreleri",
+      "KAZANIM": "Devre elemanlarını lehimler\nMantıksal kapı devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDevre elemanlarını plaket üzerine lehimlenmesi sağlanır\n•\nVe kapısı ve doğruluk tablosu açıklanır.\n•\nVeya kapısı ve doğruluk tablosu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Devre elemanlarını lehimleme\n2. Lehim sökme\n3. Elektronik devre çizimini plakete aktarma\n4. Baskı devreyi hazırlama\n1. VE kapısı deneyi ve doğruluk tablosunu oluşturma\n2. VEYA kapısı deneyi ve doğruluk tablosunu oluşturma\n3. DEĞİL kapısı deneyi ve doğruluk tablosunu oluşturma\n4. VEDEĞİL, VEYA DEĞİL ve Özel kapı doğruluk tablosunu oluşturma\n5. VE kapısı devresini breadboarda kurma\n6. VEYA kapısı devresini breadboarda kurma\n7. DEĞİL kapısı devresini breadboarda kurma\n8. VEDEĞİL, VEYA DEĞİL ve Özel kapı deneylerini yapma",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
+      "KONU": "1. Mantıksal kapı devreleri",
+      "KAZANIM": "Mantıksal kapı devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDeğil kapısı ve doğruluk tablosu açıklanır.\n•\nVe Değil kapısı ve doğruluk tablosu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. VE kapısı deneyi ve doğruluk tablosunu oluşturma\n2. VEYA kapısı deneyi ve doğruluk tablosunu oluşturma\n3. DEĞİL kapısı deneyi ve doğruluk tablosunu oluşturma\n4. VEDEĞİL, VEYA DEĞİL ve Özel kapı doğruluk tablosunu oluşturma\n5. VE kapısı devresini breadboarda kurma\n6. VEYA kapısı devresini breadboarda kurma\n7. DEĞİL kapısı devresini breadboarda kurma\n8. VEDEĞİL, VEYA DEĞİL ve Özel kapı deneylerini yapma",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
+      "KONU": "1. Mantıksal kapı devreleri",
+      "KAZANIM": "Mantıksal kapı devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVeya değil kapısı ve doğruluk tablosu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. VE kapısı deneyi ve doğruluk tablosunu oluşturma\n2. VEYA kapısı deneyi ve doğruluk tablosunu oluşturma\n3. DEĞİL kapısı deneyi ve doğruluk tablosunu oluşturma\n4. VEDEĞİL, VEYA DEĞİL ve Özel kapı doğruluk tablosunu oluşturma\n5. VE kapısı devresini breadboarda kurma\n6. VEYA kapısı devresini breadboarda kurma\n7. DEĞİL kapısı devresini breadboarda kurma\n8. VEDEĞİL, VEYA DEĞİL ve Özel kapı deneylerini yapma",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
+      "KONU": "2. Sayısal devreler",
+      "KAZANIM": "Sayısal devreler kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBreadboard(protoboard) açıklanır.\n•\nBreadboarda devre kurma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. VE kapısı deneyi ve doğruluk tablosunu oluşturma\n2. VEYA kapısı deneyi ve doğruluk tablosunu oluşturma\n3. DEĞİL kapısı deneyi ve doğruluk tablosunu oluşturma\n4. VEDEĞİL, VEYA DEĞİL ve Özel kapı doğruluk tablosunu oluşturma\n5. VE kapısı devresini breadboarda kurma\n6. VEYA kapısı devresini breadboarda kurma\n7. DEĞİL kapısı devresini breadboarda kurma\n8. VEDEĞİL, VEYA DEĞİL ve Özel kapı deneylerini yapma"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Sayısal Elektronik Temelleri / Elektronik Devre Uygulamaları",
+      "KONU": "2. Sayısal devreler / 1. Yarı iletken elemanlar ile yükselteç devreleri",
+      "KAZANIM": "Sayısal devreler kurar.\nYarı iletken elemanlar ile yükselteç devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSayısal devreleri kurması sağlanır.\n•\nYarı iletken elemanların kılıfları açıklanır\n•\nYarı iletkenin bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. VE kapısı deneyi ve doğruluk tablosunu oluşturma\n2. VEYA kapısı deneyi ve doğruluk tablosunu oluşturma\n3. DEĞİL kapısı deneyi ve doğruluk tablosunu oluşturma\n4. VEDEĞİL, VEYA DEĞİL ve Özel kapı doğruluk tablosunu oluşturma\n5. VE kapısı devresini breadboarda kurma\n6. VEYA kapısı devresini breadboarda kurma\n7. DEĞİL kapısı devresini breadboarda kurma\n8. VEDEĞİL, VEYA DEĞİL ve Özel kapı deneylerini yapma\n1. Diyotlu doğrultma uygulaması yapma.\n2. Zener, varikap, led diyot bağlantısı yapma.\n3. Transistörlü anahtarlama devresi yapma.\n4. Transistörlü ses frekans yükselteç devresi yapma.\n5. Transistörlü kapı devresi uygulaması yapma\n6. FET, tristör, Diyak, Triyak, MOSFET kullanarak devre uygulaması yapma\n7. Opamp ile eviren yükselteç yapma\n8. Opamp ile evirmeyen yükselteç yapma\n9. Gerilim izleyici devre yapma"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Devre Uygulamaları",
+      "KONU": "2. Operasyonel yükselteç devreleri",
+      "KAZANIM": "Operasyonel yükselteç devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOperasyonel yükselteçlerin nasıl çalıştığı açıklanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diyotlu doğrultma uygulaması yapma.\n2. Zener, varikap, led diyot bağlantısı yapma.\n3. Transistörlü anahtarlama devresi yapma.\n4. Transistörlü ses frekans yükselteç devresi yapma.\n5. Transistörlü kapı devresi uygulaması yapma\n6. FET, tristör, Diyak, Triyak, MOSFET kullanarak devre uygulaması yapma\n7. Opamp ile eviren yükselteç yapma\n8. Opamp ile evirmeyen yükselteç yapma\n9. Gerilim izleyici devre yapma",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Devre Uygulamaları",
+      "KONU": "2. Operasyonel yükselteç devreleri",
+      "KAZANIM": "Operasyonel yükselteç devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOperasyonel yükselteç ile eviren yükselteç kurulması sağlanır\n•\nOperasyonel yükselteç ile evirmeyen yükselteç kurulması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diyotlu doğrultma uygulaması yapma.\n2. Zener, varikap, led diyot bağlantısı yapma.\n3. Transistörlü anahtarlama devresi yapma.\n4. Transistörlü ses frekans yükselteç devresi yapma.\n5. Transistörlü kapı devresi uygulaması yapma\n6. FET, tristör, Diyak, Triyak, MOSFET kullanarak devre uygulaması yapma\n7. Opamp ile eviren yükselteç yapma\n8. Opamp ile evirmeyen yükselteç yapma\n9. Gerilim izleyici devre yapma"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Devre Uygulamaları",
+      "KONU": "2. Operasyonel yükselteç devreleri",
+      "KAZANIM": "Operasyonel yükselteç devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOperasyonel yükselteç ile tampon yükselteç kurulması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diyotlu doğrultma uygulaması yapma.\n2. Zener, varikap, led diyot bağlantısı yapma.\n3. Transistörlü anahtarlama devresi yapma.\n4. Transistörlü ses frekans yükselteç devresi yapma.\n5. Transistörlü kapı devresi uygulaması yapma\n6. FET, tristör, Diyak, Triyak, MOSFET kullanarak devre uygulaması yapma\n7. Opamp ile eviren yükselteç yapma\n8. Opamp ile evirmeyen yükselteç yapma\n9. Gerilim izleyici devre yapma"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Devre Uygulamaları / Yükselteç ve Osilatör Deneyleri",
+      "KONU": "2. Operasyonel yükselteç devreleri / 1. Osilatör deneyleri",
+      "KAZANIM": "Operasyonel yükselteç devreleri kurar.\nOsilatör deneyleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOperasyonel yükselteç ile integral-türev devresi kurulması sağlanır\n•\nOsilatör devrelerinin nasıl yapılacağı açıklanır\n•\nOsilatör devreleri kurması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Diyotlu doğrultma uygulaması yapma.\n2. Zener, varikap, led diyot bağlantısı yapma.\n3. Transistörlü anahtarlama devresi yapma.\n4. Transistörlü ses frekans yükselteç devresi yapma.\n5. Transistörlü kapı devresi uygulaması yapma\n6. FET, tristör, Diyak, Triyak, MOSFET kullanarak devre uygulaması yapma\n7. Opamp ile eviren yükselteç yapma\n8. Opamp ile evirmeyen yükselteç yapma\n9. Gerilim izleyici devre yapma\n1. Osilatör devrelerini yapma\n2. Mikrofon bağlantısı yapma\n3. Hoparlör bağlantısı yapma."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
+      "KONU": "2. Hoparlör uygulamaları",
+      "KAZANIM": "Ses yükseltecine hoparlör bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHoparlörün nasıl çalıştığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Osilatör devrelerini yapma\n2. Mikrofon bağlantısı yapma\n3. Hoparlör bağlantısı yapma."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
+      "KONU": "2. Hoparlör uygulamaları",
+      "KAZANIM": "Ses yükseltecine hoparlör bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHoparlörün devreye bağlanması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Osilatör devrelerini yapma\n2. Mikrofon bağlantısı yapma\n3. Hoparlör bağlantısı yapma.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
+      "KONU": "3. Mikrofon uygulamaları",
+      "KAZANIM": "Mikrofonlu hartley osilatör devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMikrofonun nasıl çalıştığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Osilatör devrelerini yapma\n2. Mikrofon bağlantısı yapma\n3. Hoparlör bağlantısı yapma.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri / Modülasyon Tekniği",
+      "KONU": "3. Mikrofon uygulamaları / 1. Genlik modulasyonu / 2. Frekans modulasyonu",
+      "KAZANIM": "Mikrofonlu hartley osilatör devresi yapar.\nGenlik modülasyonunu açıklar.\nFrekans modülasyonunu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMikrofonun devreye bağlanması sağlanır.\n•\nGenlik modülasyonunu açıklanır.\n•\nFrekans modülasyonu açıklanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Osilatör devrelerini yapma\n2. Mikrofon bağlantısı yapma\n3. Hoparlör bağlantısı yapma.\n1. Genlik Modülasyonu deneyi yapma.\n2. Frekans Modülasyonu deneyi yapma.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Modülasyon Tekniği",
+      "KONU": "3. Faz modulasyonu",
+      "KAZANIM": "Faz modülasyonunu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFaz modülasyonu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik Modülasyonu deneyi yapma.\n2. Frekans Modülasyonu deneyi yapma.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Modülasyon Tekniği",
+      "KONU": "4. Sayısal modulasyonlar",
+      "KAZANIM": "Sayısal modülasyonları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPAM modülasyonu açıklanır\n•\nPSK modülasyonu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik Modülasyonu deneyi yapma.\n2. Frekans Modülasyonu deneyi yapma.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Modülasyon Tekniği / Asenkron Motor Uygulamaları",
+      "KONU": "4. Sayısal modulasyonlar / 1. Asenkron motorlarda yol verme",
+      "KAZANIM": "Sayısal modülasyonları açıklar.\nAsenkron motora yol verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nQAM modülasyonu açıklanır\n•\nAsenkron motorun çalışması açıklanır.\n•\nAsenkron motora yol vermesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Genlik Modülasyonu deneyi yapma.\n2. Frekans Modülasyonu deneyi yapma.\n1. Asenkron motora yol verme\n2. Asenkron motor hız kontrolü yapma\n3. Asenkron motor frenleme yapma",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Asenkron Motor Uygulamaları",
+      "KONU": "2. Asenkron motorlarda devir ayarı / 3. Asenkron motorlarda frenleme",
+      "KAZANIM": "Asenkron motorlarda devir ayarı yapar.\nAsenkron motorları frenleme işlemi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAsenkron motorları frenleme yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Asenkron motora yol verme\n2. Asenkron motor hız kontrolü yapma\n3. Asenkron motor frenleme yapma",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Asenkron Motor Uygulamaları",
+      "KONU": "3. Asenkron motorlarda frenleme",
+      "KAZANIM": "Asenkron motorları frenleme işlemi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAsenkron motorun dinamik frenleme işlemini yapar.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Asenkron motora yol verme\n2. Asenkron motor hız kontrolü yapma\n3. Asenkron motor frenleme yapma",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Kontrol kartı Devreleri",
+      "KONU": "1. Kontrol kartı programlama",
+      "KAZANIM": "Kontrol kartına program yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKontrol kartına program yüklemek için bilgisayara program kurulumu gösterilir.\n•\nKontrol kartına örnek program yüklenir.\n•\nKontrol kartına program yüklemesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kontrol kartını programlama\n2. Kontrol kartı ile DC motor sürmek\n3. Kontrol kartı ile LCD kullanmak\n4. Kontrol kartı ile sıcaklık sensörü kullanımı\n5. Kontrol kartı ile oksijen, CO2, CO gibi sensörlerin kullanımı\n6. Kontrol kartı ile basınç, limit gibi sensörlerin kullanımı"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Kontrol kartı Devreleri",
+      "KONU": "2. Kontrol kartı ile DC motor sürme",
+      "KAZANIM": "Kontrol kartı ile DC motor sürer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKontrol kartı ile DC motorun nasıl sürüleceği açıklanır.\n•\nKontrol kartı ile DC motor sürmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kontrol kartını programlama\n2. Kontrol kartı ile DC motor sürmek\n3. Kontrol kartı ile LCD kullanmak\n4. Kontrol kartı ile sıcaklık sensörü kullanımı\n5. Kontrol kartı ile oksijen, CO2, CO gibi sensörlerin kullanımı\n6. Kontrol kartı ile basınç, limit gibi sensörlerin kullanımı",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Kontrol kartı Devreleri",
+      "KONU": "3. Kontrol kartı ile LCD kontrol etme / 4. Kontrol kartı ile sensörleri kullanma",
+      "KAZANIM": "Kontrol kartı ile LCD kontrol eder.\nKontrol kartı ile çeşitli sensörleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKontrol kartı ile LCD kontrolü nasıl yapılacağı açıklanır.\n•\nKontrol kartı ile LCD kullanması sağlanır.\n•\nKontrol kartlarında kullanılan sıcaklık sensörlerinin nasıl çalıştığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kontrol kartını programlama\n2. Kontrol kartı ile DC motor sürmek\n3. Kontrol kartı ile LCD kullanmak\n4. Kontrol kartı ile sıcaklık sensörü kullanımı\n5. Kontrol kartı ile oksijen, CO2, CO gibi sensörlerin kullanımı\n6. Kontrol kartı ile basınç, limit gibi sensörlerin kullanımı",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Kontrol kartı Devreleri",
+      "KONU": "4. Kontrol kartı ile sensörleri kullanma",
+      "KAZANIM": "Kontrol kartı ile çeşitli sensörleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSıcaklık sensörlerini kullanması sağlanır\n•\nKontrol kartlarında kullanılan basınç sensörlerinin nasıl çalıştığı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kontrol kartını programlama\n2. Kontrol kartı ile DC motor sürmek\n3. Kontrol kartı ile LCD kullanmak\n4. Kontrol kartı ile sıcaklık sensörü kullanımı\n5. Kontrol kartı ile oksijen, CO2, CO gibi sensörlerin kullanımı\n6. Kontrol kartı ile basınç, limit gibi sensörlerin kullanımı",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Kontrol kartı Devreleri",
+      "KONU": "4. Kontrol kartı ile sensörleri kullanma",
+      "KAZANIM": "Kontrol kartı ile çeşitli sensörleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBasınç sensörlerini kullanması sağlanır\n•\nKontrol kartlarında kullanılan limit sensörlerinin nasıl çalıştığı açıklanır.\n•\nLimit sensörlerini kullanması sağlanır",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kontrol kartını programlama\n2. Kontrol kartı ile DC motor sürmek\n3. Kontrol kartı ile LCD kullanmak\n4. Kontrol kartı ile sıcaklık sensörü kullanımı\n5. Kontrol kartı ile oksijen, CO2, CO gibi sensörlerin kullanımı\n6. Kontrol kartı ile basınç, limit gibi sensörlerin kullanımı"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Kontrol kartı Devreleri / Telsiz Alıcı Verici Sistemleri",
+      "KONU": "4. Kontrol kartı ile sensörleri kullanma / 1. DSC haberleşmesi",
+      "KAZANIM": "Kontrol kartı ile çeşitli sensörleri kullanır.\nDSC haberleşmesi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKontrol kartlarında kullanılan gaz sensörlerinin nasıl çalıştığı açıklanır.\n•\nGaz sensörlerini kullanması sağlanır.\n•\nDSC haberleşmesinin işleyişi açıklanır.\n•\nDSC haberleşmesi için cihaz menüleri açıklanır.\n•\nDSC haberleşmesi yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. Kontrol kartını programlama\n2. Kontrol kartı ile DC motor sürmek\n3. Kontrol kartı ile LCD kullanmak\n4. Kontrol kartı ile sıcaklık sensörü kullanımı\n5. Kontrol kartı ile oksijen, CO2, CO gibi sensörlerin kullanımı\n6. Kontrol kartı ile basınç, limit gibi sensörlerin kullanımı\n1. DSC haberleşmesi yapma\n2. NAVTEX haberleşmesi yapma\n3. Anten montajı yapma"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Telsiz Alıcı Verici Sistemleri",
+      "KONU": "2. Dar bant doğrudan yazmalı telgraf sistemi (NBDP) ve telsiz telex cihazı ile haberleşme / 3. Alıcı- verici anten bağlantısı",
+      "KAZANIM": "Dar bant doğrudan yazmalı telgraf sistemi (NBDP) ve telsiz telex cihazı ile haberleşme yapar.\nAlıcı- verici anten bağlantısı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDar bant doğrudan yazmalı telgraf sistemi (NBDP) ve telsiz telex cihazının çalışması açıklanır\n•\nDar bant doğrudan yazmalı telgraf sistemi (NBDP) ve telsiz telex cihazı ile haberleşme yapması sağlanır.\n•\nAlıcı-verici anten türleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. DSC haberleşmesi yapma\n2. NAVTEX haberleşmesi yapma\n3. Anten montajı yapma"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Telsiz Alıcı Verici Sistemleri",
+      "KONU": "3. Alıcı- verici anten bağlantısı",
+      "KAZANIM": "Alıcı- verici anten bağlantısı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlıcı- verici anten türlerinin bağlantıları açıklanır.\n•\nAlıcı- verici anten bağlantısı yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Öğretim Teknikleri": "Ortam: Temel Gemi elektroniği, Ölçme ve sayısal sistemler ve GMDSS laboratuvarları\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, GMDSS istasyonu, lehimleme istasyonları, AVOmetre, Osiloskop",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "1. DSC haberleşmesi yapma\n2. NAVTEX haberleşmesi yapma\n3. Anten montajı yapma"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

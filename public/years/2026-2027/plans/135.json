@@ -1,0 +1,748 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Seçmeli Web Programcılığı",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/135/secmeli-web-programciligi-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Etkileşim ve Veri Yönetimi (PHP)",
+      "KONU": "PHP Dili ve Özellikleri",
+      "KAZANIM": "PHP' nin özelliklerini ve diğer programlama dillerinden farklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PHP programlama dilinin yapısını, tarihi ve yetkinliği anlatılır.\nPHP' nin, neden en çok tercih edilen sunucu taraflı programlama dilleri arasında olduğu açıklanır.\nPHP ile yapılabilecekler ve PHP geliştiricisi olmanın avantajları anlatılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP dilini özet şekilde anlatacak bir poster çalışması yapmak.\nGeliştirme ortamının hazırlanmasını sağlamak ve kurulumu yapmak.\nApache, PHP ve MySQL kurulumunu yapmak.\nYerel sunucu ayarlarını yapmak.\nBoolean, integer, float, string, null, array, object veri tipleri ile ilgili PHP' de örnek uygulamalar yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Etkileşim ve Veri Yönetimi (PHP)",
+      "KONU": "PHP Dili ve Özellikleri / PHP Kurulumu",
+      "KAZANIM": "PHP' nin özelliklerini ve diğer programlama dillerinden farklarını açıklar.\nPHP ve gerekli bileşenleri bilgisayarına kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PHP dilini özet şekilde anlatacak bir poster çalışması yapmaları sağlanır.\nGeliştirme ortamının hazırlanması sağlanır ve kurulumu yaptırılır.\nApache, PHP ve MySQL kurulumu yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP dilini özet şekilde anlatacak bir poster çalışması yapmak.\nGeliştirme ortamının hazırlanmasını sağlamak ve kurulumu yapmak.\nApache, PHP ve MySQL kurulumunu yapmak.\nYerel sunucu ayarlarını yapmak.\nBoolean, integer, float, string, null, array, object veri tipleri ile ilgili PHP' de örnek uygulamalar yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Etkileşim ve Veri Yönetimi (PHP)",
+      "KONU": "PHP Kurulumu / Değişken ve Sabitler",
+      "KAZANIM": "PHP ve gerekli bileşenleri bilgisayarına kurar.\nPHP ile farklı türde değişken tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yerel sunucu ayarları yaptırılır.\nPrimatif veri tipleri ve primatif olmayan veri tipleri anlatılır.\nBoolean, integer, float, string, null, array, object veri tipleri anlatılır ve PHP' de örnek uygulamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP dilini özet şekilde anlatacak bir poster çalışması yapmak.\nGeliştirme ortamının hazırlanmasını sağlamak ve kurulumu yapmak.\nApache, PHP ve MySQL kurulumunu yapmak.\nYerel sunucu ayarlarını yapmak.\nBoolean, integer, float, string, null, array, object veri tipleri ile ilgili PHP' de örnek uygulamalar yapmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Karar ve Döngü Yapıları",
+      "KONU": "Karar Kontrol Deyimleri",
+      "KAZANIM": "Karar kontrol deyimlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "If – Else kontrol deyimi anlatılır ve uygulama yaptırılır.\nİç-içe If kontrol deyimi anlatılır ve uygulama yaptırılır. if-elseif-else alternatif söz dizimi anlatılır ve uygulama yaptırılır.\nÜçlü operatör kullanımı anlatılır ve uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kullanıcı adı ve şifreden oluşan bir form uygulamasında Kullanıcı adı ve şifre yanlış yazıldığında uyarı verecek bir uygulama yapmak.\nSwitch-Case kontrol deyimi ile ilgili uygulama yapmak.\nİç-içe If kontrol deyimi ile ilgili uygulama yapmak.\nBüyük küçük harfe aldırmadan kelimeyi yakalayan uygulama yapmak.\nİstenilen sayıyı yakalayan uygulama yapmak.\nWhile döngüsü ile ilgili uygulama yapmak.\nFor döngüsü ile ilgili girilen kelimeyi tersten yazdıran uygulama yapmak.\nFor-Each döngüsü ile ilgili Tek boyutlu dizilerle ve çift boyutlu dizilerle ilgili For-Each uygulaması yapmak.\nDo-While döngüsü ile ilgili uygulama yapmak.\nBreak ifadesi ile ilgili uygulama yapmak.\nÖrnek veri üzerinde döngü ile kontrol etme uygulaması yapmak.\nAND (VE), OR (VEYA) ve NOT (DEĞİL) operatörleri ile ilgili uygulama içinde doğru olarak kullanmaları sağlayacak örnekler yapmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Karar ve Döngü Yapıları",
+      "KONU": "Karar Kontrol Deyimleri / Düzenli İfadeler",
+      "KAZANIM": "Karar kontrol deyimlerini kullanır.\nDüzenli ifadeleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Switch-Case kontrol deyimi anlatılır ve uygulama yaptırılır.\nSwitch-Case alternatif söz dizimi anlatılır ve uygulama yaptırılır.\nDüzenli ifadelerin (regex) tanımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kullanıcı adı ve şifreden oluşan bir form uygulamasında Kullanıcı adı ve şifre yanlış yazıldığında uyarı verecek bir uygulama yapmak.\nSwitch-Case kontrol deyimi ile ilgili uygulama yapmak.\nİç-içe If kontrol deyimi ile ilgili uygulama yapmak.\nBüyük küçük harfe aldırmadan kelimeyi yakalayan uygulama yapmak.\nİstenilen sayıyı yakalayan uygulama yapmak.\nWhile döngüsü ile ilgili uygulama yapmak.\nFor döngüsü ile ilgili girilen kelimeyi tersten yazdıran uygulama yapmak.\nFor-Each döngüsü ile ilgili Tek boyutlu dizilerle ve çift boyutlu dizilerle ilgili For-Each uygulaması yapmak.\nDo-While döngüsü ile ilgili uygulama yapmak.\nBreak ifadesi ile ilgili uygulama yapmak.\nÖrnek veri üzerinde döngü ile kontrol etme uygulaması yapmak.\nAND (VE), OR (VEYA) ve NOT (DEĞİL) operatörleri ile ilgili uygulama içinde doğru olarak kullanmaları sağlayacak örnekler yapmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Karar ve Döngü Yapıları",
+      "KONU": "Düzenli İfadeler / Döngü Deyimler",
+      "KAZANIM": "Düzenli ifadeleri kullanır.\nDöngü deyimlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Düzenli ifade özellikleri anlatılır ve uygulama yaptırılır.\nBüyük küçük harfe aldırmadan kelimeyi yakalayan uygulama yaptırılır.\nİstenilen sayıyı yakalayan uygulama yaptırılır.\nWhile döngüsü anlatılır ve uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kullanıcı adı ve şifreden oluşan bir form uygulamasında Kullanıcı adı ve şifre yanlış yazıldığında uyarı verecek bir uygulama yapmak.\nSwitch-Case kontrol deyimi ile ilgili uygulama yapmak.\nİç-içe If kontrol deyimi ile ilgili uygulama yapmak.\nBüyük küçük harfe aldırmadan kelimeyi yakalayan uygulama yapmak.\nİstenilen sayıyı yakalayan uygulama yapmak.\nWhile döngüsü ile ilgili uygulama yapmak.\nFor döngüsü ile ilgili girilen kelimeyi tersten yazdıran uygulama yapmak.\nFor-Each döngüsü ile ilgili Tek boyutlu dizilerle ve çift boyutlu dizilerle ilgili For-Each uygulaması yapmak.\nDo-While döngüsü ile ilgili uygulama yapmak.\nBreak ifadesi ile ilgili uygulama yapmak.\nÖrnek veri üzerinde döngü ile kontrol etme uygulaması yapmak.\nAND (VE), OR (VEYA) ve NOT (DEĞİL) operatörleri ile ilgili uygulama içinde doğru olarak kullanmaları sağlayacak örnekler yapmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Karar ve Döngü Yapıları",
+      "KONU": "Döngü Deyimler",
+      "KAZANIM": "Döngü deyimlerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Do-While döngüsü anlatılır ve uygulama yaptırılır.\nFor döngüsü anlatılır ve uygulama yaptırılır.\nFor-Each döngüsü anlatılır ve uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kullanıcı adı ve şifreden oluşan bir form uygulamasında Kullanıcı adı ve şifre yanlış yazıldığında uyarı verecek bir uygulama yapmak.\nSwitch-Case kontrol deyimi ile ilgili uygulama yapmak.\nİç-içe If kontrol deyimi ile ilgili uygulama yapmak.\nBüyük küçük harfe aldırmadan kelimeyi yakalayan uygulama yapmak.\nİstenilen sayıyı yakalayan uygulama yapmak.\nWhile döngüsü ile ilgili uygulama yapmak.\nFor döngüsü ile ilgili girilen kelimeyi tersten yazdıran uygulama yapmak.\nFor-Each döngüsü ile ilgili Tek boyutlu dizilerle ve çift boyutlu dizilerle ilgili For-Each uygulaması yapmak.\nDo-While döngüsü ile ilgili uygulama yapmak.\nBreak ifadesi ile ilgili uygulama yapmak.\nÖrnek veri üzerinde döngü ile kontrol etme uygulaması yapmak.\nAND (VE), OR (VEYA) ve NOT (DEĞİL) operatörleri ile ilgili uygulama içinde doğru olarak kullanmaları sağlayacak örnekler yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Karar ve Döngü Yapıları",
+      "KONU": "Döngü Deyimler / Veriler üzerinde döngü Kontrolleri / Mantıksal Operatörler",
+      "KAZANIM": "Döngü deyimlerini kullanır.\nVeriler üzerinde döngü kontrollerini kullanır.\nMantıksal operatörleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Break ve Continue ifadeleri anlatılır ve uygulama yaptırılır.\nHtml etiketleri üzerinde döngü ile kontrol etme uygulamaları yaptırılır.\nAnd (Ve), Or (Veya) Xor ve Not (Değil) operatörleri anlatılır ve uygulama içinde doğru olarak kullanmaları sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Kullanıcı adı ve şifreden oluşan bir form uygulamasında Kullanıcı adı ve şifre yanlış yazıldığında uyarı verecek bir uygulama yapmak.\nSwitch-Case kontrol deyimi ile ilgili uygulama yapmak.\nİç-içe If kontrol deyimi ile ilgili uygulama yapmak.\nBüyük küçük harfe aldırmadan kelimeyi yakalayan uygulama yapmak.\nİstenilen sayıyı yakalayan uygulama yapmak.\nWhile döngüsü ile ilgili uygulama yapmak.\nFor döngüsü ile ilgili girilen kelimeyi tersten yazdıran uygulama yapmak.\nFor-Each döngüsü ile ilgili Tek boyutlu dizilerle ve çift boyutlu dizilerle ilgili For-Each uygulaması yapmak.\nDo-While döngüsü ile ilgili uygulama yapmak.\nBreak ifadesi ile ilgili uygulama yapmak.\nÖrnek veri üzerinde döngü ile kontrol etme uygulaması yapmak.\nAND (VE), OR (VEYA) ve NOT (DEĞİL) operatörleri ile ilgili uygulama içinde doğru olarak kullanmaları sağlayacak örnekler yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dizi Yapıları",
+      "KONU": "Dizi Yapıları",
+      "KAZANIM": "Dizi yapılarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tek boyutlu diziler anlatılır\nTek boyutlu dizi oluşturma, oluşturulan dizilere erişme uygulamaları yaptırılır.\nÇağrışımsal (Associative) diziler anlatılır.\nÇağrışımsal dizi oluşturma, oluşturulan dizilere erişme uygulamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek boyutlu dizi oluşturma, oluşturulan dizilere erişme, eleman ekleme ,silme uygulamaları yapmak.\nTek boyutlu dizi oluşturma, oluşturulan dizilere erişme, eleman ekleme ,silme uygulamaları yapmak.\nÇağrışımsal (Associative) dizi oluşturma, oluşturulan dizilere erişme, eleman ekleme ,silme uygulamaları yapmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dizi Yapıları",
+      "KONU": "Dizi Yapıları / Dizilerle İşlemler",
+      "KAZANIM": "Dizi yapılarını kullanır.\nDizi elemanları üzerinde işlemler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çok boyutlu diziler anlatılır.\nÇok boyutlu dizi oluşturma, oluşturulan dizilere erişme uygulamaları yaptırılır\nDöngü ile Dizi Elemanlarına Erişim anlatılır ve uygulama yaptırılır.\nOluşturulan dizilere erişme, eleman ekleme ,silme, sıralama vb uygulamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tek boyutlu dizi oluşturma, oluşturulan dizilere erişme, eleman ekleme ,silme uygulamaları yapmak.\nTek boyutlu dizi oluşturma, oluşturulan dizilere erişme, eleman ekleme ,silme uygulamaları yapmak.\nÇağrışımsal (Associative) dizi oluşturma, oluşturulan dizilere erişme, eleman ekleme ,silme uygulamaları yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar",
+      "KONU": "PHP' de Fonksiyonlar / Fonksiyon Parametreleri",
+      "KAZANIM": "PHP programlama dilinde fonksiyon tanımlar.\nFonksiyon parametrelerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PHP programlama dilinde fonksiyon kavramı açıklanır ve uygulama üzerinde kullanımına örnek verilir.\nFonksiyon parametreleri açıklanır ve uygulama üzerinde denenmesi sağlanır. Resimleri yeniden boyutlandıran fonksiyon örneği yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP programlama dilinde fonksiyon ile ilgili uygulama üzerinde kullanımına örnek vermek.\nFonksiyon parametreleri ile ilgili resimleri yeniden boyutlandıran fonksiyon örneği yapmak.\nDeğer döndüren fonksiyonlarını uygulama üzerinde kullanmak.\nTarih/saat fonksiyonlarını uygulama üzerinde kullanmak.\nMetin fonksiyonları ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar",
+      "KONU": "Değer Döndüren Fonksiyonlar",
+      "KAZANIM": "Değer döndüren fonksiyonları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Değer döndüren fonksiyonlar açıklanır ve uygulama üzerinde kullanmaları sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP programlama dilinde fonksiyon ile ilgili uygulama üzerinde kullanımına örnek vermek.\nFonksiyon parametreleri ile ilgili resimleri yeniden boyutlandıran fonksiyon örneği yapmak.\nDeğer döndüren fonksiyonlarını uygulama üzerinde kullanmak.\nTarih/saat fonksiyonlarını uygulama üzerinde kullanmak.\nMetin fonksiyonları ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar",
+      "KONU": "Tarih/Saat Fonksiyonları",
+      "KAZANIM": "Tarih/saat fonksiyonlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tarih/saat fonksiyonları anlatılır ve uygulama üzerinde kullanmaları sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP programlama dilinde fonksiyon ile ilgili uygulama üzerinde kullanımına örnek vermek.\nFonksiyon parametreleri ile ilgili resimleri yeniden boyutlandıran fonksiyon örneği yapmak.\nDeğer döndüren fonksiyonlarını uygulama üzerinde kullanmak.\nTarih/saat fonksiyonlarını uygulama üzerinde kullanmak.\nMetin fonksiyonları ile ilgili uygulama yapmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar",
+      "KONU": "Metin Fonksiyonları",
+      "KAZANIM": "Metin fonksiyonlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Metin fonksiyonları anlatılır ve uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP programlama dilinde fonksiyon ile ilgili uygulama üzerinde kullanımına örnek vermek.\nFonksiyon parametreleri ile ilgili resimleri yeniden boyutlandıran fonksiyon örneği yapmak.\nDeğer döndüren fonksiyonlarını uygulama üzerinde kullanmak.\nTarih/saat fonksiyonlarını uygulama üzerinde kullanmak.\nMetin fonksiyonları ile ilgili uygulama yapmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar",
+      "KONU": "Matematik Fonksiyonları",
+      "KAZANIM": "",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP programlama dilinde fonksiyon ile ilgili uygulama üzerinde kullanımına örnek vermek.\nFonksiyon parametreleri ile ilgili resimleri yeniden boyutlandıran fonksiyon örneği yapmak.\nDeğer döndüren fonksiyonlarını uygulama üzerinde kullanmak.\nTarih/saat fonksiyonlarını uygulama üzerinde kullanmak.\nMetin fonksiyonları ile ilgili uygulama yapmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Form İşlemleri",
+      "KONU": "HTML Form Elemanları / Get ve Post Metotları",
+      "KAZANIM": "HTML Form elemanlarını tanımlar.\nGet ile Post arasındaki farkı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "HTML form elemanları (Text, Password, Checkbox, Radio, File, Textarea, Select, Option, Submit) anlatılır. Form elemanlarından oluşan kullanıcı kayıt sayfası yaptırılır.\nGet ile Post metotları açıklanır ve kullanımlarına basit bir örnek yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "HTML form elemanları (Text, Password, Checkbox, Radio, File, Textarea, Select, Option, Submit) form elemanlarından oluşan kullanıcı kayıt sayfası yapmak.\nGet ile Post metotlarının kullanım farkını anlatacak basit bir örnek yapmak.\nPost metodu ile hesap makinesi uygulaması yapmak.\nAd, yaş ve adresten oluşan bir form yaptırılarak basit bir Post ve ya Get metotları ile filtreleme uygulaması gerçekleştirmek.\nGet ve Post ile dizi değişkenlerini kullanarak form işleme uygulaması yapmak.\nForm elemanları ile hesap makinesi yapılarak metotlarla çalıştırılmasını sağlamak.\nKullanıcı kayıt sayfasının Get ve Post ile etkileşimi uygulaması yapmak.\nPHP ile e-mail formunu gönderme uygulamasını yapmak.\nPHP' de resim doğrulama uygulamasını yapmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Form İşlemleri",
+      "KONU": "Get ve Post Metotları",
+      "KAZANIM": "Get ile Post arasındaki farkı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Post metodu ile hesap makinesi uygulaması yaptırılır.\nAd, yaş ve adresten oluşan bir form yaptırılarak basit bir Post ve ya Get metotları ile filtreleme uygulaması gerçekleştirilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "HTML form elemanları (Text, Password, Checkbox, Radio, File, Textarea, Select, Option, Submit) form elemanlarından oluşan kullanıcı kayıt sayfası yapmak.\nGet ile Post metotlarının kullanım farkını anlatacak basit bir örnek yapmak.\nPost metodu ile hesap makinesi uygulaması yapmak.\nAd, yaş ve adresten oluşan bir form yaptırılarak basit bir Post ve ya Get metotları ile filtreleme uygulaması gerçekleştirmek.\nGet ve Post ile dizi değişkenlerini kullanarak form işleme uygulaması yapmak.\nForm elemanları ile hesap makinesi yapılarak metotlarla çalıştırılmasını sağlamak.\nKullanıcı kayıt sayfasının Get ve Post ile etkileşimi uygulaması yapmak.\nPHP ile e-mail formunu gönderme uygulamasını yapmak.\nPHP' de resim doğrulama uygulamasını yapmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Form İşlemleri",
+      "KONU": "Get ve Post Metotları",
+      "KAZANIM": "Get ile Post arasındaki farkı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Get ve Post ile dizi değişkenlerini kullanarak form işleme uygulaması yaptırılır. Uygulamada form elemanları ile hesap makinesi yaptırılarak metotlarla çalıştırılması sağlanır.\nKullanıcı kayıt sayfasının Get ve Post ile etkileşimi uygulaması yaptırılır. Uygulamada PHP ile e-mail formunu gönderme uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "HTML form elemanları (Text, Password, Checkbox, Radio, File, Textarea, Select, Option, Submit) form elemanlarından oluşan kullanıcı kayıt sayfası yapmak.\nGet ile Post metotlarının kullanım farkını anlatacak basit bir örnek yapmak.\nPost metodu ile hesap makinesi uygulaması yapmak.\nAd, yaş ve adresten oluşan bir form yaptırılarak basit bir Post ve ya Get metotları ile filtreleme uygulaması gerçekleştirmek.\nGet ve Post ile dizi değişkenlerini kullanarak form işleme uygulaması yapmak.\nForm elemanları ile hesap makinesi yapılarak metotlarla çalıştırılmasını sağlamak.\nKullanıcı kayıt sayfasının Get ve Post ile etkileşimi uygulaması yapmak.\nPHP ile e-mail formunu gönderme uygulamasını yapmak.\nPHP' de resim doğrulama uygulamasını yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Form İşlemleri / Hata Yakalama İşlemleri",
+      "KONU": "Güvenli Form Oluşturma / Formda Dosya Bileşenleri Kullanma / PHP İstisna İşlemleri",
+      "KAZANIM": "Güvenli form tanımlanır.\nFormlarda dosya bileşenini kullanır.\nİstisna (Exception) işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PHP' de resim doğrulama uygulaması yaptırılır.\nHata türleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "HTML form elemanları (Text, Password, Checkbox, Radio, File, Textarea, Select, Option, Submit) form elemanlarından oluşan kullanıcı kayıt sayfası yapmak.\nGet ile Post metotlarının kullanım farkını anlatacak basit bir örnek yapmak.\nPost metodu ile hesap makinesi uygulaması yapmak.\nAd, yaş ve adresten oluşan bir form yaptırılarak basit bir Post ve ya Get metotları ile filtreleme uygulaması gerçekleştirmek.\nGet ve Post ile dizi değişkenlerini kullanarak form işleme uygulaması yapmak.\nForm elemanları ile hesap makinesi yapılarak metotlarla çalıştırılmasını sağlamak.\nKullanıcı kayıt sayfasının Get ve Post ile etkileşimi uygulaması yapmak.\nPHP ile e-mail formunu gönderme uygulamasını yapmak.\nPHP' de resim doğrulama uygulamasını yapmak.\nTry-except istisna (exception) bloğunu uygulamada kullanmak.\nFinally bloğunu istisna (exception) yapısı içinde uygulamada kullanmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Hata Yakalama İşlemleri",
+      "KONU": "Try-Catch bloğu",
+      "KAZANIM": "Try-except bloklarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Try-catch bloğu içinde istisna (exception) tanımlanır ve uygulamada kullanmaları sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Try-except istisna (exception) bloğunu uygulamada kullanmak.\nFinally bloğunu istisna (exception) yapısı içinde uygulamada kullanmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Hata Yakalama İşlemleri",
+      "KONU": "Try-Catch bloğu",
+      "KAZANIM": "Try-except bloklarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "getCode(), getMessage(), getFile(), getLine() hazır fonksiyonlarını öğretilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Try-except istisna (exception) bloğunu uygulamada kullanmak.\nFinally bloğunu istisna (exception) yapısı içinde uygulamada kullanmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Hata Yakalama İşlemleri / Dosya İşlemleri",
+      "KONU": "Finally Bloğu / PHP' de Dosya Oluşturma",
+      "KAZANIM": "Finally bloğunu kullanır.\nYeni dosya oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Finally bloğu anlatılır ve istisna (exception) yapısı içinde uygulamada kullanmaları sağlanır.\nUygulamada yeni bir dosya oluşturmaları sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Try-except istisna (exception) bloğunu uygulamada kullanmak.\nFinally bloğunu istisna (exception) yapısı içinde uygulamada kullanmak.\nUygulamada yeni bir dosya oluşturmaları sağlamak.\nUygulamada var olan bir dosya, dosya açma komutuyla açmak.\nYazı yazma programlarından birinde oluşturulmuş bir sayfayı yazıcıdan çıkartma uygulamasını yapmak.\nUygulama içerisinde dosyanın içerisine bilgi eklemek.\nUygulama içerisinde ki dosyayı silmek.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dosya İşlemleri",
+      "KONU": "PHP' de Dosya Açma",
+      "KAZANIM": "Var olan bir dosyayı açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygulamada var olan bir dosya, dosya açma komutuyla açtırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uygulamada yeni bir dosya oluşturmaları sağlamak.\nUygulamada var olan bir dosya, dosya açma komutuyla açmak.\nYazı yazma programlarından birinde oluşturulmuş bir sayfayı yazıcıdan çıkartma uygulamasını yapmak.\nUygulama içerisinde dosyanın içerisine bilgi eklemek.\nUygulama içerisinde ki dosyayı silmek.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dosya İşlemleri",
+      "KONU": "PHP' de Dosya Açma",
+      "KAZANIM": "Var olan bir dosyayı açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Açılan dosyanın içeriğindeki bilgiler ekrana yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uygulamada yeni bir dosya oluşturmaları sağlamak.\nUygulamada var olan bir dosya, dosya açma komutuyla açmak.\nYazı yazma programlarından birinde oluşturulmuş bir sayfayı yazıcıdan çıkartma uygulamasını yapmak.\nUygulama içerisinde dosyanın içerisine bilgi eklemek.\nUygulama içerisinde ki dosyayı silmek.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dosya İşlemleri",
+      "KONU": "PHP' de Dosya İçine Bilgi Ekleme",
+      "KAZANIM": "Dosyanın içine bilgi ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygulama içerisinde dosyanın içerisine bilgi eklemeleri sağlanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uygulamada yeni bir dosya oluşturmaları sağlamak.\nUygulamada var olan bir dosya, dosya açma komutuyla açmak.\nYazı yazma programlarından birinde oluşturulmuş bir sayfayı yazıcıdan çıkartma uygulamasını yapmak.\nUygulama içerisinde dosyanın içerisine bilgi eklemek.\nUygulama içerisinde ki dosyayı silmek.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Dosya İşlemleri / Oturum Yönetimi",
+      "KONU": "PHP' de Dosyayı Silme / Çerez Yönetimi",
+      "KAZANIM": "Dosyayı silmeyi bilir.\nKullanıcı bilgilerinin hatırlanmasında çerezleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygulama içerisinde ki dosyayı silmeleri sağlanır.\nÇerez (Cookie) tanımını yapar.\nPHP' de çerezleri kullanarak bir kelime tahmin oyunu yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Uygulamada yeni bir dosya oluşturmaları sağlamak.\nUygulamada var olan bir dosya, dosya açma komutuyla açmak.\nYazı yazma programlarından birinde oluşturulmuş bir sayfayı yazıcıdan çıkartma uygulamasını yapmak.\nUygulama içerisinde dosyanın içerisine bilgi eklemek.\nUygulama içerisinde ki dosyayı silmek.\nPHP' de çerezleri kullanarak bir kelime tahmin oyunu yapmak.\nPHP' de çerezleri kullanarak kullanıcı adı ve şifreden oluşan bir giriş (login) uygulaması yapmak.\nAynı IP numarası ve çerez değeri elde edildiğinde sayfa sayacını arttırmayan,farklı IP numaralarından çerez değerleri elde ettiğinde sayfa sayacını arttıran PHP sınıfıyla(class) ilgili örnek uygulama yapmak.\nOturum mimarisini (session) uygulamada kullanmak.\nKullanıcı adı ve şifreden oluşan bir login sayfasına girilen değerlerin $_SESSION değişkeniyle alınması için uygulama yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oturum Yönetimi",
+      "KONU": "Çerez Yönetimi",
+      "KAZANIM": "Kullanıcı bilgilerinin hatırlanmasında çerezleri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PHP' de çerezleri kullanarak kullanıcı adı ve şifreden oluşan bir giriş (login) uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP' de çerezleri kullanarak bir kelime tahmin oyunu yapmak.\nPHP' de çerezleri kullanarak kullanıcı adı ve şifreden oluşan bir giriş (login) uygulaması yapmak.\nAynı IP numarası ve çerez değeri elde edildiğinde sayfa sayacını arttırmayan,farklı IP numaralarından çerez değerleri elde ettiğinde sayfa sayacını arttıran PHP sınıfıyla(class) ilgili örnek uygulama yapmak.\nOturum mimarisini (session) uygulamada kullanmak.\nKullanıcı adı ve şifreden oluşan bir login sayfasına girilen değerlerin $_SESSION değişkeniyle alınması için uygulama yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oturum Yönetimi",
+      "KONU": "Çerez Yönetimi / Oturum Mimarisi",
+      "KAZANIM": "Kullanıcı bilgilerinin hatırlanmasında çerezleri kullanır.\nOturum mimarisini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aynı IP numarası ve çerez değeri elde edildiğinde sayfa sayacını arttırmayan, farklı IP numaralarından çerez değerleri elde ettiğinde sayfa sayacını arttıran PHP sınıfıyla(class) ilgili örnek uygulama yaptırılır.\nOturum mimarisini (session) açıklar ve uygulamada kullanmayı bilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP' de çerezleri kullanarak bir kelime tahmin oyunu yapmak.\nPHP' de çerezleri kullanarak kullanıcı adı ve şifreden oluşan bir giriş (login) uygulaması yapmak.\nAynı IP numarası ve çerez değeri elde edildiğinde sayfa sayacını arttırmayan,farklı IP numaralarından çerez değerleri elde ettiğinde sayfa sayacını arttıran PHP sınıfıyla(class) ilgili örnek uygulama yapmak.\nOturum mimarisini (session) uygulamada kullanmak.\nKullanıcı adı ve şifreden oluşan bir login sayfasına girilen değerlerin $_SESSION değişkeniyle alınması için uygulama yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oturum Yönetimi / MySQL Veri Tabanı Kullanımı",
+      "KONU": "$_SESSION Genel Değişkeni / MySQL Temel Kavramları",
+      "KAZANIM": "$_SESSION genel değişkenini kullanır.\nVeri tabanı temel kavramlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "$_SESSION değişkeni anlatılır. Kullanıcı adı ve şifreden oluşan bir login sayfasına girilen değerlerin $_SESSION değişkeniyle alınması anlatılır ve uygulama yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "PHP' de çerezleri kullanarak bir kelime tahmin oyunu yapmak.\nPHP' de çerezleri kullanarak kullanıcı adı ve şifreden oluşan bir giriş (login) uygulaması yapmak.\nAynı IP numarası ve çerez değeri elde edildiğinde sayfa sayacını arttırmayan,farklı IP numaralarından çerez değerleri elde ettiğinde sayfa sayacını arttıran PHP sınıfıyla(class) ilgili örnek uygulama yapmak.\nOturum mimarisini (session) uygulamada kullanmak.\nKullanıcı adı ve şifreden oluşan bir login sayfasına girilen değerlerin $_SESSION değişkeniyle alınması için uygulama yapmak.\nMySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "Uygulama Sunucusunun Kurulması ve Yönetilmesi",
+      "KAZANIM": "Uygulama sunucusunu kurar ve yönetir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "PHP ile Veri Tabanı Oluşturma",
+      "KAZANIM": "PHP ile veri tabanı bağlantısı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "PHP İle Veri Tabanı Bağlantısı Yapma",
+      "KAZANIM": "Veri tabanı oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "MySQL ile veri tabanı ve tablo oluşturma işlemleri",
+      "KAZANIM": "Veri tabanı içine tablo oluşturur",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "PHP ile MySQL ile veri ekleme, silme, oluşturma işlemleri",
+      "KAZANIM": "PHP ile MySQL ile veri ekleme, silme, güncelleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "PHP ile MySQL veritabanında veri listeleme işlemleri",
+      "KAZANIM": "PHP ile MySQL veri tabanında veri listeleme işlemlerini yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "MySQL Veri Tabanı Kullanımı",
+      "KONU": "PHP ile MySQL veritabanında veri listeleme işlemleri",
+      "KAZANIM": "PHP ile MySQL veri tabanında veri listeleme işlemlerini yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta / projeksiyon, bilgisayar, internet.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin değerlendirme sürecine katılmaları sağlanabilir.",
+        "Temrin Listesi": "MySQL yerel sunucusunu kurma ve yönetme, işlem adımlarını yapmak. mysql_create_db komutu ile örnek uygulama yapmak.\nBir query oluşturarak SQL komutlarıyla tablo oluşturma işlemi için öğrenciler adında öğrenci_TC, öğrenci_adı, öğrenci_soyadı ve not ortalaması alanlarından oluşan bir tablo oluşturmak.\nPHP ile veri tabanı bağlantısı yapma işlemi için sınıf (class) ile yazılmış bir MySQL bağlantısı yapmak.\nMySQL ile veri tabanı ve tablo oluşturma işlemleri için basit bir login sayfası oluşturarak MySQL'deki veritabanına bağlantı kurmak.\nMySQL' de tabloya veri ekleme, silme ve oluşturma işlemlerini yapmak.\nPHP ile MySQL veritabanında veri listeleme işlemlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

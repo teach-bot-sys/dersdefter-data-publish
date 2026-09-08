@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Hidrolik Pnömatik Devre Çizimleri",
+  "grup": "Meslek Dersleri",
+  "brans": "Makine Ve Tasarım Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/makine-ve-tasarim-teknolojisi/532/hidrolik-pnomatik-devre-cizimleri-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrostatik prensipler",
+      "KAZANIM": "Hidrostatik prensipler ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrostatik prensipleri örneklerle açıklanır.\nHidrolik sistemlerin üstünlükleri ve olumsuz yönleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrostatik prensipler",
+      "KAZANIM": "Hidrostatik prensipler ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolikte kullanılan birimleri dönüştürmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrostatik prensipler / Hidrodinamik prensipler",
+      "KAZANIM": "Hidrostatik prensipler ile ilgili hesaplamaları yapar.\nHidrodinamik prensipler ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pascal kanunu ile ilgili hesapları yapması sağlanır.\nHidrodinamik prensipleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrodinamik prensipler",
+      "KAZANIM": "Hidrodinamik prensipler ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bernoulli prensibi ile ilgili hesapları yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrodinamik prensipler",
+      "KAZANIM": "Hidrodinamik prensipler ile ilgili hesaplamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Süreklilik denklemi ile ilgili hesapları yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrodinamik prensipler / Hidrolik akışkanlar ve yağlar",
+      "KAZANIM": "Hidrodinamik prensipler ile ilgili hesaplamaları yapar.\nHidrolik sistemlere uygun yağ seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hesaplamalar önce yapılır sonra öğrencilerin yapması sağlanır.\nHidrolik yağın görevleri ve yağlarda aranan özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrolik akışkanlar ve yağlar",
+      "KAZANIM": "Hidrolik sistemlere uygun yağ seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yağ bilgilerini almak için katalog kullanmanın önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Prensipler",
+      "KONU": "Hidrolik akışkanlar ve yağlar",
+      "KAZANIM": "Hidrolik sistemlere uygun yağ seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanım yerine uygun hidrolik yağ seçmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrostatik prensipler ile ilgili hesaplamaları yapmak.\nHidrodinamik prensipler ile ilgili hesaplamaları yapmak.\nHidrolik sistemlere uygun yağ seçimi yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik devre elemanları",
+      "KAZANIM": "Hidrolik devre elemanlarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik devre sembollerini rahat okuması için tekrar yapması sağlanır.\nBasit hidrolik devreler önce çizilir sonra öğrencilerin çizmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik devre elemanları",
+      "KAZANIM": "Hidrolik devre elemanlarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik devre üzerindeki hatlar ve ana kısımlar örneklerle açıklanır.\nHidrolik devre çizimi yapması için konuların tekrarı yapılır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Yağ deposu ve kısımları",
+      "KAZANIM": "Yağ deposu ve donanımını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik yağ deposu seçiminin doğru olarak yapması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Yağ deposu ve kısımları",
+      "KAZANIM": "Yağ deposu ve donanımını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Depo üzerinde bulunması gereken diğer avadanlıkları doğru seçmesi sağlanır.\nFiltrelerin görevi, sembolü, çeşitleri ve yapısal özellikleri açıklar.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Yağ deposu ve kısımları",
+      "KAZANIM": "Yağ deposu ve donanımını seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik sistemde kullanılan filtre donanımlarını doğru seçmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik pompalar",
+      "KAZANIM": "Hidrolik pompaların seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pompalarda debinin tanımı ve hesaplanması görsel örneklerle açıklanır.\nHidrolik pompaların verim hesabını yapması için önce örnekler yapılır sonra öğrencilerin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik motorlar",
+      "KAZANIM": "Hidrolik motorların seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik motorların görevleri, çeşitleri ve sembolü açıklanır.\nHidrolik motorlarda döndürme momentinin hesaplanmasının yapılması için önce örnekler yapılır , sonra öğrencilerin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Valfler",
+      "KAZANIM": "Hidrolik valflerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yön kontrol valflerinin sembollerinin çizmesi için önce örnek valf çizimleri yapılır, sonra öğrencilerin çizmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Valfler",
+      "KAZANIM": "Hidrolik valflerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Basınç kontrol valflerini sembollerinin çizmesi için önce örnek sembol çizimleri yapılır, sonra öğrencilerin çizmesi sağlanır.\nAkış kontrol valflerini sembollerinin çizmesi için önce örnek sembol çizimleri yapılır, sonra öğrencilerin çizmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik silindirler",
+      "KAZANIM": "Hidrolik silindirlerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik silindirlerin görevleri, çeşitleri ve sembolü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik silindirler",
+      "KAZANIM": "Hidrolik silindirlerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik silindirler ile ilgili hesaplamaları yapması sağlanır.\nHidrolik silindirleri işe uygun şekilde seçmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Borular ve hortumlar",
+      "KAZANIM": "Hidrolik boru, hortum ve bağlantı elemanlarının seçimlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik akış türleri açıklanır.\nBorular ve hortumların yapısal özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Borular ve hortumlar",
+      "KAZANIM": "Hidrolik boru, hortum ve bağlantı elemanlarının seçimlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik sistemde kullanılan sızdırmazlık elemanları ve manometrelerin sembollerini çizmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Borular ve hortumlar / Hidrolik devre çizimleri",
+      "KAZANIM": "Hidrolik boru, hortum ve bağlantı elemanlarının seçimlerini yapar.\nHidrolik devre çizimleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik borular ile ilgili hesapları yapması için önce örnek hesaplamalar yapılır, sonra öğrencilerin yapması sağlanır.\nHidrolik devre şemalarının çizilmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Hidrolik Sistemler",
+      "KONU": "Hidrolik devre çizimleri",
+      "KAZANIM": "Hidrolik devre çizimleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik devre örnekleri önce çizilir sonra öğrencinin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hidrolik devre elemanlarını çizmek.\nYağ deposu ve donanımını seçmek.\nHidrolik pompaların seçimini ve çizimini yapmak.\nHidrolik motorların seçimini ve çizimini yapmak.\nHidrolik valflerin seçimini ve çizimini yapmak.\nHidrolik silindirlerin seçimini ve çizimini yapmak.\nHidrolik boru, hortum ve bağlantı elemanlarının seçimini ve çizimini yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre elemanları",
+      "KAZANIM": "Pnömatik devre elemanlarını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidrolik ve pnömatik sistemlerini örnekler vererek karşılaştırması sağlanır.\nPnömatik devreler için kullanılacak kompresörle basınçlı havanın üretilmesi işlemi göstererek açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre elemanları",
+      "KAZANIM": "Pnömatik devre elemanlarını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Boyle– Mariotte kanunu ile ilgili hesaplamaların yapılması için önce örnekler yapılır, sonra öğrencilerin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre elemanları",
+      "KAZANIM": "Pnömatik devre elemanlarını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gay-Lussac kanunu ile ilgili hesaplamaların yapılması için önce örnekler yapılır, sonra öğrencilerin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre elemanları",
+      "KAZANIM": "Pnömatik devre elemanlarını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Genel gaz denklemi örnekler verilerek açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre elemanları / Pnömatik silindirler",
+      "KAZANIM": "Pnömatik devre elemanlarını tanır.\nPnömatik silindirlerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıkıştırılmış havanın debisini ile ilgili hesaplamaların yapılması için önce örnekler yapılır, sonra öğrencilerin yapması istenir.\nPnömatik silindirlerin görevleri, çeşitleri örnekler verilerek açıklanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik silindirler",
+      "KAZANIM": "Pnömatik silindirlerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik silindirlerde kuvvet iletiminin hesaplanması için önce örnekler yapılır, sonra öğrencilerin yapması istenir",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik silindirler",
+      "KAZANIM": "Pnömatik silindirlerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik silindirlerde oluşan kuvvetlerin hesaplaması için konu tekrarı sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik motorlar",
+      "KAZANIM": "Pnömatik motorların seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanılacak pnömatik motorların tipinin belirlemesi için örnek seçimler yapılır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik valfler",
+      "KAZANIM": "Pnömatik valflerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yön kontrol valflerini sembollerle çizerek göstermesi için örnek çiimler yapılır, sonra öğrencilerin yapması sağlanır.\nBasınç kontrol valflerini sembollerle çizerek göstermesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik valfler",
+      "KAZANIM": "Pnömatik valflerin seçimini ve çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Akış kontrol valflerini sembollerle çizerek göstermesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre çizimleri",
+      "KAZANIM": "Pnömatik devre çizimleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik devre şemalarının çizilmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Pnömatik devre çizimleri",
+      "KAZANIM": "Pnömatik devre çizimleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Pnömatik devre örnekleri önce çizilir sonra öğrencinin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Pnömatik Sistemler",
+      "KONU": "Hidro-Pnömatik devre çizimleri",
+      "KAZANIM": "Hidro-Pnömatik devre çizimleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidro-Pnömatik devre örnekleri önce çizilir sonra öğrencinin yapması istenir.",
+        "Ortam ve Donanım": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Öğretim Teknikleri": "Ortam: Teknik Resim Laboratuvarı, Bilgisayar Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, resim masası, örnek model parçalar, çizim araç gereçleri, çizim kâğıtları, ölçme ve kontrol araç gereçleri, bilgisayar donanımı",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bu derste öğrencilerin yaptıkları bütün uygulamalar bilgisayarda yada dosyalarda saklanır ve öğretmen öğrencilerin gelişimini bu dosyalardan takip eder. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pnömatik devre elemanlarını tanımak\nPnömatik silindirlerin seçimini yapmak.\nPnömatik motorların seçimini yapmak\nPnömatik valflerin seçimini yapmak.\nPnömatik devreler çizmek.\nHidro-Pnömatik devre çizimleri yapmak."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Biyo Enstrumantasyon Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Biyomedikal Cihaz Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/biyomedikal-cihaz-teknolojileri/345/biyo-enstrumantasyon-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Fiziksel Ölçümler ve Sinyal Analizi",
+      "KONU": "Ortamdaki fiziksel büyüklüklerin ölçümü",
+      "KAZANIM": "Ortamdaki fiziksel büyüklükleri ölçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ortamın fiziksel büyüklükleri açıklanır.\nOrtamın fiziksel büyüklüklerini ölçmek için kullanılan cihazlar açıklanır.\nOrtamın fiziksel büyüklükleri için gerekli olan ölçüm teknikleri açıklanır.\nİş, güç, enerji kavramları, formülleri ve birimleri açıklanır.\nEnerji çeşitleri açıklanır.\nİş, güç ve enerji ölçüm cihazları açıklanır.\nZaman, Hız ve Devir kavramları ve aletleri açıklanır.\nElektromanyetik akı yoğunluğu kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ortamın fiziksel büyüklüklerini ölçmek için kullanılan ölçü aletlerini hazırlamak\nOrtamın fiziksel büyüklüklerinin (sıcaklık, nem, titreşim, parçacık, ışık seviye, ses seviye, eğim) ölçümlerini yapmak\nİş, güç ve enerji, zaman, hız, devir, elektromanyetik alan ölçümü ve hesaplamaları yapmak\nBuhar, gaz basıncı ölçümü, renk yoğunluğu ölçmek\nSinyal jeneratörü ile çeşitli sinyaller elde edip ölçmek.\nOsilaskop ile gerilim ölçmek\nOsilaskop ile frekans ölçmek\nTitreşim ve gürültü seviyesi ölçmek\nGürültü sinyali osiloskopta ölçmek\nModülasyon sinyallerini osilaskop ile ölçmek",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Fiziksel Ölçümler ve Sinyal Analizi",
+      "KONU": "Ortamdaki fiziksel büyüklüklerin ölçümü / Analizör ve osiloskop ile ölçüm",
+      "KAZANIM": "Ortamdaki fiziksel büyüklükleri ölçer.\nAnalizör ve osiloskop ile ölçüm yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektromanyetik alan kavramı ve ölçüm cihazları açıklanır.\nBuhar ve gaz basıncı kavramları ve ölçüm cihazları açıklanır.\nRenk yoğunluğu kavramı açıklanır.\nRenk yoğunluğu ölçümü açıklanır.\nSpektrum analizörü açıklanır.\nOsiloskopun komütatör ve anahtarlarının görevleri açıklanır.\nOsilaskop ile ölçüm yapma açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ortamın fiziksel büyüklüklerini ölçmek için kullanılan ölçü aletlerini hazırlamak\nOrtamın fiziksel büyüklüklerinin (sıcaklık, nem, titreşim, parçacık, ışık seviye, ses seviye, eğim) ölçümlerini yapmak\nİş, güç ve enerji, zaman, hız, devir, elektromanyetik alan ölçümü ve hesaplamaları yapmak\nBuhar, gaz basıncı ölçümü, renk yoğunluğu ölçmek\nSinyal jeneratörü ile çeşitli sinyaller elde edip ölçmek.\nOsilaskop ile gerilim ölçmek\nOsilaskop ile frekans ölçmek\nTitreşim ve gürültü seviyesi ölçmek\nGürültü sinyali osiloskopta ölçmek\nModülasyon sinyallerini osilaskop ile ölçmek"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Fiziksel Ölçümler ve Sinyal Analizi",
+      "KONU": "Gürültü analizi / Modülasyonlu sinyallerin analizi",
+      "KAZANIM": "Gürültü analizi yapar.\nModülasyonlu sinyallerin analizini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyomedikal cihazlarda gürültü kavramı açıklanır.\nGürültü çeşitleri sıralanır.\nGürültü ölçümü açıklanır.\nGürültü önleme yöntemleri açıklanır.\nSinyallerdeki parametreler tanımlanır.\nModülasyon kavramı açıklanır.\nModülasyon çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ortamın fiziksel büyüklüklerini ölçmek için kullanılan ölçü aletlerini hazırlamak\nOrtamın fiziksel büyüklüklerinin (sıcaklık, nem, titreşim, parçacık, ışık seviye, ses seviye, eğim) ölçümlerini yapmak\nİş, güç ve enerji, zaman, hız, devir, elektromanyetik alan ölçümü ve hesaplamaları yapmak\nBuhar, gaz basıncı ölçümü, renk yoğunluğu ölçmek\nSinyal jeneratörü ile çeşitli sinyaller elde edip ölçmek.\nOsilaskop ile gerilim ölçmek\nOsilaskop ile frekans ölçmek\nTitreşim ve gürültü seviyesi ölçmek\nGürültü sinyali osiloskopta ölçmek\nModülasyon sinyallerini osilaskop ile ölçmek",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Sistemlerde Kalibrasyon",
+      "KONU": "Biyomedikal cihazlarda elektriksel güvenlik testleri",
+      "KAZANIM": "Biyomedikal cihazlarda elektriksel güvenlik testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektriksel tehlikeler açıklanır.\nElektriksel güvenlik elemanları açıklanır.\nElektriksel güvenlik analizörünün görevleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektriksel güvenlik analizörüyle cihaz(örneğin,hasta başı monitör, Defibrilatör,Ekg) güvenliği ile ilgili ölçümleri(şebeke voltajı,koruyucu toprak direnci testi,izolasyon direnci,harcanan akım testi,kaçak akım testi)yapmak.\nAvometre ile topraklama hattının(Faz-Nötr,Nötr-Toprak,Faz-Toprak) güvenlik ölçümlerini yapmak\nKontrol kalemi ile elektriksel güvenlik ölçümlerini yapmak\nBiyomedikal cihazın fonksiyon özelliğine(Defibrilatör analizörü,ekg analizörü…) göre analizörü seçmek\nBiyomedikal cihaza uygun fonksiyon testlerini yapmak\nBiyomedikal cihazlarla ilgili(Ventilatör,Defibrilatör,Ekg…)servis el kitabını inceletilir.\nBiyomedikal cihazla ilgili genel ayarları(ekg cihazının kağıt hızı testi ayarını)yapmak.\nBiyomedikal cihaza göre kalibrasyon yöntemini(örneğin hasta başı monitörü basınç kalibrasyonu, santrifüj cihazı zaman, hız ve devir kalibrasyonu)seçmek\nBiyomedikal cihaza göre kalibrasyon ölçümü(tansiyon aleti kalibrasyonu,ventilatör kalibrasyonu)yapmak\nKalibrasyon sertifikası hazırlamak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Sistemlerde Kalibrasyon",
+      "KONU": "Biyomedikal cihaza uygun fonksiyon testleri",
+      "KAZANIM": "Biyomedikal cihaza uygun fonksiyon testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyomedikal cihazları kullanım alanlarına göre sınıflandırılır.\nTıbbi görüntüleme cihazları sıralanır ve açıklanır.\nFizyolojik sinyal izleme teşhis ve kayıt cihazları sıralanır ve açıklanır",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektriksel güvenlik analizörüyle cihaz(örneğin,hasta başı monitör, Defibrilatör,Ekg) güvenliği ile ilgili ölçümleri(şebeke voltajı,koruyucu toprak direnci testi,izolasyon direnci,harcanan akım testi,kaçak akım testi)yapmak.\nAvometre ile topraklama hattının(Faz-Nötr,Nötr-Toprak,Faz-Toprak) güvenlik ölçümlerini yapmak\nKontrol kalemi ile elektriksel güvenlik ölçümlerini yapmak\nBiyomedikal cihazın fonksiyon özelliğine(Defibrilatör analizörü,ekg analizörü…) göre analizörü seçmek\nBiyomedikal cihaza uygun fonksiyon testlerini yapmak\nBiyomedikal cihazlarla ilgili(Ventilatör,Defibrilatör,Ekg…)servis el kitabını inceletilir.\nBiyomedikal cihazla ilgili genel ayarları(ekg cihazının kağıt hızı testi ayarını)yapmak.\nBiyomedikal cihaza göre kalibrasyon yöntemini(örneğin hasta başı monitörü basınç kalibrasyonu, santrifüj cihazı zaman, hız ve devir kalibrasyonu)seçmek\nBiyomedikal cihaza göre kalibrasyon ölçümü(tansiyon aleti kalibrasyonu,ventilatör kalibrasyonu)yapmak\nKalibrasyon sertifikası hazırlamak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Sistemlerde Kalibrasyon",
+      "KONU": "Biyomedikal cihaza uygun fonksiyon testleri",
+      "KAZANIM": "Biyomedikal cihaza uygun fonksiyon testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yaşam destek tedavi cihazları sıralanır ve açıklanır\nTıbbi laboratuvar ve hasta dışı uygulama cihazları sıralanır ve açıklanır.\nCihazlara özel fonksiyonel testler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektriksel güvenlik analizörüyle cihaz(örneğin,hasta başı monitör, Defibrilatör,Ekg) güvenliği ile ilgili ölçümleri(şebeke voltajı,koruyucu toprak direnci testi,izolasyon direnci,harcanan akım testi,kaçak akım testi)yapmak.\nAvometre ile topraklama hattının(Faz-Nötr,Nötr-Toprak,Faz-Toprak) güvenlik ölçümlerini yapmak\nKontrol kalemi ile elektriksel güvenlik ölçümlerini yapmak\nBiyomedikal cihazın fonksiyon özelliğine(Defibrilatör analizörü,ekg analizörü…) göre analizörü seçmek\nBiyomedikal cihaza uygun fonksiyon testlerini yapmak\nBiyomedikal cihazlarla ilgili(Ventilatör,Defibrilatör,Ekg…)servis el kitabını inceletilir.\nBiyomedikal cihazla ilgili genel ayarları(ekg cihazının kağıt hızı testi ayarını)yapmak.\nBiyomedikal cihaza göre kalibrasyon yöntemini(örneğin hasta başı monitörü basınç kalibrasyonu, santrifüj cihazı zaman, hız ve devir kalibrasyonu)seçmek\nBiyomedikal cihaza göre kalibrasyon ölçümü(tansiyon aleti kalibrasyonu,ventilatör kalibrasyonu)yapmak\nKalibrasyon sertifikası hazırlamak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Sistemlerde Kalibrasyon",
+      "KONU": "Biyomedikal cihazlarda genel ayarlar / Biyomedikal cihazlarda kalibrasyon yöntemleri",
+      "KAZANIM": "Biyomedikal cihazlarda genel ayarları yapar.\nBiyomedikal cihazlarda kalibrasyon yöntemlerini seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyomedikal cihazla ilgili fizyolojik veriler açıklanır.\nBiyomedikal cihazla ilgili genel ayarlar açıklanır.\nKalibrasyon kavramı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektriksel güvenlik analizörüyle cihaz(örneğin,hasta başı monitör, Defibrilatör,Ekg) güvenliği ile ilgili ölçümleri(şebeke voltajı,koruyucu toprak direnci testi,izolasyon direnci,harcanan akım testi,kaçak akım testi)yapmak.\nAvometre ile topraklama hattının(Faz-Nötr,Nötr-Toprak,Faz-Toprak) güvenlik ölçümlerini yapmak\nKontrol kalemi ile elektriksel güvenlik ölçümlerini yapmak\nBiyomedikal cihazın fonksiyon özelliğine(Defibrilatör analizörü,ekg analizörü…) göre analizörü seçmek\nBiyomedikal cihaza uygun fonksiyon testlerini yapmak\nBiyomedikal cihazlarla ilgili(Ventilatör,Defibrilatör,Ekg…)servis el kitabını inceletilir.\nBiyomedikal cihazla ilgili genel ayarları(ekg cihazının kağıt hızı testi ayarını)yapmak.\nBiyomedikal cihaza göre kalibrasyon yöntemini(örneğin hasta başı monitörü basınç kalibrasyonu, santrifüj cihazı zaman, hız ve devir kalibrasyonu)seçmek\nBiyomedikal cihaza göre kalibrasyon ölçümü(tansiyon aleti kalibrasyonu,ventilatör kalibrasyonu)yapmak\nKalibrasyon sertifikası hazırlamak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Sistemlerde Kalibrasyon",
+      "KONU": "Biyomedikal cihazlarda kalibrasyon yöntemleri",
+      "KAZANIM": "Biyomedikal cihazlarda kalibrasyon yöntemlerini seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kalibrasyon çeşitleri açıklanır.\nKalibrasyonda dikkat edilmesi gereken hususlar açıklanır.\nKalibrasyon sertifikası hakkında bilgiler verilir.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Elektriksel güvenlik analizörüyle cihaz(örneğin,hasta başı monitör, Defibrilatör,Ekg) güvenliği ile ilgili ölçümleri(şebeke voltajı,koruyucu toprak direnci testi,izolasyon direnci,harcanan akım testi,kaçak akım testi)yapmak.\nAvometre ile topraklama hattının(Faz-Nötr,Nötr-Toprak,Faz-Toprak) güvenlik ölçümlerini yapmak\nKontrol kalemi ile elektriksel güvenlik ölçümlerini yapmak\nBiyomedikal cihazın fonksiyon özelliğine(Defibrilatör analizörü,ekg analizörü…) göre analizörü seçmek\nBiyomedikal cihaza uygun fonksiyon testlerini yapmak\nBiyomedikal cihazlarla ilgili(Ventilatör,Defibrilatör,Ekg…)servis el kitabını inceletilir.\nBiyomedikal cihazla ilgili genel ayarları(ekg cihazının kağıt hızı testi ayarını)yapmak.\nBiyomedikal cihaza göre kalibrasyon yöntemini(örneğin hasta başı monitörü basınç kalibrasyonu, santrifüj cihazı zaman, hız ve devir kalibrasyonu)seçmek\nBiyomedikal cihaza göre kalibrasyon ölçümü(tansiyon aleti kalibrasyonu,ventilatör kalibrasyonu)yapmak\nKalibrasyon sertifikası hazırlamak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Algılayıcı, Dönüştürücü ve Elektrotlar",
+      "KONU": "Algılayıcı, dönüştürücü ve sensör kavramları / Isı algılayıcı ve dönüştürücülerin analizi / Manyetik algılayıcı ve dönüştürücülerden alan etkililerinin analizi",
+      "KAZANIM": "Algılayıcı, dönüştürücü ve sensörleri tarif eder.\nIsı algılayıcı ve dönüştürücülerin analizini yapar.\nManyetik algılayıcı ve dönüştürücülerden alan etkililerinin analizini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Algılayıcı, dönüştürücü ve sensörler kavramları açıklanır.\nAlgılayıcı, dönüştürücü ve sensörlerin kullanım alanları açıklanır.\nAlgılayıcı, dönüştürücü ve sensörleri, kullanıldığı enerji türüne ve algılayacağı enerji türüne göre sınıflandırır.\nPTC'nin tanımı ve özellikleri açıklanır.\nNTC'nin tanımı ve özellikleri açıklanır.\nNTC ve PTC'nin kullanım alanları açıklanır.\nTermokupl'un yapısı ve çalışması açıklanır.\nTermostatın yapısı ve çalışması açıklanır.\nAlan etkili algılayıcı ve dönüştürücülerin çalışma prensipleri açıklanır.\nAlan etkili algılayıcı ve dönüştürücülerin kullanım alanları açıklanır.\nAlan etkili algılayıcı ve dönüştürücülerin sağlamlık testleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülecek fiziksel büyüklüklere göre sensör seçme\nIsı algılayıcı(NTC,PTC,Termostat,Termokupl)sağlamlık testi yapmak\nNTC ve PTC elemanları ile röleli devreler yapmak\nAlan etkili algılayıcı sağlamlık testi yapmak\nBobinli manyetik sensörlerin sağlamlık testi yapmak.\nElektronik devreli manyetik sensörlerin (yaklaşım sensörleri) sağlamlık testini yapmak.\nManyetik algılayıcı ve dönüştürücü ile ilgili devre yapmak.\nAyarlı direnç ile akım sınırlama devresini yapmak.\nAyarlı direnç ile gerilim ayarlama devresini yapmak. Gerilim ölçerin sağlamlık testini yapmak.\nPiezoelektrik devresini yapmak\nOptik algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nOptik algılayıcı, dönüştürücü ve sensörler ile ilgili çeşitli devreler yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörler ile ilgili devre yapmak.\nSıvı algılayıcı sensörlerin sağlamlık kontrolünü yapmak.\nSıvı algılayıcı sensörler ile ilgili devresini yapmak.\nNem algılayıcı devre kurulumunu yapmak.\nDozimetre çeşitlerini ayırt etmek.\nMikroorganizma algılayıcı, dönüştürücü ve sensörlerini ayırt etmek.\nElektriksel direnç değişim yöntemini kullanarak uygulama yapmak.\nElektrot çeşitlerini ayırt etmek.\nOhmmetre ile çeşitli elektrotların sağlamlık kontrolünü yapmak.\nElektrotun bağlantı şeklini kontrol etmek.\nÇeşitli elektrotların temizliğini yapmak.\nElektrot arıza dedektör uygulamasını yapmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Algılayıcı, Dönüştürücü ve Elektrotlar",
+      "KONU": "Rezistif ve piezorezistifin algılayıcı/dönüştürücülerinin analizi / Işık (optik) algılayıcı ve dönüştürücülerin analizi",
+      "KAZANIM": "Rezistif ve piezorezistifin algılayıcı/dönüştürücülerin analizini yapar.\nIşık (optik) algılayıcı ve dönüştürücülerin analizini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alan etkili algılayıcı ve dönüştürücülerin çalışma prensipleri açıklanır.\nAlan etkili algılayıcı ve dönüştürücülerin kullanım alanları açıklanır.\nAlan etkili algılayıcı ve dönüştürücülerin sağlamlık testleri açıklanır.\nPotansiyometreli yer değiştirme dönüştürücüsü (Wheatstone köprülü ölçme düzeneği) açıklanır.\nGerilme ölçerler (straingauge) açıklanır.\nPiezorezistif algılayıcılar/ dönüştürücüler tanımlanır.\nPiezoelektrik algılayıcılar/ dönüştürücülerin yapısı ve çalışma prensibi açıklanır.\nFoto direncin tanımı ve yapısı açıklanır.\nLedin yapısı ve çeşitleri açıklanır.\nFoto diyodun çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülecek fiziksel büyüklüklere göre sensör seçme\nIsı algılayıcı(NTC,PTC,Termostat,Termokupl)sağlamlık testi yapmak\nNTC ve PTC elemanları ile röleli devreler yapmak\nAlan etkili algılayıcı sağlamlık testi yapmak\nBobinli manyetik sensörlerin sağlamlık testi yapmak.\nElektronik devreli manyetik sensörlerin (yaklaşım sensörleri) sağlamlık testini yapmak.\nManyetik algılayıcı ve dönüştürücü ile ilgili devre yapmak.\nAyarlı direnç ile akım sınırlama devresini yapmak.\nAyarlı direnç ile gerilim ayarlama devresini yapmak. Gerilim ölçerin sağlamlık testini yapmak.\nPiezoelektrik devresini yapmak\nOptik algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nOptik algılayıcı, dönüştürücü ve sensörler ile ilgili çeşitli devreler yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörler ile ilgili devre yapmak.\nSıvı algılayıcı sensörlerin sağlamlık kontrolünü yapmak.\nSıvı algılayıcı sensörler ile ilgili devresini yapmak.\nNem algılayıcı devre kurulumunu yapmak.\nDozimetre çeşitlerini ayırt etmek.\nMikroorganizma algılayıcı, dönüştürücü ve sensörlerini ayırt etmek.\nElektriksel direnç değişim yöntemini kullanarak uygulama yapmak.\nElektrot çeşitlerini ayırt etmek.\nOhmmetre ile çeşitli elektrotların sağlamlık kontrolünü yapmak.\nElektrotun bağlantı şeklini kontrol etmek.\nÇeşitli elektrotların temizliğini yapmak.\nElektrot arıza dedektör uygulamasını yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Algılayıcı, Dönüştürücü ve Elektrotlar",
+      "KONU": "Işık (optik) algılayıcı ve dönüştürücülerin analizi / Ses, konum algılayıcı ve dönüştürücülerin analizi / Sıvı-iyon algılayıcı ve dönüştürücülerin analizi / Radyoaktivite algılayıcı, dönüştürücü ve sensörlerini ayırt ederek değiştirme",
+      "KAZANIM": "Işık (optik) algılayıcı ve dönüştürücülerin analizini yapar.\nSes, konum algılayıcı ve dönüştürücülerin analizini yapar.\nSıvı-iyon algılayıcı ve dönüştürücülerin analizini yapar.\nRadyoaktivite algılayıcı, dönüştürücü ve sensörlerini ayırt ederek değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İnfrared diyodun çalışması açıklanır.\nFoto transistorlerin yapısı ve çalışması açıklanır.\nFoto pil yapısı ve çalışması açıklanır.\nOptokuplörün tanımı ve çalışması açıklanır.\nLVDT (doğrusal değişken fark dönüştürücüler) konum algılayıcılar açıklanır.\nMikrofon yapısı ve çeşitleri açıklanır.\nHoparlör yapısı ve çeşitleri açıklanır.\nSıvılarda iletkenlik açıklanır.\nSıvı seviye algılayıcıları açıklanır.\nNem algılayıcıları açıklanır.\nRadyoaktivite ışıma şiddeti açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülecek fiziksel büyüklüklere göre sensör seçme\nIsı algılayıcı(NTC,PTC,Termostat,Termokupl)sağlamlık testi yapmak\nNTC ve PTC elemanları ile röleli devreler yapmak\nAlan etkili algılayıcı sağlamlık testi yapmak\nBobinli manyetik sensörlerin sağlamlık testi yapmak.\nElektronik devreli manyetik sensörlerin (yaklaşım sensörleri) sağlamlık testini yapmak.\nManyetik algılayıcı ve dönüştürücü ile ilgili devre yapmak.\nAyarlı direnç ile akım sınırlama devresini yapmak.\nAyarlı direnç ile gerilim ayarlama devresini yapmak. Gerilim ölçerin sağlamlık testini yapmak.\nPiezoelektrik devresini yapmak\nOptik algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nOptik algılayıcı, dönüştürücü ve sensörler ile ilgili çeşitli devreler yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörler ile ilgili devre yapmak.\nSıvı algılayıcı sensörlerin sağlamlık kontrolünü yapmak.\nSıvı algılayıcı sensörler ile ilgili devresini yapmak.\nNem algılayıcı devre kurulumunu yapmak.\nDozimetre çeşitlerini ayırt etmek.\nMikroorganizma algılayıcı, dönüştürücü ve sensörlerini ayırt etmek.\nElektriksel direnç değişim yöntemini kullanarak uygulama yapmak.\nElektrot çeşitlerini ayırt etmek.\nOhmmetre ile çeşitli elektrotların sağlamlık kontrolünü yapmak.\nElektrotun bağlantı şeklini kontrol etmek.\nÇeşitli elektrotların temizliğini yapmak.\nElektrot arıza dedektör uygulamasını yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Algılayıcı, Dönüştürücü ve Elektrotlar",
+      "KONU": "Radyoaktivite algılayıcı, dönüştürücü ve sensörlerini ayırt ederek değiştirme / Mikroorganizma algılayıcı, dönüştürücü ve sensörlerini ayırt etme / Elektrotların sağlamlık kontrolü",
+      "KAZANIM": "Radyoaktivite algılayıcı, dönüştürücü ve sensörlerini ayırt ederek değiştirir.\nMikroorganizma algılayıcı, dönüştürücü ve sensörlerini açıklar.\nElektrotların sağlamlık kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dozimetre ile ölçüm yapma açıklanır.\nGeiger-müller tüpü ile algılama bilgisi açıklanır.\nMikroorganizma algılama tekniği açıklanır.\nElektriksel direnç değişimi yöntemi açıklanır.\nElektriksel direnç değişimi yönteminin kullanım alanları açıklanır.\nElektroliz ve elektrotlar açıklanır.\nAlgılama amaçlı elektrot çeşitleri açıklanır.\nUyartım amaçlı elektrot çeşitleri açıklanır.\nElektrot durum dedektörleri açıklanır.\nBağlantı çeşitlerine göre elektrotlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülecek fiziksel büyüklüklere göre sensör seçme\nIsı algılayıcı(NTC,PTC,Termostat,Termokupl)sağlamlık testi yapmak\nNTC ve PTC elemanları ile röleli devreler yapmak\nAlan etkili algılayıcı sağlamlık testi yapmak\nBobinli manyetik sensörlerin sağlamlık testi yapmak.\nElektronik devreli manyetik sensörlerin (yaklaşım sensörleri) sağlamlık testini yapmak.\nManyetik algılayıcı ve dönüştürücü ile ilgili devre yapmak.\nAyarlı direnç ile akım sınırlama devresini yapmak.\nAyarlı direnç ile gerilim ayarlama devresini yapmak. Gerilim ölçerin sağlamlık testini yapmak.\nPiezoelektrik devresini yapmak\nOptik algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nOptik algılayıcı, dönüştürücü ve sensörler ile ilgili çeşitli devreler yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörler ile ilgili devre yapmak.\nSıvı algılayıcı sensörlerin sağlamlık kontrolünü yapmak.\nSıvı algılayıcı sensörler ile ilgili devresini yapmak.\nNem algılayıcı devre kurulumunu yapmak.\nDozimetre çeşitlerini ayırt etmek.\nMikroorganizma algılayıcı, dönüştürücü ve sensörlerini ayırt etmek.\nElektriksel direnç değişim yöntemini kullanarak uygulama yapmak.\nElektrot çeşitlerini ayırt etmek.\nOhmmetre ile çeşitli elektrotların sağlamlık kontrolünü yapmak.\nElektrotun bağlantı şeklini kontrol etmek.\nÇeşitli elektrotların temizliğini yapmak.\nElektrot arıza dedektör uygulamasını yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyomedikal Algılayıcı, Dönüştürücü ve Elektrotlar",
+      "KONU": "Elektrotların sağlamlık kontrolü / Elektrot parazitlerini önleyici tedbirler",
+      "KAZANIM": "Elektrotların sağlamlık kontrolünü yapar.\nElektrot parazitlerini önleyici tedbirleri alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrotlarda kullanılan jeller ve özellikleri açıklanır.\nElektrotların elektriksel özellikleri açıklanır.\nOhmetre ile elektrot sağlamlığının kontrolü açıklanır.\nElektrot bağlamada dikkat edilecek özellikler sıralanır.\nElektrotların temizlenmesi açıklanır.\nElektrotların biyolojik işaretleri algılama tekniği açıklanır.\nElektrotların olası zararlı etkileri açıklanır.\nElektrotların ölçümler üzerine etkileri açıklanır.\nHücrelerde elektriksel aktivasyon açıklanır.\nElektrot arıza dedektörü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ölçülecek fiziksel büyüklüklere göre sensör seçme\nIsı algılayıcı(NTC,PTC,Termostat,Termokupl)sağlamlık testi yapmak\nNTC ve PTC elemanları ile röleli devreler yapmak\nAlan etkili algılayıcı sağlamlık testi yapmak\nBobinli manyetik sensörlerin sağlamlık testi yapmak.\nElektronik devreli manyetik sensörlerin (yaklaşım sensörleri) sağlamlık testini yapmak.\nManyetik algılayıcı ve dönüştürücü ile ilgili devre yapmak.\nAyarlı direnç ile akım sınırlama devresini yapmak.\nAyarlı direnç ile gerilim ayarlama devresini yapmak. Gerilim ölçerin sağlamlık testini yapmak.\nPiezoelektrik devresini yapmak\nOptik algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nOptik algılayıcı, dönüştürücü ve sensörler ile ilgili çeşitli devreler yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörleri ayırt etmek ve sensörlerin sağlamlık kontrolünü yapmak.\nSes, konum algılayıcı, dönüştürücü ve sensörler ile ilgili devre yapmak.\nSıvı algılayıcı sensörlerin sağlamlık kontrolünü yapmak.\nSıvı algılayıcı sensörler ile ilgili devresini yapmak.\nNem algılayıcı devre kurulumunu yapmak.\nDozimetre çeşitlerini ayırt etmek.\nMikroorganizma algılayıcı, dönüştürücü ve sensörlerini ayırt etmek.\nElektriksel direnç değişim yöntemini kullanarak uygulama yapmak.\nElektrot çeşitlerini ayırt etmek.\nOhmmetre ile çeşitli elektrotların sağlamlık kontrolünü yapmak.\nElektrotun bağlantı şeklini kontrol etmek.\nÇeşitli elektrotların temizliğini yapmak.\nElektrot arıza dedektör uygulamasını yapmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyopotansiyel Yükselteçler",
+      "KONU": "Biyopotansiyel yükselteçler",
+      "KAZANIM": "Biyopotansiyel yükselteçleri seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyopotansiyel tanımı ve çeşitleri açıklanır.\nİşlemsel yükselteçlerin genel özellikleri açıklanır.\nİşlemsel yükseltecin yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İşlemsel yükselteç kazanç hesaplamalarını yapmak.\nİşlemsel yükselteçlerin besleme bağlantılarını çizmek.\nİşlemsel yükselteç devre çeşitlerini çizmek.\nİşlemsel yükselteç devrelerine besleme bağlantılarını yapmak.\nİşlemsel yükselteç devrelerini kurmak.\nGiriş-çıkış sinyallerini osilaskopta gözlemlemek.\nİşlemsel yükselteçlerin kazanç hesaplarını yaparak, ölçülen değerle karşılaştırmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyopotansiyel Yükselteçler",
+      "KONU": "Biyopotansiyel yükselteçler / Biyopotansiyel yükselteç devreleri",
+      "KAZANIM": "Biyopotansiyel yükselteçleri seçer.\nBiyopotansiyel yükselteç devreleri çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşlemsel yükseltecin kazanç hesaplamaları açıklanır.\nİşlemsel yükseltecin besleme şekilleri açıklanır.\nEviren yükselteç devresinin yapısı ve görevi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İşlemsel yükselteç kazanç hesaplamalarını yapmak.\nİşlemsel yükselteçlerin besleme bağlantılarını çizmek.\nİşlemsel yükselteç devre çeşitlerini çizmek.\nİşlemsel yükselteç devrelerine besleme bağlantılarını yapmak.\nİşlemsel yükselteç devrelerini kurmak.\nGiriş-çıkış sinyallerini osilaskopta gözlemlemek.\nİşlemsel yükselteçlerin kazanç hesaplarını yaparak, ölçülen değerle karşılaştırmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyopotansiyel Yükselteçler",
+      "KONU": "Biyopotansiyel yükselteç devreleri",
+      "KAZANIM": "Biyopotansiyel yükselteç devreleri çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Evirmeyen yükselteç devresinin yapısı ve görevi açıklanır.\nGerilim izleyici devresinin görevi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İşlemsel yükselteç kazanç hesaplamalarını yapmak.\nİşlemsel yükselteçlerin besleme bağlantılarını çizmek.\nİşlemsel yükselteç devre çeşitlerini çizmek.\nİşlemsel yükselteç devrelerine besleme bağlantılarını yapmak.\nİşlemsel yükselteç devrelerini kurmak.\nGiriş-çıkış sinyallerini osilaskopta gözlemlemek.\nİşlemsel yükselteçlerin kazanç hesaplarını yaparak, ölçülen değerle karşılaştırmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyopotansiyel Yükselteçler",
+      "KONU": "Biyopotansiyel yükselteç devreleri",
+      "KAZANIM": "Biyopotansiyel yükselteç devreleri çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fark yükselteç devresinin yapısı ve görevi açıklanır.\nEnstrümantasyon yükselteçleri tanımlanır.\nİzolasyon yükselteçleri tanımlanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İşlemsel yükselteç kazanç hesaplamalarını yapmak.\nİşlemsel yükselteçlerin besleme bağlantılarını çizmek.\nİşlemsel yükselteç devre çeşitlerini çizmek.\nİşlemsel yükselteç devrelerine besleme bağlantılarını yapmak.\nİşlemsel yükselteç devrelerini kurmak.\nGiriş-çıkış sinyallerini osilaskopta gözlemlemek.\nİşlemsel yükselteçlerin kazanç hesaplarını yaparak, ölçülen değerle karşılaştırmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Biyopotansiyel Yükselteçler",
+      "KONU": "Biyopotansiyel yükselteç devreleri",
+      "KAZANIM": "Biyopotansiyel yükselteç devreleri çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Karşılaştırıcı devrelerinin yapısı ve görevi açıklanır.\nTürev ve integral alıcı devrelerinin yapısı ve görevi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İşlemsel yükselteç kazanç hesaplamalarını yapmak.\nİşlemsel yükselteçlerin besleme bağlantılarını çizmek.\nİşlemsel yükselteç devre çeşitlerini çizmek.\nİşlemsel yükselteç devrelerine besleme bağlantılarını yapmak.\nİşlemsel yükselteç devrelerini kurmak.\nGiriş-çıkış sinyallerini osilaskopta gözlemlemek.\nİşlemsel yükselteçlerin kazanç hesaplarını yaparak, ölçülen değerle karşılaştırmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik İşaretlerin Analog ve Sayısal İşlemleri",
+      "KONU": "Biyolojik işaretleri analog işleyen devrelerin seçimi",
+      "KAZANIM": "Biyolojik işaretleri analog işleyen devreleri kullanım amacına göre seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İnsan enstrümantasyon sisteminin blok diyagramı açıklanır.\nBiyolojik işaretlerde SNR (işaret gürültü oranı) açıklanır.\nBiyolojik işaretlerde gürültü azaltma yöntemleri açıklanır.\nBiyolojik işaretlerin analog ve dijital işlenme yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnsan – enstrumantasyon sistemi blok diyagramını okumak.\nFiltre ve dalga şekillendirici devre çeşitlerini ayırt etmek.\nSinyal işleme sistemi blok diyagramını okumak.\nBiyolojik işaretleri analog işleyen devre kurulumunu yapmak.\nBiyolojik sinyalleri analog işleyen devrelerde osilaskop ve multimetre ile dalga şekillerini doğru şekilde tespit etmelerini sağlamak.\nADC devresini kurmalarını sağlamak.\nAnalog dijital çevirici sistemleri Avometre ile takip etmek.\nDAC devresini kurmalarını sağlamak\nDijital Analog çevirici sistemleri Avometre ile takip etmelerini sağlamak\nDAC tümleşik devreleri ile D/A/D devresi kurmak.\nD/A/D devrelerinin ölçümlerini gerçekleştirmek.\nADC tümleşik devreleri ile A/D/A devresini kurmak.\nA/D/A devrelerinin ölçümlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik İşaretlerin Analog ve Sayısal İşlemleri",
+      "KONU": "Biyolojik işaretleri analog işleyen devrelerin seçimi",
+      "KAZANIM": "Biyolojik işaretleri analog işleyen devreleri kullanım amacına göre seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Genel ölçme ve tanılama sisteminin blok diyagramı açıklanır.\nSinyal işleme sisteminin blok diyagramı, blokların ana görevleri açıklanır.\nFiltre ve dalga şekillendirici devre çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnsan – enstrumantasyon sistemi blok diyagramını okumak.\nFiltre ve dalga şekillendirici devre çeşitlerini ayırt etmek.\nSinyal işleme sistemi blok diyagramını okumak.\nBiyolojik işaretleri analog işleyen devre kurulumunu yapmak.\nBiyolojik sinyalleri analog işleyen devrelerde osilaskop ve multimetre ile dalga şekillerini doğru şekilde tespit etmelerini sağlamak.\nADC devresini kurmalarını sağlamak.\nAnalog dijital çevirici sistemleri Avometre ile takip etmek.\nDAC devresini kurmalarını sağlamak\nDijital Analog çevirici sistemleri Avometre ile takip etmelerini sağlamak\nDAC tümleşik devreleri ile D/A/D devresi kurmak.\nD/A/D devrelerinin ölçümlerini gerçekleştirmek.\nADC tümleşik devreleri ile A/D/A devresini kurmak.\nA/D/A devrelerinin ölçümlerini yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik İşaretlerin Analog ve Sayısal İşlemleri",
+      "KONU": "Biyolojik işaretleri analog işleyen devrelerin kurulumu",
+      "KAZANIM": "Biyolojik işaretleri analog işleyen devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Entegre kodlama sistemi açıklanır.\nBiyolojik işaretleri analog işleyen devrelerinin açık devre şemaları açıklanır.\nBiyolojik işaretleri analog işleyen devrelerde kullanılan filtre entegreleri ve beslenme sistemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnsan – enstrumantasyon sistemi blok diyagramını okumak.\nFiltre ve dalga şekillendirici devre çeşitlerini ayırt etmek.\nSinyal işleme sistemi blok diyagramını okumak.\nBiyolojik işaretleri analog işleyen devre kurulumunu yapmak.\nBiyolojik sinyalleri analog işleyen devrelerde osilaskop ve multimetre ile dalga şekillerini doğru şekilde tespit etmelerini sağlamak.\nADC devresini kurmalarını sağlamak.\nAnalog dijital çevirici sistemleri Avometre ile takip etmek.\nDAC devresini kurmalarını sağlamak\nDijital Analog çevirici sistemleri Avometre ile takip etmelerini sağlamak\nDAC tümleşik devreleri ile D/A/D devresi kurmak.\nD/A/D devrelerinin ölçümlerini gerçekleştirmek.\nADC tümleşik devreleri ile A/D/A devresini kurmak.\nA/D/A devrelerinin ölçümlerini yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik İşaretlerin Analog ve Sayısal İşlemleri",
+      "KONU": "Analog sinyallerin sayısal çevrilmesi ile ilgili devre uygulaması / Sayısal sinyallerin analoga çevrilmesi ile ilgili devre uygulaması",
+      "KAZANIM": "Analog sinyallerin sayısala çevrilmesi devresinin uygulamasını yapar.\nSayısal sinyallerin analoga çevrilmesi devresinin uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog işaretlerin sayısal işlenmesinde veri toplama (adc çeviriciler) yöntemleri açıklanır.\nADC Çeviricilerin kullanım yerleri açıklanır.\nSayısal İşaretlerin anolog işlenmesinde veri toplama (DAC çeviriciler) yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnsan – enstrumantasyon sistemi blok diyagramını okumak.\nFiltre ve dalga şekillendirici devre çeşitlerini ayırt etmek.\nSinyal işleme sistemi blok diyagramını okumak.\nBiyolojik işaretleri analog işleyen devre kurulumunu yapmak.\nBiyolojik sinyalleri analog işleyen devrelerde osilaskop ve multimetre ile dalga şekillerini doğru şekilde tespit etmelerini sağlamak.\nADC devresini kurmalarını sağlamak.\nAnalog dijital çevirici sistemleri Avometre ile takip etmek.\nDAC devresini kurmalarını sağlamak\nDijital Analog çevirici sistemleri Avometre ile takip etmelerini sağlamak\nDAC tümleşik devreleri ile D/A/D devresi kurmak.\nD/A/D devrelerinin ölçümlerini gerçekleştirmek.\nADC tümleşik devreleri ile A/D/A devresini kurmak.\nA/D/A devrelerinin ölçümlerini yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik İşaretlerin Analog ve Sayısal İşlemleri",
+      "KONU": "Sayısal sinyallerin analoga çevrilmesi ile ilgili devre uygulaması / Tümleşik devrelerle A/D ve D/A uygulama devrelerinin yapımı",
+      "KAZANIM": "Sayısal sinyallerin analoga çevrilmesi devresinin uygulamasını yapar.\nTümleşik devrelerle A/D ve D/A uygulama devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DAC Çeviricilerin kullanım yerleri açıklanır.\nDAC tümleşik devrelerinin katalog parametreleri açıklanır.\nADC tümleşik devrelerinin katalog parametreleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnsan – enstrumantasyon sistemi blok diyagramını okumak.\nFiltre ve dalga şekillendirici devre çeşitlerini ayırt etmek.\nSinyal işleme sistemi blok diyagramını okumak.\nBiyolojik işaretleri analog işleyen devre kurulumunu yapmak.\nBiyolojik sinyalleri analog işleyen devrelerde osilaskop ve multimetre ile dalga şekillerini doğru şekilde tespit etmelerini sağlamak.\nADC devresini kurmalarını sağlamak.\nAnalog dijital çevirici sistemleri Avometre ile takip etmek.\nDAC devresini kurmalarını sağlamak\nDijital Analog çevirici sistemleri Avometre ile takip etmelerini sağlamak\nDAC tümleşik devreleri ile D/A/D devresi kurmak.\nD/A/D devrelerinin ölçümlerini gerçekleştirmek.\nADC tümleşik devreleri ile A/D/A devresini kurmak.\nA/D/A devrelerinin ölçümlerini yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Güç Devreleri",
+      "KONU": "Zamanlama devrelerinin kurulumu",
+      "KAZANIM": "Zamanlama devrelerinin kurulumunu gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transistörlü zamanlama devreleri açıklanır.\nZaman gecikmesi ile çalışan (turn on ) devreler açıklanır.\nZaman gecikmesi ile devre enerjisini kesen ( turnoff) devreler açıklanır.\nUzun zaman gecikmeli devreler açıklanır.\nSchimitt Trigger tipi zamanlayıcılar açıklanır.\nArka arkaya çalışan zaman gecikmeli devreler açıklanır.\nZamanlayıcı entegresi ve uygulamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Devre kurmak için gerekli malzemelerin seçimini yapmak.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak\nZaman gecikmesi devresini yapmak.(turn on)\nZaman gecikmesi ile devre enerjisini kesen devre yapmak(turnoff)\nZamanlayıcı entegre ile astable, monostable ve bistable devrelerini yapmak.\nDevre kurmak için gerekli malzemeleri seçmek.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak.\nMOSFET i anahtarlama elemanı olarak kullanmak.\nTristörlü doğrultucu devresini yapmak.\nTristörün tetikleme ve durdurma yöntemleri ile ilgili devreleri yapmak.\nUJT li osilatör devresini yapmak.\nFETli anahtarlama devresini yapmak\nTristörlü kıyıcı devresi yapmak\nTriyakın anahtarlama elemanı olarak kullanmak.\nAnahtarlamalı güç kaynaklarının kontrolünü yapmak\nDimmer devresini yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Güç Devreleri",
+      "KONU": "Zamanlama devrelerinin kurulumu / Elektronik anahtarlama devreleri ile güç kaynaklarının kontrolü",
+      "KAZANIM": "Zamanlama devrelerinin kurulumunu gerçekleştirir.\nElektronik anahtarlama devreleri ile güç kaynaklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Multivibratörler açıklanır.\nAstable çalışması açıklanır.\nMonostable çalışması açıklanır.\nBistable çalışması açıklanır.\nUJT, FET ve MOSFET in çalışması ve yapısı açıklanır.\nUJT, FET ve MOSFET in sağlamlık ölçümleri açıklanır.\nMOSFET in anahtarlama elemanı olarak kullanılması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Devre kurmak için gerekli malzemelerin seçimini yapmak.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak\nZaman gecikmesi devresini yapmak.(turn on)\nZaman gecikmesi ile devre enerjisini kesen devre yapmak(turnoff)\nZamanlayıcı entegre ile astable, monostable ve bistable devrelerini yapmak.\nDevre kurmak için gerekli malzemeleri seçmek.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak.\nMOSFET i anahtarlama elemanı olarak kullanmak.\nTristörlü doğrultucu devresini yapmak.\nTristörün tetikleme ve durdurma yöntemleri ile ilgili devreleri yapmak.\nUJT li osilatör devresini yapmak.\nFETli anahtarlama devresini yapmak\nTristörlü kıyıcı devresi yapmak\nTriyakın anahtarlama elemanı olarak kullanmak.\nAnahtarlamalı güç kaynaklarının kontrolünü yapmak\nDimmer devresini yapmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Güç Devreleri",
+      "KONU": "Elektronik anahtarlama devreleri ile güç kaynaklarının kontrolü",
+      "KAZANIM": "Elektronik anahtarlama devreleri ile güç kaynaklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "FET li anahtarlama devresi açıklanır.\nUJT li osilatör devresinin çalışması açıklanır.\nTristörün çalışması ve yapısı açıklanır.\nTristörün tetikleme yöntemleri açıklanır.\nTristörün sağlamlık kontrolü ölçümleri açıklanır.\nTristörlü doğrultucu devrelerinin çalışması açıklanır.\nTristörlü kıyıcı devrelerinin çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Devre kurmak için gerekli malzemelerin seçimini yapmak.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak\nZaman gecikmesi devresini yapmak.(turn on)\nZaman gecikmesi ile devre enerjisini kesen devre yapmak(turnoff)\nZamanlayıcı entegre ile astable, monostable ve bistable devrelerini yapmak.\nDevre kurmak için gerekli malzemeleri seçmek.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak.\nMOSFET i anahtarlama elemanı olarak kullanmak.\nTristörlü doğrultucu devresini yapmak.\nTristörün tetikleme ve durdurma yöntemleri ile ilgili devreleri yapmak.\nUJT li osilatör devresini yapmak.\nFETli anahtarlama devresini yapmak\nTristörlü kıyıcı devresi yapmak\nTriyakın anahtarlama elemanı olarak kullanmak.\nAnahtarlamalı güç kaynaklarının kontrolünü yapmak\nDimmer devresini yapmak.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Elektronik Güç Devreleri",
+      "KONU": "Elektronik anahtarlama devreleri ile güç kaynaklarının kontrolü",
+      "KAZANIM": "Elektronik anahtarlama devreleri ile güç kaynaklarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Diyakın yapısı ve çalışması açıklanır.\nTriyakın yapısı ve çalışması açıklanır.\nTriyakın sağlamlık kontrolü açıklanır.\nTriyakın anahtarlama elemanı olarak kullanılması açıklanır.\nDimmer devresinin çalışması açıklanır.\nAnahtarlamalı güç kaynaklarının yapısı ve çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Devre kurmak için gerekli malzemelerin seçimini yapmak.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak\nZaman gecikmesi devresini yapmak.(turn on)\nZaman gecikmesi ile devre enerjisini kesen devre yapmak(turnoff)\nZamanlayıcı entegre ile astable, monostable ve bistable devrelerini yapmak.\nDevre kurmak için gerekli malzemeleri seçmek.\nKullanılacak olan devre elemanlarının sağlamlık kontrollerini yapmak\nUygulanacak devrelerin baskı devre plaketlerini yapmak.\nMOSFET i anahtarlama elemanı olarak kullanmak.\nTristörlü doğrultucu devresini yapmak.\nTristörün tetikleme ve durdurma yöntemleri ile ilgili devreleri yapmak.\nUJT li osilatör devresini yapmak.\nFETli anahtarlama devresini yapmak\nTristörlü kıyıcı devresi yapmak\nTriyakın anahtarlama elemanı olarak kullanmak.\nAnahtarlamalı güç kaynaklarının kontrolünü yapmak\nDimmer devresini yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik Sistemlerde Arıza Yaklaşımı",
+      "KONU": "Biyomedikal cihazlarda elektrik-elektronik, bilgisayar ve mekanik ünitelerinin ayrımı / Biyomedikal cihazlarda elektrik ve elektronik ünitelerin elektriksel ölçüm ve testleri / Biyomedikal cihazlarda bilgisayar ve kumanda merkezi ölçüm ve testleri",
+      "KAZANIM": "Biyomedikal cihazlarda elektrik-elektronik, bilgisayar ve mekanik üniteleri tarif eder.\nBiyomedikal cihazlarda elektrik ve elektronik ünitelerin elektriksel ölçüm ve testlerini yapar.\nBiyomedikal cihazlarda bilgisayar ve kumanda merkezi ölçüm ve testlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyomedikal cihazlarda elektrik elektronik ünitelerinin ayrımı açıklanır.\nBiyomedikal cihazlarda bilgisayar ünitelerinin ayrımı açıklanır.\nBiyomedikal cihazlarda mekanik ünitelerinin ayrımı açıklanır.\nBiyomedikal cihazlarda elektrik ünitelerinin ölçüm ve testleri açıklanır.\nBiyomedikal cihazlarda elektronik ünitelerinin ölçüm ve testleri açıklanır.\nBiyomedikal cihazlarda bilgisayar ve kumanda parçaları tanımlanır.\nBiyomedikal cihazlarda bilgisayar ve kumanda merkezi ölçüm ve testleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Biyomedikal cihazlarda elektrik üniteleri ayırt etmek.\nBiyomedikal cihazlarda elektronik üniteleri ayırt etmek.\nBiyomedikal cihazlarda bilgisayar ve mekanik üniteleri ayırt etmek.\nBiyomedikal cihazlarda elektrik ünitelerinin ölçüm ve testlerini yapmak.\nBiyomedikal cihazlarda elektronik ünitelerinin ölçüm ve testlerini yapmak.\nBiyomedikal cihazlarda bilgisayar ve kumanda parçalarını ayırt etmek.\nBiyomedikal cihazlarda mekanik ve birleşik ünitelerin ölçümlerini yapmak\nBiyomedikal cihazlarda mekanik ve birleşik ünitelerin testlerini yapmak\nBiyomedikal cihazlarda çıktı birimlerinin bağlantılarını yapmak.\nBiyomedikal cihazlarda çıktı birimlerinin arıza analizini yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "10",
+      "ÜNİTE": "Biyolojik Sistemlerde Arıza Yaklaşımı",
+      "KONU": "Biyomedikal cihazlarda mekanik ve birleşik ünitelerin ölçüm ve testleri / Biyomedikal cihazlarda çıktı birimlerinin ayrımı ve arıza analizi",
+      "KAZANIM": "Biyomedikal cihazlarda mekanik ve birleşik ünitelerin ölçüm ve testlerini yapar.\nBiyomedikal cihazlarda çıktı birimlerinin ayırımını ve arıza analizini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Biyomedikal cihazlarda mekanik ve birleşik ünitelerinin ölçümleri açıklanır.\nBiyomedikal cihazlarda mekanik ve birleşik ünitelerinin testleri açıklanır.\nBiyomedikal cihazlarda çıktı birimleri açıklanır.\nBiyomedikal cihazlarda çıktı birimlerinin bağlantı noktaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Biyomedikal cihazlarda elektrik üniteleri ayırt etmek.\nBiyomedikal cihazlarda elektronik üniteleri ayırt etmek.\nBiyomedikal cihazlarda bilgisayar ve mekanik üniteleri ayırt etmek.\nBiyomedikal cihazlarda elektrik ünitelerinin ölçüm ve testlerini yapmak.\nBiyomedikal cihazlarda elektronik ünitelerinin ölçüm ve testlerini yapmak.\nBiyomedikal cihazlarda bilgisayar ve kumanda parçalarını ayırt etmek.\nBiyomedikal cihazlarda mekanik ve birleşik ünitelerin ölçümlerini yapmak\nBiyomedikal cihazlarda mekanik ve birleşik ünitelerin testlerini yapmak\nBiyomedikal cihazlarda çıktı birimlerinin bağlantılarını yapmak.\nBiyomedikal cihazlarda çıktı birimlerinin arıza analizini yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici programı ve temel yazılım bilgileri / Mikrodenetleyicide kullanılan genel komutlar",
+      "KAZANIM": "Mikrodenetleyici programı ve temel yazılım bilgilerini açıklar\nMikrodenetleyicide kullanılan genel komutları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici programını açıklanır.\nMikrodenetleyici fonksiyon ve kod yapıları tanıtılır.\nMikrodenetleyici bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyicide kullanılan genel komutlar / Mikrodenetleyici program menüleri / Mikrodenetleyici uygulamaları",
+      "KAZANIM": "Mikrodenetleyicide kullanılan genel komutları açıklar.\nMikrodenetleyici program menülerini açıklanır.\nMikrodenetleyici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici genel komutları açıklanır.\nMikrodenetleyici programı menülerinin işlevleri açıklanır.\nMikrodenetleyiciler de Yanıp Sönen Led Yakma programı açıklanır",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici uygulamaları",
+      "KAZANIM": "Mikrodenetleyici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciler ile yapılan Kara Şimşek Devre programı açıklanır\nMikrodenetleyiciler ile Buton Kullanımı programı açıklanır\nMikrodenetleyiciler ile analog veri okuma programı açıklanır",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici uygulamaları",
+      "KAZANIM": "Mikrodenetleyici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciler ile potansiyometre kullanımı programı açıklanır\nMikrodenetleyiciler ile LDR kullanımı programı açıklanır",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici uygulamaları",
+      "KAZANIM": "Mikrodenetleyici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciler ile servo motor kullanım programı açıklanır\nMikrodenetleyiciler de potansiyometre ile servo motor kontrol programı açıklanır\nMikrodenetleyiciler ile sıcaklık ölçüm programı açıklanır",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici uygulamaları",
+      "KAZANIM": "Mikrodenetleyici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciler ile mesafe sensörü programı açıklanır\nMikrodenetleyiciler ile hareket sensörü programı açıklanır.\nMikrodenetleyiciler ile LCD ekran kullanım programı açıklanır",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Mikroişlemci ve Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici uygulamaları",
+      "KAZANIM": "Mikrodenetleyici uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciler ile buzzer kullanım programı açıklanır\nMikrodenetleyiciler ile Bluetooth modülü kullanım programı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Öğretim Teknikleri": "Ortam: Biyomedikal Enstrümantasyon Atölye ve Laboratuvarı\nDonanım: Ölçü aletleri (ışık ölçer, ses ölçer, pH ölçer vs), kontrol kalemi, fonksiyon test cihazları, kalibrasyon cihazları, devre elemanları (NTC,PTC,LDR vs), board (devre tahtası), lehim takımı, çeşitli elektrotlar, opamplar, çeşitli algılayıcı ve dönüştürücüler, DAC ve ADC tümleşik devreleri, bilgisayar, etkileşimli tahta",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nDerste yapılacak uygulama faaliyetleri/temrinler öğrencinin performansını değerlendirmede büyük önem taşımaktadır. Uygulama faaliyetini değerlendirmede belirli ölçütler belirlenip (uygulama, iş alışkanlığı, düzen, süre, teknolojik bilgi vs.) bütüncül değerlendirme yapılarak puanlama verilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici bilgisayar bağlantısını yapmak\nMikrodenetleyici programının bilgisayarda kurulumunu yapmak\nMikrodenetleyici programında kod yazmak\nMikrodenetleyici genel komut kodlarını yazmak\nMikrodenetleyici programındaki menüleri kullanmak\nMikrodenetleyici ile yanıp sönen led yakma uygulaması yapmak\nMikrodenetleyici ile kara şimşek devre uygulaması yapmak\nMikrodenetleyici ile buton kullanımı devre uygulaması yapmak\nMikrodenetleyici ile anolog veri okuma uygulaması yapmak\nMikrodenetleyici ile potansiyometre uygulaması yapmak\nMikrodenetleyici ile LDR kullanımı uygulaması yapmak\nMikrodenetleyici ile servo motor kullanımı uygulaması yapmak\nMikrodenetleyici potansiyometre ile servo motor kontrolü uygulaması yapmak\nMikrodenetleyici ile sıcaklık ölçümü uygulaması yapmak\nMikrodenetleyici ile mesafe sensörü uygulaması yapmak\nMikrodenetleyici ile hareket sensörü uygulaması yapmak\nMikrodenetleyici ile LCD ekran kullanımı uygulaması yapmak\nMikrodenetleyici ile buzzer kullanımı uygulaması yapmak\nMikrodenetleyici ile Bluetooth modülü kullanımı uygulaması yapmak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

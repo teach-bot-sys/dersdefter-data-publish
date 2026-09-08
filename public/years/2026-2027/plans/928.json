@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Dijital Uygulamalari Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Uçak Bakım",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/ucak-bakim/928/dijital-uygulamalari-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "1. Dijital devreler için sayı sistem dönüşümlerini yapma",
+      "KAZANIM": "Dijital devreler için sayı sistemi dönüşümlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSayı sistemleri arasındaki dönüşümler kavratılır.\n•\nSayı sistemleri arasında dört işlem yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "2. Lojik kapı devrelerini çalıştırma",
+      "KAZANIM": "Lojik kapı devrelerini çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nLojik kapıların çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "2. Lojik kapı devrelerini çalıştırma",
+      "KAZANIM": "Lojik kapı devrelerini çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nLojik kapı devrelerinin çalıştırtılır.\n•\nHava araçlarındaki şematik diyagramlar takip ettirilerek arıza ve hataların tespit edilmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "3. Analog bilgiyi dijital bilgiye çevirme",
+      "KAZANIM": "Analog bilgiyi dijital bilgiye çevirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnalog-dijital büyüklüklerin ölçümünü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "3. Analog bilgiyi dijital bilgiye çevirme",
+      "KAZANIM": "Analog bilgiyi dijital bilgiye çevirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnalogdan dijitale çevirici devrelerin kurulması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "3. Analog bilgiyi dijital bilgiye çevirme / 4. Dijital bilgiyi analog bilgiye çevirme",
+      "KAZANIM": "Analog bilgiyi dijital bilgiye çevirir.\nDijital bilgiyi analog bilgiye çevirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAnalogdan dijitale çevirici devreler üzerinde ölçüm yaptırılır.\n•\nD/A çeviriciler üzerinde yapılan ölçümler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "4. Dijital bilgiyi analog bilgiye çevirme",
+      "KAZANIM": "Dijital bilgiyi analog bilgiye çevirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nD/A çevirici devreler çalıştırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "4. Dijital bilgiyi analog bilgiye çevirme",
+      "KAZANIM": "Dijital bilgiyi analog bilgiye çevirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nD/A çevirici devreler üzerinde ölçüm yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sayı sistemlerini birbirine dönüştürme.\n2. Lojik kapı devrelerini çalıştırma.\n3. Analogdan dijitale çevirici devreleri çalıştırma.\n4. D/A çevirici devreleri çalıştırma.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "1. Aviyonik genel test ekipmanlarını çalıştırma.",
+      "KAZANIM": "Aviyonik genel test ekipmanlarını çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nARINC 429 haberleşme formatı hakkında bilgi verilir.\n•\nAviyonik genel test ekipmanları sınıflandırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "1. Aviyonik genel test ekipmanlarını çalıştırma.",
+      "KAZANIM": "Aviyonik genel test ekipmanlarını çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBakım dokümanlarında (AMM) belirtildiği şekilde alet ve cihazların standartlara uygun kalibrasyonu yapılır.\n•\nAviyonik test ekipmanlarının bağlantısını yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "1. Aviyonik genel test ekipmanlarını çalıştırma. / 2. Çeşitli tipteki ekranları çalıştırma.",
+      "KAZANIM": "Aviyonik genel test ekipmanlarını çalıştırır.\nÇeşitli tipteki ekranları çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSistemler üzerinde aviyonik test ekipmanları ile test işlemleri yaptırılır.\n•\nElektronik ekran tipleri sınıflandırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "2. Çeşitli tipteki ekranları çalıştırma.",
+      "KAZANIM": "Çeşitli tipteki ekranları çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBakım dokümanlarında (AMM) belirtildiği şekilde CRT-LCD ekranların sisteme bağlanması sağlanır.\n•\nElektronik ekran tipleri çalıştırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "2. Çeşitli tipteki ekranları çalıştırma.",
+      "KAZANIM": "Çeşitli tipteki ekranları çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektronik ekran tiplerinin arızalarının tespit edilmesi sağlanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "3. Elektronik alet sistemlerinin tipikkokpit yerleşimlerini inceleme.",
+      "KAZANIM": "Elektronik alet sistemlerinin tipik kokpit yerleşimlerini inceler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektronik alet sistemlerinin tipik kokpit yerleşimini açıklatılır.\n•\nEICAS göstergelerinin görevlerini açıklatılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "3. Elektronik alet sistemlerinin tipikkokpit yerleşimlerini inceleme. / 4. Kokpitteki elektronik alet sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Elektronik alet sistemlerinin tipik kokpit yerleşimlerini inceler.\nKokpitteki elektronik alet sistemlerini çalıştırarak test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nPanellerdeki kontrolleri çalıştırılır.\n•\nOtopilot sisteminin kontrolleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "4. Kokpitteki elektronik alet sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Kokpitteki elektronik alet sistemlerini çalıştırarak test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMCDU’nun çalışma testi yaptırılır.\n•\nECAM’ın operasyonel testleri yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "4. Kokpitteki elektronik alet sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Kokpitteki elektronik alet sistemlerini çalıştırarak test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRadyo kontrol paneli üzerinden ses ve frekans kontrol işlemlerini yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Sistemler üzerinde aviyonik test ekipmanları ile test işlemleri yapma\n2. Elektronik ekran tipleri üzerinde test işlemleri yapma\n3. Elektronik alet sistemlerinin genel çalışma testlerini yapma\n4. Otopilot sistemi, MCDU, ECAM, Radyo paneli gibi alet sistemlerini test etme"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Elektrostatik Deşarj ve Elektromanyetik\nÇevre",
+      "KONU": "1. Elektrostatik deşarjlara karşı koruma ünitelerini kullanma.",
+      "KAZANIM": "Elektrostatik deşarjlara karşı koruma ünitelerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAntistatik koruma ekipmanları sıralanır.\n•\nAntistatik koruma ekipmanları kullanılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Elektrostatik deşarjlara hassas ünitelerin sökülmesi sırasında alınması gereken önlemleri uygulama.\n2. Yıldırım çarpması durumunda yapılacak işlemler ve kontrolleri elektromanyetik uyumluluk yöntemlerini kullanarak uygulama."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Elektrostatik Deşarj ve Elektromanyetik\nÇevre",
+      "KONU": "2. Elektromanyetik girişime karşı önlem alma.",
+      "KAZANIM": "Elektromanyetik girişime karşı önlem alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUçak üzerindeki HIRF bölgeleri tanımlanır.\n•\nKoaksiyel kablo bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Elektrostatik deşarjlara hassas ünitelerin sökülmesi sırasında alınması gereken önlemleri uygulama.\n2. Yıldırım çarpması durumunda yapılacak işlemler ve kontrolleri elektromanyetik uyumluluk yöntemlerini kullanarak uygulama."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Elektrostatik Deşarj ve Elektromanyetik\nÇevre",
+      "KONU": "2. Elektromanyetik girişime karşı önlem alma.",
+      "KAZANIM": "Elektromanyetik girişime karşı önlem alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nStatik deşarj püsküllerinin görevleri açıklanır.\n•\nStatik deşarj püskülü süreklilik ve izolasyon testi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Elektrostatik deşarjlara hassas ünitelerin sökülmesi sırasında alınması gereken önlemleri uygulama.\n2. Yıldırım çarpması durumunda yapılacak işlemler ve kontrolleri elektromanyetik uyumluluk yöntemlerini kullanarak uygulama."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "1. 1.Dalga hareketini analiz etme.",
+      "KAZANIM": "Dalga hareketini analiz eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nİnterferans olayını örneklenir.\n•\nDuran dalga oranı ölçülür.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "1. 1.Dalga hareketini analiz etme. / 2. 2.Uçak sistemlerindeki veri yollarının bakımını yapma.",
+      "KAZANIM": "Dalga hareketini analiz eder.\nUçak sistemlerindeki veriyollarının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nSes şiddeti hesaplamaları yapılır.\n•\nBakım dokümanları (AMM) göz önünde bulundurulur.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "2. 2.Uçak sistemlerindeki veri yollarının bakımını yapma.",
+      "KAZANIM": "Uçak sistemlerindeki veriyollarının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nUçak sistemlerindeki veriyolu standartlarının sınıflandırılması yapılır.\n•\nHava aracı ağı testi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "2. 2.Uçak sistemlerindeki veri yollarının bakımını yapma. / 3. Tipik elektronik hava aracı sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Uçak sistemlerindeki veriyollarının bakımını yapar.\nTipik elektronik hava aracı sistemlerini çalıştırarak test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nVeriyolu kablolarının süreklilik kontrolü yapılır.\n•\nTipik elektronik hava aracı sistemlerinin çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "3. Tipik elektronik hava aracı sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Tipik elektronik hava aracı sistemlerini çalıştırarak test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTipik elektronik hava aracı sistemlerinin testleri yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "4. 4.Entegre modüler aviyonikleri çalıştırma.",
+      "KAZANIM": "Entegre modüler aviyonikleri çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEntegre modüler aviyoniklerin çalışması açıklanır.\n•\nEntegre modüler aviyonikleri test edilir.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "5. Kabin sistemlerinin bakım onarımını yapma.",
+      "KAZANIM": "Kabin sistemlerinin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKabin sistemlerinin çalışması açıklanır.\n•\nKabin sistemleri çalıştırılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "5. Kabin sistemlerinin bakım onarımını yapma. / 6. Enformasyon sistemlerinin bakım onarımını yapma.",
+      "KAZANIM": "Kabin sistemlerinin bakım onarımını yapar.\nEnformasyon sistemlerinin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKabin sistemlerinin testleri yapılır.\n•\nEnformasyon sistemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "6. Enformasyon sistemlerinin bakım onarımını yapma.",
+      "KAZANIM": "Enformasyon sistemlerinin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nEnformasyon sistemlerinin testleri yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Duran dalga oranı,ses şiddeti hesaplamalarını yapma.\n2. Veriyolu kablolarının süreklilik kontrolünü yapma.\n3. Tipik elektronik hava aracı sistemlerini çalıştırıp testini yapma.\n4. Entegre modüler aviyonikleri çalıştırıp test etme.\n5. Kabin sistemlerini çalıştırıp testini yapma.\n6. Enformasyon sistemlerini çalıştırıp test etme."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "1. Optik sistemleri inceleyerek çalıştırma. / 2. Fiber optik bağlantıları yapma.",
+      "KAZANIM": "Formül ve kavramları doğru kullanarak optik sistemleri inceleyip çalıştırır.\nFiber optik bağlantıları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nIşık kaynaklarını çalıştırılır.\n•\nKırılma ve yansıma kanunlarını kullanarak hesaplamalar yapılır.\n•\nFiber optik sistem ile ilgili hesaplamalar yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Işık kaynaklarını çalıştırıp kırılma ve yansıma kanunlarına göre hesaplama yapma\n2. Fiber optik kablo testlerini yapma.\n3. Optik sensör ölçümlerini yapma.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "2. Fiber optik bağlantıları yapma.",
+      "KAZANIM": "Fiber optik bağlantıları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFiber optik kablo testleri yapılır.\n•\nFiber optik konnektörlerin bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Işık kaynaklarını çalıştırıp kırılma ve yansıma kanunlarına göre hesaplama yapma\n2. Fiber optik kablo testlerini yapma.\n3. Optik sensör ölçümlerini yapma.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "3. Fiber optik sistemleri hava aracı üzerinde kullanma.",
+      "KAZANIM": "Fiber optik sistemleri hava aracı üzerinde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nFly-by-light uçuş kontrol sistemleri açıklanır.\n•\nFiber optiklerin uçak sistemlerindeki uygulamalarını bakım dokümanlarında Aircraft Maintenance Manuel (AMM) belirtildiği gibi yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Işık kaynaklarını çalıştırıp kırılma ve yansıma kanunlarına göre hesaplama yapma\n2. Fiber optik kablo testlerini yapma.\n3. Optik sensör ölçümlerini yapma.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "3. Fiber optik sistemleri hava aracı üzerinde kullanma.",
+      "KAZANIM": "Fiber optik sistemleri hava aracı üzerinde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOptik olan ve olmayan sensörler çalıştırılır.\n•\nOptik olan ve olmayan sensör ölçümleri yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Işık kaynaklarını çalıştırıp kırılma ve yansıma kanunlarına göre hesaplama yapma\n2. Fiber optik kablo testlerini yapma.\n3. Optik sensör ölçümlerini yapma."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Kabin Bakım",
+      "KONU": "1. Temel bilgisayar yapılarını çalıştırarak test etme.",
+      "KAZANIM": "Temel bilgisayar yapılarını çalıştırıp test eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nBilgisayarların donanımları ile ilgili her türlü işlemi yaparken bilgisayarın enerjisini tamamen kestiğinizden emin olunuz.\n•\nBilgisayar RAM belleklerine çıplak elle temas etmemeye özen gösteriniz veya ESD bileklik takınız.\n•\nBilgisayar iç donanımlarının bağlantısını yapılır ve çalışma testleri uygulanır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Bilgisayar iç donanımlarının çalışma testlerini yapma.\n2. Merkezi bakım bilgisayarı testini yapma."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Kabin Bakım",
+      "KONU": "1. Temel bilgisayar yapılarını çalıştırarak test etme. / 2. Yerleşik bakım sistemlerinin bakım onarımını yapma.",
+      "KAZANIM": "Temel bilgisayar yapılarını çalıştırıp test eder.\nYerleşik bakım sistemlerinin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHafıza üniteleri çalıştırılır.\n•\nMCDU genel yapısı ve menüler incelenir.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Bilgisayar iç donanımlarının çalışma testlerini yapma.\n2. Merkezi bakım bilgisayarı testini yapma."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Kabin Bakım",
+      "KONU": "2. Yerleşik bakım sistemlerinin bakım onarımını yapma.",
+      "KAZANIM": "Yerleşik bakım sistemlerinin bakım onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nMerkezi bakım bilgisayarı çalıştırılır.\n•\nMerkezi bakım bilgisayarı testi yapılır.",
+        "Ortam ve Donanım": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Öğretim Teknikleri": "Ortam: Dijital uygulamalar atelyesi\nDonanım: Ölçü aletlerİ, lojik kapılar için eğitim setleri, kokpit eğitim setleri,uçak simülasyon cihazı, ESD bilekliği, ESD tester, meğer cihazı, antistatik materyaller, temel bilgisayar bileşenleri,vb.\nAkıllı tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, görseller sağlanmalıdır.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Öğrenci bilişsel beceri düzeyindeki kazanımların ölçülmesinde ise açık uçlu, çoktan seçmeli, kısa cevaplı, eşleştirmeli ve doğru yanlış tipi ölçme araçları kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir",
+        "Temrin Listesi": "1. Bilgisayar iç donanımlarının çalışma testlerini yapma.\n2. Merkezi bakım bilgisayarı testini yapma."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "İleri Plc Uygulamaları",
+  "grup": "Meslek Dersleri",
+  "brans": "Endüstriyel Otomasyon",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/endustriyel-otomasyon/504/ileri-plc-uygulamalari-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Veri tipleri, analog işlemler ve karşılaşılaştırma işlemleri",
+      "KAZANIM": "Veri tipleri, analog işlemler ve karşılaşılaştırma işlemlerini yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bool, Byte, Word ve Dwords, tam sayı (Integer), sabit olmayan, noktalı gerçek (Real) sayı veri tipleri açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Veri tipleri, analog işlemler ve karşılaşılaştırma işlemleri",
+      "KAZANIM": "Veri tipleri, analog işlemler ve karşılaşılaştırma işlemlerini yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog çıkış adreslemeleri, sinyal türleri (akım-gerilim), sinyal işleme, dijital karşılıkları ve komutları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Mantıksal operatörler, matematiksel ve çevirme işlemleri",
+      "KAZANIM": "Mantıksal operatörler, matematiksel ve çevirme işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AND (VE), OR (VEYA) Komutu,XOR(ÖZEL VEYA), INVERT (TERS ÇEVİRME) komutları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Mantıksal operatörler, matematiksel ve çevirme işlemleri",
+      "KAZANIM": "Mantıksal operatörler, matematiksel ve çevirme işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ADD (Toplama), SUB (çıkarma), MUL (Çarpma), DIV (Bölme), INC (INCREMENT) (Değeri artırma), DEC (DECREMENT) (Değeri azaltma), ABS (Mutlak Değer Alma),MIN,MAX, SQR (Kare Alma), SQRT (Karekök Alma), SIN (Açının Sinüsünü Alma), COS (Açının Kosinüsünü alma ), TAN (Açının Tanjantını alma) komutları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Mantıksal operatörler, matematiksel ve çevirme işlemleri",
+      "KAZANIM": "Mantıksal operatörler, matematiksel ve çevirme işlemleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CONV (CONVERT) (Çevirme / Dönüştürme ), ROUND (Tam sayılara yuvarlama ), CEIL (Üst tam sayıya yuvarlama), FLOOR (Alt tam sayıya yuvarlama), SCALE_X (Ölçek_X), NORM_X(Normalize_X) komutları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "SHIFT(Kaydırma), ROTATE (Döndürme), MOVE(taşıma), komutları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "İşlemsel fonksiyonlar",
+      "KONU": "Kaydırma, döndürme, taşıma, program kontrol fonksiyonları",
+      "KAZANIM": "Kaydırma, döndürme, taşıma, program kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "JMP (JUMP) (Atlama-Sıçrama), LABEL (Etiket), SWITCH (Anahtar komutu), RET(Geri dönüş)",
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile karşılaştırıcı komutları ile ilgili uygulama yapmak.\nPLC ile mantıksal komutları ile ilgili uygulama yapmak.\nPLC ile veri taşıma komutları ile ilgili uygulama yapmak.\nPLC ile veri döndürme komutları ile ilgili uygulama yapmak.\nPLC ile veri kaydırma komutları ile ilgili uygulama yapmak.\nPLC ile dönüştürme komutları ile ilgili uygulama yapmak.\nPLC ile matematiksel komutları ile ilgili uygulama yapmak.\nOrtam sıcaklığına göre uygun sayıda motor çalıştırma deneyi yapmak.\nBasınca bağlı olarak kompresör kontrol uygulaması yapmak.\nİstenilen uzunlukta ürün oluşturma/kesme uygulaması yapmak.\nKazan sıvı seviyesine göre pompa kontrol uygulaması yapmak.\nZamana bağlı olarak motor hız kontrolü uygulaması yapmak.\nOrtam sıcaklığına bağlı olarak motor hız kontrolü uygulaması yapmak.\nOransal valf ile piston konumunu ayarlama uygulaması yapmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "Organizasyon blokları ve fonksiyon blokları",
+      "KAZANIM": "Organizasyon blokları ve fonksiyon bloklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "Organizasyon blokları ve fonksiyon blokları",
+      "KAZANIM": "Organizasyon blokları ve fonksiyon bloklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "Organizasyon blokları ve fonksiyon blokları",
+      "KAZANIM": "Organizasyon blokları ve fonksiyon bloklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "Fonksiyon ve data blok",
+      "KAZANIM": "Fonksiyon ve data blokları açıkalar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "Fonksiyon ve data blok",
+      "KAZANIM": "Fonksiyon ve data blokları açıkalar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "Fonksiyon ve data blok",
+      "KAZANIM": "Fonksiyon ve data blokları açıkalar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "TCP/IP haberleşme",
+      "KAZANIM": "Plc ile TCP/IP protekolü kullanarak haberleşme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "TCP/IP haberleşme",
+      "KAZANIM": "Plc ile TCP/IP protekolü kullanarak haberleşme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "TCP/IP haberleşme",
+      "KAZANIM": "Plc ile TCP/IP protekolü kullanarak haberleşme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "TCP/IP haberleşme",
+      "KAZANIM": "Plc ile TCP/IP protekolü kullanarak haberleşme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Fonksiyonlar, Fonksiyon Blokları, haberleşme",
+      "KONU": "TCP/IP haberleşme",
+      "KAZANIM": "Plc ile TCP/IP protekolü kullanarak haberleşme işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile organizasyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon blokları ile ilgili uygulama yapmak.\nPLC ile fonksiyon ile ilgili uygulama yapmak.\nPLC ile data blok ile ilgili uygulama yapmak.\nTCP/IP protokolü ile PLC haberleşmesini sağlamak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Doğru akım motoru ve step motor kontrolü",
+      "KAZANIM": "Doğru akım motoru ve step motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Doğru akım motoru ve step motor kontrolü",
+      "KAZANIM": "Doğru akım motoru ve step motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Doğru akım motoru ve step motor kontrolü",
+      "KAZANIM": "Doğru akım motoru ve step motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Doğru akım motoru ve step motor kontrolü",
+      "KAZANIM": "Doğru akım motoru ve step motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Servo motor kontrolü",
+      "KAZANIM": "AC Servo motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Servo motor kontrolü",
+      "KAZANIM": "AC Servo motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Servo motor kontrolü",
+      "KAZANIM": "AC Servo motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Servo motor kontrolü",
+      "KAZANIM": "AC Servo motor kontrolü yapar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Operatör paneli programlama",
+      "KAZANIM": "Operatör paneli ve operatör paneli programlar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Operatör paneli programlama",
+      "KAZANIM": "Operatör paneli ve operatör paneli programlar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Operatör paneli programlama",
+      "KAZANIM": "Operatör paneli ve operatör paneli programlar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Motor kontrol uygulamaları",
+      "KONU": "Operatör paneli programlama",
+      "KAZANIM": "Operatör paneli ve operatör paneli programlar",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Öğretim Teknikleri": "Ortam: Ardışık Kontrol atölyesi\nDonanım: Otomatik kumanda deney seti, PLC devre elemanları, operatör panelleri, PLC haberleşme kablosu, haberleşme arayüzü, sensörler, sensör katalogları, elektropnömatik devre elemanları, oransal valfi, dc motor, AC servo motor, step motor sürücüsü, step motor.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı, kontrol listesi gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Dc motor yön kontrolü yapmak\nDc motor hız kontrolü yapmak.\nStep motorun özelliklerini incelemek ve çalıştırmak.\nStep motorun besleme ve haberleşme kablolarının bağlantılarını yapmak.\nStep motorun temel parametre ayarlarını yapmak.\nLimit switch ve home pozisyonu sensörlerinin kablo bağlantılarını yapmak.\nPLC ile step motorun pozisyon ve hız kontrol uygulamalarını yapmak.\nOperatör panelinin özelliklerini incelemek.\nOperatör panelinde bir proje oluşturmak.\nOperatör paneli ile PLC bağlantı ayarlarını yapmak.\nOperatör panelinde birden fazla ekran oluşturmak ve ekranlar arası geçiş yapmak.\nOperatör panelinde bir buton ile PLC'deki çıkış kontrol uygulaması yapmak.\nOperatör panelinde butonlar ile PLC'deki çıkışları kontrol etmek ve çıkışları görsel olarak izlemek.\nSıcaklık, basınç, kazan seviyesi gibi analog değerleri operatör panelinde takip etmek.\nFonksiyon tuşlarına görev atamak.\nOperatör panele yazılım yüklemek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

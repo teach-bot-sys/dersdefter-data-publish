@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Kontrol Panoları",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/290/kontrol-panolari-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Endüstriyel Sensörler ve Özellikleri",
+      "KAZANIM": "Endüstriyel sensörlerin özelliklerini, tiplerini ve çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sensörlerin özellikleri açıklanır.\nSensörlerin kullanıldıkları yerler açıklanır.\nSensörlerin tipleri (NPN-PNP) bağlantı şekli ile açıklanır.\nSensörlerin çeşitleri (2, 3 veya 4 kablolu) bağlantıları ile açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörlü devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dijital çıkışlı sensörlerin özellikleri açıklanır.\nDijital çıkışlı sensörlerin çeşitleri sıralanır.\nİndüktif sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörlü devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kapasitif sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nManyetik sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nOptik sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Dijital Çıkışlı Sensörler / Analog Çıkışlı Sensörler",
+      "KAZANIM": "Dijital çıkışlı sensörlü devreleri yapar.\nAnalog çıkışlı sensörlü devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Renk sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nEnkoderlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nAnalog çıkışlı sensörlerin özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Analog Çıkışlı Sensörler",
+      "KAZANIM": "Analog çıkışlı sensörlü devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog çıkışlı sensörlerin çeşitleri sıralanır.\nSıcaklık sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nBasınç sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Analog Çıkışlı Sensörler / Sinyal Çeviriciler",
+      "KAZANIM": "Analog çıkışlı sensörlü devreleri yapar.\nSinyal çeviricili devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mesafe (ultrasonik ve lazer) sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nSeviye sensörlerin yapısı, çalışması, bağlantısı, avantaj ve dezavantajları açıklanır.\nSinyal çeviricilerin yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Endüstriyel Sensörler",
+      "KONU": "Sinyal Çeviriciler",
+      "KAZANIM": "Sinyal çeviricili devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sinyal çeviricilerin çeşitleri açıklanır.\nSinyal çeviricilerin kullanım alanları sıralanır.\nSinyal çeviricilerin röleli sistemlere göre avantajları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Çeşitli NPN-PNP sensör deneyleri yapmak\nİndüktif sensör uygulaması yapmak\nKapasitif sensör uygulaması yapmak\nManyetik sensör uygulaması yapmak\nOptik sensör uygulaması yapmak\nRenk sensör uygulaması yapmak\nEnkoder uygulaması yapmak\nSıcaklık sensörü uygulaması yapmak\nBasınç sensörü uygulaması yapmak\nMesafe (ultrasonik) sensörü uygulaması yapmak\nMesafe (lazer) sensörü uygulaması yapmak\nBir sensörün çıkış sinyalinin sinyal çevirici ile çevrilmesini yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Özel Tip Kumanda ve Kontrol Röleleri",
+      "KAZANIM": "Özel tip kumanda ve kontrol röleleri panolarını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Zaman rölelerinin programlanması açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Özel Tip Kumanda ve Kontrol Röleleri",
+      "KAZANIM": "Özel tip kumanda ve kontrol röleleri panolarını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıvı Seviye Rölesi ile Pompa Kontrolü",
+      "KAZANIM": "Sıvı seviye rölesi ile pompa kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıcaklık Kontrol Cihazları ve Isıtma Sistemi Kontrolü",
+      "KAZANIM": "Sıcaklık kontrol cihazı ile ısıtma sistemi kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıcak kontrol cihazının program ve ayarları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıcaklık Kontrol Cihazları ve Isıtma Sistemi Kontrolü",
+      "KAZANIM": "Sıcaklık kontrol cihazı ile ısıtma sistemi kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıcaklık Kontrol Cihazları ve Isıtma Sistemi Kontrolü",
+      "KAZANIM": "Sıcaklık kontrol cihazı ile ısıtma sistemi kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıcaklık Kontrol Cihazları ve Isıtma Sistemi Kontrolü",
+      "KAZANIM": "Sıcaklık kontrol cihazı ile ısıtma sistemi kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıcaklık Kontrol Cihazları ve Isıtma Sistemi Kontrolü",
+      "KAZANIM": "Sıcaklık kontrol cihazı ile ısıtma sistemi kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Proses Kontrollü Panolar",
+      "KONU": "Sıcaklık Kontrol Cihazları ve Isıtma Sistemi Kontrolü",
+      "KAZANIM": "Sıcaklık kontrol cihazı ile ısıtma sistemi kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Fotosel röle kontrollü dış aydınlatma panosu montajı\nProgramlanabilir zaman saati ayarlarını yapma\nProgramlanabilir zaman saati ile dış aydınlatma kontrol panosu montajı\nÇift çıkışlı programlanabilir zaman saati ile hafta içi ve hafta sonu farklı lamba gruplarının çalıştırıldığı dış aydınlatma kontrol panosu montajı\nProgramlanabilir zaman saati ile havalandırma motoru kontrol panosu montajı\nÇok fonksiyonlu zaman rölesi ile bir asenkron motorun devir yönü değişimi\nÇok fonksiyonlu zaman rölesi ile iki asenkron motorun periyodik çalıştırılması\nÇok fonksiyonlu zaman rölesi ile asenkron motorun yıldız üçgen çalıştırılması\nSıvı seviye rölesi ile pompa kontrol panosu montajı\nSıcaklık kontrol cihazı ile ısıtma sistemi kontrol panosu montajı",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Özellikleri",
+      "KAZANIM": "PLC'nin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'nin tanımı yapılır.\nPLC yapısı ve çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Özellikleri",
+      "KAZANIM": "PLC'nin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC kullanım alanları sıralanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Özellikleri",
+      "KAZANIM": "PLC'nin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC giriş ve çıkış adreslemeleri açıklanır.\nPLC programının yürütülmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Özellikleri",
+      "KAZANIM": "PLC'nin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC seçiminde dikkat edilecek hususlar sıralanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Şemaları Çizimi",
+      "KAZANIM": "PLC şemalarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC devre sembollerinin çizimi açıklanır.\nPLC besleme bağlantısının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Şemaları Çizimi",
+      "KAZANIM": "PLC şemalarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC giriş eleman ve bağlantılarının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Şemaları Çizimi",
+      "KAZANIM": "PLC şemalarını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC çıkış eleman ve bağlantılarının çizimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Şemaları Çizimi / PLC Besleme Bağlantıları",
+      "KAZANIM": "PLC şemalarını çizer.\nPLC güç kaynağı ve besleme bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC giriş ve çıkış bağlantıları açıklanır.\nPLC besleme gerilimine göre DC kaynak kullanımı açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Besleme Bağlantıları",
+      "KAZANIM": "PLC güç kaynağı ve besleme bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Giriş ve Çıkış Elemanları Bağlantıları",
+      "KAZANIM": "PLC giriş ve çıkış elemanlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Giriş elemanlarının bağlantı şekli açıklanmalıdır.\nPNP ve NPN tipi sensörün PLC girişine bağlantısı açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Giriş ve Çıkış Elemanları Bağlantıları",
+      "KAZANIM": "PLC giriş ve çıkış elemanlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "Dijital ve Analog Modüller ve Modül Bağlantıları",
+      "KAZANIM": "PLC ile dijital ve analog modülü ve giriş çıkış elemanlarının bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dijital veya analog modüllerin PLC ye bağlantısı ve modüllere Çevre elemanlarının bağlantısı açıklanmalıdır.\nYapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Programlama, Program Yükleme ve Programı Yedekleme",
+      "KAZANIM": "PLC'ye programını yükler ve PLC programını yedekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC programlama editörü kullanımı becerisi kazandırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "PLC Kontrollü Panolar",
+      "KONU": "PLC Programlama, Program Yükleme ve Programı Yedekleme",
+      "KAZANIM": "PLC'ye programını yükler ve PLC programını yedekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PC ve PLC haberleşme ayarları açıklanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Şebeke gerilimi ile direk beslenen PLC bağlantıları\nDC güç kaynağı ile beslenen PLC bağlantıları\nPLC giriş elemanlarının bağlantısı\nPLC nin çıkışına çok kontaklı röle montaj ve bağlantıları\nPNP ve NPN sensörlerin PLC ye bağlantıları\nDijital ve analog modüllerin PLC ye bağlantısı\nDijital modüle giriş ve çıkış elemanlarının bağlantısı\nPLC çıkışlarına çok kontaklı röle, röle çıkışına kontaktör ve bir asenkron motorun bağlantısının yapılması ve programlanması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak bir asenkron motorun zaman ayarlı çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak birden fazla asenkron iki farklı merkezden çalıştırılması\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak asenkron motorun devir yönünün değiştirilmesi\nPLC çıkışlarının röle-kontaktör beslemesi şeklinde bağlanarak değişik sistem uygulamalarının yapılması\nAnalog modüle sensörlerin bağlantısı\nAnalog giriş sinyaline göre birden fazla çıkışın kontrol edildiği programın yapılması ve bağlantıları",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "AC Motor Sürücüleri ve PLC Bağlantıları",
+      "KONU": "AC Motor Sürücüleri ve PLC ile Bağlantısı",
+      "KAZANIM": "PLC ve AC motor sürücüsünün bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AC motor sürücüsünü topraklama bağlantısının yapıldığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile AC motor besleme ve giriş çıkış bağlantıları\nAnalog değer ile asenkron motorun hız ayarı",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "AC Motor Sürücüleri ve PLC Bağlantıları",
+      "KONU": "AC Motor Sürücüleri ve PLC ile Bağlantısı",
+      "KAZANIM": "PLC ve AC motor sürücüsünün bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AC motor sürücüsü giriş gerilimine uygun olarak (bir faz, üç faz) faz bağlantısının yapıldığı kontrol edilmelidir.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile AC motor besleme ve giriş çıkış bağlantıları\nAnalog değer ile asenkron motorun hız ayarı",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "AC Motor Sürücüleri ve PLC Bağlantıları",
+      "KONU": "AC Motor Sürücüleri ve PLC ile Bağlantısı",
+      "KAZANIM": "PLC ve AC motor sürücüsünün bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile AC motor besleme ve giriş çıkış bağlantıları\nAnalog değer ile asenkron motorun hız ayarı"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "AC Motor Sürücüleri ve PLC Bağlantıları",
+      "KONU": "AC Motor Sürücüsünün PLC Analog Çıkışı ile Sürülmesi",
+      "KAZANIM": "AC motor sürücüsünü PLC analog çıkışı ile sürer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC analog çıkış ile AC motor Analog giriş bağlantısı üretici kataloğuna uygun olarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile AC motor besleme ve giriş çıkış bağlantıları\nAnalog değer ile asenkron motorun hız ayarı"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "AC Motor Sürücüleri ve PLC Bağlantıları",
+      "KONU": "AC Motor Sürücüsünün PLC Analog Çıkışı ile Sürülmesi",
+      "KAZANIM": "AC motor sürücüsünü PLC analog çıkışı ile sürer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile AC motor besleme ve giriş çıkış bağlantıları\nAnalog değer ile asenkron motorun hız ayarı"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "AC Motor Sürücüleri ve PLC Bağlantıları",
+      "KONU": "AC Motor Sürücüsünün PLC Analog Çıkışı ile Sürülmesi",
+      "KAZANIM": "AC motor sürücüsünü PLC analog çıkışı ile sürer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yapılacak devreler pano içerisinde kablo numaratörü, kablo yüzüğü ve sıra klemensleri kullanılarak yapılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Öğretim Teknikleri": "Ortam: Pano ve Otomasyon Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, elektrik panosu, asenkron motor, kumanda devre elemanları, PLC, sensörler, AC motor sürücüsü, pano malzemeleri, ölçü aletleri, meger, kâğıt ve kalem.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC ile AC motor besleme ve giriş çıkış bağlantıları\nAnalog değer ile asenkron motorun hız ayarı"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

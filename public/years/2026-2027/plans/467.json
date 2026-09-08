@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Oyun Programlama",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/467/oyun-programlama-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Oyun geliştirme uygulaması temel ara yüzünün tanıtılması / Oyun Uygulamasında Temel Kodlama",
+      "KAZANIM": "Oyun uygulamasında temel kodlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Program kurulumunu yaptırır.\nKod düzenleyici kurulumu yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Oyun Uygulamasında Temel Kodlama / Kullanıcı Etkileşim İşlemleri",
+      "KAZANIM": "Oyun uygulamasında temel kodlama yapar.\nKullanıcı etkileşim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kod içinde böcek ayıklamayı yaptırır.\nProgramda yer alan sahne, oyun önizleme, hiyerarşi,Project, nesne özelliklerinin barındığı inspector bölümlerini tanır.\nSahneye temel objeler ekler.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Kullanıcı Etkileşim İşlemleri",
+      "KAZANIM": "Kullanıcı etkileşim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eklenen objelere materyal atayabilir.\nSahneye zemini oluşturacak nesne/terrain ekleyip düzenleyebilir.\nPrograma ait kütüphaneden oyun dosyaları aktarır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Kullanıcı Etkileşim İşlemleri",
+      "KAZANIM": "Kullanıcı etkileşim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kod/Script dosyalarının nesnelere nasıl bağladığını bilir.\nDeğişkenler ile ilgili uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Kullanıcı Etkileşim İşlemleri",
+      "KAZANIM": "Kullanıcı etkileşim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yerel ve global değişkenin oyun önizlemesinde sağladığı kolaylığı bilir.\nEğer (if) komutu ile ilgili uygulama yaptırır.\nTuş basımlarını yakalama ve fare (oyun çubuğu, sanal gözlük) hareketlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Kullanıcı Etkileşim İşlemleri",
+      "KAZANIM": "Kullanıcı etkileşim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Fonksiyon yapımını uygulamada yaptırır.\nSahne yükleme/kaydetme, menü yapımı, ayarlar ve oyundan çıkışı ile ilgili uygulama yaptırır.\nEkran filtreleri (post processing) ile oyuna grafik etkileri eklemeyi yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Programlama Temelleri",
+      "KONU": "Kullanıcı Etkileşim İşlemleri",
+      "KAZANIM": "Kullanıcı etkileşim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Nesne çarpışma (collider) ve tetiklenmesini (trigger) yaptırır.\nCoroutine (yardımcı yordam) uygulaması yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Program kurulumunu yapmak\nKod düzenleyici kurulumu yapmak\nKodlama temellerini oluşturmak\nKod içinde böcek ayıklamayı yapmak\nTuş basımlarını yakalamak\nFare hareketlerini yapmak\nFonksiyon yapmak\nEğer (if) komutunu yapmak\nKullanıcı ara yüzü kullanımını yapmak\nSahne yükleme ve oyundan çıkışı yapmak\nNesne çarpışma ve tetiklenmesini gerçekleştirmek",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Senaryo Oluşturma",
+      "KAZANIM": "Senaryo Oluşturma adımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hali hazırda oynan oyun türleri hakkında araştırmalar yaparak kendi oyun senaryosu için bir plan taslağı hazırlar.\nMüzik, resim, video referansları araştırarak taslak yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Resim Düzenleme",
+      "KAZANIM": "Resim Düzenleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Resim türleri dönüşümlerini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Resim Düzenleme",
+      "KAZANIM": "Resim Düzenleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sprite (hareketli resimler) tasarlamayı yaptırır.\nSaydam arka plan ve benzeri nesne yapımlarını uygulatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Resim Düzenleme",
+      "KAZANIM": "Resim Düzenleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doku hazırlama uygulamalarını bilir.(Photoshop, Substance Distance)",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Resim Düzenleme",
+      "KAZANIM": "Resim Düzenleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doku kaplama ve boyama temellerini uygulamalı yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Üç Boyutlu Modelleme",
+      "KAZANIM": "Üç Boyutlu Modelleme adımlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Üç boyutlu modelleme uygulamalarını tanır. (Auto Desk 3D max, Autodesk Maya, Blender,Zbrush,Sculptris, ADOBE Fuse, vb.)\nÜç boyutlu hazır karakter ve animasyon desteği sunan programları bilir(Adobe mixamo vb).",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Üç Boyutlu Modelleme",
+      "KAZANIM": "Üç Boyutlu Modelleme adımlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Katı modellemede düşük çokgenler ile nesne yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Üç Boyutlu Modelleme",
+      "KAZANIM": "Üç Boyutlu Modelleme adımlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Araç, doğa, insan gibi nesnelerin modellemesini ve renklendirilmesini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Üç Boyutlu Modelleme / Oyun Programına Aktarma",
+      "KAZANIM": "Üç Boyutlu Modelleme adımlarını uygular.\nOyun Programına Aktarma adımlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hazır modelleri bulabileceği ortamları tanır.\nOluşturulan resim ve nesnelerin düzenlenmesini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Oyun Programına Aktarma",
+      "KAZANIM": "Oyun Programına Aktarma adımlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Proje içine nasıl ekleneceğini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Karakter ve Çevre Düzenleme",
+      "KONU": "Oyun Programına Aktarma",
+      "KAZANIM": "Oyun Programına Aktarma adımlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tekrar kullanılabilir nesne (prefab) oluşturmayı yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Oyun konu ve türünü seçimini yapmak\nKendi hazırladığı hikâyeyi yapmak\nOyun içindeki temel kuralları belirlemek\nBaşarı, görev sistemi ve sağlık etkilerini yapmak\nResim türlerinin kullanmak\nSprite (hareketli resimler) oluşturmak\nSaydam arka plan ve benzeri nesne yapmak\nDoku kaplama ve boyama temellerini yapmak\nModelleme dosya türlerini kullanmak\nKatı modellemede düşük çokgenler ile nesne yapmak\nOluşturulan resim ve nesnelerin düzenlemek\nProje içine nesneleri eklemek"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Oyunda Animasyon",
+      "KAZANIM": "Oyunda Animasyon işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oyun içine tanıtım veya hikâye ile ilgili sinematik (cinematics)eklemeyi yaptırır.\nTekrarlı olan animasyonları (tween) eklemeyi yaptırır.\nKodlama ile animasyonu kontrol etmeyi yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Oyunda Animasyon / Simülasyon",
+      "KAZANIM": "Oyunda Animasyon işlemlerini yapar.\nSimülasyon işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Karakterin hareketlendirilmesini ve etkileşime girmesini yaptırır.\nÇevredeki nesnelerin (kapı, düğme, sandık gibi)hareketlendirilmesi, hasar görmesi, kırılma etkisini yaptırır.\nÇeşitli etkileri içeren uygulama yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Karakter ve Çevre Oluşturma",
+      "KAZANIM": "Karakter ve Çevre Oluşturma işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güneş, ışık türleri ve etkileri gösterir.\nBirden fazla kamera kullanmayı gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Karakter ve Çevre Oluşturma",
+      "KAZANIM": "Karakter ve Çevre Oluşturma işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanıcı ara yüzüne kuşbakışı harita eklemeyi gösterir.\nGerçek zamanlı yansımalar (ReflectionProbes) eklemeyi yaptırır.\nBitki (ağaç, çimen gibi), hayvan ve diğer doğa nesnelerinin eklenmesini yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Karakter ve Çevre Oluşturma",
+      "KAZANIM": "Karakter ve Çevre Oluşturma işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Diğer oyuncular ile iletişim ve diyalog pencereleri yapımını yaptırır.\nGece ve gündüz gibi zaman ilerlemesi etkilerini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Karakter ve Çevre Oluşturma / Ses Ekleme",
+      "KAZANIM": "Karakter ve Çevre Oluşturma işlemlerini yapar.\nSes Ekleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Binalar (içine girilebilir veya sadece görüntü), yollar, trafik lambaları gibi şehir nesnelerini eklemeyi yaptırır.\nHava, kara ve su araçlarını kullanmayı gösterir.\nSes dosyaları türleri ve dönüşümlerini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Oyunda Animasyon",
+      "KONU": "Ses Ekleme",
+      "KAZANIM": "Ses Ekleme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkileşimde ses etkilerini gösterir.\nArka plana müzik eklemeyi gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Tekrarlı animasyon ekleme yapmak\nHasar ve kırılma etkili uygulama yapmak\nÇevre ve doğa koşullarını içeren uygulama yapmak\nKuşbakışı harita uygulaması yapmak\nİletişim ve diyalog pencereleri uygulaması yapmak.\nZaman etkileri uygulaması yapmak.\nŞehir nesneleri uygulaması yapmak.\nTaşıtları kullanma uygulaması yapmak.\nArka plana müzik ekleme uygulaması yapmak.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Yapay Zekâ ve Çok Oyuncu Desteği",
+      "KAZANIM": "Yapay Zekâ ve Çok Oyuncu Desteği işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oyuncu dışındaki karakterlerin (NPC – nonplayercharacter) yapay zekâ (navigation, pathfinding) ile etkileşimlerini gösterir.\nYerel ağda birlikte oyun oynamayı yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Yapay Zekâ ve Çok Oyuncu Desteği",
+      "KAZANIM": "Yapay Zekâ ve Çok Oyuncu Desteği işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İnternet üzerinden oynanabilen oyun yapımını yaptırır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Yapay Zekâ ve Çok Oyuncu Desteği",
+      "KAZANIM": "Yapay Zekâ ve Çok Oyuncu Desteği işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alışveriş ve nesne yapma (crafting) sistemlerinin yapımını gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Test Etme ve İyileştirme",
+      "KAZANIM": "Test Etme ve İyileştirme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oyun oynanışını test etmeyi gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Test Etme ve İyileştirme",
+      "KAZANIM": "Test Etme ve İyileştirme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oyun içi reklam ve analiz desteğini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Test Etme ve İyileştirme",
+      "KAZANIM": "Test Etme ve İyileştirme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oyun içi ve çevrimiçi olarak yardım eklemeyi gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Test Etme ve İyileştirme",
+      "KAZANIM": "Test Etme ve İyileştirme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oyunun bellek, grafik ve oynanış olarak iyileştirilmesi ile ilgili düzenlemeleri gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Derleme ve Yayımlama",
+      "KAZANIM": "Derleme ve Yayımlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Derlenebilen platform türlerini (Windows, Linux, WebGL, Android, iOS)gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Derleme ve Yayımlama",
+      "KAZANIM": "Derleme ve Yayımlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Artırılmış, Sanal ve Karma Gerçeklik(VR, AR, XR) türlerini gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Derleme ve Yayımlama",
+      "KAZANIM": "Derleme ve Yayımlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygulama marketlerine uygulamayı eklemeyi gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Oyun Oluşturma ve Yayınlama",
+      "KONU": "Derleme ve Yayımlama",
+      "KAZANIM": "Derleme ve Yayımlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güncelleme ve yama eklemeyi gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar (harici ekran kartı, hoparlör, güncel donanım), yazıcı/tarayıcı, Switch (internet)",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternet üzerinden oynanabilen oyun yapmak.\nUygulama marketlerine hazırlanan oyunu eklemek"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

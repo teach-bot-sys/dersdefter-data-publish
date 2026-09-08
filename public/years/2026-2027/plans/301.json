@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Aydınlatmada Güvenlik Ve Verim",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/301/aydinlatmada-guvenlik-ve-verim-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Elektromanyetik Direktifi (EMC) / Alçak Gerilim Direktifi (LVD)",
+      "KAZANIM": "Elektromanyetik direktifi (EMC) kapsamını açıklar.\nAlçak gerilim direktifi (LVD) kapsamını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "EMC nin tanımı ve önemi açıklanır.\nLVD nin tanımı ve önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Eko Tasarım ve Enerji Etiketlemesi Direktifi",
+      "KAZANIM": "Eko tasarım ve enerji etiketlemesi direktifi kapsamını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eko tasarım ve enerji etiketlemesinin kapsam ve önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Eko Tasarım ve Enerji Etiketlemesi Direktifi",
+      "KAZANIM": "Eko tasarım ve enerji etiketlemesi direktifi kapsamını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerinde ışık kaynağı sürücü ve armatörlerin enerji sınıfı hesaplamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Aydınlatma Ekipmanlarında CE İşaretlemesi",
+      "KAZANIM": "Aydınlatma ekipmanlarında CE işaretlemesi için gereklilikleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CE kapsamı ve önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Aydınlatma Ekipmanlarında CE İşaretlemesi",
+      "KAZANIM": "Aydınlatma ekipmanlarında CE işaretlemesi için gereklilikleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "CE belgelendirmesinin aydınlatma ürünlerine getirdiği standartlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Aydınlatma Ekipmanlarında CE İşaretlemesi",
+      "KAZANIM": "Aydınlatma ekipmanlarında CE işaretlemesi için gereklilikleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma ürünlerin teknik dosya üzerinden CE onayının sorgulanması (Alçak gerilim direktifi, Elektromanyetik direktifi, Eko tasarım direktifi, Enerji etiketlemesi direktifi, Rosh-Reach direktifi, AEEE atık yönetimi direktifi) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "TSE İşaretlemesi",
+      "KAZANIM": "TSE işaretlemesi için gereklilikleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "TSE işaretlemesi kapsam ve önemini açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "TSE İşaretlemesi",
+      "KAZANIM": "TSE işaretlemesi için gereklilikleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "TSE belgelendirmesinin aydınlatma ürünlerine getirdiği standartlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "TSE İşaretlemesi",
+      "KAZANIM": "TSE işaretlemesi için gereklilikleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma ürünlerin teknik dosya üzerinden TSE onayının sorgulanması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Akredite Laboratuvar",
+      "KAZANIM": "Akredite laboratuvarlarda yapılan kalibrasyon işlemlerini ve gerekliliğini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerinin ölçümlerinde kullanılan cihazların kalibrasyonu ve kalibrasyonu yapılan cihazlardaki etiket ve raporun önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarında Standart ve Yönetmelikler",
+      "KONU": "Akredite Laboratuvar",
+      "KAZANIM": "Akredite laboratuvarlarda yapılan kalibrasyon işlemlerini ve gerekliliğini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kalibrasyonu yapılmamış ölçü aletleri ile yapılan ölçümlerdeki hata ve olası sorunlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma ürünlerinin elektromanyetik direktifi (EMC) kapsamındaki mevzuat hükümlerine uygunluğunu sorgulama\nKatalog bilgilerine göre enerji etiketlemesi sınıfının kontrolü\nHerhangi bir firmaya ait ürünün CE sorgulamasını firmaya ait internet sitesinden yapma\nTSE internet sitesinden aydınlatma sistemlerine ait standart sorgulaması\nKullanılan ölçüm cihazlarına ait kalibrasyon sürelerinin kontrolü",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Uygulamalarında Verimlilik",
+      "KONU": "Aydınlatma Sistemlerinde Enerji Verimliliği",
+      "KAZANIM": "Aydınlatma uygulamalarında verimlilik hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerinde uygun donanım tasarım ve kontrol yönteminin belirlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemlerine ait ışık akısı/güç (lümen/Watt) hesapları\nBir ortamın farklı aydınlatma teknolojileri kullanarak aydınlatılması sonucunda oluşan enerji verimlilik sıralaması, enerji etiketlemesi verileri yapma",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Uygulamalarında Verimlilik",
+      "KONU": "Aydınlatma Sistemlerinde Enerji Verimliliği",
+      "KAZANIM": "Aydınlatma uygulamalarında verimlilik hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mevcut çalışan aydınlatma sistemlerinde verimliliği arttırmak için yapılması gereken donanım tasarım ve kontrol değişiklikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemlerine ait ışık akısı/güç (lümen/Watt) hesapları\nBir ortamın farklı aydınlatma teknolojileri kullanarak aydınlatılması sonucunda oluşan enerji verimlilik sıralaması, enerji etiketlemesi verileri yapma",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Uygulamalarında Verimlilik",
+      "KONU": "Aydınlatma Sistemlerinde Enerji Verimliliği",
+      "KAZANIM": "Aydınlatma uygulamalarında verimlilik hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemine verimlilik hesapları açıklanır. (Paket program üzerinde tasarım aşamasında verimlilik, kurulu sistemin gerçek değerleri üzerinden verimlilik hesabı)",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemlerine ait ışık akısı/güç (lümen/Watt) hesapları\nBir ortamın farklı aydınlatma teknolojileri kullanarak aydınlatılması sonucunda oluşan enerji verimlilik sıralaması, enerji etiketlemesi verileri yapma"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Uygulamalarında Verimlilik",
+      "KONU": "Aydınlatma Ekipmanlarında Enerji Etiketlemesi",
+      "KAZANIM": "Aydınlatma ekipmanlarında enerji etiket değerlerini okur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerindeki ekipmanlarda enerji sınıfı (Etiketlenmesi) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemlerine ait ışık akısı/güç (lümen/Watt) hesapları\nBir ortamın farklı aydınlatma teknolojileri kullanarak aydınlatılması sonucunda oluşan enerji verimlilik sıralaması, enerji etiketlemesi verileri yapma"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Uygulamalarında Verimlilik",
+      "KONU": "Aydınlatma Ekipmanlarında Enerji Etiketlemesi",
+      "KAZANIM": "Aydınlatma ekipmanlarında enerji etiket değerlerini okur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerinde kullanılan ekipmanların enerji sınıfının sistem verimliliğine etkisi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemlerine ait ışık akısı/güç (lümen/Watt) hesapları\nBir ortamın farklı aydınlatma teknolojileri kullanarak aydınlatılması sonucunda oluşan enerji verimlilik sıralaması, enerji etiketlemesi verileri yapma",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Uygulamalarında Verimlilik",
+      "KONU": "Günışığının Kullanımı",
+      "KAZANIM": "Aydınlatma verimliliği için gün ışığı kullanımının önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Günışığı kullanımının enerji verimliliğindeki önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemlerine ait ışık akısı/güç (lümen/Watt) hesapları\nBir ortamın farklı aydınlatma teknolojileri kullanarak aydınlatılması sonucunda oluşan enerji verimlilik sıralaması, enerji etiketlemesi verileri yapma"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Bakım Çeşitleri",
+      "KAZANIM": "Aydınlatma sistemlerinde bakım yöntemlerini uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerinde kullanılan bakım yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Aydınlatma Ürünlerine Ait Montaj ve Kullanım Kılavuzları",
+      "KAZANIM": "Aydınlatma ürünlerine ait montaj ve kullanım kılavuzlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kullanım kılavuzu ve etiket bilgilerinden ürüne ait elektriksel parametreleri okuyarak doğruluğunun ölçüm ile kontrolü açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Armatür Bağlantı Kontrolü",
+      "KAZANIM": "Armatür bağlantılarını kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Armatür bağlantı kontrol yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kablolarda Güvenlik",
+      "KAZANIM": "Akım değerine göre kablo seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Armatür içerisinde kullanılan uygun kablo türü ve kesitinin seçimi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Armatürlerin Topraklama Bağlantıları",
+      "KAZANIM": "Armatürlerin topraklama bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Armatürlerde topraklama bağlantısının yapılması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Gerilim ve Akım Kontrolü",
+      "KAZANIM": "Aydınlatma sistemlerinde gerilim ve akım kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Değişik armatürlere ait çalışma gerilimi ve akımı ölçümlerinin yapılarak katalog değerleri ile doğrulanması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Aydınlatma Sistemlerinde Bakım ve Onarım",
+      "KAZANIM": "Aydınlatma sistemlerinde bakım ve onarım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Işık kaynağı, armatür, aydınlatma sistemi (algılama ve kontrol cihazları ile birden fazla armatür) yapısı ve kademelendirmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Aydınlatma Sistemlerinde Bakım ve Onarım",
+      "KAZANIM": "Aydınlatma sistemlerinde bakım ve onarım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Aydınlatma sistemlerinde arıza tespit aşamaları açıklanır. (Besleme, Işık kaynağı, Sürücü, Armatür bağlantıları, Kontrol ekipmanları, Sistem bağlantıları)",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ürünlerinde Güvenlik ve Bakım",
+      "KONU": "Kayıt Saklama Planı",
+      "KAZANIM": "Bakım onarım kayıt işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Arıza bildirim onarım ve bakım formlarının doldurulması ve arşivlenmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma cihazlarına ait montaj ve kullanım kılavuzlarını kullanma\nAydınlatma sisteminde kullanılan armatür bağlantılarının elle ve gözle kontrolü\nArmatüre ait etiket ve kullanım kılavuzundaki elektriksel parametrelerin ölçüm ile kontrolü\nArmatür bağlantılarında Faz Nötr, Faz Toprak arası gerilim ölçümü\nArmatür sürücü ve ateşleyici değişimi\nArmatürlerde lamba değişimi\nArmatür bileşenlerinin elektriksel bağlantılarında temassızlık ve gevşek irtibat kontrolü\nLED sistemlerde sürücü giriş gerilimi kontrolü\nLED sistemlerde sürücü çıkış gerilim-akım kontrolü\nLED sistemlerde soğuk lehim ve bağlantı noktası kontrolleri\nLED sistemlerde iletkenlerin yalıtkan kontrolü\nLED sistemlerde gözle yüksek gerilim tahribatının kontrolü\nArmatürlerde gözle sızdırmazlık (IP) kontrolleri\nArmatürlerin termal kamera ile armatürlerin ısınma kontrolü\nÜç fazlı aydınlatma sistemlerinde nötr bağlantısının kontrolü\nArıza ve bakım onarım formlarını doldurmak ve arşivlemek",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarının Atık Yönetimi",
+      "KONU": "Aydınlatmada Atık Yönetiminin Önemi",
+      "KAZANIM": "Aydınlatmada atık yönetiminin önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Atık türlerini açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemi ekipmanının parçalarına ayrılarak geri dönüşüm sürecine göre ayrıştırma (Ürünü parçalama, bileşenlerine ayrıştırma, bileşenlerin tartılması, geri dönüşüme yönlendirme)"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarının Atık Yönetimi",
+      "KONU": "Aydınlatmada Atık Yönetiminin Önemi",
+      "KAZANIM": "Aydınlatmada atık yönetiminin önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Atıkların çevreye verdiği zarar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemi ekipmanının parçalarına ayrılarak geri dönüşüm sürecine göre ayrıştırma (Ürünü parçalama, bileşenlerine ayrıştırma, bileşenlerin tartılması, geri dönüşüme yönlendirme)"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarının Atık Yönetimi",
+      "KONU": "Aydınlatmada Atık Yönetiminin Önemi",
+      "KAZANIM": "Aydınlatmada atık yönetiminin önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Atıkların usulünü uygun toplandığında çevre ve ekonomiye sağladığı yararlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemi ekipmanının parçalarına ayrılarak geri dönüşüm sürecine göre ayrıştırma (Ürünü parçalama, bileşenlerine ayrıştırma, bileşenlerin tartılması, geri dönüşüme yönlendirme)"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Aydınlatma Ekipmanlarının Atık Yönetimi",
+      "KONU": "Aydınlatmada Atık Yönetim Süreci",
+      "KAZANIM": "Aydınlatmada atık yönetiminin sürecini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Atıkların toplanması ve geri kazanım süreçleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Öğretim Teknikleri": "Ortam: Aydınlatma Sistemleri Atölyesi\nDonanım: Etkileşimli tahta / projeksiyon, bilgisayar, lüksmetre, spektrofotometre, LED chipleri, LED modülleri, LED armatürler, LED sürücüler, farklı özelliklerde armatürler, farklı özelliklerde lambalar, farklı özelliklerde ve tiplerde duylar, el aletleri, ölçü aletleri, termal kamera, iletkenler, elektrik tesisat ekipmanları, mengene, eğe, matkap ve ekipmanları",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Aydınlatma sistemi ekipmanının parçalarına ayrılarak geri dönüşüm sürecine göre ayrıştırma (Ürünü parçalama, bileşenlerine ayrıştırma, bileşenlerin tartılması, geri dönüşüme yönlendirme)"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

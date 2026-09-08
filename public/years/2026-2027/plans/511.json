@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Atölye(Yet)",
+  "grup": "Meslek Dersleri",
+  "brans": "Yenilenebilir Enerji Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/yenilenebilir-enerji-teknolojileri/511/atolyeyet-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Sayısal İşlemler",
+      "KONU": "Sayı Sistemleri",
+      "KAZANIM": "Sayı sistemlerinin özelliklerini açıklayarak birbirine dönüştürme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sayı sistemleri sıralanır.\nSayı sistemlerinin özellikleri açıklanır.\nSayı sistemleri ile kendi arasında işlemler yapılır.\nSayı sistemleri ile dönüştürmeler yapılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İkilik sayı sistemini on altılık sayı sistemine dönüşüm hesaplamaları.\nİkilik sayı sistemini onluk sayı sistemine dönüşüm hesaplamaları.\nOn altılık sayı sistemini ikilik sayı sistemine dönüşüm hesaplamaları.\nOn altılık sayı sistemini onluk sayı sistemine dönüşüm hesaplamaları.\nOn altılık sayı sistemini ikilik sayı sistemine dönüşüm hesaplamaları.\nOnluk sayı sistemini ikilik sayı sistemine dönüşüm hesaplamaları.\nİkilik sayı sistemini on altılık sayı sistemine dönüşüm hesaplamaları.\nOnluk sayı sistemini on altılık sayı sistemine dönüşüm hesaplamaları.\nVE kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nVEYA kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nVE DEĞİL kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nDEĞİL kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nKarışık kapı devre çizimleri ve doğruluk tabloları.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Sayısal İşlemler",
+      "KONU": "Lojik Kapılar",
+      "KAZANIM": "Lojik kapılarla mantık devreleri kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Temel lojik kapılar sıralanır.\nTemel lojik kapı özellikleri açıklanır.\nTemel lojik kapılarla işlemler yapar.\nTemel lojik kapılarının elektriksel eş değer karşılıkları, doğruluk tabloları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "İkilik sayı sistemini on altılık sayı sistemine dönüşüm hesaplamaları.\nİkilik sayı sistemini onluk sayı sistemine dönüşüm hesaplamaları.\nOn altılık sayı sistemini ikilik sayı sistemine dönüşüm hesaplamaları.\nOn altılık sayı sistemini onluk sayı sistemine dönüşüm hesaplamaları.\nOn altılık sayı sistemini ikilik sayı sistemine dönüşüm hesaplamaları.\nOnluk sayı sistemini ikilik sayı sistemine dönüşüm hesaplamaları.\nİkilik sayı sistemini on altılık sayı sistemine dönüşüm hesaplamaları.\nOnluk sayı sistemini on altılık sayı sistemine dönüşüm hesaplamaları.\nVE kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nVEYA kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nVE DEĞİL kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nDEĞİL kapısının; sembolü, doğruluk tablosu, elektrik devre çizimleri.\nKarışık kapı devre çizimleri ve doğruluk tabloları."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Seçimi",
+      "KAZANIM": "Mikrodenetleyici donanım ve çevre birimlerini seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroişlemciler ve mikrodenetleyiciler açıklanır.\nMikrodenetleyici çeşitleri sıralanır.\nMikrodenetleyicinin donanım özellikleri açıklanır.\nMikrodenetleyici programlama dilleri sıralanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici kodlama programının kurulumu ve tanıtımı\nMikrodenetleyiciye hazır program yükleme ve çalıştırma\nAkış diyagramı oluşturma uygulaması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Seçimi / Mikrodenetleyici Editörü",
+      "KAZANIM": "Mikrodenetleyici donanım ve çevre birimlerini seçer.\nMikrodenetleyici program editörünün kurulumunu ve ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici programlama dillerinin özellikleri açıklanır.\nMikrodenetleyicilerin tanımı, çeşitlerini ve özelliklerini tanıyıp ortama uygun programlayabileceği bir donanım ve çevre birimlerini seçmesi sağlanmalıdır.\nSeçilen mikrodenetleyici program editörünün kurulumu açıklanır.\nMikrodenetleyici program editörünün menü özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici kodlama programının kurulumu ve tanıtımı\nMikrodenetleyiciye hazır program yükleme ve çalıştırma\nAkış diyagramı oluşturma uygulaması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Programlama",
+      "KONU": "Mikrodenetleyici Editörü / Mikrodenetleyici Yazılımı",
+      "KAZANIM": "Mikrodenetleyici program editörünün kurulumunu ve ayarlarını yapar.\nMikronetleyiciyi programlayarak yazılımı yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyiciye program yüklenecek şekilde ayarlamalarının yapılması sağlanmalıdır.\nÖrnek bir program, akış diyagramı üzerinden anlatılır.\nBasit bir yazılımın yüklenmesi sağlanmalıdır.\nYüklenen programın testi yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici kodlama programının kurulumu ve tanıtımı\nMikrodenetleyiciye hazır program yükleme ve çalıştırma\nAkış diyagramı oluşturma uygulaması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "Mikrodenetleyici Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile uygulamalar yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici komutları anlatılır.\nDerlenen programların devreleri kurularak çalıştırılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "Mikrodenetleyici Uygulamaları / Dijital Giriş-Çıkış",
+      "KAZANIM": "Mikrodenetleyici ile uygulamalar yapar.\nMikrodenetleyicilerde digital giriş ve dijital çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Devre kurma ile ilgili bilgi verilmelidir.\nDijital giriş ve çıkış kavramlarını anlatılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "Dijital Giriş-Çıkış / Port",
+      "KAZANIM": "Mikrodenetleyicilerde digital giriş ve dijital çıkış işlemlerini yapar.\nMikrodenetleyicilerde port kavramını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dijital giriş-çıkış uygulamaları ve devrelerinin kurulması sağlanır.\nBit, byte ve port kavramlarını açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "Analog Giriş-Çıkış",
+      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme, analog giriş çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog giriş-çıkış kavramları anlatılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "Analog Giriş-Çıkış",
+      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme, analog giriş çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Seçtiğiniz kodlama yazılımındaki serial monitor özelliği hakkında bilgi verilir.\nAnalog giriş-çıkış uygulamaları ve devrelerinin kurulması sağlanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "ADC-DAC Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile ADC/DAC dönüşümleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "ADC özellikleri açıklanır.\nDAC özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "ADC-DAC Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile ADC/DAC dönüşümleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çevrim kontrol ilkeleri açıklanır.\nADC işlemini gerçekleştiren program yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Dijital ve Analog Uygulamalar",
+      "KONU": "ADC-DAC Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile ADC/DAC dönüşümleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DAC işlemini gerçekleştiren program yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Led yakıp söndürme uygulamaları\n2 adet ledi farklı sürelerde yakıp söndürme uygulamaları\nButon durumunu öğrenme uygulaması\nBir buton ile bir ledi yakıp söndürme uygulaması\nButon ile röle modülünü çalıştırmak (On/Off)\nLed İle dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOpto kuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması.\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması\nAnalog bilgiyi (ADC) seri port ile PC'ye göndermek\nPotansiyometreden alınan ADC bilgisini PC'ye göndermek (değer: 0-1024 veya 0-4095)\nPotansiyometreden alınan ADC bilgisinin voltaj hesabını PC'ye göndermek (değer: 0-3.3V)\nPWM (analog yazmak) ile ledin parlaklığını ayarlamak\n3 adet ledlerin farklı parlaklık ayarları ile yakmak ve değerlerini PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve değeri PC'ye göndermek\nPotansiyometre ile ledin parlaklığını ayarlamak ve voltaj değerini PC'ye göndermek\n4x4 analog keypad bilgisini seri port ile PC'ye göndermek\n4x4 analog keypadin bir butonu ile ledi yakmak, diğer buton ile söndürmek",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Proje Uygulamaları",
+      "KONU": "Motor Kontrol Uygulamaları",
+      "KAZANIM": "Mikrodenetleyiciler ile motor kontrol uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "DC motor ve sürücülerinin özellikleri ve çeşitleri hakkında bilgi verilir.\nSTEP motor ve sürücülerinin özellikleri ve çeşitleri hakkında bilgi verilir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Buton ile röle modülüne bağlı dc motoru çalıştırmak (On/Off)\nDC motoru sürücüsü (L298 vb.) ile çalıştırmak.\nDC motoru PWM (sabit) ile ayarlı çalıştırmak.\nDC motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nStep motoru sürücüsü (A4988 vb.) ile çalıştırmak.\nStep motoru PWM (sabit) ile ayarlı çalıştırmak.\nStep motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nMini servo motor uygulaması yapmak\nDC motor, step motor ve mini servo motor uygulamasını bir arada yapmak\nMikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nYağmur sensöründen değerini okuyarak PC'ye göndermek\nYağmur sensöründen değerini okuyarak led ve dc motoru çalıştırmak\nToprak nem sensöründen değerini okuyarak PC'ye göndermek\nAlev sensöründen değerini okuyarak PC'ye göndermek\nMQ7 gaz sensöründen değerini okuyarak PC'ye göndermek\nNTC termistör sıcaklık sensöründen değerini okuyarak PC'ye göndermek\nAkım sensöründen (ACS712 vb) değerini okuyarak PC'ye göndermek\nYarıklı optik sensörden değerini okuyarak PC'ye göndermek\nTILT eğim sensöründen değerini okuyarak PC'ye göndermek\nMikrofon modülünden değerini okuyarak PC'ye göndermek\nSharp optik mesafe sensöründen değerini okuyarak PC'ye göndermek\nMZ80 kızılötesi mesafe sensöründen değerini okuyarak PC'ye göndermek"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Proje Uygulamaları",
+      "KONU": "Motor Kontrol Uygulamaları",
+      "KAZANIM": "Mikrodenetleyiciler ile motor kontrol uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "SERVO motor ve sürücülerinin özellikleri ve çeşitleri hakkında bilgi verilir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Buton ile röle modülüne bağlı dc motoru çalıştırmak (On/Off)\nDC motoru sürücüsü (L298 vb.) ile çalıştırmak.\nDC motoru PWM (sabit) ile ayarlı çalıştırmak.\nDC motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nStep motoru sürücüsü (A4988 vb.) ile çalıştırmak.\nStep motoru PWM (sabit) ile ayarlı çalıştırmak.\nStep motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nMini servo motor uygulaması yapmak\nDC motor, step motor ve mini servo motor uygulamasını bir arada yapmak\nMikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nYağmur sensöründen değerini okuyarak PC'ye göndermek\nYağmur sensöründen değerini okuyarak led ve dc motoru çalıştırmak\nToprak nem sensöründen değerini okuyarak PC'ye göndermek\nAlev sensöründen değerini okuyarak PC'ye göndermek\nMQ7 gaz sensöründen değerini okuyarak PC'ye göndermek\nNTC termistör sıcaklık sensöründen değerini okuyarak PC'ye göndermek\nAkım sensöründen (ACS712 vb) değerini okuyarak PC'ye göndermek\nYarıklı optik sensörden değerini okuyarak PC'ye göndermek\nTILT eğim sensöründen değerini okuyarak PC'ye göndermek\nMikrofon modülünden değerini okuyarak PC'ye göndermek\nSharp optik mesafe sensöründen değerini okuyarak PC'ye göndermek\nMZ80 kızılötesi mesafe sensöründen değerini okuyarak PC'ye göndermek"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Proje Uygulamaları",
+      "KONU": "Motor Kontrol Uygulamaları / Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyiciler ile motor kontrol uygulamalarını yapar.\nMikrodentleyiciler ile fiziksel nicelikleri (ısı, ışık, sıcaklık, basınç, nem, kuvvet, ağırlık vb) ölçme uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor kontrol programı yazdırılır.\nFiziksel nicelikleri ölçebileceği ekipmanların tanıtımı yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Buton ile röle modülüne bağlı dc motoru çalıştırmak (On/Off)\nDC motoru sürücüsü (L298 vb.) ile çalıştırmak.\nDC motoru PWM (sabit) ile ayarlı çalıştırmak.\nDC motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nStep motoru sürücüsü (A4988 vb.) ile çalıştırmak.\nStep motoru PWM (sabit) ile ayarlı çalıştırmak.\nStep motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nMini servo motor uygulaması yapmak\nDC motor, step motor ve mini servo motor uygulamasını bir arada yapmak\nMikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nYağmur sensöründen değerini okuyarak PC'ye göndermek\nYağmur sensöründen değerini okuyarak led ve dc motoru çalıştırmak\nToprak nem sensöründen değerini okuyarak PC'ye göndermek\nAlev sensöründen değerini okuyarak PC'ye göndermek\nMQ7 gaz sensöründen değerini okuyarak PC'ye göndermek\nNTC termistör sıcaklık sensöründen değerini okuyarak PC'ye göndermek\nAkım sensöründen (ACS712 vb) değerini okuyarak PC'ye göndermek\nYarıklı optik sensörden değerini okuyarak PC'ye göndermek\nTILT eğim sensöründen değerini okuyarak PC'ye göndermek\nMikrofon modülünden değerini okuyarak PC'ye göndermek\nSharp optik mesafe sensöründen değerini okuyarak PC'ye göndermek\nMZ80 kızılötesi mesafe sensöründen değerini okuyarak PC'ye göndermek",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Proje Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodentleyiciler ile fiziksel nicelikleri (ısı, ışık, sıcaklık, basınç, nem, kuvvet, ağırlık vb) ölçme uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Ekipmanların devre kurulumu ve yazılım ile kontrol edilmesi sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Buton ile röle modülüne bağlı dc motoru çalıştırmak (On/Off)\nDC motoru sürücüsü (L298 vb.) ile çalıştırmak.\nDC motoru PWM (sabit) ile ayarlı çalıştırmak.\nDC motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nStep motoru sürücüsü (A4988 vb.) ile çalıştırmak.\nStep motoru PWM (sabit) ile ayarlı çalıştırmak.\nStep motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nMini servo motor uygulaması yapmak\nDC motor, step motor ve mini servo motor uygulamasını bir arada yapmak\nMikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nYağmur sensöründen değerini okuyarak PC'ye göndermek\nYağmur sensöründen değerini okuyarak led ve dc motoru çalıştırmak\nToprak nem sensöründen değerini okuyarak PC'ye göndermek\nAlev sensöründen değerini okuyarak PC'ye göndermek\nMQ7 gaz sensöründen değerini okuyarak PC'ye göndermek\nNTC termistör sıcaklık sensöründen değerini okuyarak PC'ye göndermek\nAkım sensöründen (ACS712 vb) değerini okuyarak PC'ye göndermek\nYarıklı optik sensörden değerini okuyarak PC'ye göndermek\nTILT eğim sensöründen değerini okuyarak PC'ye göndermek\nMikrofon modülünden değerini okuyarak PC'ye göndermek\nSharp optik mesafe sensöründen değerini okuyarak PC'ye göndermek\nMZ80 kızılötesi mesafe sensöründen değerini okuyarak PC'ye göndermek"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Proje Uygulamaları",
+      "KONU": "Hareket Kontrolü Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile enerji santralleri hareket kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güneş panellerinin ve rüzgar türbinlerinin hareket sistemlerinin bağlantısını yaparak hareket kontrol uygulamaları yapılması sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Buton ile röle modülüne bağlı dc motoru çalıştırmak (On/Off)\nDC motoru sürücüsü (L298 vb.) ile çalıştırmak.\nDC motoru PWM (sabit) ile ayarlı çalıştırmak.\nDC motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nStep motoru sürücüsü (A4988 vb.) ile çalıştırmak.\nStep motoru PWM (sabit) ile ayarlı çalıştırmak.\nStep motoru PWM kullanarak potansiyometre ile ayarlı çalıştırmak.\nMini servo motor uygulaması yapmak\nDC motor, step motor ve mini servo motor uygulamasını bir arada yapmak\nMikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\nYağmur sensöründen değerini okuyarak PC'ye göndermek\nYağmur sensöründen değerini okuyarak led ve dc motoru çalıştırmak\nToprak nem sensöründen değerini okuyarak PC'ye göndermek\nAlev sensöründen değerini okuyarak PC'ye göndermek\nMQ7 gaz sensöründen değerini okuyarak PC'ye göndermek\nNTC termistör sıcaklık sensöründen değerini okuyarak PC'ye göndermek\nAkım sensöründen (ACS712 vb) değerini okuyarak PC'ye göndermek\nYarıklı optik sensörden değerini okuyarak PC'ye göndermek\nTILT eğim sensöründen değerini okuyarak PC'ye göndermek\nMikrofon modülünden değerini okuyarak PC'ye göndermek\nSharp optik mesafe sensöründen değerini okuyarak PC'ye göndermek\nMZ80 kızılötesi mesafe sensöründen değerini okuyarak PC'ye göndermek"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Temel Kumanda ve Güç Devreleri",
+      "KONU": "Kumanda ve Güç Devre Elamanları",
+      "KAZANIM": "Kumanda ve güç devre elemanlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Temel kumanda elemanları hakkında bilgi verilir.\nKumanda ve güç devre sembolleri hakkında bilgi verilmelidir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Start, stop, çift yollu, kalıcı tip butonlar, sinyal lambaları, sınır anahtarları ve mikro anahtarların sembol çizimleri\nKumanda ve güç devre elemanı sembollerinin çizimleri\nRölenin sembolünü çizdirip enerjili kontak testleri\nKontaktör numaralandırma, klemens sembol çizimleri ve enerjili kontak testleri\nPaket şalterlerin bir ve üç fazlı kontak şema çizimleri\nÜç fazlı asenkron motorların kesik çalıştırılması\nÜç fazlı asenkron motorların sürekli (mühürlemeli) çalıştırılması\nÜç fazlı asenkron motorların devir yönünün değiştirilmesi\nÜç fazlı asenkron motorların kilitlemesiz devir yönünün değiştirilmesi\nÜç fazlı asenkron motorların kilitlemeli devir yönünün değiştirilmesi\nÜç fazlı asenkron motora yıldız üçgen yol verilmesi\nSenaryosu olan uygulamalar\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması\nSenaryosu olan iki zaman röleli uygulama\nSenaryosu olan iki kontaktör ve 2 zaman röleli uygulama"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Temel Kumanda ve Güç Devreleri",
+      "KONU": "Kumanda ve Güç Devre Elamanları / Kumanda ve Güç Devre Uygulamaları",
+      "KAZANIM": "Kumanda ve güç devre elemanlarını açıklar.\nKumanda ve güç devreleri uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kumanda ve güç devre şeması çizimi hakkında bilgi verilmelidir.\nYaptırılacak temrinlere uygun devre şemalarını çizmeleri sağlanmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Start, stop, çift yollu, kalıcı tip butonlar, sinyal lambaları, sınır anahtarları ve mikro anahtarların sembol çizimleri\nKumanda ve güç devre elemanı sembollerinin çizimleri\nRölenin sembolünü çizdirip enerjili kontak testleri\nKontaktör numaralandırma, klemens sembol çizimleri ve enerjili kontak testleri\nPaket şalterlerin bir ve üç fazlı kontak şema çizimleri\nÜç fazlı asenkron motorların kesik çalıştırılması\nÜç fazlı asenkron motorların sürekli (mühürlemeli) çalıştırılması\nÜç fazlı asenkron motorların devir yönünün değiştirilmesi\nÜç fazlı asenkron motorların kilitlemesiz devir yönünün değiştirilmesi\nÜç fazlı asenkron motorların kilitlemeli devir yönünün değiştirilmesi\nÜç fazlı asenkron motora yıldız üçgen yol verilmesi\nSenaryosu olan uygulamalar\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması\nSenaryosu olan iki zaman röleli uygulama\nSenaryosu olan iki kontaktör ve 2 zaman röleli uygulama"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Temel Kumanda ve Güç Devreleri",
+      "KONU": "Kumanda ve Güç Devre Uygulamaları",
+      "KAZANIM": "Kumanda ve güç devreleri uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizilen şemaya göre kumanda ve güç devrelerini kurar ve çalıştırır.\nÖzel problem devrelerinde yalnızca kumanda devreleri yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Start, stop, çift yollu, kalıcı tip butonlar, sinyal lambaları, sınır anahtarları ve mikro anahtarların sembol çizimleri\nKumanda ve güç devre elemanı sembollerinin çizimleri\nRölenin sembolünü çizdirip enerjili kontak testleri\nKontaktör numaralandırma, klemens sembol çizimleri ve enerjili kontak testleri\nPaket şalterlerin bir ve üç fazlı kontak şema çizimleri\nÜç fazlı asenkron motorların kesik çalıştırılması\nÜç fazlı asenkron motorların sürekli (mühürlemeli) çalıştırılması\nÜç fazlı asenkron motorların devir yönünün değiştirilmesi\nÜç fazlı asenkron motorların kilitlemesiz devir yönünün değiştirilmesi\nÜç fazlı asenkron motorların kilitlemeli devir yönünün değiştirilmesi\nÜç fazlı asenkron motora yıldız üçgen yol verilmesi\nSenaryosu olan uygulamalar\nÜç fazlı asenkron motorun zaman ayarlı çalıştırılması\nSenaryosu olan iki zaman röleli uygulama\nSenaryosu olan iki kontaktör ve 2 zaman röleli uygulama",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Seçimi",
+      "KONU": "PLC / PLC Bağlantıları",
+      "KAZANIM": "PLC'nin yapısına ve çalışma prensibine göre seçimini yapar.\nPLC'nin yapısına ve çalışma prensibine göre giriş çıkış, çevre birimleri bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC tanımı ve türleri hakkında bilgi verilir.\nPLC'lerin kullanım amacı ve uygulamaları hakkında bilgi verilir.\nSeçilen PLC'nin donanım özellikleri hakkında bilgi verilir.\nPLC'nin giriş - çıkış bağlantıları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC katolog okuma uygulamaları\nPLC kodlama programının kurulumu ve tanıtımı\nPLC giriş çıkış bağlantıları uygulaması\nPLC çevre birim bağlantı uygulaması\nProgramlama editörü uygulamaları",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Seçimi",
+      "KONU": "PLC Bağlantıları / PLC Programlama Editörü",
+      "KAZANIM": "PLC'nin yapısına ve çalışma prensibine göre giriş çıkış, çevre birimleri bağlantılarını yapar.\nPLC Programlama editörünün kurulumunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'nin çevre birim bağlantıları yaptırılır.\nPLC programlama editörünün bilgisayara kurulumu sağlanmalıdır.\nProgramlama editörü araç çubuklarının tanıtımı yapılmalıdır.\nProgramlama editörü haberleşme ayarlarının testi yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "PLC katolog okuma uygulamaları\nPLC kodlama programının kurulumu ve tanıtımı\nPLC giriş çıkış bağlantıları uygulaması\nPLC çevre birim bağlantı uygulaması\nProgramlama editörü uygulamaları",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "PLC Komutları",
+      "KAZANIM": "Temel seviye PLC komutlarını kullanarak programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC'lerin programlama mantıkları hakkında bilgi verilir.\nPLC program yazılım dilleri hakkında bilgi verilmelidir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "PLC Komutları",
+      "KAZANIM": "Temel seviye PLC komutlarını kullanarak programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Klasik kumanda devrelerinin LADDER devresine dönüşümü hakkında bilgi verilir.\nPLC programlamada; tip, hafıza alanları, girişler, çıkışlar, zamanlayıcı, sayıcı, data alanları hakkında bilgiler verilir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "PLC Komutları / Dokunmatik Ekran (HMI)",
+      "KAZANIM": "Temel seviye PLC komutlarını kullanarak programlama yapar.\nDokunmatik ekran (HMI) ile uygulama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Temel programlama komutları (NO, NC, XOR, NOT, RESET, SET, RESET SET, SET RESET, SAVE, N, P) uygulatılır.\nOparatör paneli tanıtımı ve çeşitleri anlatılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "Dokunmatik Ekran (HMI)",
+      "KAZANIM": "Dokunmatik ekran (HMI) ile uygulama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Oparatör panelini programlama editörü menüleri hakkında bilgi verilir.\nOparatör panelini iletişim protokolleri ile ilgili ayarlamaları yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "Dokunmatik Ekran (HMI) / Kontaktör, İnverter Kullanarak PLC İle Asenkron Motor Kontrolü",
+      "KAZANIM": "Dokunmatik ekran (HMI) ile uygulama yapar.\nKontaktör, inverter kullanarak PLC ile asenkron motor kontrolü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İşe uygun proje seçimini yaparak uygulama yaptırılır.\nInverterlerin özellikleri, güç, motor ve kontrol bağlantıları hakkında bilgi verilir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "Kontaktör, İnverter Kullanarak PLC İle Asenkron Motor Kontrolü",
+      "KAZANIM": "Kontaktör, inverter kullanarak PLC ile asenkron motor kontrolü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Inverter parametreleri ve üzerinden çalıştırma hakkında bilgi verilir.\nInverterlerin çalıştırmaları (MOD) hakkında bilgi veriniz.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "Kontaktör, İnverter Kullanarak PLC İle Asenkron Motor Kontrolü / PLC ile Servo Motor Kontrolü",
+      "KAZANIM": "Kontaktör, inverter kullanarak PLC ile asenkron motor kontrolü yapar.\nPLC ile servo motor kontrolü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "PLC kullanarak asenkron motor kontrol uygulamaları yapması sağlatılır.\nServo mekanizmalar (sistemler) hakkında bilgi verilir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "PLC ile Servo Motor Kontrolü",
+      "KAZANIM": "PLC ile servo motor kontrolü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servo motor sürücüsü hakkında bilgi veriniz.\nServo motor sürücü parametrelerinin görevlerini açıklanır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "PLC ile Servo Motor Kontrolü",
+      "KAZANIM": "PLC ile servo motor kontrolü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servo motor sürücü parametre ayarları hakkında bilgi verilir.\nServo motor sürücü ile motor bağlantıları hakkında bilgi verilir.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "PLC Programlama Uygulamaları",
+      "KONU": "PLC ile Servo Motor Kontrolü",
+      "KAZANIM": "PLC ile servo motor kontrolü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AC motoru Servo motor sürücü kullanarak manuel kullandırılır.\nPLC kullanarak Servo motor sürücü ile motor kontrol uygulamaları yapması sağlatılır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Ladder örnek kontak çizimi ve tanımlaması\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (seri)\nLadder ile iki adet normalde açık kontak çizimi ve tanımlaması (paralel)\nLadder ile iki adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (paralel)\nLadder ile dört adet normalde açık kontak çizimi ve tanımlaması (karışık)\nLadder ile dört adet normalde açık iki adet normalde kapalı kontak çizimi ve tanımlaması (karışık)\nPLC cihazının giriş çıkış (transistör veya röle) bağlantılarını yapmak.\nDokunmatik ekran iletişim protokolleri ile ilgili ayarlamaları yapmak.\nDokunmatik ekran editörünü bilgisayara kurmak.\nDokunmatik ekranda İşe uygun proje açmak ve iletişim ayarlarını yapmak.\nDokunmatik ekran gösterge işlevlerini uygulamak.\nButon işlevi ve veri girme uygulamaları\nStart butonu ile bir motorun kesik çalıştırılması\nStart butonu ile sürekli çalıştırma ve stop butonu ile durdurma\nMühürlemeli otomatik kumanda devresini PLC ile çalıştırınız\nBir start, bir stop ve kontaktör olan bir otomatik kumanda devresi mühürlemeli olarak çalışıyor. Bu devrenin plc programının ladder şemasını çizerek çalıştırılması.\nFarklı özel senaryosu verilen otomatik kumanda devresinin plc programının ladder şemasını çizerek çalıştırılması\nSet Reset (SR) hafıza komutu kullanarak sürekli çalıştırma\nPozitif (P) kenar algılama uygulaması\nNegatif (N) kenar algılama uygulaması\nBir butonla motoru çalıştırma durdurma uygulaması\nAsenkron motorun ileri geri çalışmasının PLC programının ladder şemasını çizerek çalıştırılması\nZamanlayıcı komutunun (turn on, turn off) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen zamanlayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması.\nSayıcı komutunun (aşağı yukarı) kullanılmasını plc programı ile ladder şemasını çizerek çalıştırılması\nFarklı özel senaryosu verilen sayıcı komutunun plc programının ladder şemasını çizerek çalıştırılması"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji Santrallerinin Elektrik ve Hareket Sistemleri",
+      "KONU": "Enerji Santrali Elektrik ve Şalt Sahası Sistemi / Güneş Rotası ve Işınımı Merkezli Hareket Sistemi / Türbin Kanat ve Yön Kontrolü",
+      "KAZANIM": "Enerji santrali elektrik ve şalt sahası izleme işlemlerini yapar.\nGüneş rotası ve ışınımı merkezli hareket sistemini izleme işlemlerini yapar.\nTürbin kanat ve yön kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enerji Santrali elektrik üretiminin izlenmesi hakkında bilgi verilmelidir.\nEnerji Santrali şalt sahasını olası arızalara zamanında müdahale yöntemleri hakkında bilgi verilmelidir.\nİzleme programı kullanıcı arayüzünden güneş rotasını ve hareket motorlarını izleyerek yorum yapma becerisi kazandırılmaldır.\nGüneş ışınım şiddetini izleme sistemini kurarak hareket motorlarıyla yön kontrolünü yaptırılmalıdır.\nİzleme programı kullanıcı arayüzünden rüzgar hızını ve türbin kanatlarının açı kontrolünü yaptırılmalıdır.\nİzleme programı kullanıcı arayüzünden rüzgar yönünü ve yaw kontrolünü izleyerek yorum yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Enerji üretimi izleme uygulamaları\nRüzgar panel elektrik üretimini, güç ünütesini takip uygulaması\nGüneş takip sensörüne bağlı olarak hareket kontrol uygulaması\nTürbin, kanat yön kontrol uygulamaları"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "SCADA",
+      "KONU": "Fotovoltaik (Güneş) Paneli Hareket Kontrolü / Türbin Hareket Kontrolü",
+      "KAZANIM": "Güneş rotası ve güneş ışınımı merkezli hareket sistemi izlenmesini denetler.\nİzleme programı kullanıcı arayüzünden türbin kanatlarının açısını ve makine dairesinin rüzgar yönüne göre dönmesinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güneş rotasını izleme sistemi hakkında bilgi verilmelidir.\nGüneş ışınım şiddeti izleme sistemi kurdurulmalıdır.\nGüneş hareket motorları sistemi kurdurulmalıdır.\nRüzgar hızı izleme, açı (pitch) kontrolünü yapar.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SCADA programlama editörünü bilgisayara kurmak.\nSCADA programlama editörünü kullanmak.\nSCADA haberleşme protokollerini ayarlar.\nButon işlevlerini ve veri girme işlemlerini yerine getirir.\nGösterge işlevlerini uygulamak.\nIsı, Basınç, Nem, Balans, Duman kontrolü uygulamaları\nPitch ve yaw kontrol uygulamaları\nKesici, Ayırıcı ve Güç Trafosu kontrol uygulaması\nGüneş hareket motor sisteminin kurulması"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "SCADA",
+      "KONU": "Türbin Hareket Kontrolü / Enerji Santralinin Güvenlik Kontrolü / Enerji Santrali Şalt Sahası Manevra Kontrolü",
+      "KAZANIM": "İzleme programı kullanıcı arayüzünden türbin kanatlarının açısını ve makine dairesinin rüzgar yönüne göre dönmesinin kontrolünü yapar.\nİzleme programı kullanıcı arayüzünden enerji santralinin ısı algılama, basınç ve nem kontrolünü yapar.\nİzleme programı kullanıcı arayüzünden güç trafosunun, kesicinin ve ayırıcının kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yaw kontrolü hakkında bilgi verilmelidir.Takibinin yapılması sağlanmalıdır.\nBasınç, Nem, Balans, Duman algılama kontrolünü bilgisayar üzerinden yaptırılmalıdır.\nGüç trafosu, Kesici, Ayırıcı kontrolü yaptırılmalıdır.",
+        "Ortam ve Donanım": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Öğretim Teknikleri": "Ortam: Kontrol Atölyesi\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, yazıcı/tarayıcı, Buton, röle, kontaktör, zaman rölesi, yıldız üçgen şalter, yıldız üçgen röle, sinyal lambaları, iletkenler/kablolar, 3 fazlı asenkron motor, 1 fazlı asenkron motor, takometre, plc, sensörler, mikrodenetleyiciler, fiziksel nicelik sensörleri, dc motor ve sürücüleri, step motor ve sürücüleri, servo motor, el aletleri, ölçme aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "SCADA programlama editörünü bilgisayara kurmak.\nSCADA programlama editörünü kullanmak.\nSCADA haberleşme protokollerini ayarlar.\nButon işlevlerini ve veri girme işlemlerini yerine getirir.\nGösterge işlevlerini uygulamak.\nIsı, Basınç, Nem, Balans, Duman kontrolü uygulamaları\nPitch ve yaw kontrol uygulamaları\nKesici, Ayırıcı ve Güç Trafosu kontrol uygulaması\nGüneş hareket motor sisteminin kurulması"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

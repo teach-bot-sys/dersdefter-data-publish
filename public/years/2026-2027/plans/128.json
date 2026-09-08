@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "12",
+  "ders": "Seçmeli Nesnelerin İnterneti",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/128/secmeli-nesnelerin-interneti-12",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Nesneler ve Bağlantılar",
+      "KONU": "Nesnelerin İnterneti (IoT) / IoT Bileşenleri",
+      "KAZANIM": "Nesnelerin internetini (IoT) açıklar.\nNesnelerin interneti bileşenlerini sayar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kendi aralarında bir ağ oluşturan ve haberleşebilen cihazlar açıklanır.\nNesnelerin interneti için kullanılabilecek cihazlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternete hangi sıklıkta ve nasıl bağlanıyoruz? Etkinliğini yapmak.\nÇeşitli araçlar (ping, traceroute vb.) kullanarak interneti haritalandırmak.",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Nesneler ve Bağlantılar",
+      "KONU": "İletişim Modelleri / Veri Gizliliği",
+      "KAZANIM": "Nesnelerin internetinde iletişim modellerini açıklar.\nNesnelerin internetinde veri gizliliğinin önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Nesnelerin interneti iletişim modellerinin neler olduğu gösterilir.\nİletişim halinde olan cihazların bilgi transferi sırasında uygulanabilecek veri gizliliği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "İnternete hangi sıklıkta ve nasıl bağlanıyoruz? Etkinliğini yapmak.\nÇeşitli araçlar (ping, traceroute vb.) kullanarak interneti haritalandırmak."
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Elemanları, Mikrodenetleyiciler ve Sensörler",
+      "KONU": "Devre Elemanları / Breadboard Kullanımı",
+      "KAZANIM": "Devre elemanlarının görevlerini açıklar.\nBreadboard kullanarak basit bir devre uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uygulamalarda kullanılacak devre elemanları gösterilerek çalışma sistemi açıklanır.\nBreadboard yapısı ve bağlantıları görselde açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük hayatta kullanılan bir nesnenin, sensörler kullanılarak akıllı hale getirme tasarımı yapmak.\nElektronik devre simülasyonu kullanarak basit bir devre tasarlamak.",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Elemanları, Mikrodenetleyiciler ve Sensörler",
+      "KONU": "Breadboard Kullanımı",
+      "KAZANIM": "Breadboard kullanarak basit bir devre uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Breadboard üzerindeki + ve – bağlantılarının da kullanılacağı özgün basit bir uygulama devresi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük hayatta kullanılan bir nesnenin, sensörler kullanılarak akıllı hale getirme tasarımı yapmak.\nElektronik devre simülasyonu kullanarak basit bir devre tasarlamak.",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Elemanları, Mikrodenetleyiciler ve Sensörler",
+      "KONU": "Mikrodenetleyiciler",
+      "KAZANIM": "Mikrodenetleyicilerin görevini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyicilerin çalışma mantığı ve görevleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük hayatta kullanılan bir nesnenin, sensörler kullanılarak akıllı hale getirme tasarımı yapmak.\nElektronik devre simülasyonu kullanarak basit bir devre tasarlamak.",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Elemanları, Mikrodenetleyiciler ve Sensörler",
+      "KONU": "Sensörler",
+      "KAZANIM": "Sensörlerin kullanım amacını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sensörlerin kullanım amaçları sensör çeşitleri gösterilerek açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük hayatta kullanılan bir nesnenin, sensörler kullanılarak akıllı hale getirme tasarımı yapmak.\nElektronik devre simülasyonu kullanarak basit bir devre tasarlamak."
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "4",
+      "ÜNİTE": "Devre Elemanları, Mikrodenetleyiciler ve Sensörler",
+      "KONU": "Sensörler",
+      "KAZANIM": "Sensörlerin kullanım amacını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Günlük yaşamda kullanılan sensörlerden örnekler verilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Günlük hayatta kullanılan bir nesnenin, sensörler kullanılarak akıllı hale getirme tasarımı yapmak.\nElektronik devre simülasyonu kullanarak basit bir devre tasarlamak.",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Blok Temelli Programlama / Python ile Programlama",
+      "KAZANIM": "Blok temelli programlama araçlarıyla uygulamalar yapar.\nPython dili ile nesnelerin interneti için program yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Problem çözümünde blok temelli programlama araçlarıyla uygulamalar yaptırılır.\nPython dili ile amaca uygun programlar yazdırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak.",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Veri İşleme Süreçleri",
+      "KAZANIM": "Nesnelerde veri işleme süreçlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IoT cihazlarında veri işleme süreçleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "API' ler",
+      "KAZANIM": "Yazılım API' lerinin görevini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yazılım API' lerinin görevleri açıklanır.\nREST API ve kullanım yeri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Kod Güvenliği",
+      "KAZANIM": "Kod güvenliğinin önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kod güvenliğinin önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Raspberry Pi Kullanımı",
+      "KAZANIM": "Raspberry Pi donanımının donanımı üzerinde yazılım dilini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Raspberry Pi donanımının özellikleri açıklanır.\nRaspberry Pi donanımına işletim sistemi kurulumu gerçekleştirilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Raspberry Pi Kullanımı",
+      "KAZANIM": "Raspberry Pi donanımının donanımı üzerinde yazılım dilini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Raspberry Pi donanımında temel Linux komutları ile uygulamalar yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Raspberry Pi Kullanımı",
+      "KAZANIM": "Raspberry Pi donanımının donanımı üzerinde yazılım dilini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Raspberry Pi donanımıyla Python dili ile uygulamalar yaptırılır.\nRaspberry Pi donanımı ile ev otomasyonu projesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Programlama",
+      "KONU": "Simülasyon Aracı",
+      "KAZANIM": "Simülasyon aracı (Packet Tracer) kullanarak bir otomasyon sistemi tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Simülasyon aracı ile bir otomasyon sistemi uygulaması yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Flowchart yazılımları ile bir problemin çözümünün algoritmasını tasarlamak.\nBlockly ve Python kullanarak bir problemi çözmek.\nRaspberry PI donanımına işletim sistemi yüklemek.\nSimülasyon yazılımı (Packet Tracer) kullanarak IoT çözümü geliştirmek.\nArduino IDE ile programlama yapmak."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "Yerel ve Genel Alan Ağları",
+      "KAZANIM": "IoT ekosistemini açıklar\nYerel ve genel alan ağlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IoT topolojisi görsel materyal ile açıklanır\nYerel alan ağları (LAN) açıklanır.\nGeniş alan ağlarında (WAN) nesnelerin interneti uygulamalarına örnekler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "Kablolu ve Kablosuz Ortamlar / Ağ Protokolleri",
+      "KAZANIM": "IoT' da kullanılan kablolu ve kablosuz ortamlara örnekler verir.\nBilgisayar ağlarında kullanılan protokolleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kablolu ve kablosuz ortamlar görsel materyallerle açıklanır.\nBilgisayar ağlarında kullanılan protokoller örneklerle açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "IoT Kablosuz İletişim Teknolojileri",
+      "KAZANIM": "IoT sistemlerinde kablosuz iletişim teknolojilerinin kullanımına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IoT sistemlerinde Wi-Fi kullanımı ile ilgili örnekler verilir.\n4G / 5G kullanımı ile ilgili örnekler verilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "IoT Kablosuz İletişim Teknolojileri / IoT Protokolleri",
+      "KAZANIM": "IoT sistemlerinde kablosuz iletişim teknolojilerinin kullanımına örnekler verir.\nIoT'da kullanılan protokolleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bluetooth iletişimi kullanarak IoT uygulaması yaptırılır.\nAltyapı protokolleri açıklanır",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "IoT Protokolleri",
+      "KAZANIM": "IoT'da kullanılan protokolleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Servis keşif protokolleri açıklanır. protokolü ile ilgili uygulama yaptırılır.\nMQTT, CoAP, XMPP ve AMQP uygulama protokolleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "IoT Protokolleri / Sis ve Bulut Bilişim",
+      "KAZANIM": "IoT'da kullanılan protokolleri açıklar.\nBulut bilişim modelini IoT kapsamında açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "MQTT protokolü ile ilgili uygulama yaptırır.\nBulut bilişim modeli açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "Sis ve Bulut Bilişim",
+      "KAZANIM": "Bulut bilişim modelini IoT kapsamında açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bulut servisleri ile örnek bir uygulama yaptırılır.\nSis bilişim modeli açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "Büyük Veri",
+      "KAZANIM": "Nesnelerin internetinde büyük veri kullanımını örneklerle açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Büyük veri kullanımı örneklerle açıklanır.\nBüyük veri depolama ortamları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Bilgisayar Ağları, Sis ve Bulut Bilişim",
+      "KONU": "Büyük Veri / Bulut Bilişimde Güvenlik",
+      "KAZANIM": "Nesnelerin internetinde büyük veri kullanımını örneklerle açıklar.\nBulut bilişimde güvenliğin önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Veri görselleştirme araçları ile örnek uygulamalar yaptırılır.\nBulut bilişimde güvenliğin önemi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Büyük veri (Big Data) için örnek veri setleri ile çalışmak.\nMQTT uygulaması tasarlamak (Sıcaklık bilgilerinin periyodik olarak MQTT kullanarak buluta göndermek).\nIoT sisteminde bulut hizmeti uygulaması yapmak.\nBluetooth iletişimi kullanarak IoT uygulaması yapmak.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Güvenlik",
+      "KONU": "IoT' de Güvenlik Riskleri / IoT Sistem Mimarileri ve Modelleri / IoT Donanım Katmanı Güvenliği",
+      "KAZANIM": "IoT' de güvenlik risklerini açıklar.\nIoT sistem mimarilerini açıklar.\nIoT donanım katmanı güvenliğini sağlama yöntemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Güvenlik riskleri açıklanır.\nSistem mimarileri açıklanır.\nDonanım katmanı güvenliği sağlama yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "IoT cihazları aracılığıyla yapılan saldırıları incelemek.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "Nesnelerin İnternetinde Güvenlik",
+      "KONU": "IoT İletişim Katmanı Güvenliği / IoT Uygulama Katmanı Güvenliği",
+      "KAZANIM": "IoT iletişim katmanı güvenliğini açıklar.\nIoT uygulama katmanı güvenliğini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "İletişim katmanı güvenliği açıklanır.\nUygulama katmanı güvenliği açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "IoT cihazları aracılığıyla yapılan saldırıları incelemek.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Uygulamaları",
+      "KONU": "Endüstriyel IoT Uygulamaları / IoT Güvenliği",
+      "KAZANIM": "Endüstriyel IoT uygulamalarına örnekler verir.\nIoT güvenliği uygulama ilkelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Endüstriyel uygulamalar ile ilgili örnekler verilir.\nIoT güvenliği uygulama ilkeleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Endüstride kullanılan IoT uygulamaları ile ilgili araştırma yaparak sunumunu yapmak.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Uygulamaları",
+      "KONU": "IoT Sistem Uygulamaları",
+      "KAZANIM": "Çeşitli alanlardaki IoT uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sağlık alanındaki IoT uygulamaları ile ilgili örnekler verilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Endüstride kullanılan IoT uygulamaları ile ilgili araştırma yaparak sunumunu yapmak.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Uygulamaları",
+      "KONU": "IoT Sistem Uygulamaları",
+      "KAZANIM": "Çeşitli alanlardaki IoT uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IoT kapsamında akıllı şehirler uygulamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Endüstride kullanılan IoT uygulamaları ile ilgili araştırma yaparak sunumunu yapmak."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Uygulamaları",
+      "KONU": "IoT Sistem Uygulamaları",
+      "KAZANIM": "Çeşitli alanlardaki IoT uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IoT kapsamında akıllı şebeke uygulamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Endüstride kullanılan IoT uygulamaları ile ilgili araştırma yaparak sunumunu yapmak.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Uygulamaları",
+      "KONU": "IoT Sistem Uygulamaları",
+      "KAZANIM": "Çeşitli alanlardaki IoT uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IoT kapsamında akıllı üretim uygulamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Endüstride kullanılan IoT uygulamaları ile ilgili araştırma yaparak sunumunu yapmak.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Uygulamaları",
+      "KONU": "IoT'de Makine Öğrenmesi ve Yapay Zekâ",
+      "KAZANIM": "IoT'de makine öğrenmesi ve yapay zekâ kullanımına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Makine öğrenmesi ve yapay zekâ kullanımına ilişkin örnekler verilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "Endüstride kullanılan IoT uygulamaları ile ilgili araştırma yaparak sunumunu yapmak.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Çözümleri Geliştirme",
+      "KONU": "IoT Uygulama Tasarlama",
+      "KAZANIM": "Geliştirdiği IoT uygulamasının tasarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Geliştirilen IoT uygulamasının tasarımı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "IoT Prototipi geliştirmek."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Çözümleri Geliştirme",
+      "KONU": "IoT Uygulama Tasarlama",
+      "KAZANIM": "Geliştirdiği IoT uygulamasının tasarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Geliştirilen IoT uygulamasının tasarımı yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "IoT Prototipi geliştirmek."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Çözümleri Geliştirme",
+      "KONU": "IoT Prototipi",
+      "KAZANIM": "Tasarladığı IoT uygulamasının prototipini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tasarlanan IoT uygulamasının prototipi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "IoT Prototipi geliştirmek."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "IoT Çözümleri Geliştirme",
+      "KONU": "IoT Prototipi",
+      "KAZANIM": "Tasarladığı IoT uygulamasının prototipini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tasarlanan IoT uygulamasının prototipi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri Laboratuvarı\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, yazıcı, sensörler, temel elektronik devre elemanları, breadboard, Arduino, Raspberry pi.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir.\nBunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin de öğretim sürecinin değerlendirilmesine katılmaları sağlanabilir.",
+        "Temrin Listesi": "IoT Prototipi geliştirmek."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

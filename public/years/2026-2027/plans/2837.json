@@ -1,0 +1,744 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Robotik Ve Kodlama (Bt)",
+  "grup": "Meslek Dersleri",
+  "brans": "Bilişim Teknolojileri",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/bilisim-teknolojileri/2837/robotik-ve-kodlama-bt-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Robotik için Mikrodenetleyici kart",
+      "KONU": "Mikrodenetleyici Kart Yapısı ve Çeşitleri",
+      "KAZANIM": "Mikrodenetleyici kart yapısı ve çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici kartın fiziksel yapısını açıklar.\nMikrodenetleyici kart çeşitlerini listeler.\nOnline çizim ve simülasyon programına giriş yapar.\nOnline çizim ve simülasyon programının menülerini kullanır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici yapısına ilişkin bulmaca uygulamasını yapmak\nMikrodenetleyici projesine ilişkin poster çalışmasını yapmak\n\"Bilgisayarlı Çizim Programı\" programında uygulama kartının 13 no.lu pini üzerinde bulunan LED'i yakıp söndüren göz kırpması (blink) uygulamasını yapmak\nKarma (Hibrit) ve Davranışsal (Behavioral) kontrol ilkelerine göre çalışan robotları araştırarak görsel bir çalışma (sunum, poster gibi) hazırlamak\nTürkiye'nin askerî alanda kullandığı teknolojik robotlar ile ilgili bir araştırma yapmak\nEğitsel robot türleriyle ilgili araştırma yaparak sunum yapmak\n\"Bilgisayarlı Çizim Programı'nda düğme (buton) uygulamasını yapmak\n\"Bilgisayarlı Çizim Programı\" programında breadboard (uygulama tahtası) üzerinde birer saniye aralıklarla LED yakıp söndürme olayını gerçekleştiren simülasyon devresi uygulamasını yapmak\nRobot türlerinin elektronik parçaları ile ilgili bir araştırma yapmak\nLED yakıp söndürme çalışmasını 2 saniye aralıklı döngü ile yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Robotik için Mikrodenetleyici kart",
+      "KONU": "Mikrodenetleyici Kart Yapısı ve Çeşitleri / Robot Türleri ve Eğitsel Amaçlı Robotlar",
+      "KAZANIM": "Mikrodenetleyici kart yapısı ve çeşitlerini açıklar.\nRobot türleri ve eğitsel amaçlı robotları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Online çizim ve simülasyon programında Blink uygulamasını yapar.\nRobot kavramını açıklar.\nRobot çeşitlerini açıklar.\nEğitsel robotlarla ilgili kapsamlı bilgi verir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici yapısına ilişkin bulmaca uygulamasını yapmak\nMikrodenetleyici projesine ilişkin poster çalışmasını yapmak\n\"Bilgisayarlı Çizim Programı\" programında uygulama kartının 13 no.lu pini üzerinde bulunan LED'i yakıp söndüren göz kırpması (blink) uygulamasını yapmak\nKarma (Hibrit) ve Davranışsal (Behavioral) kontrol ilkelerine göre çalışan robotları araştırarak görsel bir çalışma (sunum, poster gibi) hazırlamak\nTürkiye'nin askerî alanda kullandığı teknolojik robotlar ile ilgili bir araştırma yapmak\nEğitsel robot türleriyle ilgili araştırma yaparak sunum yapmak\n\"Bilgisayarlı Çizim Programı'nda düğme (buton) uygulamasını yapmak\n\"Bilgisayarlı Çizim Programı\" programında breadboard (uygulama tahtası) üzerinde birer saniye aralıklarla LED yakıp söndürme olayını gerçekleştiren simülasyon devresi uygulamasını yapmak\nRobot türlerinin elektronik parçaları ile ilgili bir araştırma yapmak\nLED yakıp söndürme çalışmasını 2 saniye aralıklı döngü ile yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Robotik için Mikrodenetleyici kart",
+      "KONU": "Robot Türleri ve Eğitsel Amaçlı Robotlar / Robotta Mekanik/Elektromekanik Bileşenler / Robotta Elektronik Bileşenler",
+      "KAZANIM": "Robot türleri ve eğitsel amaçlı robotları açıklar.\nRobotta mekanik/elektromekanik bileşenleri açıklar.\nRobotta elektronik bileşenleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Online çizim ve simülasyon programında düğme (button) uygulamasını yapar.\nOnline çizim ve simülasyon programında LED uygulamalarını yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici yapısına ilişkin bulmaca uygulamasını yapmak\nMikrodenetleyici projesine ilişkin poster çalışmasını yapmak\n\"Bilgisayarlı Çizim Programı\" programında uygulama kartının 13 no.lu pini üzerinde bulunan LED'i yakıp söndüren göz kırpması (blink) uygulamasını yapmak\nKarma (Hibrit) ve Davranışsal (Behavioral) kontrol ilkelerine göre çalışan robotları araştırarak görsel bir çalışma (sunum, poster gibi) hazırlamak\nTürkiye'nin askerî alanda kullandığı teknolojik robotlar ile ilgili bir araştırma yapmak\nEğitsel robot türleriyle ilgili araştırma yaparak sunum yapmak\n\"Bilgisayarlı Çizim Programı'nda düğme (buton) uygulamasını yapmak\n\"Bilgisayarlı Çizim Programı\" programında breadboard (uygulama tahtası) üzerinde birer saniye aralıklarla LED yakıp söndürme olayını gerçekleştiren simülasyon devresi uygulamasını yapmak\nRobot türlerinin elektronik parçaları ile ilgili bir araştırma yapmak\nLED yakıp söndürme çalışmasını 2 saniye aralıklı döngü ile yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Sistem Gereksinimlerine Uygun Mikrodenetleyici Kart / Mikrodenetleyici Kartın Bilgisayarla Bağlantısının Gerçekleştirilmesi",
+      "KAZANIM": "Sistem gereksinimlerine uygun mikrodenetleyici kart yazılımı kurulumunu yapar.\nBilgisayarla mikrodenetleyici kart arasında uygun yöntemlerle bağlantı oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici kart yazılımını açıklar ve kurulumunu yapar.\nBilgisayar ile mikrodenetleyici arasında bağlantı oluşturmak için gerekli olan adımları anlatır.\nBlink örnek uygulamasının program kodlarını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Mikrodenetleyici Kartın Bilgisayarla Bağlantısının Gerçekleştirilmesi / Geliştirme Ortamının Kullanılması",
+      "KAZANIM": "Bilgisayarla mikrodenetleyici kart arasında uygun yöntemlerle bağlantı oluşturur.\nGeliştirme ortamı söz dizimi kurallarını programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici kart çeşitlerini ve bağlantı portunun seçilmesini anlatır.\nMikrodenetleyici karta programın yüklenmesini anlatır ve uygular.\nLED yapısını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamının Kullanılması",
+      "KAZANIM": "Geliştirme ortamı söz dizimi kurallarını programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Breadboard kullanımını anlatır.\nMikrodenetleyici IDE programında söz dizim kurallarını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamının Kullanılması",
+      "KAZANIM": "Geliştirme ortamı söz dizimi kurallarını programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici kart ve Breadboard'a gerekli devre elemanlarının takılmasını gösterir.\nMikrodenetleyici kart ile 1 LED'li uygulamanın çalışma mantığını anlatır ve uygulamasını yapar.\nMikrodenetleyici kart ile 2, 5 ve 7 LED'li uygulamalarını yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamının Kullanılması",
+      "KAZANIM": "Geliştirme ortamı söz dizimi kurallarını programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici kart ile trafik lambası kontrolü uygulaması için devrenin elektriksel çizimini yapar ve programını yazar.\nMikrodenetleyici kartın dijital portlarının kullanımını anlatır.\nAnahtar kullanımı ve çeşitlerini anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamının Kullanılması",
+      "KAZANIM": "Geliştirme ortamı söz dizimi kurallarını programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Anahtar ile dijital giriş uygulamalarını yapar.\nButon kullanımı ve çeşitlerini anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamının Kullanılması / Seri İletişim Yöntemleri",
+      "KAZANIM": "Geliştirme ortamı söz dizimi kurallarını programa uygun şekilde kullanır.\nSeri iletişim yöntemlerini geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Buton ile dijital giriş uygulamalarını yapar.\nSeri port ekranını anlatır.\nSerial Port bağlantı hatası ve çözümü hakkında bilgi verir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Seri İletişim Yöntemleri / Geliştirme Ortamında Operatörlerin Kullanılması",
+      "KAZANIM": "Seri iletişim yöntemlerini geliştirilen programa uygun şekilde kullanır.\nOperatörler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Serial portta örnek uygulama yapar ve çıktılarını gösterir.\nGeliştirme ortamında operatörlerin kullanımını anlatır.\nMikrodenetleyici kart ile analog giriş uygulamasını örnek vererek açıklar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması",
+      "KAZANIM": "Operatörler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Potansiyometre ile analog giriş uygulamasını yapar.\nAnalog giriş örnek uygulamasını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması",
+      "KAZANIM": "Operatörler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog giriş örnek uygulamasının kodlarını yazdırır ve Seri Port ekranından çalıştırmalarını sağlar.\nPotansiyometre ile LED'lerin yanma hızı ayarlama uygulamasını yapar.\nDevrenin çizimine göre devre elemanlarını takar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması",
+      "KAZANIM": "Operatörler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "LDR ile ışık seviyesinin ölçülüp LED'ler ile gösteren uygulamayı yapar.\nAnalog çıkış (PWM) hakkında bilgi verilir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması",
+      "KAZANIM": "Operatörler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Potansiyometreden alınan analog bilgiyle analog çıkış üzerinden LED parlaklığı ayarlayan uygulamayı yapar.\nRGB LED'i açıklar.\nMikrodenetleyici kart ile RGB LED uygulamasını yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması / Geliştirme Ortamında Değişkenlerin Kullanılması",
+      "KAZANIM": "Operatörler geliştirilen programa uygun şekilde kullanır.\nDeğişkenler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Buzzer elamanını ve çeşitlerini açıklar.\nMikrodenetleyici kart ile Buzzer uygulamalarını yapar.\nGeliştirme ortamında değişkenlerin kullanımını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Değişkenlerin Kullanılması",
+      "KAZANIM": "Değişkenler geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dizilerin kullanımını anlatır.\nÇok boyutlu dizileri (matrisler) anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Değişkenlerin Kullanılması / Geliştirme Ortamında Fonksiyonların Kullanılması",
+      "KAZANIM": "Değişkenler geliştirilen programa uygun şekilde kullanır.\nFonksiyonları geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dizi uygulamalarını yaparak çıktısını Seri Portta gösterir.\nGeliştirme ortamında fonksiyonların kullanımını anlatır.\n7 Segment display devre elamanını açıklar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Geliştirme Ortamında Fonksiyonların Kullanılması / Ortam Kütüphaneleri",
+      "KAZANIM": "Fonksiyonları geliştirilen programa uygun şekilde kullanır.\nOrtam kütüphanelerini geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikrodenetleyici Kart İle 7 Segment Display uygulamalarını yapar.\nKütüphanedeki örneklere nasıl ulaşılacağı anlatır.\nMikrodenetleyici IDE programında ortam kütüphanesinin nasıl ekleneceğini anlatır ve uygular.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Ortam Kütüphaneleri",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uzaktan Kumanda İle RGB LED Uygulamalarını yapar.\nMikrodenetleyici IDE programında IRremote kütüphanesinin eklenmesini anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Ortam Kütüphaneleri",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Uzaktan Kumanda İle 7 Segment Display Uygulamasını yapar.\nUltrasonik mesafe sensörünü ve çalışma prensibini anlatır.\nLCD ekran elemanının kullanımını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "KONU": "Ortam Kütüphaneleri",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "LCD ekranın uygulama kartına bağlanmasını gösterir.\nLCD ekran uygulamasını yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "LED devre elemanının 1 saniye aralıkla yanıp sönme uygulamasını yapmak\n2 farklı LED'in sırasıyla yanmasını sağlayan uygulamayı yapmak\n5 farklı LED'in belirli bir sıraya göre yanma uygulamasını yapmak\nMikrodenetleyici IDE programını açıp aşağıdaki algoritmik sırayla LED'leri çalıştıran uygulamayı yapmak\n7 LED'li uygulamayı yapmak\nTrafik sinyalizasyonu programının LED'lerle oluşturulması uygulamasını yapmak\nTrafik ışıkları ve yaya sinyalizasyonu uygulamasını yapmak\nAnahtar ile dijital giriş uygulamasını yapmak\nLED'lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu butonlarla değiştirilmesi uygulamasını yapmak\nLED'lerin yanma durumu iki farklı buton ile değiştirilmesi uygulamasını yapmak\nSeri port ekranında \"Robotik ve Kodlama dersini çok seviyorum\" mesajını yazdıran programı yapmak\nSeri porttan gelen verilerin değişken türlerini değiştirme uygulamasını yapmak\nString dizi tanımlama programının kodlarını mikrodenetleyici IDE programında yazmak\nRastgele 10 adet sayı üreten ve diziye aktaran program kodları IDE programında oluşturmak\n2x2'lik 4 elemanlı bir dizi tanımlanması ve değer ataması uygulamasını yapmak\nİki boyutlu 3x5'lik sayılar dizisinin elemanlarını yazdıran program kodlarını oluşturmak\nMikrodenetleyici kartın analog girişine elle ayarlanabilen direnç (potansiyometre) bağlayarak uygulama yapmak\nPotansiyometre ile analog giriş uygulaması yapmak\nPotansiyometre ile LED'lerin yanıp sönme hızının ayarlanması uygulamasını yapmak\nLDR devre elemanını ışık algılama sensörü olarak kullanımı uygulamasını yapmak\nLDR ile ışık seviyesinin ölçülüp LED'ler ile gösterilmesi uygulamasını yapmak\nMikrodenetleyici kart ile örnek bir analog çıkış (PWM) uygulamasını yapmak\nOrtak katotlu RGB LED uygulamasını yapmak\n3 adet potansiyometre ile ortak katotlu RGB LED ile renklerin parlaklığını kontrol eden uygulamayı yapmak\nOrtak katotlu RGB LED'in potansiyometre ile kontrolü uygulamasını yapmak\nRGB LED ile rastgele renkler üreten bir uygulamayı yapmak\nRGB LED ile tüm renklerin birbirine geçişlerini sağlayan uygulamanın program kodlarını mikrodenetleyici IDE programında yazmak\nAktif buzzer uygulamasını yapmak\nMikrodenetleyici kart ile melodi çalma uygulamasını yapmak\nOrtak katot display uygulamasını yapmak\nOrtak katot display ile yukarı aşağı sayıcı uygulamasını yapmak\nDizi kullanarak kaldığı yerden devam eden ileri geri sayıcı uygulamayı yapmak\nIR alıcı ile kod çözücü uygulamasını \"Bilgisayarlı Çizim Programı\"nda gerçekleştirmek\nUzaktan kumandanın belirli tuşlarıyla RGB LED'i farklı renklerde yakma uygulamasını yapmak\nIR alıcı ve kod çözücü ile 7 segment display uygulamasını yapmak\nUltrasonik mesafe sensörü uygulamasını yapmak ultrasonik mesafe sensörünün ölçtüğü değerleri LED ile gösteren uygulamayı yapmak\nLCD ekran uygulamasını gösteren bir uygulama yapmak\nLCD ekranda yazılan yazının sağa veya sola kaydırılmasını sağlayan uygulamayı yapmak\nLCD'de yazılan yazının soldan sağa kaydırma uygulamasını yapmak\nLDR üzerine gelen ışık şiddetini sayısal değere çevirip yüzdelik değer olarak LCD ekran üzerinde gösteren uygulamayı yapmak\nLCD ekran ile mesafe sensörünü kullanan uygulamayı yapmak\nLCD ekran ile boy ölçme ile ilgili uygulamayı yapmak\nLCD ekran ile sosyal mesafe ölçen uygulamayı yapmak",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, Ramazan Bayramı, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robot bileşenlerini anlatır ve gösterir.\nRobot gövdesini anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motorlar konusunu anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tekerlekler konusunu anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor Sürücüleri anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mesafe sensörünü anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Çizgi izleme sensörünü anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "IR alıcıları anlatır ve gösterir.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Enerji kaynağı konusunu anlatır ve gösterir.\nEğitsel robotun devre şemasını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robotun montajını anlatır ve uygulamasını yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Özgün Proje Çalışması",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak",
+        "Etkinlik": "→ Kurban Bayramı, Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Projenin Sunumu",
+      "KAZANIM": "Proje sunumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Projenin Sunumu",
+      "KAZANIM": "Proje sunumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Projenin Sunumu",
+      "KAZANIM": "Proje sunumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Robot Uygulamaları",
+      "KONU": "Projenin Sunumu",
+      "KAZANIM": "Proje sunumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır.",
+        "Ortam ve Donanım": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Öğretim Teknikleri": "Ortam: Bilişim Teknolojileri laboratuvarı.\nDonanım: Mikrodenetleyici kart, temel elektronik devre elemanları, çevresel sensörler, motorlar, LiPo pil.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken; gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretim sürecine doğrudan katılmaları sağlanabilir.",
+        "Temrin Listesi": "Robot bileşenlerini robot gövdesinin uygun bölümlerine yerleştirmek\nKablo bağlantılarını şemayı kullanarak gerçekleştirmek\nRobot kodlarını IDE programına yazmak\nRobotu 1 saniye ileri, 1 saniye sağa, 1 saniye geri, 1 saniye sola, 2 saniye ileri ve 2 saniye durduran sonra da programı başa döndüren kodları yazmak\nRobotun bağlantılarının yapıldığından emin olduktan sonra mikrodenetleyici IDE programını açıp robotu 2 saniye sağa, 1 saniye dur, 2 saniye sola, 1 saniye dur, 1 saniye ileri ve 2 saniye dur kodlarını yazıp sonra da programı başa döndüren kodları yazmak\nEğitsel robot gövdesine IR alıcı devresini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra mikrodenetleyici IDE programını açarak hız değişkenine 100 değerini yazmak\nEngelden kaçan robota ait program kodlarını yazmak\nEğitsel robotun gövdesine çizgi izleme sensörlerini bağlayıp diğer robot bağlantılarının düzgün olduğundan emin olduktan sonra programını yazmak\n3 sensörlü çizgi izleyen robot programını yazmak\nEngeli gördüğünde duran, engel olmadığında çizgi izleyen robot programını yazmak\nEğitsel robotun gövdesine bluetooth modülünü bağlamak ve uygulamak"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": ""
+    }
+  ]
+}

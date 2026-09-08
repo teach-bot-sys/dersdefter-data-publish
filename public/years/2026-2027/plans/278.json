@@ -1,0 +1,756 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Elektrik-Elektronik Esasları",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/278/elektrik-elektronik-esaslari-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Elektriğin Temel Esasları",
+      "KONU": "Elektrik Enerji Kaynakları / Elektrik Enerji Santralleri ve Elektrik Üretim Aşamaları",
+      "KAZANIM": "Elektrik enerji kaynaklarının kullanımını açıklar.\nElektrik enerji santrallerini ve elektrik üretim aşamalarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik enerjisi ve üretimi açıklanır.\nElektrik enerjisinin diğer enerjilere göre üstünlükleri açıklanır.\nElektrik enerji kaynaklarının çeşitleri ve özellikleri açıklanır.\nYenilebilir enerji kaynakları açıklanır.\nAlternatörler ve elektrik üretimi açıklanır.\nTermik santraller ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş paneli ile elektrik üretimi yapımı\nRüzgâr santrali modeli yapımı\nElektrik yük problemi hesabı\nElektrik alan problemi hesabı\nElektrik potansiyel problemi hesabı\nElektrik akım hesabı\nElektrik akımının ısı etkisi deneyi\nElektrik akımının ışık etkisi deneyi\nElektrik akımının manyetik etkisi deneyi\nElektrik akımının kimyasal etkisi deneyi\nGerilim ve EMK hesaplamaları\nLamba deneyi\nElektrostatik yük problemlerinin çözümü\nElektriklenme deneyleri",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Elektriğin Temel Esasları",
+      "KONU": "Elektrik Enerji Santralleri ve Elektrik Üretim Aşamaları / Atomun Yapısı ve Elektron Teorisi",
+      "KAZANIM": "Elektrik enerji santrallerini ve elektrik üretim aşamalarını açıklar.\nAtomun yapısını ve elektronları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hidroelektrik santraller ve özellikleri açıklanır.\nYenilebilir enerji santraller ve özellikleri açıklanır.\nAtomun yapısı ve özellikleri açıklanır.\nElektron teorisi açıklanır.\nİletkenler, yalıtkanlar ve yarıiletkenler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş paneli ile elektrik üretimi yapımı\nRüzgâr santrali modeli yapımı\nElektrik yük problemi hesabı\nElektrik alan problemi hesabı\nElektrik potansiyel problemi hesabı\nElektrik akım hesabı\nElektrik akımının ısı etkisi deneyi\nElektrik akımının ışık etkisi deneyi\nElektrik akımının manyetik etkisi deneyi\nElektrik akımının kimyasal etkisi deneyi\nGerilim ve EMK hesaplamaları\nLamba deneyi\nElektrostatik yük problemlerinin çözümü\nElektriklenme deneyleri"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "3",
+      "ÜNİTE": "Elektriğin Temel Esasları",
+      "KONU": "Elektrik Yükleri ve Elektrik Alanı / Elektrik Akımının Özellikleri",
+      "KAZANIM": "Elektrik yükleri ve elektrik alanı hesaplarını yapar.\nElektrik akımının özelliklerini ve etkilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik yükünün özellikleri açıklanır.\nCoulomb Kanunu açıklanır.\nElektrik alanı açıklanır.\nElektrik potansiyeli açıklanır.\nŞimşek ve yıldırım açıklanır.\nElektrik akımı tanımlanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş paneli ile elektrik üretimi yapımı\nRüzgâr santrali modeli yapımı\nElektrik yük problemi hesabı\nElektrik alan problemi hesabı\nElektrik potansiyel problemi hesabı\nElektrik akım hesabı\nElektrik akımının ısı etkisi deneyi\nElektrik akımının ışık etkisi deneyi\nElektrik akımının manyetik etkisi deneyi\nElektrik akımının kimyasal etkisi deneyi\nGerilim ve EMK hesaplamaları\nLamba deneyi\nElektrostatik yük problemlerinin çözümü\nElektriklenme deneyleri",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Elektriğin Temel Esasları",
+      "KONU": "Elektrik Akımının Özellikleri",
+      "KAZANIM": "Elektrik akımının özelliklerini ve etkilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik biriminin ast ve üst katları açıklanır.\nElektrik akımının çeşitleri açıklanır.\nElektrik akımının ısı etkileri açıklanır.\nJoule Kanunu açıklanır.\nElektrik akımının ışık etkileri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş paneli ile elektrik üretimi yapımı\nRüzgâr santrali modeli yapımı\nElektrik yük problemi hesabı\nElektrik alan problemi hesabı\nElektrik potansiyel problemi hesabı\nElektrik akım hesabı\nElektrik akımının ısı etkisi deneyi\nElektrik akımının ışık etkisi deneyi\nElektrik akımının manyetik etkisi deneyi\nElektrik akımının kimyasal etkisi deneyi\nGerilim ve EMK hesaplamaları\nLamba deneyi\nElektrostatik yük problemlerinin çözümü\nElektriklenme deneyleri",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Elektriğin Temel Esasları",
+      "KONU": "Elektrik Akımının Özellikleri / Elektrik Geriliminin Özellikleri",
+      "KAZANIM": "Elektrik akımının özelliklerini ve etkilerini açıklar.\nElektrik geriliminin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Elektrik akımının manyetik etkileri açıklanır.\nElektrik akımının kimyasal etkileri açıklanır.\nElektrik akım yoğunluğu açıklanır.\nGerilim ve Elektromotor (EMK) ilişkisi açıklanır.\nGerilim biriminin ast ve üst katları açıklanır.\nGerilim çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş paneli ile elektrik üretimi yapımı\nRüzgâr santrali modeli yapımı\nElektrik yük problemi hesabı\nElektrik alan problemi hesabı\nElektrik potansiyel problemi hesabı\nElektrik akım hesabı\nElektrik akımının ısı etkisi deneyi\nElektrik akımının ışık etkisi deneyi\nElektrik akımının manyetik etkisi deneyi\nElektrik akımının kimyasal etkisi deneyi\nGerilim ve EMK hesaplamaları\nLamba deneyi\nElektrostatik yük problemlerinin çözümü\nElektriklenme deneyleri",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Elektriğin Temel Esasları",
+      "KONU": "Elektrik Geriliminin Özellikleri / Statik Elektrik ve Elektriklenme Yöntemleri",
+      "KAZANIM": "Elektrik geriliminin özelliklerini açıklar.\nStatik elektriği ve elektriklenme yöntemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Gerilim üretme yöntemleri açıklanır.\nStatik elektrik (elektrostatik) tanımlanır.\nStatik elektriğin zararları sıralanır.\nElektriklenme yöntemleri açıklanır.\nStatik elektrikten korunma yöntemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Güneş paneli ile elektrik üretimi yapımı\nRüzgâr santrali modeli yapımı\nElektrik yük problemi hesabı\nElektrik alan problemi hesabı\nElektrik potansiyel problemi hesabı\nElektrik akım hesabı\nElektrik akımının ısı etkisi deneyi\nElektrik akımının ışık etkisi deneyi\nElektrik akımının manyetik etkisi deneyi\nElektrik akımının kimyasal etkisi deneyi\nGerilim ve EMK hesaplamaları\nLamba deneyi\nElektrostatik yük problemlerinin çözümü\nElektriklenme deneyleri"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Doğru Akım (DC) Özellikleri / Doğru Akım Kaynakları",
+      "KAZANIM": "Doğru akımın özelliklerini açıklar.\nDoğru akım kaynaklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım (DC) tanımlanır.\nDoğru akımın kullanıldığı yerler açıklanır.\nDoğru akım kaynak çeşitleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Doğru Akım Kaynakları",
+      "KAZANIM": "Doğru akım kaynaklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Doğru akım kaynaklarının bağlantı hesaplamaları açıklanır.\nDoğru akım kaynakları kullanırken dikkat edilecek hususlar sıralanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Doğru Akım Kaynakları / Doğru Akım Devreleri ve Bağlantıları",
+      "KAZANIM": "Doğru akım kaynaklarını açıklar.\nDoğru akım devrelerinin hesaplamasını ve bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dinamoların özellikleri açıklanır.\nSeri devre bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Doğru Akım Devreleri ve Bağlantıları",
+      "KAZANIM": "Doğru akım devrelerinin hesaplamasını ve bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Paralel devre bağlantısı açıklanır.\nKarışık devre bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Doğru Akım Devreleri ve Bağlantıları / Ohm Kanunu ile Devre Analizi",
+      "KAZANIM": "Doğru akım devrelerinin hesaplamasını ve bağlantısını yapar.\nOHM Kanunu'nu formüllerle hesaplayarak deneyini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yıldız-üçgen dönüşümleri hesaplanır.\nOHM Kanunu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Ohm Kanunu ile Devre Analizi / Kirşof Kanunları ile Devre Analizleri",
+      "KAZANIM": "OHM Kanunu'nu formüllerle hesaplayarak deneyini yapar.\nKirşof Kanunları'nı formüllerle hesaplayarak deneylerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "OHM Kanunu ile devre hesaplamaları yapılır.\nKirşof'un Gerilimler Kanunu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Kirşof Kanunları ile Devre Analizleri",
+      "KAZANIM": "Kirşof Kanunları'nı formüllerle hesaplayarak deneylerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kirşof'un Gerilimler Kanunu ile seri devre hesaplamaları yapılır.\nKirşof'un Akımlar Kanunu açıklanır.\nKirşof'un Akımlar Kanunu ile paralel devre hesaplamaları yapılır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Kirşof Kanunları ile Devre Analizleri",
+      "KAZANIM": "Kirşof Kanunları'nı formüllerle hesaplayarak deneylerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kirşof Kanunları ile karışık devre hesaplamaları yapılır.\nGözlü devre hesaplamaları yapılır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Kondansatör Bağlantıları",
+      "KAZANIM": "Kondansatör ve bağlantı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörler ve özellikleri açıklanır.\nKondansatörde şarj ve deşarj olayı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Kondansatör Bağlantıları",
+      "KAZANIM": "Kondansatör ve bağlantı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörlerin kullanıldığı yerler açıklanır.\nKondansatör bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Bobin Bağlantıları",
+      "KAZANIM": "Bobin ve bağlantı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobinler ve özellikleri açıklanır.\nBobinlerin DC akımda kullanımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "Bobin Bağlantıları",
+      "KAZANIM": "Bobin ve bağlantı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobinlerin kullanıldığı yerler açıklanır.\nBobin bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pil bağlantı problemleri hesabı\nPil bağlantı deneyi\nSeri devre problemleri hesabı\nParalel devre problemleri hesabı\nKarışık devre problemleri hesabı\nOhm kanunu ile akım, gerilim ve direnç hesaplamaları\nOhm kanunu deneyi\nKirşof kanunları ile akım, gerilim ve direnç hesaplamaları\nKirşof Kanunları deneyleri\nGözlü devre hesaplamaları ve uygulamaları\nBobin bağlantısı\nKondansatör şarj-deşarj uygulaması"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akım (AC) Özellikleri ve Elde Edilmesi",
+      "KAZANIM": "Alternatif akımının özelliklerini ve elde edilmesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alternatif akım (AC) tanımlanır.\nAlternatif akım çeşitleri açıklanır.\nAlternatif akımın elde edilmesi açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akım (AC) Özellikleri ve Elde Edilmesi / Alternatif Akım Bileşenleri ve Vektörel Gösterimleri",
+      "KAZANIM": "Alternatif akımının özelliklerini ve elde edilmesini açıklar.\nAlternatif akım bileşenlerinin vektörel gösterimini yaparak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alternatif akımın kullanıldığı yerler açıklanır.\nSinüs dalgası (sinüsoidal sinyal) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akım Bileşenleri ve Vektörel Gösterimleri",
+      "KAZANIM": "Alternatif akım bileşenlerinin vektörel gösterimini yaparak hesaplar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alternatif akım bileşenleri (saykıl, periyot, alternans, frekans, açısal hız, dalga boyu) açıklanır.\nAlternatif akımın değerleri (ani değer, ortalama değer, etkin değer, maksimum değer, tepeden tepeye değer) açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akım Bileşenleri ve Vektörel Gösterimleri / Alternatif Akımda Bobinler",
+      "KAZANIM": "Alternatif akım bileşenlerinin vektörel gösterimini yaparak hesaplar.\nAlternatif akımda bobinleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Alternatif akımın faz (sıfır faz, ileri faz ve geri faz) ve faz farkı vektörler ile açıklanır.\nEndüktans ve özellikleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Bobinler",
+      "KAZANIM": "Alternatif akımda bobinleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AC akımda bobinin gösterdiği özellikler açıklanır.\nBobinin seri ve paralel bağlantıları hesaplanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Kondansatörler",
+      "KAZANIM": "Alternatif akımda kondansatörleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kapasitans ve özellikleri açıklanır.\nAC akımda kapasitörlerin gösterdiği özellikler açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Kondansatörler / Alternatif Akımda Devre Bağlantıları",
+      "KAZANIM": "Alternatif akımda kondansatörleri açıklar.\nAlternatif akımda seri, paralel ve karışık devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kondansatörün seri ve paralel bağlantıları hesaplanır.\nEmpedans ve admitans ilişkisi açıklanır.\nR-L seri devre özellikleri ve hesaplamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Devre Bağlantıları",
+      "KAZANIM": "Alternatif akımda seri, paralel ve karışık devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "R-C seri devre özellikleri ve hesaplamaları açıklanır.\nR-L-C seri devre özellikleri ve hesaplamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Devre Bağlantıları",
+      "KAZANIM": "Alternatif akımda seri, paralel ve karışık devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "R-L paralel devre özellikleri ve hesaplamaları açıklanır.\nR-C paralel devre özellikleri ve hesaplamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Devre Bağlantıları",
+      "KAZANIM": "Alternatif akımda seri, paralel ve karışık devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "R-L-C paralel devre özellikleri ve hesaplamaları açıklanır.\nÜç fazlı sistemlerde yıldız ve üçgen bağlantıları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Devre Bağlantıları / Alternatif Akımda Güç Hesapları",
+      "KAZANIM": "Alternatif akımda seri, paralel ve karışık devre hesaplarını yapar.\nAlternatif akımda güç hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Üç fazlı sistemlerde yıldız ve üçgen bağlantı akım ve gerilim hesaplamaları yapılır.\nDirençli devrelerde aktif güç hesaplanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Güç Hesapları",
+      "KAZANIM": "Alternatif akımda güç hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bobinli devrelerde reaktif güç hesaplanır.\nKondansatörlü devrelerde reaktif güç hesaplanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Güç Hesapları / Alternatif Akımda Rezonans Devre Hesapları",
+      "KAZANIM": "Alternatif akımda güç hesaplarını yapar.\nAlternatif akımda rezonans devre hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "R-L-C devrelerde güç hesabı yapılır.\nR-L-C devrelerde güç üçgeni çizilir.\nAC akımda seri rezonans açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Alternatif Akımda Rezonans Devre Hesapları / Transformatörlerin Özellikleri ve Çeşitleri",
+      "KAZANIM": "Alternatif akımda rezonans devre hesaplarını yapar.\nTransformatörlerin özelliklerini ve çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "AC akımda paralel rezonans açıklanır.\nTransformatör tanımlanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Transformatörlerin Özellikleri ve Çeşitleri",
+      "KAZANIM": "Transformatörlerin özelliklerini ve çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transformatörlerin yapısı açıklanır.\nTransformatörlerin çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Transformatörlerin Özellikleri ve Çeşitleri / Transformatör Dönüştürme Hesabı",
+      "KAZANIM": "Transformatörlerin özelliklerini ve çeşitlerini açıklar.\nTransformatör dönüştürme hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transformatörlerin çeşitleri açıklanır.\nTrafoda indüklenen gerilim değerleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Transformatör Dönüştürme Hesabı / Transformatörde Güç ve Verim Hesabı",
+      "KAZANIM": "Transformatör dönüştürme hesaplarını yapar.\nTransformatörde güç ve verim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transformatör dönüştürme oranı açıklanır.\nTransformatör kayıpları açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Alternatif Akım Esasları",
+      "KONU": "Transformatörde Güç ve Verim Hesabı",
+      "KAZANIM": "Transformatörde güç ve verim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Transformatörlerde güç açıklanır.\nTransformatörlerde verim açıklanır.",
+        "Ortam ve Donanım": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Öğretim Teknikleri": "Ortam: Elektrik-Elektronik Atölyesi\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, ölçü aletleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Alternatif akım hesaplamaları\nAlternatif akım periyot ve frekans uygulamaları\nAC akımda endüktans hesabı\nAC akımda kapasitans hesabı\nAC akımda güç ölçme uygulaması\nSeri R-L-C devre hesabı\nParalel R-L-C devre hesabı\nR-L-C devrede güç hesabı\nSeri rezonans devre hesapları\nParalel rezonans devre hesapları\nTransformatör bağlantısı"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "11",
+  "ders": "Mikrodenetleyiciler Ve Güvenlik Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Elektrik-Elektronik Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/elektrik-elektronik-teknolojisi/292/mikrodenetleyiciler-ve-guvenlik-atolyesi-11",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Sayı Sistemleri / Sayı Sistemlerinin Dönüştürülmesi",
+      "KAZANIM": "Sayı sistemlerini açıklar.\nSayı sistemleri arasında dönüştürme işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Onlu sayı sistemi açıklanır.\nİkili sayı sistemi açıklanır.\nOnaltılı sayı sistemi açıklanır.\nOnlu, ikili ve on altılı sayı sistemleri arasında dönüştürme yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Lojik Entegreler / Lojik Kapılar",
+      "KAZANIM": "Lojik entegreleri açıklar.\nLojik kapıları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "TTL lojik entegreler açıklanır.\nCMOS lojik entegreler açıklanır.\nLow aktif, High aktif giriş ve çıkışlar açıklanır.\nLojik kapıların sembolleri ve doğruluk tablosu açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Sayı Sistemleri ve Lojik Kapılar",
+      "KONU": "Lojik Kapılar / Lojik Kapı Uygulamaları",
+      "KAZANIM": "Lojik kapıları açıklar.\nLojik kapı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Lojik kapıların elektriksel eş değeri açıklanır.\nLojik kapı entegrelerinin bacak bağlantıları açıklanır.\nLojik ifadeden lojik devre çizilir.\nLojik devreden lojik ifade yazılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Pull-up, Pull-down uygulaması\nDeğil (NOT) kapısı uygulaması\nVe (AND) kapısı uygulaması\nVe değil (NAND) kapısı uygulaması\nVeya (OR) kapısı uygulaması\nVeya değil (NOR) kapısı uygulaması\nÖzel veya (EXOR) kapısı uygulaması\nÖzel veya değil (EXNOR) kapısı uygulaması",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikroişlemciler ve Mikrodenetleyiciler / Mikrodenetleyici Kartının Donanım Yapısı ve Özellikleri",
+      "KAZANIM": "Mikroişlemcileri ve mikrodenetleyicileri açıklar.\nMikrodenetleyici kartının donanım yapısını ve özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Mikroişlemcilerin özellikleri açıklanır.\nMikrodenetleyicilerin özellikleri açıklanır.\nMikroişlemciler ve mikrodenetleyiciler arasındaki farklar açıklanır.\nBesleme bağlantısı açıklanır.\nUSB bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyici Kartının Donanım Yapısı ve Özellikleri / Mikrodenetleyici Editör Programı / Mikrodenetleyiciye Program Yükleme",
+      "KAZANIM": "Mikrodenetleyici kartının donanım yapısını ve özelliklerini açıklar.\nMikrodenetleyicinin editör programını kullanır.\nMikrodenetleyiciye program yükler.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Port yapısı açıklanır.\nEditör programının kurulumu gösterilir.\nEditör programının menüleri ve özellikleri tanıtılır.\nEditörde kart tanıtımı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Mikrodenetleyiciye Program Yükleme / Algoritma Hazırlama",
+      "KAZANIM": "Mikrodenetleyiciye program yükler.\nAlgoritma hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Editörde port tanıtımı yapılır.\nÖrnek program editöre yüklenir.\nÖrnek program derlenir.\nMikrodenetleyiciye yüklenir.\nProgram akış diyagramı çizilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Temel Programlama İşlemleri",
+      "KAZANIM": "Temel programlama işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kodlama yazım kuralları açıklanır.\nOperatörler tanıtılır.\nSabit ve değişken tipleri tanıtılır.\nKarar yapıları verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Temel Programlama İşlemleri / Dijital Giriş Çıkış İşlemleri",
+      "KAZANIM": "Temel programlama işlemlerini yapar.\nDijital giriş çıkış işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Döngüler açıklanır.\nDizi yapısı açıklanır.\nProgramda fonksiyon yapıları açıklanır.\nPort tanımlama komutu verilir.\nDijital çıkış komutu verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Dijital Giriş Çıkış İşlemleri / Seri Port İşlemleri",
+      "KAZANIM": "Dijital giriş çıkış işlemlerini yapar.\nSeri port işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Dijital giriş komutu verilir.\nZaman gecikmesi komutları verilir.\nSeri port hız tanımlama komutu verilir.\nSeri port giriş çıkış komutları verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici ve Programlama",
+      "KONU": "Analog Giriş Çıkış İşlemleri / Kesme İşlemleri / EEPROM İşlemleri",
+      "KAZANIM": "Analog giriş çıkış işlemlerini yapar.\nKesme işlemlerini yapar.\nEEPROM işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Analog çıkış komutu verilir.\nAnalog giriş komutu verilir.\nKesme komutları verilir.\nEEPROM okuma yazma komutları verilir.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyiciye hazır program yükleme ve çalıştırma\nLed ile dijital çıkış uygulaması\n7 segment display ile dijital çıkış uygulaması\nRöle ile dijital çıkış uygulaması\nButon ile dijital giriş uygulaması\nOptokuplör ile dijital giriş uygulaması\nRed switch ile dijital giriş uygulaması\nSeri port ekran uygulaması\nPotansiyometre ile analog giriş uygulaması\nNTC ile analog giriş uygulaması\nAnalog çıkış uygulaması\nKesme uygulamaları\nEEPROM uygulaması",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Kütüphane dosyası yükleme / Keypad Uygulamaları / Sensör Uygulamaları",
+      "KAZANIM": "Kütüphane dosyalarını yükler.\nMikrodenetleyici ile keypad uygulamalarını yapar.\nMikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Kütüphane dosyalarını yükleme çeşitleri ve aşamaları açıklanır.\nIsı sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\n2x16 LCD uygulaması\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nRobot uygulaması",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Işık sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.\nNem sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\n2x16 LCD uygulaması\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nRobot uygulaması",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Sensör Uygulamaları / LCD Ekran Uygulamaları",
+      "KAZANIM": "Mikrodenetleyici ile sensör uygulamalarını yapar.\nLCD uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hareket sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.\nUltrasonik sensörü kullanarak mikrodenetleyici ile uygulama yapımı açıklanır.\nLCD'nin pin yapısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\n2x16 LCD uygulaması\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nRobot uygulaması",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "LCD Ekran Uygulamaları / Elektrik Motor Uygulamaları",
+      "KAZANIM": "LCD uygulamalarını yapar.\nElektrik motor uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "LCD kütüphanesinde bulunan komutlar açıklanır.\nMotor sürücü bağlantısı açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\n2x16 LCD uygulaması\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nRobot uygulaması"
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Elektrik Motor Uygulamaları / Haberleşme Uygulamaları",
+      "KAZANIM": "Elektrik motor uygulamalarını yapar.\nHaberleşme uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Motor sürücü kütüphanelerinde bulunan komutlar açıklanır.\nHaberleşme modüllerinin bağlantıları açıklanır.\nHaberleşme modüllerinin kütüphanelerinde bulunan komutlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\n2x16 LCD uygulaması\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nRobot uygulaması"
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Mikrodenetleyici Uygulamaları",
+      "KONU": "Robot Uygulamaları",
+      "KAZANIM": "Robot uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Robot çeşitleri açıklanır.\nUygun olan bir tanesi yaptırılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Mikrodenetleyici ile keypad uygulaması\nMikrodenetleyici ile ısı sensör uygulaması\nMikrodenetleyici ile ışık sensör uygulaması\nMikrodenetleyici ile nem sensör uygulaması\nMikrodenetleyici ile hareket sensör uygulaması\nMikrodenetleyici ile ultrasonik sensör uygulaması\n2x16 LCD uygulaması\nDC motor uygulaması\nStep motor uygulaması\nMini servo uygulaması\nIR uygulaması\nBluetooth uygulaması\nRF uygulaması\nWifi uygulaması\nRobot uygulaması",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yangın Alarm Sistemleri",
+      "KONU": "Yangın Alarm Santrali",
+      "KAZANIM": "Yangın alarm santralinin bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Konvansiyonel sistem yangın alarm santralinin bağlantısı yapılır.\nAdreslemeli sistem yangın alarm santralinin bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yangın alarm santral bağlantısı\nSıcaklık dedektörü uygulaması\nGaz dedektörü uygulaması"
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yangın Alarm Sistemleri",
+      "KONU": "Yangın Alarm Sistem Donanımları",
+      "KAZANIM": "Yangın alarm sisteminin donanımlarının bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Optik duman dedektörü bağlantısı yapılır.\nİyonize duman dedektörü bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yangın alarm santral bağlantısı\nSıcaklık dedektörü uygulaması\nGaz dedektörü uygulaması"
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yangın Alarm Sistemleri",
+      "KONU": "Yangın Alarm Sistem Donanımları",
+      "KAZANIM": "Yangın alarm sisteminin donanımlarının bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Sıcaklık dedektörü bağlantısı yapılır.\nGaz dedektörü bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yangın alarm santral bağlantısı\nSıcaklık dedektörü uygulaması\nGaz dedektörü uygulaması"
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yangın Alarm Sistemleri",
+      "KONU": "Yangın Alarm Sistem Donanımları",
+      "KAZANIM": "Yangın alarm sisteminin donanımlarının bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Buton bağlantısı yapılır.\nSiren bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Yangın alarm santral bağlantısı\nSıcaklık dedektörü uygulaması\nGaz dedektörü uygulaması"
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Hırsız Alarm Sistemleri",
+      "KONU": "Hırsız Alarm Santrali / Hırsız Alarm Santrali Donanımları",
+      "KAZANIM": "Hırsız alarm santrali bağlantısını yapar.\nHırsız alarm sisteminin donanımlarının bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Hırsız alarm santralinin bağlantısı yapılır.\nHareket dedektörü bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hırsız alarm santral bağlantısı\nHırsız alarm santral programlanması\nHareket dedektörü uygulaması\nYaklaşım dedektörü uygulaması",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Hırsız Alarm Sistemleri",
+      "KONU": "Hırsız Alarm Santrali Donanımları",
+      "KAZANIM": "Hırsız alarm sisteminin donanımlarının bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Bariyer dedektörü bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hırsız alarm santral bağlantısı\nHırsız alarm santral programlanması\nHareket dedektörü uygulaması\nYaklaşım dedektörü uygulaması",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Hırsız Alarm Sistemleri",
+      "KONU": "Hırsız Alarm Santrali Donanımları",
+      "KAZANIM": "Hırsız alarm sisteminin donanımlarının bağlantısını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Tuş takımı bağlantısı yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hırsız alarm santral bağlantısı\nHırsız alarm santral programlanması\nHareket dedektörü uygulaması\nYaklaşım dedektörü uygulaması",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Hırsız Alarm Sistemleri",
+      "KONU": "Hırsız Alarm Santralinin Programlanması",
+      "KAZANIM": "Hırsız alarm santralinin programlamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Farklı senaryolara göre tuş takımı ile santral programlaması yapılır.",
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Hırsız alarm santral bağlantısı\nHırsız alarm santral programlanması\nHareket dedektörü uygulaması\nYaklaşım dedektörü uygulaması",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Yangın Alarm Devreleri",
+      "KAZANIM": "Yangın alarm devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Yangın Alarm Devreleri",
+      "KAZANIM": "Yangın alarm devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Yangın Alarm Devreleri",
+      "KAZANIM": "Yangın alarm devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Hırsız Alarm Devreleri",
+      "KAZANIM": "Hırsız alarm devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Hırsız Alarm Devreleri",
+      "KAZANIM": "Hırsız alarm devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi"
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Hırsız Alarm Devreleri",
+      "KAZANIM": "Hırsız alarm devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Geçiş Kontrol Devreleri",
+      "KAZANIM": "Geçiş kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Geçiş Kontrol Devreleri",
+      "KAZANIM": "Geçiş kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Geçiş Kontrol Devreleri",
+      "KAZANIM": "Geçiş kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi"
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Akıllı Ev Kontrol Devreleri",
+      "KAZANIM": "Akıllı ev kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi"
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Akıllı Ev Kontrol Devreleri",
+      "KAZANIM": "Akıllı ev kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi"
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Elektronik Güvenlik Devreleri",
+      "KONU": "Akıllı Ev Kontrol Devreleri",
+      "KAZANIM": "Akıllı ev kontrol devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Ortam ve Donanım": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Öğretim Teknikleri": "Ortam: Mikrodenetleyici Atölyesi, Güvenlik Atölyesi.\nDonanım: Akıllı tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletken telleri, mikrodenetleyiciler, kodlama yazılımı, alarm tesisat donanımları, sensörler, kumanda kabloları.",
+        "Ölçme": "Bu derste; öğrenci performansını belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": "Sıcaklık dedektörü devresi\nGaz dedektörü devresi\nHareket dedektörü devresi\nYaklaşım dedektörü devresi\nŞifreli kilit devresi\nKart okuyucu devresi\nOtomatik kapı devresi\nTurnike kontrol devresi\nBariyer kontrol devresi\nParmak izi okuma devresi\nAkıllı ev ısıtma devresi\nAkıllı ev aydınlatma devresi"
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "egitim_yili": "2026-2027",
+  "sinif": "10",
+  "ders": "Elektrifikasyon Atölyesi",
+  "grup": "Meslek Dersleri",
+  "brans": "Raylı Sistemler Teknolojisi",
+  "sistem": "Eski Sistem",
+  "yayinevi": "",
+  "kaynak": "https://defterdoldur.com/plandetay/rayli-sistemler-teknolojisi/1074/elektrifikasyon-atolyesi-10",
+  "plan": [
+    {
+      "HAFTA": "1. Hafta:\n14-18 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "1. Elektriğin Temel Esasları",
+      "KAZANIM": "Elektriğin temel esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektrik enerji kaynaklarının kullanımını açıklar.\n•\nElektrik enerji santrallerini ve elektrik üretim aşamalarını açıklar.\n•\nAtomun yapısını ve elektronları açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak",
+        "Etkinlik": "→ İlköğretim Haftası, Öğrenciler Günü"
+      }
+    },
+    {
+      "HAFTA": "2. Hafta:\n21-25 Eylül",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "1. Elektriğin Temel Esasları",
+      "KAZANIM": "Elektriğin temel esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektrik yükleri ve elektrik alanı hesaplarını yapar.\n•\nElektrik akımının özelliklerini ve etkilerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak"
+      }
+    },
+    {
+      "HAFTA": "3. Hafta:\n28 Eylül-02 Ekim",
+      "AY": "EYLÜL",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "1. Elektriğin Temel Esasları / 2. Doğru Akımın Esasları",
+      "KAZANIM": "Elektriğin temel esasları ile ilgili uygulamaları yapar.\nDoğru akım esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektrik geriliminin özelliklerini açıklar.\n•\nStatik elektrik ve elektriklenme yöntemlerini açıklar.\n•\nDoğru akımın özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak",
+        "Etkinlik": "→ Dünya Okul Sütü Günü, Disleksi Haftası, Dünya Disleksi Günü"
+      }
+    },
+    {
+      "HAFTA": "4. Hafta:\n05-09 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "2. Doğru Akımın Esasları",
+      "KAZANIM": "Doğru akım esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDoğru akım kaynaklarını açıklar.\n•\nDoğru akım devrelerinin hesaplamasını ve bağlantısını yapar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak",
+        "Etkinlik": "→ Dünya Çocuk Günü"
+      }
+    },
+    {
+      "HAFTA": "5. Hafta:\n12-16 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "2. Doğru Akımın Esasları",
+      "KAZANIM": "Doğru akım esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOHM Kanununu formüllerle hesaplayarak deneyle yapar.\n•\nKirşof Kanunlarını formüllerle hesaplayarak deneylerle yapar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak",
+        "Etkinlik": "→ Dünya Afet Risklerinin Azaltılması Günü"
+      }
+    },
+    {
+      "HAFTA": "6. Hafta:\n19-23 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "2. Doğru Akımın Esasları / 3. Alternatif Akımın Esasları",
+      "KAZANIM": "Doğru akım esasları ile ilgili uygulamaları yapar.\nAlternatif akım esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKondansatör bağlantılarının hesabını yapar.\n•\nBobin bağlantılarının hesabını yapar.\n•\nAlternatif akımının özelliklerini ve elde edilmesini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak"
+      }
+    },
+    {
+      "HAFTA": "7. Hafta:\n26-30 Ekim",
+      "AY": "EKİM",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "3. Alternatif Akımın Esasları",
+      "KAZANIM": "Alternatif akım esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlternatif akım bileşenlerini vektörel gösterimi yaparak hesaplar.\n•\nAlternatif akımda bobinleri açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak",
+        "Etkinlik": "→ Cumhuriyet Bayramı, Kızılay Haftası"
+      }
+    },
+    {
+      "HAFTA": "8. Hafta:\n02-06 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Elektrik-Elektronik Esasları",
+      "KONU": "3. Alternatif Akımın Esasları",
+      "KAZANIM": "Alternatif akım esasları ile ilgili uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAlternatif akımda kondansatörleri açıklar.\n•\nAlternatif akım devre çeşitlerinin hesaplarını yapar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Elektrik enerji kaynağı problemi çözmek\n Elektrik yük problemi çözmek\n Elektrik alan problemi çözmek\n Elektrik potansiyel problemi çözmek\n Elektrik akım hesabını yapmak\n Elektrik akımının ısı etkisi deneyini yapmak\n Elektrik akımının ışık etkisi deneyini yapmak\n Elektrik akımının manyetik etkisi deneyini yapmak\n Elektrik akımının kimyasal etkisi deneyini yapmak\n Elektrik gerilim hesabı yapmak\n Elektrostatik yük problemlerini çözmek\n Elektriklenme deneylerini yapmak.\n Pil bağlantı problemlerini hesaplamak\n Pil bağlantı deneyini yapmak\n Seri devre problemlerini çözmek\n Paralel devre problemlerini çözmek\n Karışık devre problemlerini çözmek\n Ohm kanunu ile akım, gerilim ve direnç hesaplamaları yapmak\n Ohm kanunu deneyi yapmak\n Kirşof kanunları ile akım, gerilim ve direnç hesaplamaları yapmak\n Kirşoff kanunları deneylerini yapmak\n Devre analiz hesaplamaları yapmak\n Bobin bağlantı hesabı yapmak\n Kondansatör bağlantı hesabı yapmak\n Alternatif akım grafiği ile ilgili bileşenlerini yerleştirmek\n Alternatif akım grafiği ile ilgili problemini çözmek\n AC akımda endüktans hesabı yapmak\n AC akımda kapasitans hesabı yapmak\n Seri R-L-C devre hesabı yapmak\n Paralel R-L-C devre hesabı yapmak\n Seri rezonans devre hesapları yapmak\n Paralel rezonans devre hesapları yapmak",
+        "Etkinlik": "→ Kızılay Haftası, Lösemili Çocuklar Haftası"
+      }
+    },
+    {
+      "HAFTA": "9. Hafta:\n09-13 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Elektrifikasyonu",
+      "KONU": "1. Elektrik Cer Sistemleri / 2. Elektrik Sistemlerinde Besleme",
+      "KAZANIM": "Elektrik cer sistemini ve çeşitlerini ayırt eder.\nElektrik sistemlerinde besleme çeşitlerini ve kullanım alanlarını ayırt eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nElektrifikasyonun tanımını açıklar\n•\nElektrifikasyonun faydalarını açıklar.\n•\nElektrik cer sistemlerinin sınıflamasını açıklar.\n•\nAz yüksek gerilimli (600 ile 3000) açıklar.\n•\nÖzel frekanslı ve Yüksek gerilimli A.C sisteminin tanımını açıklar.\n•\nTicari frekanslı ve Yüksek gerilimli A.C. sistemin tanımını açıklar.\n•\nAC Elektrik sistemlerinde besleme sistemlerinin çeşitlerini açıklar\n•\nDC Elektrik sistemlerinde besleme sistemlerinin çeşitlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Atatürk Haftası, Atatürk'ü Anma Günü, Afet Eğitimi Hazırlık Günü"
+      }
+    },
+    {
+      "HAFTA": "10. Hafta:\n16-20 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "1. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Çocuk Hakları Günü"
+      }
+    },
+    {
+      "HAFTA": "11. Hafta:\n23-27 Kasım",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Elektrifikasyonu",
+      "KONU": "3. Elektrifikasyon Sabit Tesisleri / 4. Elektriksel İşaret Levhaları ve Anlamları / 5. Demiryolu Transformatör Merkezleri",
+      "KAZANIM": "Elektrifikasyon sabit tesislerini oluşturan temel sistemleri ayırt eder.\nElektriksel işaret levhaları ve anlamlarını açıklar.\nDemiryolu transformatör merkezinin projeye göre bağlantıları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatener tesisleri açıklanır.\n•\nTransformatör merkezleri ve cer postaları açıklanır.\n•\nUzaktan kumanda sistemi (SCADA) açıklanır.\n•\nHaberleşme sistemi açıklanır.\n•\nElektrifikasyon elektriksel işaret ve levhaları kullanım amaçları açıklanır.\n•\nElektrikli işletme yapılan hatlar açıklanır.\n•\nElektrifikasyon elektriksel işaret ve levhaları açıklanır.\n•\nTransformatör merkezlerinin yerinin seçiminde dikkat edilecek kriterleri açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Ağız ve Diş Sağlığı Haftası, Öğretmenler Günü"
+      }
+    },
+    {
+      "HAFTA": "12. Hafta:\n30 Kasım-04 Aralık",
+      "AY": "KASIM",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Elektrifikasyonu",
+      "KONU": "5. Demiryolu Transformatör Merkezleri / 6. Telekomand Merkezleri",
+      "KAZANIM": "Demiryolu transformatör merkezinin projeye göre bağlantıları yapar.\nDemiryolu telekomand merkezlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nProjeyi açıklar.\n•\nProjede kullanılan sembolleri açıklar.\n•\nKuvvetli akım tesisleri yönetmeliği\n•\nTopraklamalar yönetmeliği\n•\nElektrikli işletme yapılan bölgelerde uyulması gereken kurallar açıklanır.\n•\nTelekomand merkezinin görevini açıklar.\n•\nTelekomand merkezinden kumanda edilen sistem bileşenlerini açıklar.\n•\nTelekomand merkezinin kontrol ve bakım işlerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Dünya Engelliler Günü"
+      }
+    },
+    {
+      "HAFTA": "13. Hafta:\n07-11 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Demiryolu Elektrifikasyonu",
+      "KONU": "6. Telekomand Merkezleri / 7. Enerji Kesimi ve Emniyet",
+      "KAZANIM": "Demiryolu telekomand merkezlerini açıklar.\nBesleme planına göre emniyet tedbirlerini alarak enerji kesimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTelekomand operatörünün yapacağı işlemler açıklanır.\n•\nBesleme planı sembollerini ifade eder.\n•\nBesleme planının okunması açıklar.\n•\nEnerji kesme ve verme tekniğini izah eder.\n•\nİş sağlığı ve güvenliği teçhizatlarını açıklar.\n•\nTopraklama çubuğu ile tedbir almayı açıklar.\n•\nEndüksiyon gerilimini açıklar.\n•\nGeri dönüş akımını izah eder.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ İnsan Hakları ve Demokrasi Haftası"
+      }
+    },
+    {
+      "HAFTA": "14. Hafta:\n14-18 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "1. Dağıtım Transformatörleri",
+      "KAZANIM": "Dağıtım transformatörlerinin bakım ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDağıtım transformatörlerinin tanımı ve çalışma prensibi açıklanır.\n•\nYalıtım şekillerine göre transformatörler açıklanır.\n•\nTransformatör dönüştürme oranları açıklanır.\n•\nTransformatör etiket bilgileri açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Tutum, Yatırım ve Türk Malları Haftası"
+      }
+    },
+    {
+      "HAFTA": "15. Hafta:\n21-25 Aralık",
+      "AY": "ARALIK",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "1. Dağıtım Transformatörleri / 2. Güç Transformatörleri",
+      "KAZANIM": "Dağıtım transformatörlerinin bakım ve onarımını yapar.\nGüç transformatörlerinin bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTransformatörlerde yapılan testler açıklanır.\n•\nDağıtım transformatörlerinin sekonder devrelerinde dengesiz yüklerin doğurabileceği sonuçlar açıklanır.\n•\nDağıtım transformatörlerinde bakım ve kontroller açıklanır.\n•\nGüç transformatörlerinin yapısını ve çalışması açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "16. Hafta:\n28 Aralık-01 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "2. Güç Transformatörleri",
+      "KAZANIM": "Güç transformatörlerinin bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGüç transformatörlerinin paçaları açıklanır.\n•\nGüç transformatörlerinin genel kontrolü açıklanır.\n•\nGüç transformatörlerin kademe değişimi açıklanır.\n•\nGüç transformatörlerinde bağlantı grupları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "17. Hafta:\n04-08 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "2. Güç Transformatörleri / 3. Akım ve Gerilim Transformatörleri",
+      "KAZANIM": "Güç transformatörlerinin bağlantılarını yapar.\nAkım ve gerilim transformatörünün montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nTransformatörlerinin paralel bağlantısı açıklanır.\n•\nTransformatörlerde soğuma şekilleri açıklanır.\n•\nAkım transformatörlerinin yapısı ve çalışma prensibi açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Enerji Tasarrufu Haftası"
+      }
+    },
+    {
+      "HAFTA": "18. Hafta:\n11-15 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "3. Akım ve Gerilim Transformatörleri",
+      "KAZANIM": "Akım ve gerilim transformatörünün montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAkım transformatörlerinin çeşitleri açıklanır.\n•\nAkım transformatörlerinin devreye bağlanışı açıklanır.\n•\nAkım transformatörlerinin etiket değerleri açıklanır.\n•\nAkım transformatörleri seçiminde dikkat edilecek hususlar açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "19. Hafta:\n18-22 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "3. Akım ve Gerilim Transformatörleri",
+      "KAZANIM": "Akım ve gerilim transformatörünün montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAkım transformatörlerinde oluşabilecek arızalar açıklanır.\n•\nGerilim transformatörlerinin yapısı ve çalışma prensibi açıklanır.\n•\nGerilim transformatörlerinin çeşitleri açıklanır.\n•\nGerilim transformatörlerinin devreye bağlanma şekli açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "20. Hafta:\n25-29 Ocak",
+      "AY": "OCAK",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "21. Hafta:\n01-05 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Yarıyıl Tatili"
+      }
+    },
+    {
+      "HAFTA": "22. Hafta:\n08-12 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "3. Akım ve Gerilim Transformatörleri",
+      "KAZANIM": "Akım ve gerilim transformatörünün montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nGerilim transformatörlerinin kullanım amaçları açıklanır.\n•\nAyırıcılarda bakım onarım işlemleri sıralanır.\n•\nAyırıcıları devreye alma ve devreden çıkarma işlemleri açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "23. Hafta:\n15-19 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "3. Akım ve Gerilim Transformatörleri",
+      "KAZANIM": "Akım ve gerilim transformatörünün montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKesicilerin yapısı ve çalışması açıklanır.\n•\nKesicilerin çeşitleri açıklanır.\n•\nKesicilerde aranan özellikler açıklanır.\n•\nKesicilerde montaj aşamaları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir."
+      }
+    },
+    {
+      "HAFTA": "24. Hafta:\n22-26 Şubat",
+      "AY": "ŞUBAT",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "3. Akım ve Gerilim Transformatörleri / 4. Ayırıcılar ve Kesiciler",
+      "KAZANIM": "Akım ve gerilim transformatörünün montajını ve bağlantılarını yapar.\nParafudurların montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKesicilerde bakım işlemleri açıklanır.\n•\nKesicileri devreye alma ve devreden çıkarma işlemleri açıklanır.\n•\nİletim hatlardaki gerilimlerin yükselme nedenleri açıklanır.\n•\nParafudurların yapısı ve çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Vergi Haftası"
+      }
+    },
+    {
+      "HAFTA": "25. Hafta:\n01-05 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "4. Ayırıcılar ve Kesiciler / 5. Parafudurlar",
+      "KAZANIM": "Parafudurların montajını ve bağlantılarını yapar.\nYüksek gerilim sigortalarının montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nParafudur çeşitleri açıklanır.\n•\nParafudurların kullanıldığı yerler sıralanır.\n•\nParafudur montaj işlemleri açıklanır.\n•\nYüksek gerilimde (YG) aşırı akımın oluşma nedenleri sıralanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yeşilay Haftası - Deprem Haftası"
+      }
+    },
+    {
+      "HAFTA": "26. Hafta:\n08-12 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "2. Dönem Ara Tatili",
+        "Etkinlik": "→ Dünya Kadınlar Günü, Bilim ve Teknoloji Haftası, İstiklâl Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü"
+      }
+    },
+    {
+      "HAFTA": "27. Hafta:\n15-19 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "5. Parafudurlar",
+      "KAZANIM": "Yüksek gerilim sigortalarının montajını ve bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYG sigortaların yapısı ve çalışması açıklanır.\n•\nYG sigorta seçim kriterleri açıklanır.\n•\nYG sigortaların standartları açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü, Yaşlılara Saygı Haftası"
+      }
+    },
+    {
+      "HAFTA": "28. Hafta:\n22-26 Mart",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "5. Parafudurlar / 6. Yüksek Gerilim Sigortaları",
+      "KAZANIM": "Yüksek gerilim sigortalarının montajını ve bağlantılarını yapar.\nKoruma rölelerinin bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nYG sigortaların montaj ve demontaj işlemleri açıklanır.\n•\nElektrik sistemlerindeki arızaların genel nedenleri açıklanır.\n•\nAG ve YG sistemlerinde koruma açıklanır.\n•\nKorumaların sınıflandırılması yapılır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Yaşlılara Saygı Haftası, Orman Haftası, Dünya Su Günü, Dünya Meteoroloji Günü"
+      }
+    },
+    {
+      "HAFTA": "29. Hafta:\n29 Mart-02 Nisan",
+      "AY": "MART",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "6. Yüksek Gerilim Sigortaları / 7. Koruma Röleleri",
+      "KAZANIM": "Koruma rölelerinin bağlantılarını yapar.\nAyırıcıların ve kesicilerin bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nDC koruma devreleri açıklanır.\n•\nGerilim transformatörlerinin etiket değerleri açıklanır.\n•\nGerilim transformatörlerinde oluşabilecek arızalar açıklanır.\n•\nAyırıcıların yapısı ve çalışması açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Kütüphaneler Haftası, Kanser Haftası"
+      }
+    },
+    {
+      "HAFTA": "30. Hafta:\n05-09 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Trafo Merkezi ve Elemanları",
+      "KONU": "7. Koruma Röleleri",
+      "KAZANIM": "Ayırıcıların ve kesicilerin bakımını ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAyırıcıların çeşitleri açıklanır.\n•\nAyırıcılarda aranan özellikler açıklanır.\n•\nAyırıcılarda montaj aşamaları sıralanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Etkinlik": "→ Kanser Haftası, Dünya Sağlık Günü"
+      }
+    },
+    {
+      "HAFTA": "31. Hafta:\n12-16 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "1. Katener Sistemi",
+      "KAZANIM": "Projeye uygun olarak katener sistemi bileşenlerinin bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatener hattı için dikilecek direğin yerini tespit eder, direğin yerine montajını yapar.\n•\nProjeye uygun olarak katener hattı direk üstü donanımların montajını yapar.\n•\nProjeye uygun iletken seçimi ve bağlantılarını yapar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder.",
+        "Etkinlik": "→ Turizm Haftası"
+      }
+    },
+    {
+      "HAFTA": "32. Hafta:\n19-23 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "1. Katener Sistemi / 2. Rijit Katener Sistemi",
+      "KAZANIM": "Projeye uygun olarak katener sistemi bileşenlerinin bakımını ve montajını yapar.\nProjeye uygun olarak rijit katener sisteminin bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nKatener hattı bakım çalışmaları açıklanır.\n•\nRijit katener sistemini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder.",
+        "Etkinlik": "→ Turizm Haftası, Ulusal Egemenlik ve Çocuk Bayramı"
+      }
+    },
+    {
+      "HAFTA": "33. Hafta:\n26-30 Nisan",
+      "AY": "NİSAN",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "2. Rijit Katener Sistemi",
+      "KAZANIM": "Projeye uygun olarak rijit katener sisteminin bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRijit katener sisteminin klasik telli sisteme göre üstünlüklerini açıklar.\n•\nRijit katener donanımlarını ve bağlantılarını açıklar",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder."
+      }
+    },
+    {
+      "HAFTA": "34. Hafta:\n03-07 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "2. Rijit Katener Sistemi",
+      "KAZANIM": "Projeye uygun olarak rijit katener sisteminin bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nHavai iletken ray profili özelliklerini izah eder.\n•\nRijit katener ara bağlantısının nasıl yapıldığını izah eder.\n•\nRijit katener elektrik bağlantısının nasıl yapıldığını izah eder.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder.",
+        "Etkinlik": "→ Trafik ve İlkyardım Haftası"
+      }
+    },
+    {
+      "HAFTA": "35. Hafta:\n10-14 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "2. Rijit Katener Sistemi / 3. Üçüncü Ray Sistemi",
+      "KAZANIM": "Projeye uygun olarak rijit katener sisteminin bakımını ve montajını yapar.\nProjeye uygun olarak üçüncü rayın bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nRijit katener topraklama bağlantısının nasıl yapıldığını izah eder.\n•\nÜçüncü rayın topraklanmasını açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder.",
+        "Etkinlik": "→ Engelliler Haftası"
+      }
+    },
+    {
+      "HAFTA": "36. Hafta:\n17-21 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "3. Üçüncü Ray Sistemi",
+      "KAZANIM": "Projeye uygun olarak üçüncü rayın bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÜçüncü rayı topraklama aletlerini açıklar.\n•\nÜçüncü rayın İşlevini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder.",
+        "Etkinlik": "→ Atatürk'ü Anma ve Gençlik ve Spor Bayramı"
+      }
+    },
+    {
+      "HAFTA": "37. Hafta:\n24-28 Mayıs",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "3. Üçüncü Ray Sistemi",
+      "KAZANIM": "Projeye uygun olarak üçüncü rayın bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÜçüncü rayın özelliklerini izah eder.\n•\nÜçüncü ray yükseklikleri ve rampa eğimlerini açıklar.\n•\nRay elemanlarının ısı değerlerine göre genleşme özelliklerini açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder."
+      }
+    },
+    {
+      "HAFTA": "38. Hafta:\n31 Mayıs-04 Haziran",
+      "AY": "MAYIS",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "3. Üçüncü Ray Sistemi",
+      "KAZANIM": "Projeye uygun olarak üçüncü rayın bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nOrta nokta ankrajlarının işlevi ve ayarlanmasını açıklar.\n•\nÜçüncü rayda izolatörleri açıklar.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder."
+      }
+    },
+    {
+      "HAFTA": "39. Hafta:\n07-11 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "3. Üçüncü Ray Sistemi / 4. APS (Otomatik Güç Kaynağı )Sistemi",
+      "KAZANIM": "Projeye uygun olarak üçüncü rayın bakımını ve montajını yapar.\nProjeye uygun olarak APS (otomatik güç kaynağı) sisteminin bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nÜçüncü rayda kapakları açıklar.\n•\nAPS sisteminin tanımını ve özelliklerini açıklanır.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder."
+      }
+    },
+    {
+      "HAFTA": "40. Hafta:\n14-18 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Enerji İletim Sistemleri",
+      "KONU": "4. APS (Otomatik Güç Kaynağı )Sistemi",
+      "KAZANIM": "Projeye uygun olarak APS (otomatik güç kaynağı) sisteminin bakımını ve montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "•\nAPS sisteminin kullanılma amacı açıklanır.\n•\nAPS sistemi örnekleri verilir.",
+        "Ortam ve Donanım": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Öğretim Teknikleri": "Ortam: İş sağlığı ve güvenliği önlemleri alınmış Atölye ortamı veya raylı sistem işletme sahaları.\nDonanım: Etkileşimli tahta/projeksiyon, bilgisayar, elektronik devre elemanları, el aletleri, ölçü aletleri, iletkenler, dirençler, kondansatörler, bobinler, breadboard, bir fazlı ve 3 fazlı transformatörler, transformatör merkezleri, katener sistemi donanımları, demiryolu elektrifikasyon merkezleri.",
+        "Ölçme": "Bu derste; öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu, derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin, öğretimin süreç boyutuna katılmaları sağlanabilir.",
+        "Temrin Listesi": " Katener sistemi projelerine göre direk açıklıklarını hesaplamak\n Katener sistemi projelerine göre kurplu yolda fleş hesabını yapmak\n Dikilecek direğe ait karotu sabitlemek için uygun tiji ve malzemesini seçmek ve kullanmak\n Katener sisteminde dikilecek direğin ayarını yapmak\n Dikilen direğin direk dibine kum koymak\n Dikilen direğin çember betonu dökmek\n Direk ve açıklıklarına göre montaj karnesini oluşturmak\n Direk montajına uygun ölçülerdeki izolatör ve boruları seçmek\n TCDD hatlarında hıza göre y halatının boyunu tespit etmek\n Katener sisteminin yüksekliğine göre anti balansan askı pandülü uzunluğunu tespit etmek\n Direğin çapına göre direk üzerine gerekli malzemelerin montajını yapmak\n Pantografın aşınmasını ayarlamak için katener sisteminde kullanılan dezeksemanı ayarlamak\n Katener sisteminde projeye uygun olarak portik supl montajını yapmak\n Katener sisteminde projeye uygun olarak portik rijit montajını yapmak\n Katener hatlarında projeye uygun lente bağlantısını yapmak\n Katener sistemlerinde güvenliği sağlamak için koruma topraklamasını yapmak\n Yapılacak olan topraklamanın amacına uygun olabilmesi için topraklama direnci değerini ölçmek\n Katener hatlarında makaralar ve palanga sistemlerinin montajını yapmak\n Gerdirme cihaz halatlarının X ve Y boylarının hesaplamak\n Gerdirme cihazlarının montajını yapmak\n Güvenlik tedbirlerine dikkat ederek katener sistemi etaplarının elektriksel birleşimini yapmak\n Projeye uygun olarak pandül teli aralıklarını hesaplamak\n TCDD hatlarında sisteme uygun pandülaj yapmak\n Katener sisteminde besleme iletkenlerinin bağlantısını yapmak\n Besleme grifleri ile bağlantı yapmak\n Mesnetin montajını yapmak\n Projeye uygun olarak rijit katener montajını yapmak\n Projeye uygun olarak orta nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta ankrajını yapmak\n Projeye uygun olarak orta nokta uç nokta elektrik bağlantısını yapmak\n Projeye uygun olarak topraklama seti bağlantısını yapmak\n Besleme planını etüt etmek\n Katener tesislerinde enerji kesmek ve vermek\n Katener hatlarında topraklama çubuğunu yapmak\n Üçüncü rayın yalıtım malzemelerinin bakımını yapmak\n Üçüncü rayın topraklanmasını yapmak\n Üçüncü rayın enerjisini kesme ve üçüncü rayı çalışmaya hazır hâle getirme uygulamalarını yapmak\n Üçüncü rayın bakımını yapmak\n Ölçü cihazı ile üçüncü rayın yüksekliğini ölçmek\n Ölçü cihazı ile üçüncü rayın rampa eğimini ölçmek\n Ray elemanlarının genleşme özelliklerini belirlemek için sıcaklıklarını ölçmek\n Genleşme eklemleri arasındaki aralığı ölçmek\n Rayda sıcaklıkla uzama kısalma aralığının istenen oranda olması için orta nokta ankrajının bakımını yapmak\n Seyir telinin çapını ölçmek\n Projeye uygun olarak besleme telini kesip montajını yapmak\n Projeye uygun ölçülerde Konsol-Hoban borularını kesmek.\n Ön montajı yapılan konsolu direk üzerine monte eder.\n Makas bölgesindeki askı elemanlarını talimatlara göre değiştirir.\n Bölgede bulunan besleme kablolarını ve griflerini, balans sistemini, bağlantı üçgen jümelini ve dropperlarını kontrol eder.\n Ağırlık sisteminde bulunan makara sistemini, çelik halat sarımlarını, freni ve lenteyi vb. kontrol eder.\n İki kontak teli arasındaki mesafeyi talimatlara göre ayarlar.\n Zikzak ayarlarını talimatlara göre yapar.\n Kontak teli ve katener teli arasındaki dropperleri değiştirir.\n Kontak ve katener tellerindeki kopmaları tamir eder.\n Feeder teli ile katener teli arasındaki besleme kablolarını kontrol eder.\n Rijit katener sistemlerinde projeye uygun aralıklara montaj yuvalarını açar ve kimyasal dübel ile tijleri monte eder.\n Rijit katener sistemlerinde iletken ray profillerini projeye uygun olarak tutuculara monte eder."
+      }
+    },
+    {
+      "HAFTA": "41. Hafta:\n21-25 Haziran",
+      "AY": "HAZİRAN",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "",
+      "SDB": "",
+      "OB": "",
+      "EK_ALANLAR": {
+        "Süreç Bileşenleri": "Etkinlik Haftası",
+        "Etkinlik": "→ Etkinlik Haftası"
+      }
+    }
+  ]
+}

@@ -61,6 +61,7 @@ class ImportYearlyPlanTests(unittest.TestCase):
 
         self.assertEqual(payload["sinif"], "9")
         self.assertEqual(payload["ders"], "Fizik (FL)")
+        self.assertEqual(payload["plan"][0]["HAFTA"], "1. Hafta:\n14-18 Eylül")
         self.assertEqual(payload["plan"][0]["ÜNİTE"], "Kuvvet")
         self.assertEqual(payload["plan"][0]["KAZANIM"], "Çözüm üretir.")
         self.assertEqual(payload["plan"][0]["SDB"], "İletişim")

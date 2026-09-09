@@ -28,6 +28,7 @@ class BuildPlanSiteTests(unittest.TestCase):
             root = Path(directory)
             index = root / "index.json"
             index.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+            (root / "plan-index.json").write_text("stale", encoding="utf-8")
             entries = MODULE.build_site(index, root, "https://example.test/data")
 
             self.assertEqual(len(entries), 2)
@@ -42,6 +43,8 @@ class BuildPlanSiteTests(unittest.TestCase):
             self.assertEqual((root / "sitemap.xml").read_text(encoding="utf-8").count("<url>"), 3)
             self.assertIn("İngilizce Yıllık Planı", (root / "llms-full.txt").read_text(encoding="utf-8"))
             self.assertTrue((root / "site.webmanifest").is_file())
+            self.assertFalse((root / "plan-index.json").exists())
+            self.assertNotIn("plan-index.json", (root / "index.html").read_text(encoding="utf-8"))
 
     def test_slugify_preserves_turkish_meaning(self) -> None:
         self.assertEqual(MODULE.slugify("12. Sınıf Çağdaş Türk"), "12-sinif-cagdas-turk")

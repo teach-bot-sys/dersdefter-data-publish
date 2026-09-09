@@ -34,11 +34,14 @@ class BuildPlanSiteTests(unittest.TestCase):
             page = root / "plan" / "9-sinif-turk-dili-ve-edebiyati-yillik-plani" / "index.html"
             self.assertTrue(page.is_file())
             content = page.read_text(encoding="utf-8")
-            self.assertIn("9. Sınıf Türk Dili ve Edebiyatı yıllık planı", content)
-            self.assertIn("dersdefter://plans?", content)
-            self.assertIn("2 plan çeşidi", content)
+            self.assertIn("9. Sınıf Türk Dili ve Edebiyatı Yıllık Planı", content)
+            self.assertIn("App Store", content)
+            self.assertIn("Google Play", content)
+            self.assertIn("Haftalık ayrıntılar uygulamada açılır", content)
+            self.assertIn("2 plan seçeneği", content)
             self.assertEqual((root / "sitemap.xml").read_text(encoding="utf-8").count("<url>"), 3)
-            self.assertIn("İngilizce Yıllık Planı", (root / "llms.txt").read_text(encoding="utf-8"))
+            self.assertIn("İngilizce Yıllık Planı", (root / "llms-full.txt").read_text(encoding="utf-8"))
+            self.assertTrue((root / "site.webmanifest").is_file())
 
     def test_slugify_preserves_turkish_meaning(self) -> None:
         self.assertEqual(MODULE.slugify("12. Sınıf Çağdaş Türk"), "12-sinif-cagdas-turk")

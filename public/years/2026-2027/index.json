@@ -2,8 +2,8 @@
   "surum": 2,
   "egitim_yili": "2026-2027",
   "uretildi_at": "2026-09-07T17:39:29.328160+00:00",
-  "toplam": 1696,
-  "toplam_kayit": 69555,
+  "toplam": 1698,
+  "toplam_kayit": 69635,
   "dosyalar": [
     {
       "id": 2325,
@@ -25444,6 +25444,36 @@
       "xlsx": "years/2026-2027/xlsx/480.xlsx",
       "xlsx_sha256": "3069d8d8f55103e7e83be833543e5dfeed6780bb340730478844ef886e3bb3bb",
       "xlsx_size": 9631
+    },
+    {
+      "id": 3001,
+      "sinif": "9",
+      "ders": "Mesleki Yabancı Dil (Yiyecek İçecek Hizmetleri) – Dilek Koç",
+      "kayit_sayisi": 40,
+      "dosya": "years/2026-2027/plans/3001.json",
+      "egitim_yili": "2026-2027",
+      "grup": "Meslek Dersleri",
+      "brans": "Yiyecek İçecek Hizmetleri",
+      "sistem": "Maarif",
+      "yayinevi": "Dilek Koç",
+      "xlsx": "years/2026-2027/xlsx/3001.xlsx",
+      "xlsx_sha256": "b985940e24b3b34aed9d3d0a4ca6a366082bfdb338614130b80e7341ae79dc6c",
+      "xlsx_size": 8862
+    },
+    {
+      "id": 3002,
+      "sinif": "12",
+      "ders": "Seçmeli İngilizce – YDT Dil Sınıfı",
+      "kayit_sayisi": 40,
+      "dosya": "years/2026-2027/plans/3002.json",
+      "egitim_yili": "2026-2027",
+      "grup": "Kültür Dersleri",
+      "brans": "İngilizce",
+      "sistem": "YDT",
+      "yayinevi": "MEB YDT Yardımcı Kaynak",
+      "xlsx": "years/2026-2027/xlsx/3002.xlsx",
+      "xlsx_sha256": "195feafe558990f6e2ae41b0cc2c6f6ffae0bbba57ef887538dcc200f507f8c6",
+      "xlsx_size": 13573
     }
   ]
 }

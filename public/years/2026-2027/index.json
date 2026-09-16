@@ -2,8 +2,8 @@
   "surum": 2,
   "egitim_yili": "2026-2027",
   "uretildi_at": "2026-09-07T17:39:29.328160+00:00",
-  "toplam": 1698,
-  "toplam_kayit": 69635,
+  "toplam": 1699,
+  "toplam_kayit": 69672,
   "dosyalar": [
     {
       "id": 2325,
@@ -25474,6 +25474,21 @@
       "xlsx": "years/2026-2027/xlsx/3002.xlsx",
       "xlsx_sha256": "195feafe558990f6e2ae41b0cc2c6f6ffae0bbba57ef887538dcc200f507f8c6",
       "xlsx_size": 13573
+    },
+    {
+      "id": 3004,
+      "sinif": "12",
+      "ders": "Hedef Temelli Destek Eğitimi (İngilizce)",
+      "kayit_sayisi": 37,
+      "dosya": "years/2026-2027/plans/3004.json",
+      "egitim_yili": "2026-2027",
+      "grup": "Kültür Dersleri",
+      "brans": "İngilizce",
+      "sistem": "Hedef Temelli Destek Eğitimi",
+      "yayinevi": "TOBB Kız Anadolu İmam Hatip Lisesi",
+      "xlsx": "years/2026-2027/xlsx/3004.xlsx",
+      "xlsx_sha256": "41fc6eb08af57270497a47e91e74ab17b8580902017c35e9391521039fd93ff6",
+      "xlsx_size": 9415
     }
   ]
 }

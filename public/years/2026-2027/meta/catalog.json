@@ -1,12 +1,10 @@
 {
   "egitim_yili": "2026-2027",
-  "total_plans": 1696,
-  "total_rows": 69555,
+  "total_plans": 1701,
+  "total_rows": 69754,
   "grade_counts": {
+    "Hazırlık": 12,
     "1": 25,
-    "10": 339,
-    "11": 448,
-    "12": 352,
     "2": 13,
     "3": 14,
     "4": 17,
@@ -14,14 +12,16 @@
     "6": 57,
     "7": 60,
     "8": 28,
-    "9": 262,
-    "Hazırlık": 12
+    "9": 263,
+    "10": 339,
+    "11": 449,
+    "12": 355
   },
   "group_counts": {
-    "Kültür Dersleri": 636,
-    "MESEM Dersleri": 93,
-    "Meslek Dersleri": 959,
-    "Rehberlik Dersleri": 8
+    "Kültür Dersleri": 640,
+    "Rehberlik Dersleri": 8,
+    "Meslek Dersleri": 960,
+    "MESEM Dersleri": 93
   },
   "all_variants_preserved": true
 }

@@ -2,8 +2,8 @@
   "surum": 2,
   "egitim_yili": "2026-2027",
   "uretildi_at": "2026-09-07T17:39:29.328160+00:00",
-  "toplam": 1699,
-  "toplam_kayit": 69672,
+  "toplam": 1701,
+  "toplam_kayit": 69754,
   "dosyalar": [
     {
       "id": 2325,
@@ -25489,6 +25489,36 @@
       "xlsx": "years/2026-2027/xlsx/3004.xlsx",
       "xlsx_sha256": "41fc6eb08af57270497a47e91e74ab17b8580902017c35e9391521039fd93ff6",
       "xlsx_size": 9415
+    },
+    {
+      "egitim_yili": "2026-2027",
+      "sinif": "11",
+      "ders": "Seçmeli İngilizce – İngilizceciyiz",
+      "grup": "Kültür Dersleri",
+      "brans": "İngilizce",
+      "sistem": "",
+      "yayinevi": "İngilizceciyiz",
+      "id": 3005,
+      "kayit_sayisi": 41,
+      "dosya": "years/2026-2027/plans/3005.json",
+      "xlsx": "years/2026-2027/xlsx/3005.xlsx",
+      "xlsx_sha256": "8cf49cbdcf08f702fa82dc8d61719563535efd118fe2aba45099620a48a65794",
+      "xlsx_size": 13107
+    },
+    {
+      "egitim_yili": "2026-2027",
+      "sinif": "12",
+      "ders": "Seçmeli İngilizce – İngilizceciyiz",
+      "grup": "Kültür Dersleri",
+      "brans": "İngilizce",
+      "sistem": "",
+      "yayinevi": "İngilizceciyiz",
+      "id": 3006,
+      "kayit_sayisi": 41,
+      "dosya": "years/2026-2027/plans/3006.json",
+      "xlsx": "years/2026-2027/xlsx/3006.xlsx",
+      "xlsx_sha256": "670bf82a130985d78b6d1091610643c4ad700fefab89d1300454c4646d486f92",
+      "xlsx_size": 13730
     }
   ],
   "isimler_normalize": true

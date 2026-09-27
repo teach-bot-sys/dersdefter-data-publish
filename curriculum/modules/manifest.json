@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-27T19:33:29Z",
+  "modules": [
+    {
+      "id": "english-grade9-rubrics",
+      "title": "9. Sınıf İngilizce Rubrikleri",
+      "description": "Desktop/kitaplar klasöründeki kullanıcı sağlanan 12 İngilizce rubrik. İndirip çevrimdışı seçebilirsiniz.",
+      "subject": "İngilizce",
+      "grades": [
+        "9"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 90429,
+      "packageUrl": "modules/packages/english-grade9-rubrics.json",
+      "checksum": "1edaaa1915200caa4032339deb6f41a7201d91c16f832eb50fdff69299570d79",
+      "updatedAt": "2026-09-27T19:33:29Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    }
+  ]
+}

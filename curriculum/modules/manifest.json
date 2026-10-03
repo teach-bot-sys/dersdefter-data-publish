@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T19:33:29Z",
+  "updatedAt": "2026-10-03T19:04:38Z",
   "modules": [
     {
       "id": "english-grade9-rubrics",
@@ -17,6 +17,78 @@
       "packageUrl": "modules/packages/english-grade9-rubrics.json",
       "checksum": "1edaaa1915200caa4032339deb6f41a7201d91c16f832eb50fdff69299570d79",
       "updatedAt": "2026-09-27T19:33:29Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "mathematics-grade10-rubrics",
+      "title": "10. Sınıf Matematik Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 1 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Matematik",
+      "grades": [
+        "10"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 3962,
+      "packageUrl": "modules/packages/mathematics-grade10-rubrics.json",
+      "checksum": "e22ffa54f0086c7363e19e408a6b09c79b2437f48e8706a86b6e67bb9ca5ee44",
+      "updatedAt": "2026-10-03T19:04:38Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "mathematics-grade6-rubrics",
+      "title": "6. Sınıf Matematik Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 3 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Matematik",
+      "grades": [
+        "6"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 8709,
+      "packageUrl": "modules/packages/mathematics-grade6-rubrics.json",
+      "checksum": "90600daf340d3b890c17977f0cfdbbc465748f9c8c16ddc0306968ab1167c82d",
+      "updatedAt": "2026-10-03T19:04:38Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "physics-grade9-rubrics",
+      "title": "9. Sınıf Fizik Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 2 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Fizik",
+      "grades": [
+        "9"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 20398,
+      "packageUrl": "modules/packages/physics-grade9-rubrics.json",
+      "checksum": "1b20039c34273f298427454fbc54c860bddac537268185335c20617a41984f3a",
+      "updatedAt": "2026-10-03T19:04:38Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "turkish-grade5-rubrics",
+      "title": "5. Sınıf Türkçe Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 19 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Türkçe",
+      "grades": [
+        "5"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 72194,
+      "packageUrl": "modules/packages/turkish-grade5-rubrics.json",
+      "checksum": "57af4f84d2ed8f84c26fec8fa31ec13e85613d4008c88c8a0b121504f6237c90",
+      "updatedAt": "2026-10-03T19:04:38Z",
       "minimumAppVersion": "2.2.3",
       "required": false
     }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T19:04:38Z",
+  "updatedAt": "2026-10-03T21:31:36Z",
   "modules": [
     {
       "id": "english-grade9-rubrics",
@@ -77,18 +77,108 @@
     {
       "id": "turkish-grade5-rubrics",
       "title": "5. Sınıf Türkçe Rubrikleri",
-      "description": "Sağlanan ders kitabı sayfalarından 19 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "description": "Sağlanan ders kitabı sayfalarından 21 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
       "subject": "Türkçe",
+      "grades": [
+        "5"
+      ],
+      "category": "rubrics",
+      "version": "1.1.0",
+      "schemaVersion": 1,
+      "downloadSize": 79788,
+      "packageUrl": "modules/packages/turkish-grade5-rubrics.json",
+      "checksum": "b6fb21fd9bc42b1bef32e8690ffb5537ecf5cafb802c6ee871b517193248be0e",
+      "updatedAt": "2026-10-03T21:31:36Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "vocal-training-grade7-rubrics",
+      "title": "7. Sınıf Bireysel Ses Eğitimi Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 10 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Bireysel Ses Eğitimi",
+      "grades": [
+        "7"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 57982,
+      "packageUrl": "modules/packages/vocal-training-grade7-rubrics.json",
+      "checksum": "db6fdb7beb98aa645ad38ae8de58194d53beed2c8e74a1c2815928cfedf7547f",
+      "updatedAt": "2026-10-03T21:31:36Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "reading-skills-grade5-rubrics",
+      "title": "5. Sınıf Okuma Becerileri Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 2 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Okuma Becerileri",
       "grades": [
         "5"
       ],
       "category": "rubrics",
       "version": "1.0.0",
       "schemaVersion": 1,
-      "downloadSize": 72194,
-      "packageUrl": "modules/packages/turkish-grade5-rubrics.json",
-      "checksum": "57af4f84d2ed8f84c26fec8fa31ec13e85613d4008c88c8a0b121504f6237c90",
-      "updatedAt": "2026-10-03T19:04:38Z",
+      "downloadSize": 11212,
+      "packageUrl": "modules/packages/reading-skills-grade5-rubrics.json",
+      "checksum": "ba3ccca77091dead06b5801a0631bcd32efbabd22cdde2eb8807342c80328144",
+      "updatedAt": "2026-10-03T21:31:36Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "reading-skills-grade6-rubrics",
+      "title": "6. Sınıf Okuma Becerileri Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 2 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Okuma Becerileri",
+      "grades": [
+        "6"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 11212,
+      "packageUrl": "modules/packages/reading-skills-grade6-rubrics.json",
+      "checksum": "20948d2b7f22e0d5f702453d314e717eac73c2957ec79315f36905f5b4d31b12",
+      "updatedAt": "2026-10-03T21:31:36Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "english-grade10-rubrics",
+      "title": "10. Sınıf İngilizce Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 12 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "İngilizce",
+      "grades": [
+        "10"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 88612,
+      "packageUrl": "modules/packages/english-grade10-rubrics.json",
+      "checksum": "f1dc06db175927eb527c8241a40acc7b8d01eb67c911d6ff481c64c32393871b",
+      "updatedAt": "2026-10-03T21:31:36Z",
+      "minimumAppVersion": "2.2.3",
+      "required": false
+    },
+    {
+      "id": "physics-grade10-rubrics",
+      "title": "10. Sınıf Fizik Rubrikleri",
+      "description": "Sağlanan ders kitabı sayfalarından 1 değerlendirme formu. İndirip çevrimdışı kullanabilirsiniz.",
+      "subject": "Fizik",
+      "grades": [
+        "10"
+      ],
+      "category": "rubrics",
+      "version": "1.0.0",
+      "schemaVersion": 1,
+      "downloadSize": 4487,
+      "packageUrl": "modules/packages/physics-grade10-rubrics.json",
+      "checksum": "01eccf0774bfff8bf29e7c9c754c20238019a983ba6d8d9ea6f09343ba16c43b",
+      "updatedAt": "2026-10-03T21:31:36Z",
       "minimumAppVersion": "2.2.3",
       "required": false
     }

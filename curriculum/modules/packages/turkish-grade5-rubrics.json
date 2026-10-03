@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "moduleId": "turkish-grade5-rubrics",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "rubrics": [
     {
       "id": "turkish5-theme4-stations",
@@ -2664,6 +2664,284 @@
         "url": "https://github.com/teach-bot-sys/DersDefter",
         "publisher": "ZümreAsist",
         "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-technology-peer",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Konuşma · Teknoloji ve geleneksel sanatlar",
+      "skill": "Konuşma",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Konuşmasında teknolojik gelişmelerin geleneksel sanatlara etkisine yer verdi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Konuşmasında konuyla ilgili mantıklı gerekçelere yer verdi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Arkadaşının öne sürdüğü görüşleri çürütmeye çalıştı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Arkadaşının görüşlerindeki tutarsızlıkları ortaya koymaya çalıştı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Konuşması ile beden dili uyumluydu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Tartışma sırasında nezaket kurallarına uydu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/4. TEMA KONUŞALIM_p55.pdf · PDF s. 1 (kitap s. 54)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-perspective",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Konuşma · Bakış açılarını karşılaştırma",
+      "skill": "Konuşma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Mehmet'in bakış açısını inceledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Mehmet’in annesinin bakış açısıyla metni yeniden anlattım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Anlatımlar arasındaki benzerlik ve farklılıklara konuşmamda yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Konuşmamda uygun bağlantı ifadelerini kullandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/5. TEMA KONUŞALIM_p87.pdf · PDF s. 1 (kitap s. 86)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
       },
       "sourceStatus": "CUSTOM",
       "locale": "tr-TR"

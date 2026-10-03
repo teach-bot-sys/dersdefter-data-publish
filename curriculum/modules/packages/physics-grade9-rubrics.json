@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "physics-grade9-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "physics9-1",
+      "subjectId": "physics",
+      "gradeId": "9",
+      "programId": "custom",
+      "title": "9. Sınıf Fizik · Enerji tasarrufu için yaşam alanlarının yalıtımına yönelik tasarımlar",
+      "skill": "Proje",
+      "assessmentType": "Puanlama anahtarı",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Grup çalışması — 1. Grup üyeleri üzerlerine düşen görevleri eksiksiz yerine getirdiler.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Grup çalışması — 2. Grup üyeleri uyumlu çalıştılar.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Araştırma yapma — 1. En az üç kaynaktan yararlanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Araştırma yapma — 2. Farklı türde (İnternet, dergi vb.) kaynaklardan yararlanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Araştırma yapma — 3. Toplanılan bilgiler konuyla ilişkiliydi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Rapor hazırlama — 1. Raporda tüm konu başlıklarına (çalışma süreci, ürünün tanıtılması vb.) yer verildi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Rapor hazırlama — 2. Raporda toplanılan bilgiler anlaşılır şekilde özetlendi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Rapor hazırlama — 3. Yazım kuralları doğru şekilde kullanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Rapor hazırlama — 4. Dil bilgisi kuralları doğru şekilde kullanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Ürün — 1. Enerji tasarrufu için yaşam alanlarının yalıtımını sağlayacak ve bütçeye olumlu etki edecek bir ürün tasarlandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c11",
+          "label": "Ürün — 2. Günlük hayatta kullanılabilir bir ürün tasarlandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c12",
+          "label": "Ürün — 3. Tasarlanan ürün yaratıcıydı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c13",
+          "label": "Ürün — 4. Tasarlanan ürün özgündü.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c14",
+          "label": "Sunum — 1. Sunumda tüm konu başlıklarına (elde edilen bilgiler, çalışma süreci, tasarlanan ürün vb.) yer verildi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c15",
+          "label": "Sunum — 2. Yapılan çalışma anlaşılır şekilde ifade edildi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 9_sinif_fizik/Rubrik_1.pdf · PDF s. 1 (kitap s. 247)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "physics9-2",
+      "subjectId": "physics",
+      "gradeId": "9",
+      "programId": "custom",
+      "title": "9. Sınıf Fizik · Küresel ısınmaya karşı alınacak tedbirlere yönelik tasarımlar",
+      "skill": "Proje",
+      "assessmentType": "Puanlama anahtarı",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Grup çalışması — 1. Grup üyeleri üzerlerine düşen görevleri eksiksiz yerine getirdiler.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Grup çalışması — 2. Grup üyeleri uyumlu çalıştılar.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Araştırma yapma — 1. En az üç kaynaktan yararlanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Araştırma yapma — 2. Farklı türde (İnternet, dergi vb.) kaynaklardan yararlanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Araştırma yapma — 3. Toplanılan bilgiler konuyla ilişkiliydi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Rapor hazırlama — 1. Raporda tüm konu başlıklarına (çalışma süreci, projenin tanıtılması vb.) yer verildi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Rapor hazırlama — 2. Raporda toplanılan bilgiler anlaşılır şekilde özetlendi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Rapor hazırlama — 3. Yazım kuralları doğru şekilde kullanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Rapor hazırlama — 4. Dil bilgisi kuralları doğru şekilde kullanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Proje — 1. Küresel ısınmaya karşı proje geliştirildi",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c11",
+          "label": "Proje — 2. Proje yaratıcıydı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c12",
+          "label": "Proje — 3. Proje özgündü.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c13",
+          "label": "Sunum — 1. Projenin tanıtımında poster/broşür/elektronik sunu kullanıldı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        },
+        {
+          "id": "c14",
+          "label": "Sunum — 2. Yapılan çalışma anlaşılır şekilde ifade edildi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "3 İyi",
+              "score": 3,
+              "descriptor": "3 İyi"
+            },
+            {
+              "id": "l2",
+              "label": "2 Orta",
+              "score": 2,
+              "descriptor": "2 Orta"
+            },
+            {
+              "id": "l3",
+              "label": "1 Geliştirilebilir",
+              "score": 1,
+              "descriptor": "1 Geliştirilebilir"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 9_sinif_fizik/Rubrik_2.pdf · PDF s. 1 (kitap s. 250)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

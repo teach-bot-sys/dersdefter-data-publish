@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "mathematics-grade10-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "mathematics10-8",
+      "subjectId": "mathematics",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf Matematik · Veri toplama planı",
+      "skill": "Veri toplama",
+      "assessmentType": "Kontrol listesi",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Veri toplama aracı oluşturulmuştur veya belirlenmiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Evren ve örneklem belirlenmiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Örneklem belirlenirken rastgelelik sağlanmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Değişkenler belirlenmiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Verilerin nerede, ne zaman, nasıl ve kimler tarafından toplanacağı belirlenmiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Verilerin nasıl kaydedileceği belirlenmiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Verilerin gizliliğinin sağlanmasıyla nesnel ve dürüst olunmasına yönelik önlemler alınmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10_sinif_matematik/Rubrik_8.pdf · PDF s. 1 (kitap s. 134)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

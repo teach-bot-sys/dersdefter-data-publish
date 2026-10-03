@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "mathematics-grade6-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "mathematics6-2",
+      "subjectId": "mathematics",
+      "gradeId": "6",
+      "programId": "custom",
+      "title": "6. Sınıf Matematik · Bir Torbadan Rastgele Misket Çekme Deneyi Yapıyorum",
+      "skill": "Performans görevi",
+      "assessmentType": "Bütüncül dereceli puanlama anahtarı",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Bir Torbadan Rastgele Misket Çekme Deneyi Yapıyorum",
+          "levels": [
+            {
+              "id": "l5",
+              "label": "5 (Çok İyi)",
+              "score": 5,
+              "descriptor": "Deneyi yönergeye uygun olarak gerçekleştirmiş ve verileri eksiksiz kaydetmiştir. Elde ettiği verileri hatasız bir şekilde sıklık tablosuna dönüştürmüş ve bu tablodan yararlanarak doğru ölçeklendirilmiş bir grafik oluşturmuştur. Deneysel olasılık değerini doğru belirlemiş, başlangıç tahminleri ile sonuçları tutarlı bir şekilde karşılaştırıp yorumlamıştır. Hazırladığı poster veya sunum özgün, estetik ve dikkat çekicidir."
+            },
+            {
+              "id": "l4",
+              "label": "4 (İyi)",
+              "score": 4,
+              "descriptor": "Deneyi gerçekleştirmiş ancak kayıt tutarken ufak aksaklıklar yaşamıştır. Tablo ve grafik oluşturulmuştur ancak isimlendirme veya eksen ölçeklendirmelerinde küçük hatalar vardır. Deneysel olasılık değerini belirlemesi genel olarak doğrudur ancak yorumlama kısmında eksiklikler vardır. Poster veya sunum özenle hazırlanmıştır, anlaşılırdır ancak özgün bir tasarım değildir."
+            },
+            {
+              "id": "l3",
+              "label": "3 (Orta)",
+              "score": 3,
+              "descriptor": "Deney yapılmış ancak veri sayısı veya yöntemde eksiklikler vardır. Tablo oluşturulmuş ancak grafik çizilmemiş veya grafikte veriler yanlış temsil edilmiştir. Deneysel olasılık değerini belirlemesinde hatalar vardır veya tahmin-sonuç karşılaştırması yapılmamıştır. Poster veya sunumdaki bilgiler karmaşıktır, görseller özensiz yerleştirilmiştir."
+            },
+            {
+              "id": "l2",
+              "label": "2 (Zayıf)",
+              "score": 2,
+              "descriptor": "Veri toplama süreci belirsizdir. Tablo ve grafikler ya hiç yok ya da deney verilerini yansıtmamaktadır. Olasılık değerini belirlemesi ve çıkarımları yanlıştır. Poster veya sunum özensizdir, sadece metinlerden oluşmaktadır, görselleştirme araçları kullanılmamıştır."
+            },
+            {
+              "id": "l1",
+              "label": "1 (Çok Zayıf)",
+              "score": 1,
+              "descriptor": "Performans görevini yerine getirmemiştir."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Matematik_6.Sınıf_Ders_Kitabı_(1.Kitap)/Rubrik_2.pdf · PDF s. 1 (kitap s. 79)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "mathematics6-3",
+      "subjectId": "mathematics",
+      "gradeId": "6",
+      "programId": "custom",
+      "title": "6. Sınıf Matematik · Çevremizdeki Çöplerin ve Atıkların Geri Dönüşümü",
+      "skill": "Performans görevi",
+      "assessmentType": "Bütüncül dereceli puanlama anahtarı",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Çevremizdeki Çöplerin ve Atıkların Geri Dönüşümü",
+          "levels": [
+            {
+              "id": "l5",
+              "label": "5 (Çok İyi)",
+              "score": 5,
+              "descriptor": "Özgün ve estetik bir rapor oluşturmuştur. Hazırladığı bilgileri sade, anlaşılır, dikkat çekici bir şekilde ve görseller kullanarak sunmuştur. Uygun araç ve teknoloji kullanmıştır."
+            },
+            {
+              "id": "l4",
+              "label": "4 (İyi)",
+              "score": 4,
+              "descriptor": "Hazırladığı rapor özgün değildir. Hazırladığı bilgileri sade, anlaşılır, dikkat çekici bir şekilde ve görseller kullanarak sunmuştur. Uygun araç ve teknoloji kullanmıştır."
+            },
+            {
+              "id": "l3",
+              "label": "3 (Orta)",
+              "score": 3,
+              "descriptor": "Hazırladığı rapor özgün değildir. Hazırladığı bilgileri sade ve anlaşılır bir şekilde sunmuştur. Uygun araç ve teknoloji kullanmıştır."
+            },
+            {
+              "id": "l2",
+              "label": "2 (Zayıf)",
+              "score": 2,
+              "descriptor": "Hazırladığı rapor özgün değildir. Hazırladığı bilgiler sade ve anlaşılır değildir. Uygun araç ve teknoloji kullanmıştır."
+            },
+            {
+              "id": "l1",
+              "label": "1 (Çok Zayıf)",
+              "score": 1,
+              "descriptor": "Hazırladığı rapor özgün değildir. Hazırladığı bilgiler sade ve anlaşılır değildir. Uygun araç ve teknoloji kullanmamıştır."
+            },
+            {
+              "id": "l0",
+              "label": "0 (Yetersiz)",
+              "score": 0,
+              "descriptor": "Performans görevini yerine getirmemiştir."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Matematik_6.Sınıf_Ders_Kitabı_(1.Kitap)/Rubrik_3.pdf · PDF s. 1 (kitap s. 151)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "mathematics6-4",
+      "subjectId": "mathematics",
+      "gradeId": "6",
+      "programId": "custom",
+      "title": "6. Sınıf Matematik · Araştırma sorusu · Akran değerlendirme",
+      "skill": "Araştırma sorusu",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Araştırma sorusunun amacı açık ve net bir şekilde ifade edilmiştir. (25 Puan)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Sağlanmıyor (0)",
+              "score": 0,
+              "descriptor": "Sağlanmıyor (0)"
+            },
+            {
+              "id": "l2",
+              "label": "Sağlanıyor (25)",
+              "score": 25,
+              "descriptor": "Sağlanıyor (25)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Araştırma sorusunda geçen değişkenler belirlenebilir durumdadır. (25 Puan)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Sağlanmıyor (0)",
+              "score": 0,
+              "descriptor": "Sağlanmıyor (0)"
+            },
+            {
+              "id": "l2",
+              "label": "Sağlanıyor (25)",
+              "score": 25,
+              "descriptor": "Sağlanıyor (25)"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Araştırma sorusu, veri toplanarak cevaplanabilecek bir yapıya sahiptir. (25 Puan)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Sağlanmıyor (0)",
+              "score": 0,
+              "descriptor": "Sağlanmıyor (0)"
+            },
+            {
+              "id": "l2",
+              "label": "Sağlanıyor (25)",
+              "score": 25,
+              "descriptor": "Sağlanıyor (25)"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Araştırma sorusundan elde edilecek veriler değişebilecek durumdadır. (25 Puan)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Sağlanmıyor (0)",
+              "score": 0,
+              "descriptor": "Sağlanmıyor (0)"
+            },
+            {
+              "id": "l2",
+              "label": "Sağlanıyor (25)",
+              "score": 25,
+              "descriptor": "Sağlanıyor (25)"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Matematik_6.Sınıf_Ders_Kitabı_(1.Kitap)/Rubrik_4.pdf · PDF s. 1 (kitap s. 171)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

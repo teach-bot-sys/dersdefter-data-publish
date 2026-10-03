@@ -1,0 +1,2672 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "turkish-grade5-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "turkish5-theme4-stations",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Yazma · İstasyon çalışması",
+      "skill": "Yazma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Her istasyonda çalışmalara katkıda bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "İstasyonlarda ön bilgilerimden yararlandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Çalışmalara katkıda bulunurken anı, gözlem ve deneyimlerimden yararlandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Verilen süre zarfında çalışmaları bitirebildim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Noktalama ve yazım kurallarına dikkat ederek yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Yazma sürecimde gelişmeye açık yönlerimi sebepleriyle değerlendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_1.pdf · PDF s. 1 (kitap s. 29)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-hospitality",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Konuşma · Misafirperverlik",
+      "skill": "Konuşma",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Konuşmasında uygun selam ve hitap ifadeleri kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Konuşmasını kültürümüzdeki misafirperverlik anlayışıyla ilgili görsellerle destekledi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Konuşmasının sonunda soru cevap bölümüne yer verdi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Sorulan soruları nezaketle cevapladı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Sunumu boyunca nezaket kurallarına uydu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_2.pdf · PDF s. 1 (kitap s. 35)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-introduction",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Yazma · Karagöz / Hacivat",
+      "skill": "Yazma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Yazımda Karagöz veya Hacivat'ı tanıttım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Konuya uygun paragraf türünü seçerek yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Düşünceyi geliştirme yollarından yararlandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Noktalama ve yazım kurallarına dikkat ederek yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/4. TEMA.pdf · PDF s. 1 (kitap s. 60)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-listening",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Dinleme / İzleme · Öz değerlendirme",
+      "skill": "Dinleme / İzleme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Dikkat dağıtıcı davranışlardan kaçındım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarını not aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarının anlamlarıyla ilgili tahminde bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Dinleme/izleme sırasında anahtar kelimeleri belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_5.pdf · PDF s. 1 (kitap s. 68)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-reading",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Okuma · Öz değerlendirme",
+      "skill": "Okuma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Sesimi mekâna ve dinleyiciye göre ayarladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Okuduklarımla ilgili önceki bilgilerimi hatırladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Akıcı bir şekilde okudum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Vurgu ve tonlamaya dikkat ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Metindeki anlamını bilmediğim kelime ve kelime gruplarının anlamlarıyla ilgili tahminde bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_5.pdf · PDF s. 1 (kitap s. 68)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-speaking",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Konuşma · Öz değerlendirme",
+      "skill": "Konuşma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Konuşmamda teknolojik gelişmelerin geleneksel sanatlara etkisine yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Konuşmamda konuyla ilgili mantıklı gerekçelere yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Arkadaşımın öne sürdüğü görüşleri çürütmeye çalıştım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Arkadaşımın görüşlerindeki tutarsızlıkları ortaya koymaya çalıştım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Konuşmam ile beden dilim uyumluydu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Tartışma sırasında nezaket kurallarına uydum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_6.pdf · PDF s. 1 (kitap s. 69)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme4-writing",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 4. Tema · Yazma · Öz değerlendirme",
+      "skill": "Yazma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Temada öğrendiğim kelime ve kelime gruplarını yazımın bağlamına uygun şekilde kullandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Nasreddin Hoca ve Dede Korkut'un benzer ve farklı yönlerine yazımda yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Karşılaştırmayla ulaştığım sonuca yazımda yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Yazım ve noktalama kurallarına uyarak yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Yazıma uygun bir başlık belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_6.pdf · PDF s. 1 (kitap s. 69)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-neighbours",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Konuşma · Komşuluk",
+      "skill": "Konuşma",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Uygun selam, hitap ve bitirme ifadelerini kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Sesini herkesin duyabileceği şekilde ayarladı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Kelime ve kelime gruplarına uygun bağlamlarda yer verdi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Dinleyicilerle göz teması kurdu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Konuşurken gereksiz sesler (şey, ııı, eee vb.) çıkarmadı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Konuşmasında anı, gözlem ve deneyimlerinden yararlandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Kendisine yöneltilen soruları nezaketle cevapladı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_8.pdf · PDF s. 1 (kitap s. 101)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-email",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Yazma · Sofra adabı e-postası",
+      "skill": "Yazma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Yanıtıma selam ve hitap ifadesiyle başlangıç yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Sofra adabımıza göre dikkat edilmesi gereken davranışlarla ilgili bilgi verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Yanıtımı sofra adabı konusunun dışına çıkmadan oluşturdum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Yanıtımı nezaket kuralları çerçevesinde yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Yanıtımı uygun sonlandırma cümleleriyle tamamladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Atölye çalışmamı öğretmenimin verdiği süre içinde tamamladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_9.pdf · PDF s. 1 (kitap s. 105)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-summary",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Konuşma · Olay özeti",
+      "skill": "Konuşma",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Önemli olay ve durumları kronolojik akışa uygun şekilde kendi cümleleriyle ifade etti.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Uygun bağlantı ifadelerini kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Sesini tüm arkadaşlarının işitebileceği biçimde ayarladı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Beden dilini etkili kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_9.pdf · PDF s. 1 (kitap s. 105)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-listening",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Dinleme / İzleme · Öz değerlendirme",
+      "skill": "Dinleme / İzleme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Dikkat dağıtıcı davranışlardan kaçındım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarını not aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarının anlamlarıyla ilgili tahminde bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarının anlamlarıyla ilgili tahminlerimi güvenilir bir kaynaktan kontrol ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/5. TEMA.pdf · PDF s. 1 (kitap s. 110)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-reading",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Okuma · Akran değerlendirme",
+      "skill": "Okuma",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Metni okurken sesini ortama ve dinleyicilere göre ayarladı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Metni, arkadaşlarının duyabileceği bir sesle okuyup anlamı yansıtmaya dikkat etti.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Metni okurken vurgu ve tonlamaya dikkat etti.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Metinde geçen anlamını bilmediği kelime ve kelime gruplarının anlamlarıyla ilgili mantıklı tahminlerde bulundu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/5. TEMA.pdf · PDF s. 1 (kitap s. 110)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-speaking",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Konuşma · Öz değerlendirme",
+      "skill": "Konuşma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Uygun selam, hitap ve bitirme ifadelerini kullandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Sesimi herkesin duyabileceği şekilde ayarladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Kelime ve kelime gruplarına uygun bağlamlarda yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Dinleyicilerle göz teması kurdum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Konuşurken gereksiz sesler (şey, ııı, eee vb.) çıkarmadım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Konuşmamda anı, gözlem ve deneyimlerimden yararlandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Bana yöneltilen soruları nezaketle cevapladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_11.pdf · PDF s. 1 (kitap s. 111)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme5-writing",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 5. Tema · Yazma · Öz değerlendirme",
+      "skill": "Yazma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Önemli ve önemsiz bilgileri sınıflandırdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Bilgileri kronolojik akışa uygun biçimde özetledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Yazımda kullanacağım uygun stratejiye karar verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Yazma amacıma uygun paragraf türü ve metin yapısını belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Yazım ve noktalama kurallarına uygun şekilde yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_11.pdf · PDF s. 1 (kitap s. 111)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme6-healthy-living",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 6. Tema · Konuşma · Sağlıklı yaşam",
+      "skill": "Konuşma",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Konuşma amacına uygun çoklu ortam ögelerini (fotoğraf, video vb.) kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Belirlediği çoklu ortam ögelerinin birbiriyle etkileşimini dikkate alarak bunları konuşma içeriğinde kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Karşısındakilerle göz teması kurdu.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Temada yeni öğrendiği kelime ve kelime gruplarını kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Ses tonunu herkesin duyabileceği şekilde ayarladı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Konuşmasında düşünceyi geliştirme yollarını (benzetme, karşılaştırma vb.) kullandı.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_12.pdf · PDF s. 1 (kitap s. 121)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme6-listening",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 6. Tema · Dinleme / İzleme · Öz değerlendirme",
+      "skill": "Dinleme / İzleme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Dikkat dağıtıcı davranışlardan kaçındım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarını not aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Anlamını bilmediğim kelime ve kelime gruplarının anlamlarıyla ilgili tahminde bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Üst düzey çıkarımlar yoluyla dinlediğimin/izlediğimin derin anlamını belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/6. TEMA.pdf · PDF s. 1 (kitap s. 154)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme6-reading",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 6. Tema · Okuma · Öz değerlendirme",
+      "skill": "Okuma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Vurgu ve tonlamaya dikkat ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Sesimi mekâna ve dinleyiciye göre ayarladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Akıcı bir şekilde okudum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Okuma sürecimde başarıyla yaptığım yönlerimi değerlendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Okuma sürecimdeki gelişmeye açık yönlerimi sebepleriyle değerlendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/6. TEMA.pdf · PDF s. 1 (kitap s. 154)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme6-speaking",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 6. Tema · Konuşma · Öz değerlendirme",
+      "skill": "Konuşma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Türkçeyi doğru, güzel ve etkili kullandığım cümleler kurdum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Konuşmamda yabancı dillerden alınan ve dilimizde henüz yaygınlaşmamış kelimelerin Türkçelerini kullandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Söz varlığı unsurlarına bağlama uygun şekilde konuşmamda yer verdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Konuşma sürecimi değerlendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_14.pdf · PDF s. 1 (kitap s. 155)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "turkish5-theme6-writing",
+      "subjectId": "turkish",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Türkçe · 6. Tema · Yazma · Öz değerlendirme",
+      "skill": "Yazma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Yazımda uygun bağlantı ifadelerini kullandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Söz varlıklarını kullanarak yazımı zenginleştirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Yazma sürecimi değerlendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Yazımda ve içeriği ve yapıyı belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Yazım ve noktalama kurallarına dikkat ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Türkçe_5.Sınıf_Ders_Kitabı_(2.Kitap)/Rubrik_14.pdf · PDF s. 1 (kitap s. 155)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-03"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

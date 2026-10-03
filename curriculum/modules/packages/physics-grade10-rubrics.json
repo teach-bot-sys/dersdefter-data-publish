@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "physics-grade10-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "physics10-waves-peer",
+      "subjectId": "physics",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf Fizik · Dalgaların Temel Kavramları · Akran Değerlendirme",
+      "skill": "Dalgalar",
+      "assessmentType": "Akran değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "1. Dalgalar ile ilgili kavramları geniş kapsamlı biçimde yazmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "2. Kavramlar arasındaki ilişkiyi doğru şekilde kurmuştur.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "3. Bilgileri mantıklı ve sistemli biçimde dağıtmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "4. Sunumda düzgün bir Türkçe kullanmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "5. Sunumda ses tonu ve beden dilini etkili kullanmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "6. Kavramların sembollerini doğru bir biçimde göstermiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "7. Kavramlar arası ilişkileri oklarla açık ve anlaşılır biçimde göstermiştir.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "8. Süreyi verimli şekilde kullanmıştır.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "EVET",
+              "score": null,
+              "descriptor": "EVET"
+            },
+            {
+              "id": "l2",
+              "label": "HAYIR",
+              "score": null,
+              "descriptor": "HAYIR"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10_sinif_fizik/4. ÜNİTE Performans Gö r e v i_p275.pdf · PDF s. 1 (kitap s. 274)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

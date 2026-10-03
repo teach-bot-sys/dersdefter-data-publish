@@ -1,0 +1,2189 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "vocal-training-grade7-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "vocal-training7-1",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · İnsan Sesinin Oluşumu",
+      "skill": "Ses Eğitimi",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Bu etkinlik öğreticiydi.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Grup çalışmasında aktif rol aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Kavram haritası oluştururken bilgilerin doğruluğunu kontrol ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Grup çalışması sırasında arkadaşlarımın fikirlerine saygı gösterdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Grup çalışması sırasında sorumluluklarımı yerine getirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_1.pdf · PDF s. 1 (kitap s. 15)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-2",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · İnsan Sesi Türleri",
+      "skill": "Ses Eğitimi",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Kadın seslerini ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Erkek seslerini ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Çocuk seslerini ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Seslerin yüksekliklerini ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Seslerin türlerini ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Seslerin hangi yaş grubuna ait olduğunu ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Seslerin hangi cinsiyete ait olduğunu ayırt ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_2.pdf · PDF s. 1 (kitap s. 21)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-3",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Ses Eğitimi · Canlandırma",
+      "skill": "Ses Eğitimi",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Canlandırma yapacağımız konu ile ilgili hazırlık yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Canlandırma için grup arkadaşlarımla karakterleri belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Rol paylaşımında grup arkadaşlarımın fikirlerine saygı gösterdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Canlandırma metninin hazırlanmasına katkıda bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Canlandıracağım karakter için gerekli çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Provalara zamanında katıldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Provalarda etkin rol aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Grubumla uyumlu çalıştım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Canlandırma çalışması sırasında rolümü doğru sergiledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Diğer grup arkadaşlarımın canlandırma çalışmasını dikkatle izledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c11",
+          "label": "Canlandırma çalışmaları bittikten sonra arkadaşlarımla fikir alışverişinde bulundum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_3.pdf · PDF s. 1 (kitap s. 44)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-4",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Ses Eğitiminin Amacı",
+      "skill": "Ses Eğitimi",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Ses eğitiminin ses sağlığı ile ilgili amacını öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Ses eğitiminin artikülasyon ile ilgili amacını öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Ses eğitiminin müziksel bileşenler ile ilgili amacını öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Ses eğitiminin günlük yaşamdaki amacını öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Ses eğitiminin amacı konusu işlenirken verilen sorumlulukları yerine getirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Ses eğitiminin amacı konusu işlenirken sınıf arkadaşlarımla uyumlu çalıştım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_4.pdf · PDF s. 1 (kitap s. 49)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-5",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Ses Eğitiminin Önemi",
+      "skill": "Ses Eğitimi",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Ses eğitiminin ses sağlığı açısından önemini öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Ses eğitiminin artikülasyon açısından önemini öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Ses eğitiminin müziksel bileşenler açısından önemini öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Ses eğitiminin günlük yaşamdaki önemini öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Ses eğitiminin müzikteki önemini öğrendim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Ses eğitiminin önemi konusu işlenirken verilen sorumlulukları yerine getirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Ses eğitiminin önemi konusu işlenirken sınıf arkadaşlarımla uyumlu çalıştım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_5.pdf · PDF s. 1 (kitap s. 54)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-6",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · İstiklâl Marşı",
+      "skill": "Seslendirme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Marşımızı seslendirmeden önce inceleme çalışmalarını eksiksiz yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Marşımızı seslendirmeden önce bedensel esneme çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Marşımızı seslendirmeden önce nefes çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Marşımızı seslendirmeden önce ses çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Marşımızın sözlerini doğru söyleyebilmek için artikülasyon çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Marşımızı seslendirirken saygılı davrandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Marşımızı seslendirirken sözcükleri doğru söyledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Marşımızı seslendirirken doğru yerlerde nefes aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Seslendirme sırasında marşımızın anlamına uygun gürlük özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Seslendirme sırasında marşımızın hız özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_6.pdf · PDF s. 1 (kitap s. 79)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-7",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Millî ve Manevi Değerler",
+      "skill": "Seslendirme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Eseri seslendirmeden önce inceleme çalışmalarını eksiksiz yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Eseri seslendirmeden önce bedensel esneme çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Eseri seslendirmeden önce nefes çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Eseri seslendirmeden önce ses çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Eserin sözlerini doğru söyleyebilmek için artikülasyon çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Eseri seslendirirken sözcükleri doğru söyledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Eseri seslendirirken doğru yerlerde nefes aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Seslendirme sırasında eserin anlamına uygun gürlük özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Seslendirme sırasında eserin hız özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_7.pdf · PDF s. 1 (kitap s. 86)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-8",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Atatürk’ün Sevdiği Türküler",
+      "skill": "Seslendirme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Eseri seslendirmeden önce inceleme çalışmalarını eksiksiz yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Eseri seslendirmeden önce bedensel esneme çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Eseri seslendirmeden önce nefes çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Eseri seslendirmeden önce ses çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Eserin sözlerini doğru söyleyebilmek için artikülasyon çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Eseri seslendirirken sözcükleri doğru söyledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Eseri seslendirirken doğru yerlerde nefes aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Seslendirme sırasında eserin anlamına uygun gürlük özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Seslendirme sırasında eserin hız özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_8.pdf · PDF s. 1 (kitap s. 92)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-9",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Belirli Gün ve Haftalar",
+      "skill": "Seslendirme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Eseri seslendirmeden önce inceleme çalışmalarını eksiksiz yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Eseri seslendirmeden önce bedensel esneme çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Eseri seslendirmeden önce nefes çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Eseri seslendirmeden önce ses çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Eserin sözlerini doğru söyleyebilmek için artikülasyon çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Esere uygun ritim eşliği oluşturdum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Eseri seslendirirken sözcükleri doğru söyledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Eseri seslendirirken doğru yerlerde nefes aldım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Seslendirme sırasında eserin anlamına uygun gürlük özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Seslendirme sırasında eserin hız özelliklerini uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c11",
+          "label": "Eseri piyano eşliği ile seslendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c12",
+          "label": "Eseri ritim eşliği ile seslendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_9.pdf · PDF s. 1 (kitap s. 98)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "vocal-training7-10",
+      "subjectId": "vocal-training",
+      "gradeId": "7",
+      "programId": "custom",
+      "title": "7. Sınıf Bireysel Ses Eğitimi · Seslendirme",
+      "skill": "Seslendirme",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Seslendirme öncesinde eserin gürlük basamaklarını notaların üzerine eksiksiz not ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Seslendirme öncesinde eserin hız özelliklerini notaların üzerine eksiksiz not ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Eseri seslendirmeden önce bedensel esneme çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Eseri seslendirmeden önce nefes çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Eseri seslendirmeden önce ses çalışmaları yaptım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Seslendirme sırasında eserin gürlük basamaklarını uyguladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Seslendirme sırasında eserin hız özelliklerine dikkat ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Bazen",
+              "score": null,
+              "descriptor": "Bazen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Bireysel_Ses_Eğitimi_Dersi_7.Sınıf_Ders_Kitabı/Rubrik_10.pdf · PDF s. 1 (kitap s. 100)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

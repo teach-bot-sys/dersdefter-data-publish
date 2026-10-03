@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "reading-skills-grade5-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "reading-skills5-1",
+      "subjectId": "reading-skills",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Okuma Becerileri · Sesli Okuma · Öz Değerlendirme",
+      "skill": "Okuma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Sözcükleri doğru seslendirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Okuma hızımı konuşma hızıma göre ayarladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "İşitilebilir bir ses tonu kullandım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Metnin tür özelliklerini dikkate alarak okudum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Vurgu ve tonlamaya dikkat ederek okudum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Metni noktalama işaretlerine dikkat ederek okudum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Okuma_Becerileri_Ders_Kitabı/Rubrik_1.pdf · PDF s. 1 (kitap s. 66)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    },
+    {
+      "id": "reading-skills5-2",
+      "subjectId": "reading-skills",
+      "gradeId": "5",
+      "programId": "custom",
+      "title": "5. Sınıf Okuma Becerileri · Ben Türkçeyim! · Şiir Öz Değerlendirmesi",
+      "skill": "Okuma",
+      "assessmentType": "Öz değerlendirme",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Şiiri türünün özelliklerine uygun okudum.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Şiiri okurken vurgu, tonlama ve telaffuza dikkat ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Şiirin ana düşüncesini doğru belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Şiirde verilmek istenen duyguyu doğru açıkladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Anlamını bilmediğim sözcükleri belirledim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Sözcüklerin anlamlarını sözlükten veya bağlamdan yararlanarak doğru yazdım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Şiirle ilgili duygu ve düşüncelerimi uygun şekilde ifade ettim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Şiirdeki bilgileri tablo, grafik ya da şema hâline getirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Çalışmamı düzenli, okunaklı ve özenli hazırladım.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Eksik ya da hatalı gördüğüm bölümleri yeniden gözden geçirdim.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Hayır",
+              "score": null,
+              "descriptor": "Hayır"
+            },
+            {
+              "id": "l2",
+              "label": "Kısmen",
+              "score": null,
+              "descriptor": "Kısmen"
+            },
+            {
+              "id": "l3",
+              "label": "Evet",
+              "score": null,
+              "descriptor": "Evet"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan Okuma_Becerileri_Ders_Kitabı/Rubrik_2.pdf · PDF s. 1 (kitap s. 134)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "tr-TR"
+    }
+  ]
+}

@@ -1,0 +1,3103 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "english-grade10-rubrics",
+  "version": "1.0.0",
+  "rubrics": [
+    {
+      "id": "english10-1",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Dinleme / İzleme",
+      "skill": "Dinleme / İzleme",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "1. Understands the main idea of spoken/audio-visual material (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "2. Identifies and recalls supporting details (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "3. Makes logical inferences from the content (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "4. Accurately decodes meaning from tone, intonation, or visuals (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "5. Summarizes or paraphrases spoken/audio-visual material meaningfully (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "6. Responds appropriately to closed, semi-open, and open-ended questions (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "7. Participates in follow-up discussions or group tasks (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "8. Demonstrates critical thinking or reflective comments about the material (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "9. Uses note-taking or visual strategies (e.g. charts, lists) effectively if needed (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "10. Takes turns, listens actively, and engages respectfully in collaborative settings (10 pts.)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 10,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 1 CHECKLIST FOR LISTENING-WATCHING SKILL_p137.pdf · PDF s. 1 (kitap s. 137)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-2",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Telaffuz",
+      "skill": "Telaffuz",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Clarity",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "The speech is very unclear, making it significantly difficult for the listener to understand."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "The speech is often unclear, and the listener struggles to understand."
+            },
+            {
+              "id": "l3",
+              "label": "Good (3)",
+              "score": 3,
+              "descriptor": "Most speech is clear, with minor issues with a few words, but understanding is not affected."
+            },
+            {
+              "id": "l4",
+              "label": "Excellent (4)",
+              "score": 4,
+              "descriptor": "The speech is clear and easy to understand, with no ambiguity."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Fluency",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "The speech is very hesitant, with significant pauses, making it choppy and difficult to follow."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Frequent pauses or hesitations disrupt the flow of the speech."
+            },
+            {
+              "id": "l3",
+              "label": "Good (3)",
+              "score": 3,
+              "descriptor": "The speaker is generally fluent, with occasional pauses but maintains the flow."
+            },
+            {
+              "id": "l4",
+              "label": "Excellent (4)",
+              "score": 4,
+              "descriptor": "The speaker talks smoothly and naturally with minimal hesitation."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Accuracy",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Pronunciation errors are numerous, with fundamental issues affecting understanding."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Pronunciation errors are frequent, with several sounds or words mispronounced."
+            },
+            {
+              "id": "l3",
+              "label": "Good (3)",
+              "score": 3,
+              "descriptor": "Most sounds and words are pronounced correctly, with a few minor errors not affecting overall understanding."
+            },
+            {
+              "id": "l4",
+              "label": "Excellent (4)",
+              "score": 4,
+              "descriptor": "Pronunciation of sounds and words is consistently correct, with no noticeable errors."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Intonation",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Intonation is inappropriate, making the speech monotonous and ineffective at conveying meaning."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Intonation is inconsistent and does not enhance meaning, occasionally leading to misunderstandings."
+            },
+            {
+              "id": "l3",
+              "label": "Good (3)",
+              "score": 3,
+              "descriptor": "The speaker generally has good intonation with some variations but may lack emphasis in certain areas."
+            },
+            {
+              "id": "l4",
+              "label": "Excellent (4)",
+              "score": 4,
+              "descriptor": "The speaker uses appropriate intonation patterns that enhance meaning."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 2 RUBRIC FOR PRONUNCIATION ASSESSMENT_p138.pdf · PDF s. 1 (kitap s. 138)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-3",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Kelime Bilgisi",
+      "skill": "Kelime Bilgisi",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Vocabulary Recognition",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Very limited vocabulary recognition, struggles to identify basic words"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited recognition of basic vocabulary, often relies on assistance"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Recognises common words but needs help with less familiar vocabulary"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Recognises familiar vocabulary, occasionally needs assistance with new words"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Recognises and understands most basic vocabulary with ease"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Vocabulary Usage",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Struggles to use basic vocabulary; relies on memorised words"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Uses very limited vocabulary; avoids using unfamiliar words"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Uses basic vocabulary but is hesitant to use new words"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Uses familiar vocabulary correctly; sometimes attempts new word types such as antonyms, synonyms, and word forms"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Uses a wide range of familiar words and word types such as antonyms, synonyms, and word forms appropriately"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Accuracy in Usage",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Consistently struggles with correct word usage; meaning is frequently unclear"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Frequent errors in vocabulary usage; meaning often unclear without support"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Uses vocabulary correctly with occasional support needed"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Makes minor errors in word usage, but the meaning remains clear"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Uses vocabulary accurately in context with few errors"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Understanding in Context",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Rarely understands words in context, even in familiar settings"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Difficulty understanding words, even in simple contexts"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Grasps basic words in context but struggles with unfamiliar ones"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Understands familiar vocabulary in context; requires help with new words"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Understands familiar words in simple sentences and short texts with ease"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 3 RUBRIC FOR VOCABULARY SKILL_p139.pdf · PDF s. 1 (kitap s. 139)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-4",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Kelime Defteri",
+      "skill": "Kelime Defteri",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Word Selection (1 pt. each) — Includes target vocabulary words with their antonyms and synonyms related to the content objective",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Word Selection (1 pt. each) — Selects a minimum number of words required for the assignment (e.g. 10 words)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Definition Accuracy (1 pt. each) — Provides simple, accurate definitions, antonyms, and synonyms for each word",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Definition Accuracy (1 pt. each) — Writes the definitions in her/his own words where possible",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Example Sentence Usage (1 pt. each) — Includes a simple example sentence for each word",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Example Sentence Usage (1 pt. each) — Uses the word correctly in the context of the example sentence",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Organisation and Presentation (1 pt. each) — Organises the words alphabetically or by theme for easy reference",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Organisation and Presentation (1 pt. each) — Uses a clear layout (e.g. separate entry for each word with definition and example)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Effort and Completeness (1 pt. each) — Completes the dictionary with all required elements (e.g. words, definitions, examples)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Effort and Completeness (1 pt. each) — Shows effort in creating neat and visually organised entries",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Yes",
+              "score": 1,
+              "descriptor": "Yes"
+            },
+            {
+              "id": "l2",
+              "label": "No",
+              "score": 0,
+              "descriptor": "No"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 4 CHECKLIST FOR VOCABULARY RECORDING_p140.pdf · PDF s. 1 (kitap s. 140)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-5",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Dil Bilgisi",
+      "skill": "Dil Bilgisi",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "The rules of the target grammar structure are implemented.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Needs Improvement (1)"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited (2)"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Satisfactory (3)"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good (4)"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Excellent (5)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "The meaning of the sentences is clear and accurate.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Needs Improvement (1)"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited (2)"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Satisfactory (3)"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good (4)"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Excellent (5)"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "The different forms of the target grammar structure are implemented.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Needs Improvement (1)"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited (2)"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Satisfactory (3)"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good (4)"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Excellent (5)"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "The target grammar structure is linked with the previous grammar structures.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Needs Improvement (1)"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited (2)"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Satisfactory (3)"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good (4)"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Excellent (5)"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Sentences are natural and fluent.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Needs Improvement (1)"
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited (2)"
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Satisfactory (3)"
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good (4)"
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Excellent (5)"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 5 RATING SCALE FOR GRAMMAR_p141.pdf · PDF s. 1 (kitap s. 141)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-6",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Okuma",
+      "skill": "Okuma",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Reading Fluency",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Reads with frequent errors and hesitations."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Reads slowly; some errors affect comprehension."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Reads with pauses; generally understandable."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Reads smoothly with few errors; good pace and expression."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Reads fluently with excellent pacing, intonation, and minimal errors."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Comprehension Accuracy",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Fails to understand main ideas or details; frequent misinterpretations."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Understands some basic ideas; misses key details or context."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Understands main ideas and some supporting details."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Accurately comprehends main ideas and most supporting details."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Fully understands and interprets all main ideas and details."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Inference and Interpretation",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Struggles to infer meaning; unable to interpret ideas."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Occasionally infers meaning but with limited success."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Can infer basic meanings and interpret simple ideas."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Makes logical inferences and interprets messages."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Consistently infers, interprets, and explains deeper meanings."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Critical Thinking",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "There is no analysis or personal response to text."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Limited analysis or drawing conclusions."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Some analysis; basic personal interpretation or connection."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good analysis with thoughtful insights and connections."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Highly insightful analysis; thoughtful, critical responses."
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Paraphrasing and Summarising",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Unable to rephrase or summarise the text meaningfully."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Attempts paraphrasing but often unclear or incomplete."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Basic paraphrasing and summarising with minor inaccuracies."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Clear and mostly accurate paraphrasing and summarising."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Skillfully rephrases and summarises content with clarity and precision."
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Engagement in Reading Activities",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Rarely participates or shows interest in reading activities."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Minimal participation; engagement is inconsistent."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Participates with moderate interest and effort."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Regular participation and contribution to reading tasks."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Actively participates and enhances group reading activities."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 6 RUBRIC FOR READING SKILL_p142.pdf · PDF s. 1 (kitap s. 142) · Kaynakta 6 ölçüt × 5 = 30 puan bulunmasına rağmen puanlama rehberi 20 puana göredir. Rehberden başarı düzeyi hesaplanmaz.",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-7",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Konuşma",
+      "skill": "Konuşma",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Rapport with the Audience — Demonstrates understanding of the subject.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Rapport with the Audience — Answers class questions accurately.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Rapport with the Audience — Provides additional relevant details when needed.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Organisation — The presentation has a clear beginning, middle, and end.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Organisation — The flow of the ideas is sequenced well.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Delivery — Speaks with a strong and clear voice.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Delivery — Maintains eye contact with the audience.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Delivery — Effectively manages presentation time.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Delivery — Pronunciation is clear and accurate.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Language Use — Uses accurate and appropriate grammar.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c11",
+          "label": "Language Use — Uses correct spelling and punctuation in any written materials.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c12",
+          "label": "Language Use — Vocabulary is relevant to the topic.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c13",
+          "label": "Creativity — The presentation is original and interesting.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c14",
+          "label": "Creativity — Visual aids are clear, relevant, and engaging.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c15",
+          "label": "Creativity — Uses a variety of examples to support the presentation.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 7 RATING SCALE FOR SPEAKING SKILL_p143.pdf · PDF s. 1 (kitap s. 143)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-8",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Diyaloğa Katılım",
+      "skill": "Diyaloğa Katılım",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Effective Turn-taking — Waits for the peer to finish speaking before taking a turn.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Effective Turn-taking — Paces responses naturally, neither too quickly nor too slowly.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Effective Turn-taking — Maintains balanced speaking time with peer, allowing an even flow of conversation.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Attentive Listening — Listens actively and attentively to the peer without distractions.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Attentive Listening — Shows engagement by nodding, summarising, or reflecting on the peer’s points.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Attentive Listening — Avoids interrupting the peer and waits for them to complete their thought.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Engaging in Effective and Meaningful Communication — Asks open-ended questions to involve the peer in conversation.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "label": "Engaging in Effective and Meaningful Communication — Provides verbal encouragement (e.g. “That’s interesting! Tell me more.”) to promote open dialogue.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c9",
+          "label": "Engaging in Effective and Meaningful Communication — Encourages the peer to share more by showing genuine interest in their thoughts and opinions.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c10",
+          "label": "Response Quality — Demonstrates thoughtful responses that show understanding of the peer’s message.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c11",
+          "label": "Response Quality — Reflects on the peer’s statements before adding her/his own ideas, demonstrating consideration for their input.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c12",
+          "label": "Response Quality — Uses relevant questions or comments to deepen conversation based on the peer’s statements.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c13",
+          "label": "Response Quality — Avoids short or minimal responses; adds ideas or reflections to maintain flow.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c14",
+          "label": "Concluding the Conversation — Wraps up conversation collaboratively, allowing the peer a final turn to add or clarify any points.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c15",
+          "label": "Concluding the Conversation — Ensures both sides feel heard and understood before concluding the discussion.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        },
+        {
+          "id": "c16",
+          "label": "Concluding the Conversation — Ends on a positive note, expressing gratitude or summarising main ideas with mutual agreement.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "1",
+              "score": 1,
+              "descriptor": "1"
+            },
+            {
+              "id": "l2",
+              "label": "2",
+              "score": 2,
+              "descriptor": "2"
+            },
+            {
+              "id": "l3",
+              "label": "3",
+              "score": 3,
+              "descriptor": "3"
+            },
+            {
+              "id": "l4",
+              "label": "4",
+              "score": 4,
+              "descriptor": "4"
+            },
+            {
+              "id": "l5",
+              "label": "5",
+              "score": 5,
+              "descriptor": "5"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 8 RATING SCALE FOR PARTICIPATION AND ENGAGEMENT IN D_p144.pdf · PDF s. 1 (kitap s. 144)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-9",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Grup Çalışması",
+      "skill": "Grup Çalışması",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Use of Target Vocabulary",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Rarely or never uses target vocabulary, or frequent misuse makes her/his message unclear."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Uses limited target vocabulary, with frequent errors or inappropriate usage."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Uses target vocabulary with occasional errors, but the meaning remains generally clear."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Uses target vocabulary appropriately in most cases, with minor errors or omissions."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Consistently uses a wide range of target vocabulary accurately and appropriately."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Use of Target Grammatical Structures",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Does not use target grammatical structures or makes errors that severely hinder communication."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Makes frequent grammatical errors that often make it difficult to understand her/him."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Uses basic grammatical structures with noticeable errors that sometimes affect clarity."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Uses grammatical structures correctly most of the time, with some minor errors."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Consistently uses target grammatical structures accurately and in varied contexts, with minimal or no errors."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Turn-Taking and Role Fulfilment",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Does not take turns and either dominates the task or avoids participation, with minimal or no role fulfilment."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Rarely takes turns, often dominates discussions or avoids participation, with incomplete role fulfilment."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Takes turns but occasionally dominates or hesitates to contribute, with partial role fulfilment."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Usually takes turns and fulfils her/his role effectively, with minimal instances of domination or hesitance."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Actively takes turns, ensures others have time to speak, and fulfils her/ his role without dominating the group, encouraging balanced participation."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Collaboration with the Group",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Does not collaborate with others, ignores group members, or is disengaged from the task."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Rarely interacts meaningfully with others or dismisses others’ contributions."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Contributes to discussions but occasionally ignores others’ ideas or contributes minimally."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Collaborates well with others, listens, and makes helpful contributions, with only minor issues in interaction."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Actively listens to and builds on others’ ideas, supports group members, and contributes meaningfully to discussions."
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Adherence to Task Instructions",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Does not follow task instructions, resulting in incomplete or incorrect work."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Inconsistently follows task instructions, leading to confusion or incomplete work."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Follows task instructions, but with occasional lapses or incomplete adherence."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Follows task instructions well with only minor deviations or omissions."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Fully adheres to task instructions, ensuring all guidelines are followed precisely and producing high-quality work."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 9 RUBRIC FOR PARTICIPATION AND ENGAGEMENT IN GROUP W_p145.pdf · PDF s. 1 (kitap s. 145)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-10",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Drama Çalışması",
+      "skill": "Drama Çalışması",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Language Use: The target grammar/ vocabulary presented is clear and easy to understand.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Facial Expressions: The student uses facial expressions well to communicate.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Body Language: The student uses body language well to communicate.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Coordination of Actions: The student coordinates actions well with the story’s flow.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Creativity: The student is highly creative.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Engagement: The student is fully engaged and shows enthusiasm.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Rapport with the Audience: The student has the ability to communicate with the audience.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 10 RATING SCALE FOR PARTICIPATION AND ENGAGEMENT IN_p146.pdf · PDF s. 1 (kitap s. 146)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-11",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Özgün Üretimler",
+      "skill": "Özgün Üretimler",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Material Preparation Skills: It is well-organised, flows, and captures viewers’ attention.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Creativity: It includes innovative use of digital tools, sound effects, and/or images.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Organisation: The background distractions are minimal, and the scenes are clear.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Content Relevance: The content is relevant to the topic.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Coherence: The content makes sense.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Presentation Skills: The speaker seems confident and stands upright.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        },
+        {
+          "id": "c7",
+          "label": "Language Use: The speaker uses fluent language without spelling or grammatical mistakes.",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Fair",
+              "score": null,
+              "descriptor": "Fair"
+            },
+            {
+              "id": "l2",
+              "label": "Good",
+              "score": null,
+              "descriptor": "Good"
+            },
+            {
+              "id": "l3",
+              "label": "Great",
+              "score": null,
+              "descriptor": "Great"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 11 RATING SCALE FOR SELF-PRODUCTIONS_p147.pdf · PDF s. 1 (kitap s. 147)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    },
+    {
+      "id": "english10-writing",
+      "subjectId": "english",
+      "gradeId": "10",
+      "programId": "custom",
+      "title": "10. Sınıf İngilizce · Yazma",
+      "skill": "Yazma",
+      "assessmentType": "Rubric",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Organisation",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "There is not any clear structure; ideas are hard to follow."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "There is organisation but lacks flow or logical order."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Structure is present but may have a lack of coherence."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Well-organised with logical progression of ideas."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Exceptionally clear and logical structure; ideas flow smoothly."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "label": "Creativity and Originality",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "There is no originality; ideas heavily rely on clichés."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "There is limited creativity and a few original ideas."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Some creativity and originality present."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Mostly original ideas with creative expression."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Highly creative and original; engages the reader effectively."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "label": "Effort",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Minimal effort; work is rushed or incomplete."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Inconsistent effort; lacks development."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Reasonable effort; mostly complete."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Good effort; writing is well-developed and thoughtful."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Outstanding effort; work is thorough and detailed."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "label": "Content Relevance",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Off-topic or mostly irrelevant content."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Partially addresses the topic."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Mostly relevant; minor off-topic sections."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Content is relevant and appropriate to the task."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Fully addresses the topic with deep content."
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "label": "Language Use (Accuracy and Meaning)",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Frequent errors; target grammar and vocabulary are mostly misused."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Errors occasionally confuse the reader; limited use of target language."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Meaning is generally clear; some correct use of target grammar and vocabulary."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Accurate and meaningful language use; good control of grammar and vocabulary."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Highly accurate and effective use of target grammar and vocabulary."
+            }
+          ]
+        },
+        {
+          "id": "c6",
+          "label": "Presentation Skills",
+          "levels": [
+            {
+              "id": "l1",
+              "label": "Needs Improvement (1)",
+              "score": 1,
+              "descriptor": "Unorganised or missing basic formatting."
+            },
+            {
+              "id": "l2",
+              "label": "Limited (2)",
+              "score": 2,
+              "descriptor": "Some attention to presentation; errors distract."
+            },
+            {
+              "id": "l3",
+              "label": "Satisfactory (3)",
+              "score": 3,
+              "descriptor": "Adequate formatting and legibility."
+            },
+            {
+              "id": "l4",
+              "label": "Good (4)",
+              "score": 4,
+              "descriptor": "Neat and well-formatted; visually clear."
+            },
+            {
+              "id": "l5",
+              "label": "Excellent (5)",
+              "score": 5,
+              "descriptor": "Excellent presentation; professional and visually engaging."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Kullanıcı sağlanan 10. Sınıf İngilizce/RUBRICS 12 RUBRIC FOR WRITING SKILL_p148.pdf · PDF s. 1 (kitap s. 148)",
+        "url": "https://github.com/teach-bot-sys/DersDefter",
+        "publisher": "ZümreAsist",
+        "retrievedAt": "2026-10-04"
+      },
+      "sourceStatus": "CUSTOM",
+      "locale": "en-GB"
+    }
+  ]
+}
